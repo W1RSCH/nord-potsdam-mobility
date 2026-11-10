@@ -1,0 +1,145 @@
+                                                                                                                                             02.02.2017
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                          NORD                                                                        NORD OST SÜD      SUMME %
+           Marquardter Ch. (B273)                                               RAD             FSp           0      0          0                     0     0,0
+
+                                                                                                NSp     0            1          5                      6    0,5
+                       3.020                                                                    6h     10            1         12                     23    0,4
+                                   6.261                                        NFZ             FSp 154            19        103                   276     25,5
+                                                                                                NSp   62           44        136                   242     18,8
+
+               2.579       441      3.241                                                       6h   594          178        576                  1348     20,7
+                                                                                SV              FSp   46             3        39                     88     8,1
+                                                                                                NSp   18             3        31                     52     4,0
+                                                                                                6h   218            47       212                    477     7,3
+                                                                                KFZ
+
+
+
+
+                                                               Fahrländer Ch.
+                                                                                                FSp 607           103        373                  1083     100
+                                                                                                NSp 472           165        647                  1284     100
+                                                                                                6h  3020          720       2761                  6501     100
+                                            608                                 FZ              FSp  607          103        373                  1083     100
+                                                  720
+                                            112          OST                                    NSp  472          166        652                  1290     100
+                                                                                                6h  3030           721      2773                   6524    100
+                                            569   1289                          Bemerkungen :
+
+                                                                                Wetter: früh 12ºC bewölkt und starker Nebel;
+                                                                                          nachmittags 20ºC bewölkt, ab 17.35 Uhr starker Regen
+
+
+
+
+               2.691       2.633    128                                                         Sph-Beginn:       7.00    Uhr und   16.00   Uhr
+                                                                                SUMME Zufahrten: [FSp] : 1083 KFZ/h 7:30
+              5.452                                                                                (NSp) : 1284 KFZ/h 16:30
+                             2.761                                                                   6h : 6501 KFZ
+                           SÜD                                                  max. Sph /Zufahrt: NORD     607 KFZ/h 7:30
+           Marquardter Ch. (B273)                                                                                 OST         172 KFZ/h 16:00
+                                                                                   DATUM :                        SÜD         647 KFZ/h 16:30
+                                                                                30.05.2013
+                                                                                  271             Marquardter Ch. (B273) / Fahrländer Ch.
+
+
+SVP, 461                                                                                                                 StromPlan271kp5-13_SG_fehlt.xls
+                                                                                                                                                02.02.2017
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                      NORD                                                                               NORD OST SÜD      SUMME %
+           Marquardter Ch. (B273)                                                  RAD             FSp           0      0         0                      0     0,0
+
+                                                                                                   NSp     0             1        5                       6    0,5
+                    607                                                                            6h     10             1       12                      23    0,4
+                                1.047                                              NFZ             FSp 154             19      103                    276     25,5
+                                                                                                   NSp   62            44      136                    242     18,8
+              526         81     440                                                               6h   594           178      576                   1348     20,7
+                                                                                   SV              FSp   46              3      39                      88     8,1
+                                                                                                   NSp   18              3      31                      52     4,0
+                                                                                                   6h   218             47     212                     477     7,3
+                                                                                   KFZ
+
+
+
+
+                                                                  Fahrländer Ch.
+                                                                                                   FSp 607            103      373                   1083     100
+                                                                                                   NSp 472            165      647                   1284     100
+                                                                                                   6h  3020           720     2761                   6501     100
+                                               85                                  FZ              FSp  607           103      373                   1083     100
+                                                      103
+                                               18           OST                                    NSp  472           166      652                   1290     100
+                                                                                                   6h  3030            721    2773                    6524    100
+                                               99     202                          Bemerkungen :
+
+                                                                                   Wetter: früh 12ºC bewölkt und starker Nebel;
+                                                                                             nachmittags 20ºC bewölkt, ab 17.35 Uhr starker Regen
+
+
+
+              544         355    18                                                                Sph-Beginn:       7.00    Uhr und   16.00   Uhr
+                                                                                   SUMME Zufahrten: [FSp] : 1083 KFZ/h 7:30
+              917                                                                                     (NSp) : 1284 KFZ/h 16:30
+                         373                                                                            6h : 6501 KFZ
+                      SÜD                                                          max. Sph /Zufahrt: NORD     607 KFZ/h 7:30
+           Marquardter Ch. (B273)                                                                                    OST        172 KFZ/h 16:00
+                                                                                      DATUM :                        SÜD        647 KFZ/h 16:30
+                                                        1.083 KFZ/h 30.05.2013
+                                        Kfz-Stromverteilung in der FSp 271                           Marquardter Ch. (B273) / Fahrländer Ch.
+
+
+SVP, 461                                                                                                             StromPlan FSp271kp5-13_SG_fehlt.xls
+                                                                                                                                                 02.02.2017
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                       NORD                                                                               NORD OST SÜD      SUMME %
+           Marquardter Ch. (B273)                                                   RAD             FSp           0       0        0                      0     0,0
+
+                                                                                                    NSp     0             1        5                       6    0,5
+                     472                                                                            6h     10             1       12                      23    0,4
+                                 1.236                                              NFZ             FSp 154             19      103                    276     25,5
+                                                                                                    NSp   62            44      136                    242     18,8
+               397         75     764                                                               6h   594           178      576                   1348     20,7
+                                                                                    SV              FSp   46              3      39                      88     8,1
+                                                                                                    NSp   18              3      31                      52     4,0
+                                                                                                    6h   218             47     212                     477     7,3
+                                                                                    KFZ
+
+
+
+
+                                                                   Fahrländer Ch.
+                                                                                                    FSp 607            103      373                   1083     100
+                                                                                                    NSp 472            165      647                   1284     100
+                                                                                                    6h  3020           720     2761                   6501     100
+                                                148                                 FZ              FSp  607           103      373                   1083     100
+                                                       165
+                                                 17          OST                                    NSp  472           166      652                   1290     100
+                                                                                                    6h  3030            721    2773                    6524    100
+                                                106    271                          Bemerkungen :
+
+                                                                                    Wetter: früh 12ºC bewölkt und starker Nebel;
+                                                                                              nachmittags 20ºC bewölkt, ab 17.35 Uhr starker Regen
+
+
+
+               414         616    31                                                                Sph-Beginn:       7.00    Uhr und   16.00   Uhr
+                                                                                    SUMME Zufahrten: [FSp] : 1083 KFZ/h 7:30
+              1.061                                                                                    (NSp) : 1284 KFZ/h 16:30
+                          647                                                                            6h : 6501 KFZ
+                       SÜD                                                          max. Sph /Zufahrt: NORD     607 KFZ/h 7:30
+           Marquardter Ch. (B273)                                                                                     OST        172 KFZ/h 16:00
+                                                                                       DATUM :                        SÜD        647 KFZ/h 16:30
+                                                         1.284 KFZ/h 30.05.2013
+                                         Kfz-Stromverteilung in der NSp 271                           Marquardter Ch. (B273) / Fahrländer Ch.
+
+
+SVP, 461                                                                                                              StromPlan NSp271kp5-13_SG_fehlt.xls
+

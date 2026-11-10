@@ -1,0 +1,155 @@
+       Landeshauptstadt Potsdam                                                                                                                                                       28.09.2023
+       Bereich 476
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                                       NORD                                                                    RAD    FSp   100   147    31     96                             374       17,7
+                                                                                                                                      NSp   127   188    83     94                             492       22,0
+                                                      Mangerstr.                                                                      6h    620    911  273    479                            2283       18,5
+                                                        47                                                                     NFZ    FSp     0   208     7    90                             305        17,5
+                                                                    464                                                               NSp     1   112     2   101                             216        12,3
+                                                                                                                                      6h      9   861    22   445                            1337        13,3
+                                             17         30    0       417                                                      SV     FSp     0    49     0    34                               83        4,8
+                                                                                                                                      NSp     0    21     0    31                               52        3,0
+                                                                                                                                      6h      2   204     1   169                              376        3,7
+                                                                                                                               KFZ FSp        1 1024     42   676                            1743        100
+                                                                                                                                      NSp    11 1081     43   614                            1749        100
+                                                                                                                                      6h     47 6274    233 3513                            10067        100
+
+
+
+
+        Behlertstr.                                                                                              Behlertstr.
+                                                                                                                               FZ     FSp   101  1171    73   772                            2117        100
+                      7.813   4.300                                                         122                                       NSp   138  1269   126   708                            2241        100
+                               62                                                          4.283   6.274   OST                        6h    667  7185   506  3992                           12350        100
+
+WEST                  3.513                                                                1.869                               Q DTVw: 2,5 1160 15685 13958 19533
+                              3.451                                                          0     6.274                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                               Bemerkungen :
+                                                                                                                               - keine Corona-Einschränkungen
+                                                                                                                               - Ukraine-Krieg
+                                                                                                                               - hohe Kraftstoffkosten (Benzin 1,939€, Diesel 1,819€)
+                                                                                                                               - Wetter früh 15ºC sonnig, trocken;
+
+                                             5.350            233                                                               nachmittag 25ºC sonnig, trocken
+                                                                                                                                   Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+                                            5.583             SÜD                                                              SUMME Zufahrten: [FSp] :                1743 KFZ/h 8:00
+                                                     Kurfürstenstr.                                                                                         (NSp):     1749 KFZ/h 15:30
+                                                                                                                                                                 6h : 10067 KFZ
+                                                                                                                               max. Sph /Zufahrt: NORD :                  13 KFZ/h 16:00
+                                                                                                                                                              OST :    1169 KFZ/h 17:00
+
+                                                                                                                                 DATUM :                      SÜD :       55 KFZ/h 17:00
+                                                                                                           6h Werte 07.09.2023                              WEST :       693 KFZ/h 7:30
+                                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1810                                 Behlertstr./Kurfürstenstr.
+
+       StromPlan1810kp9-23_in Bearbeitung                                        Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                     28.09.2023
+       Bereich 476
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                                           NORD                                                              RAD    FSp   100   147    31     96                             374       17,7
+                                                                                                                                    NSp   127   188    83     94                             492       22,0
+                                                          Mangerstr.                                                                6h    620    911  273    479                            2283       18,5
+                                                             1                                                               NFZ    FSp     0   208     7    90                             305        17,5
+                                                                          76                                                        NSp     1   112     2   101                             216        12,3
+                                                                                                                                    6h      9   861    22   445                            1337        13,3
+                                                   1        0     0       75                                                 SV     FSp     0    49     0    34                               83        4,8
+                                                                                                                                    NSp     0    21     0    31                               52        3,0
+                                                                                                                                    6h      2   204     1   169                              376        3,7
+                                                                                                                             KFZ FSp        1 1024     42   676                            1743        100
+                                                                                                                                    NSp    11 1081     43   614                            1749        100
+                                                                                                                                    6h     47 6274    233 3513                            10067        100
+
+
+
+
+        Behlertstr.                                                                                            Behlertstr.
+                                                                                                                             FZ     FSp   101  1171    73   772                            2117        100
+                      1.362   686                                                          15                                       NSp   138  1269   126   708                            2241        100
+                              18                                                           685   1.024   OST                        6h    667  7185   506  3992                           12350        100
+
+WEST                  676                                                                  324                               Q DTVw: 2,5 1160 15685 13958 19533
+                              658                                                           0    1.024                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                             Bemerkungen :
+                                                                                                                             - keine Corona-Einschränkungen
+                                                                                                                             - Ukraine-Krieg
+                                                                                                                             - hohe Kraftstoffkosten (Benzin 1,939€, Diesel 1,819€)
+                                                                                                                             - Wetter früh 15ºC sonnig, trocken;
+                                                   982            42                                                          nachmittag 25ºC sonnig, trocken
+                                                                                                                                 Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+                                                  1.024           SÜD                                                        SUMME Zufahrten: [FSp] :                1743 KFZ/h 8:00
+                                                         Kurfürstenstr.                                                                                   (NSp):     1749 KFZ/h 15:30
+                                                                                                                                                               6h : 10067 KFZ
+                                                                                                                             max. Sph /Zufahrt: NORD :                  13 KFZ/h 16:00
+                                                                                                                                                            OST :    1169 KFZ/h 17:00
+
+                                                                                                                               DATUM :                      SÜD :       55 KFZ/h 17:00
+                                                                                                    1.743 KFZ/h 07.09.2023                                WEST :       693 KFZ/h 7:30
+                                                                               Kfz-Stromverteilung in der FSp 1810                                 Behlertstr./Kurfürstenstr.
+
+       StromPlan (FSp)1810kp9-23_in Bearbeitung                                  Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                    28.09.2023
+       Bereich 476
+
+
+
+                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                                          NORD                                                              RAD    FSp   100   147    31     96                             374       17,7
+                                                                                                                                   NSp   127   188    83     94                             492       22,0
+                                                         Mangerstr.                                                                6h    620    911  273    479                            2283       18,5
+                                                           11                                                               NFZ    FSp     0   208     7    90                             305        17,5
+                                                                       110                                                         NSp     1   112     2   101                             216        12,3
+                                                                                                                                   6h      9   861    22   445                            1337        13,3
+                                                  7        4     0       99                                                 SV     FSp     0    49     0    34                               83        4,8
+                                                                                                                                   NSp     0    21     0    31                               52        3,0
+                                                                                                                                   6h      2   204     1   169                              376        3,7
+                                                                                                                            KFZ FSp        1 1024     42   676                            1743        100
+                                                                                                                                   NSp    11 1081     43   614                            1749        100
+                                                                                                                                   6h     47 6274    233 3513                            10067        100
+
+
+
+
+        Behlertstr.                                                                                           Behlertstr.
+                                                                                                                            FZ     FSp   101  1171    73   772                            2117        100
+                      1.364   750                                                         43                                       NSp   138  1269   126   708                            2241        100
+                              13                                                          743   1.081   OST                        6h    667  7185   506  3992                           12350        100
+
+WEST                  614                                                                 295                               Q DTVw: 2,5 1160 15685 13958 19533
+                              601                                                          0    1.081                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                            Bemerkungen :
+                                                                                                                            - keine Corona-Einschränkungen
+                                                                                                                            - Ukraine-Krieg
+                                                                                                                            - hohe Kraftstoffkosten (Benzin 1,939€, Diesel 1,819€)
+                                                                                                                            - Wetter früh 15ºC sonnig, trocken;
+                                                  900            43                                                          nachmittag 25ºC sonnig, trocken
+                                                                                                                                Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+                                                  943            SÜD                                                        SUMME Zufahrten: [FSp] :                1743 KFZ/h 8:00
+                                                        Kurfürstenstr.                                                                                   (NSp):     1749 KFZ/h 15:30
+                                                                                                                                                              6h : 10067 KFZ
+                                                                                                                            max. Sph /Zufahrt: NORD :                  13 KFZ/h 16:00
+                                                                                                                                                           OST :    1169 KFZ/h 17:00
+
+                                                                                                                              DATUM :                      SÜD :       55 KFZ/h 17:00
+                                                                                                   1.749 KFZ/h 07.09.2023                                WEST :       693 KFZ/h 7:30
+                                                                              Kfz-Stromverteilung in der NSp 1810                                 Behlertstr./Kurfürstenstr.
+
+       StromPlan (NSp)1810kp9-23_in Bearbeitung                                 Seite 3
+

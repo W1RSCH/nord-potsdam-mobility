@@ -1,0 +1,169 @@
+       SVP, 461                                                                                                                                                             02.07.2015
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                      NORD  OST SÜD WEST SUMME %
+                                              NORD                                                                   RAD        FSp    95             10        60         14         179 6,8
+                                                                                                                                NSp    82             25      114          12         233 7,7
+                                        Jägerallee                                                                              6h    621            109       430        104        1264 7,8
+                                              5.937             12.614                                               NFZ        FSp 149             161        60          28        398 16,3
+                                                                                                                                NSp 141             153        65          13        372 13,4
+                                                                                                                                6h    786            900      524         105       2315 15,5
+                                      108      3.057    2.772    6.677                                               SV         FSp    70             62       32          11        175  7,1
+                                                                                                                                NSp    32             34       15           6          87 3,1
+                                                                                                                                6h    299            256      351          44         950 6,4
+                                                                                                                     KFZ        FSp 1006            900       298        244        2448 100
+                                                                                                                                NSp 982            1092       568        138        2780 100
+                                                                                                                                6h  5937           5649      2389         972      14947 100
+
+
+
+
+       Voltaireweg
+                                                                                                                     FZ         FSp 1101             910      358         258       2627 100
+
+
+
+
+                                                                                                         Reiterweg
+                     2.091   1.119                                                   4.478                                      NSp 1064           1117       682         150       3013 100
+                              118                                                      852 5.649   OST                          6h   6558           5758     2819        1076      16211 100
+
+WEST
+                     972      505                                                      319                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                              349                                                    3.426 9.075                     Bemerkungen :
+                                                                                                                     - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+
+                                                                                                                       Sph-Beginn: 8.30 Uhr und 15.30 Uhr
+                                                                                                                     SUMME Zufahrten: [FSp] : 2448 KFZ/h 9:00
+                                      3.725    159      2.081    149                                                                    (NSp):    2780 KFZ/h 16:00
+                                                                                                                                            6h : 14947 KFZ
+                                     6.114                                                                           max. Sph /Zufahrt: NORD 1199 KFZ/h 7:30
+                                                       2.389                                                                               OST 1092 KFZ/h 16:00
+                                                       SÜD                                                            DATUM :              SÜD     568 KFZ/h 16:00
+                                               Jägerallee                                          6h Werte 21.05.2015                            WEST         244 KFZ/h 9:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 170                             Jägerallee / Reiterweg
+
+
+
+
+       StromPlan170kp5-15.xls                                              Seite 1
+       SVP, 461                                                                                                                                                       02.07.2015
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                NORD  OST SÜD WEST SUMME %
+                                              NORD                                                             RAD        FSp    95             10        60         14         179 6,8
+                                                                                                                          NSp    82             25      114          12         233 7,7
+                                        Jägerallee                                                                        6h    621            109       430        104        1264 7,8
+                                              1.006         1.895                                              NFZ        FSp 149             161        60          28        398 16,3
+                                                                                                                          NSp 141             153        65          13        372 13,4
+                                                                                                                          6h    786            900      524         105       2315 15,5
+                                       25      545    436    889                                               SV         FSp    70             62       32          11        175  7,1
+                                                                                                                          NSp    32             34       15           6          87 3,1
+                                                                                                                          6h    299            256      351          44         950 6,4
+                                                                                                               KFZ        FSp 1006            900       298        244        2448 100
+                                                                                                                          NSp 982            1092       568        138        2780 100
+                                                                                                                          6h  5937           5649      2389         972      14947 100
+
+
+
+
+       Voltaireweg
+                                                                                                               FZ         FSp 1101             910      358         258       2627 100
+
+
+
+
+                                                                                                   Reiterweg
+                     472   228                                                  633                                       NSp 1064           1117       682         150       3013 100
+                           11                                                   178    900   OST                          6h   6558           5758     2819        1076      16211 100
+
+WEST
+                     244   113                                                   89                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                           120                                                  577 1.477                      Bemerkungen :
+                                                                                                               - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+
+                                                                                                                 Sph-Beginn: 8.30 Uhr und 15.30 Uhr
+                                                                                                               SUMME Zufahrten: [FSp] : 2448 KFZ/h 9:00
+                                       754     25     245    28                                                                   (NSp):    2780 KFZ/h 16:00
+                                                                                                                                      6h : 14947 KFZ
+                                      1.052                                                                    max. Sph /Zufahrt: NORD 1199 KFZ/h 7:30
+                                                      298                                                                            OST 1092 KFZ/h 16:00
+                                                      SÜD                                                       DATUM :              SÜD     568 KFZ/h 16:00
+                                               Jägerallee                               2.448 KFZ/h 21.05.2015                              WEST         244 KFZ/h 9:00
+                                                                    Kfz-Stromverteilung in der FSp 170                               Jägerallee / Reiterweg
+
+
+
+
+       StromPlan (FSp)170kp5-15.xls                                   Seite 2
+       SVP, 461                                                                                                                                                      02.07.2015
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                               NORD  OST SÜD WEST SUMME %
+                                              NORD                                                            RAD        FSp    95             10        60         14         179 6,8
+                                                                                                                         NSp    82             25      114          12         233 7,7
+                                        Jägerallee                                                                       6h    621            109       430        104        1264 7,8
+                                              982          2.433                                              NFZ        FSp 149             161        60          28        398 16,3
+                                                                                                                         NSp 141             153        65          13        372 13,4
+                                                                                                                         6h    786            900      524         105       2315 15,5
+                                       30      510   442    1.451                                             SV         FSp    70             62       32          11        175  7,1
+                                                                                                                         NSp    32             34       15           6          87 3,1
+                                                                                                                         6h    299            256      351          44         950 6,4
+                                                                                                              KFZ        FSp 1006            900       298        244        2448 100
+                                                                                                                         NSp 982            1092       568        138        2780 100
+                                                                                                                         6h  5937           5649      2389         972      14947 100
+
+
+
+
+       Voltaireweg
+                                                                                                              FZ         FSp 1101             910      358         258       2627 100
+
+
+
+
+                                                                                                  Reiterweg
+                     321   183                                                  935                                      NSp 1064           1117       682         150       3013 100
+                           20                                                   110 1.092   OST                          6h   6558           5758     2819        1076      16211 100
+
+WEST
+                     138   70                                                    47                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                           48                                                   541 1.633                     Bemerkungen :
+                                                                                                              - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+
+                                                                                                                Sph-Beginn: 8.30 Uhr und 15.30 Uhr
+                                                                                                              SUMME Zufahrten: [FSp] : 2448 KFZ/h 9:00
+                                       605     43    496    29                                                                   (NSp):    2780 KFZ/h 16:00
+                                                                                                                                     6h : 14947 KFZ
+                                      1.173                                                                   max. Sph /Zufahrt: NORD 1199 KFZ/h 7:30
+                                                     568                                                                            OST 1092 KFZ/h 16:00
+                                                     SÜD                                                       DATUM :              SÜD     568 KFZ/h 16:00
+                                               Jägerallee                              2.780 KFZ/h 21.05.2015                              WEST         244 KFZ/h 9:00
+                                                                    Kfz-Stromverteilung in der NSp 170                              Jägerallee / Reiterweg
+
+
+
+
+       StromPlan (NSp)170kp5-15.xls                                   Seite 3
+

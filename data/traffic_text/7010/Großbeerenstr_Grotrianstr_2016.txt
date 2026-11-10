@@ -1,0 +1,157 @@
+       SVP, 461                                                                                                                                                                  23.09.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME %
+                                                 NORD                                                                      RAD    FSp    15                    34     33        33         115     12,0
+                                                                                                                                  NSp    40                    45     18        29         132     12,1
+                                                Flotowstraße                                                                      6h    133                   187    122       184          626    12,1
+                                                  535                                                                      NFZ    FSp     7                   61       8       39          115     13,6
+                                                              1.150                                                               NSp     5                   49       9       51          114     11,9
+                                                                                                                                  6h     37                  279      38      219          573     12,6
+                                          311     62    162    615                                                         SV     FSp     2                   18       0       17           37      4,4
+                                                                                                                                  NSp     0                   10       0       13           23      2,4
+                                                                                                                                  6h      4                    80      3        84         171      3,8
+                                                                                                                           KFZ FSp 105                       335      92      313          845      100
+
+
+
+
+       Großbeerenstraße                                                                                 Großbeerenstraße
+                                                                                                                                  NSp 114                    423      68      354          959      100
+                                                                                                                                  6h    535                 1888     359     1749         4531      100
+                                                                                                                           FZ     FSp   120                  369     125      346          960      100
+                          3.715   1.966                                            155                                            NSp   154                  468      86      383         1091      100
+                                   305                                            1.585   1.888   OST                             6h    668                 2075     481     1933         5157      100
+
+WEST
+                          1.749   1.381                                            148                                     Q DTVw: 2,4 2703                 8378    1485     8730
+                                   63                                             1.677   3.565                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                           Bemerkungen :
+                                                                                                                           - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                                                                                                           - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+
+
+                                                                                                                               Sph-Beginn:      7.30     Uhr und    15.30 Uhr
+                                          273     70    155    134                                                         SUMME Zufahrten: [FSp] :                  845 KFZ/h 8:00
+                                                                                                                                                        (NSp):       959 KFZ/h 16:00
+                                          632                                                                                                   6h :                4531 KFZ
+                                                        359                                                                max. Sph /Zufahrt: NORD :                 137 KFZ/h 15:30
+                                                        SÜD                                                                                    OST :                 425 KFZ/h 16:30
+                                            Grotrianstraße                                                                   DATUM :                      SÜD :       99 KFZ/h 7:30
+                                                                                               6h Werte 22.09.2016 WEST :  354 KFZ/h 16:00
+                                                                von 6.00 - 9.00 Uhr u. 15.00 - 18.00 Uhr 701 Großbeerenstraße / Grotrianstraße
+
+
+
+       StromPlan701kp9-16.xls                                           Seite 1
+       SVP, 461                                                                                                                                                        23.09.2016
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                RAD    FSp    15                    34     33        33         115     12,0
+                                                                                                                        NSp    40                    45     18        29         132     12,1
+                                            Flotowstraße                                                                6h    133                   187    122       184          626    12,1
+                                              105                                                                NFZ    FSp     7                   61       8       39          115     13,6
+                                                           247                                                          NSp     5                   49       9       51          114     11,9
+                                                                                                                        6h     37                  279      38      219          573     12,6
+                                      53      10    42     142                                                   SV     FSp     2                   18       0       17           37      4,4
+                                                                                                                        NSp     0                   10       0       13           23      2,4
+                                                                                                                        6h      4                    80      3        84         171      3,8
+                                                                                                                 KFZ FSp 105                       335      92      313          845      100
+
+
+
+
+       Großbeerenstraße                                                                       Großbeerenstraße
+                                                                                                                        NSp 114                    423      68      354          959      100
+                                                                                                                        6h    535                 1888     359     1749         4531      100
+                                                                                                                 FZ     FSp   120                  369     125      346          960      100
+                          655   342                                         25                                          NSp   154                  468      86      383         1091      100
+                                72                                          272   335   OST                             6h    668                 2075     481     1933         5157      100
+
+WEST
+                          313   236                                          38                                  Q DTVw: 2,4 2703                 8378    1485     8730
+                                 5                                          308   643                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                                                                                                 - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+
+
+                                                                                                                     Sph-Beginn:      7.30     Uhr und    15.30 Uhr
+                                      53      17    45     30                                                    SUMME Zufahrten: [FSp] :                  845 KFZ/h 8:00
+                                                                                                                                              (NSp):       959 KFZ/h 16:00
+                                      145                                                                                             6h :                4531 KFZ
+                                                     92                                                          max. Sph /Zufahrt: NORD :                 137 KFZ/h 15:30
+                                                    SÜD                                                                              OST :                 425 KFZ/h 16:30
+                                        Grotrianstraße                                                             DATUM :                      SÜD :       99 KFZ/h 7:30
+                                                                                        845 KFZ/h 22.09.2016                                  WEST :       354 KFZ/h 16:00
+                                                                 Kfz-Stromverteilung in der FSp 701                           Großbeerenstraße / Grotrianstraße
+
+
+
+       StromPlan (FSp)701kp9-16.xls                               Seite 2
+       SVP, 461                                                                                                                                                         23.09.2016
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                 RAD    FSp    15                    34     33        33         115     12,0
+                                                                                                                         NSp    40                    45     18        29         132     12,1
+                                            Flotowstraße                                                                 6h    133                   187    122       184          626    12,1
+                                              114                                                                 NFZ    FSp     7                   61       8       39          115     13,6
+                                                           261                                                           NSp     5                   49       9       51          114     11,9
+                                                                                                                         6h     37                  279      38      219          573     12,6
+                                      76      13    25     147                                                    SV     FSp     2                   18       0       17           37      4,4
+                                                                                                                         NSp     0                   10       0       13           23      2,4
+                                                                                                                         6h      4                    80      3        84         171      3,8
+                                                                                                                  KFZ FSp 105                       335      92      313          845      100
+
+
+
+
+       Großbeerenstraße                                                                        Großbeerenstraße
+                                                                                                                         NSp 114                    423      68      354          959      100
+                                                                                                                         6h    535                 1888     359     1749         4531      100
+                                                                                                                  FZ     FSp   120                  369     125      346          960      100
+                          786   432                                          43                                          NSp   154                  468      86      383         1091      100
+                                68                                           350   423   OST                             6h    668                 2075     481     1933         5157      100
+
+WEST
+                          354   266                                           30                                  Q DTVw: 2,4 2703                 8378    1485     8730
+                                20                                           317   740                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                                                                                                  - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+
+
+                                                                                                                      Sph-Beginn:      7.30     Uhr und    15.30 Uhr
+                                      63      6     36     26                                                     SUMME Zufahrten: [FSp] :                  845 KFZ/h 8:00
+                                                                                                                                               (NSp):       959 KFZ/h 16:00
+                                      131                                                                                              6h :                4531 KFZ
+                                                     68                                                           max. Sph /Zufahrt: NORD :                 137 KFZ/h 15:30
+                                                    SÜD                                                                               OST :                 425 KFZ/h 16:30
+                                        Grotrianstraße                                                              DATUM :                      SÜD :       99 KFZ/h 7:30
+                                                                                         959 KFZ/h 22.09.2016                                  WEST :       354 KFZ/h 16:00
+                                                                 Kfz-Stromverteilung in der NSp 701                            Großbeerenstraße / Grotrianstraße
+
+
+
+       StromPlan (NSp)701kp9-16.xls                                Seite 3
+

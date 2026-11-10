@@ -1,0 +1,155 @@
+Landeshauptstadt Potsdam                                                                                                                                                                     03.05.2023
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                              RAD         FSp              94           6     43                  143          12,5
+                                          NORD                                                                            NSp              62           3     59                  124          10,0
+
+                                        Horstweg                                                                      6h         298                    34   261                  593           9,7
+                                                                                                              NFZ     FSp        62                      2   85                  149           14,9
+                                       2.804                                                                          NSp        59                    10    79                  148           13,3
+                                                       5.443                                                          6h        311                    31   418                   760          13,8
+                                                                                                              SV      FSp        21                      1   25                    47           4,7
+                               2.616           188      2.639                                                         NSp        11                      0     8                   19           1,7
+                                                                                                                      6h          93                     6    73                  172           3,1
+                                                                                                              KFZ FSp           492                    24   482                  998            100
+                                                                                                                      NSp       597                    49   466                 1112            100
+                                                                                                                      6h       2804                   212 2490                  5506            100
+
+
+
+
+                                                                                             Lidl-Parkplatz
+                                                                                                              FZ     FSp        586                    30   525                 1141            100
+                                                                                                                     NSp        659                    52   525                 1236            100
+                                                                          172                                         6h       3102                   246 2751                   6099           100
+                                                                                 212
+                                                                          40           OST                    Q DTVw:    2,35 12791                   994 12093
+                                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                          211    423                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - keine Corona-Einschränkungen
+                                                                                                              - Ukraine-Krieg
+                                                                                                              - Teilzählung - Zuf. NG+SG durch KP4620 errechnet
+
+                               2.656           2.467    23                                                    - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                               nachmittag 15ºC bewölkt bis sonnig, trocken
+                              5.146                                                                           Sph-Beginn:               7.30    Uhr und     15.30 Uhr
+                                             2.490                                                            SUMME Zufahrten:                      FSp :    998 KFZ/h 8:00
+                                           SÜD                                                                                                      NSp :   1112 KFZ/h 16:00
+                                        Horstweg                                                                                                  6h :      5506 KFZ
+                                                                                                              max. Sph /Zufahrt:                NORD         597 KFZ/h 16:00
+                                                                                                                                                 OST          49 KFZ/h 15:30
+
+                                                                                                                   DATUM :                           SÜD     483 KFZ/h 7:30
+                                                                                       6h Werte                 20.04.2023
+                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 4621                                 Horstweg/Lidl-Parkplatz
+
+StromPlan4621kp4-23
+Landeshauptstadt Potsdam                                                                                                                                                         03.05.2023
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                           Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                  RAD         FSp              94           6     43                  143          12,5
+                                      NORD                                                                    NSp              62           3     59                  124          10,0
+
+                                    Horstweg                                                              6h         298                    34   261                  593           9,7
+                                                                                                  NFZ     FSp        62                      2   85                  149           14,9
+                                    492                                                                   NSp        59                    10    79                  148           13,3
+                                                992                                                       6h        311                    31   418                   760          13,8
+                                                                                                  SV      FSp        21                      1   25                    47           4,7
+                              464         28    500                                                       NSp        11                      0     8                   19           1,7
+                                                                                                          6h          93                     6    73                  172           3,1
+                                                                                                  KFZ FSp           492                    24   482                  998            100
+                                                                                                          NSp       597                    49   466                 1112            100
+                                                                                                          6h       2804                   212 2490                  5506            100
+
+
+
+
+                                                                                 Lidl-Parkplatz
+                                                                                                  FZ     FSp        586                    30   525                 1141            100
+                                                                                                         NSp        659                    52   525                 1236            100
+                                                              20                                          6h       3102                   246 2751                   6099           100
+                                                                     24
+                                                              4            OST                    Q DTVw:    2,35 12791                   994 12093
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                              30     54                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - keine Corona-Einschränkungen
+                                                                                                  - Ukraine-Krieg
+                                                                                                  - Teilzählung - Zuf. NG+SG durch KP4620 errechnet
+                              468         480   2                                                 - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                   nachmittag 15ºC bewölkt bis sonnig, trocken
+                              950                                                                 Sph-Beginn:               7.30    Uhr und     15.30 Uhr
+                                         482                                                      SUMME Zufahrten:                      FSp :    998 KFZ/h 8:00
+                                      SÜD                                                                                               NSp :   1112 KFZ/h 16:00
+                                    Horstweg                                                                                          6h :      5506 KFZ
+                                                                                                  max. Sph /Zufahrt:                NORD         597 KFZ/h 16:00
+                                                                                                                                     OST          49 KFZ/h 15:30
+
+                                                                                                       DATUM :                           SÜD     483 KFZ/h 7:30
+                                                                          998 KFZ/h                 20.04.2023
+                                                      Kfz-Stromverteilung in der FSp 4621                                   Horstweg/Lidl-Parkplatz
+
+StromPlan (FSp)4621kp4-23
+Landeshauptstadt Potsdam                                                                                                                                                             03.05.2023
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                               Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                      RAD         FSp              94           6     43                  143          12,5
+                                       NORD                                                                       NSp              62           3     59                  124          10,0
+
+                                      Horstweg                                                                6h         298                    34   261                  593           9,7
+                                                                                                      NFZ     FSp        62                      2   85                  149           14,9
+                                     597                                                                      NSp        59                    10    79                  148           13,3
+                                                 1.098                                                        6h        311                    31   418                   760          13,8
+                                                                                                      SV      FSp        21                      1   25                    47           4,7
+                               561         36     501                                                         NSp        11                      0     8                   19           1,7
+                                                                                                              6h          93                     6    73                  172           3,1
+                                                                                                      KFZ FSp           492                    24   482                  998            100
+                                                                                                              NSp       597                    49   466                 1112            100
+                                                                                                              6h       2804                   212 2490                  5506            100
+
+
+
+
+                                                                                     Lidl-Parkplatz
+                                                                                                      FZ     FSp        586                    30   525                 1141            100
+                                                                                                             NSp        659                    52   525                 1236            100
+                                                                 41                                           6h       3102                   246 2751                   6099           100
+                                                                        49
+                                                                 8             OST                    Q DTVw:    2,35 12791                   994 12093
+                                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                 42     91                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                      Bemerkungen :
+                                                                                                      - keine Corona-Einschränkungen
+                                                                                                      - Ukraine-Krieg
+                                                                                                      - Teilzählung - Zuf. NG+SG durch KP4620 errechnet
+                               569         460    6                                                   - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                       nachmittag 15ºC bewölkt bis sonnig, trocken
+                              1.035                                                                   Sph-Beginn:               7.30    Uhr und     15.30 Uhr
+                                          466                                                         SUMME Zufahrten:                      FSp :    998 KFZ/h 8:00
+                                       SÜD                                                                                                  NSp :   1112 KFZ/h 16:00
+                                      Horstweg                                                                                            6h :      5506 KFZ
+                                                                                                      max. Sph /Zufahrt:                NORD         597 KFZ/h 16:00
+                                                                                                                                         OST          49 KFZ/h 15:30
+
+                                                                                                           DATUM :                           SÜD     483 KFZ/h 7:30
+                                                                             1.112 KFZ/h                20.04.2023
+                                                         Kfz-Stromverteilung in der NSp 4621                                    Horstweg/Lidl-Parkplatz
+
+StromPlan (NSp)4621kp4-23
+

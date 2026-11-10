@@ -1,0 +1,160 @@
+       Landeshauptstadt Potsdam                                                                                                                                            28.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                   RAD    FSp    88     20                    68     9             185     11,0
+                                                                                                                            NSp   128     87                  208     16             439     20,4
+                                     Russische Kolonie                                                                      6h    928    301                   678   104            2011     17,7
+                                               347                                                                   NFZ    FSp     5   196                    13   130              344     22,9
+                                                             908                                                            NSp    14   130                    18   100              262     15,3
+                                                                                                                            6h     44   903                     70  571             1588     17,0
+                                      179      127   41      561                                                     SV     FSp     2    83                      4   50              139      9,3
+                                                                                                                            NSp     4    37                      7   22               70      4,1
+                                                                                                                            6h     24   317                     38  158              537      5,7
+                                                                                                                     KFZ FSp       45   778                    79   597            1499       100
+                                                                                                                            NSp    91   933                   135   549            1708       100
+                                                                                                                            6h    347 5039                    589 3386              9361      100
+
+
+
+
+        Reiterweg                                                                                      Alleestraße
+                                                                                                                     FZ     FSp   133   798                   147   606             1684      100
+                    8.513   5.127                                                 175                                       NSp   219  1020                   343   565             2147      100
+                             214                                                 4.689   5.039   OST                        6h   1275  5340                  1267  3490            11372      100
+
+WEST
+                    3.386   3.039                                                 175                                Q DTVw: 2,4 2134 19451                  2406 20006
+                             133                                                 3.238   8.277                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                     Bemerkungen :
+                                                                                                                     - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                                      nachmittag 23ºC bewölkt, trocken
+
+
+                                                                                                                         Sph-Beginn:      9.00     Uhr und   15.30 Uhr
+                                      435      259   172     158                                                     SUMME Zufahrten: [FSp] :               1499 KFZ/h 9:30
+                                                                                                                                                  (NSp):    1708 KFZ/h 16:00
+                                     1.024                                                                                                             6h : 9361 KFZ
+                                                     589                                                             max. Sph /Zufahrt: NORD :                  91 KFZ/h 16:00
+                                                     SÜD                                                                                 OST :                 958 KFZ/h 17:00
+                                             F.-Ebert-Str.                                                             DATUM :                      SÜD :      137 KFZ/h 17:00
+                                                                                                 6h Werte 15.08.2019                              WEST :       626 KFZ/h 7:30
+                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 173                                 F.-Ebert-Str. / Reiterweg
+
+
+
+       StromPlan173kp8-19.xlsx                                         Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                       28.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                              RAD    FSp    88     20                    68     9             185     11,0
+                                                                                                                       NSp   128     87                  208     16             439     20,4
+                                       Russische Kolonie                                                               6h    928    301                   678   104            2011     17,7
+                                                45                                                              NFZ    FSp     5   196                    13   130              344     22,9
+                                                             127                                                       NSp    14   130                    18   100              262     15,3
+                                                                                                                       6h     44   903                     70  571             1588     17,0
+                                       20      22    3       82                                                 SV     FSp     2    83                      4   50              139      9,3
+                                                                                                                       NSp     4    37                      7   22               70      4,1
+                                                                                                                       6h     24   317                     38  158              537      5,7
+                                                                                                                KFZ FSp       45   778                    79   597            1499       100
+                                                                                                                       NSp    91   933                   135   549            1708       100
+                                                                                                                       6h    347 5039                    589 3386              9361      100
+
+
+
+
+        Reiterweg                                                                                 Alleestraße
+                                                                                                                FZ     FSp   133   798                   147   606             1684      100
+                    1.371   774                                               20                                       NSp   219  1020                   343   565             2147      100
+                            38                                                717   778     OST                        6h   1275  5340                  1267  3490            11372      100
+
+WEST
+                    597     530                                                41                               Q DTVw: 2,4 2134 19451                  2406 20006
+                            29                                                551   1.329                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                                 nachmittag 23ºC bewölkt, trocken
+
+
+                                                                                                                    Sph-Beginn:      9.00     Uhr und   15.30 Uhr
+                                       92      37    24      18                                                 SUMME Zufahrten: [FSp] :               1499 KFZ/h 9:30
+                                                                                                                                             (NSp):    1708 KFZ/h 16:00
+                                       171                                                                                                        6h : 9361 KFZ
+                                                      79                                                        max. Sph /Zufahrt: NORD :                  91 KFZ/h 16:00
+                                                     SÜD                                                                            OST :                 958 KFZ/h 17:00
+                                             F.-Ebert-Str.                                                        DATUM :                      SÜD :      137 KFZ/h 17:00
+                                                                                       1.499 KFZ/h 15.08.2019                                WEST :       626 KFZ/h 7:30
+                                                                   Kfz-Stromverteilung in der FSp 173                                 F.-Ebert-Str. / Reiterweg
+
+
+
+       StromPlan (FSp)173kp8-19.xlsx                                Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                        28.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                               RAD    FSp    88     20                    68     9             185     11,0
+                                                                                                                        NSp   128     87                  208     16             439     20,4
+                                       Russische Kolonie                                                                6h    928    301                   678   104            2011     17,7
+                                                91                                                               NFZ    FSp     5   196                    13   130              344     22,9
+                                                             194                                                        NSp    14   130                    18   100              262     15,3
+                                                                                                                        6h     44   903                     70  571             1588     17,0
+                                       46      31    14      103                                                 SV     FSp     2    83                      4   50              139      9,3
+                                                                                                                        NSp     4    37                      7   22               70      4,1
+                                                                                                                        6h     24   317                     38  158              537      5,7
+                                                                                                                 KFZ FSp       45   778                    79   597            1499       100
+                                                                                                                        NSp    91   933                   135   549            1708       100
+                                                                                                                        6h    347 5039                    589 3386              9361      100
+
+
+
+
+        Reiterweg                                                                                  Alleestraße
+                                                                                                                 FZ     FSp   133   798                   147   606             1684      100
+                    1.537   988                                                18                                       NSp   219  1020                   343   565             2147      100
+                            43                                                 880   933     OST                        6h   1275  5340                  1267  3490            11372      100
+
+WEST
+                    549     481                                                 35                               Q DTVw: 2,4 2134 19451                  2406 20006
+                            25                                                 526   1.459                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                                  nachmittag 23ºC bewölkt, trocken
+
+
+                                                                                                                     Sph-Beginn:      9.00     Uhr und   15.30 Uhr
+                                       91      62    42      31                                                  SUMME Zufahrten: [FSp] :               1499 KFZ/h 9:30
+                                                                                                                                              (NSp):    1708 KFZ/h 16:00
+                                       226                                                                                                         6h : 9361 KFZ
+                                                     135                                                         max. Sph /Zufahrt: NORD :                  91 KFZ/h 16:00
+                                                     SÜD                                                                             OST :                 958 KFZ/h 17:00
+                                             F.-Ebert-Str.                                                         DATUM :                      SÜD :      137 KFZ/h 17:00
+                                                                                        1.708 KFZ/h 15.08.2019                                WEST :       626 KFZ/h 7:30
+                                                                   Kfz-Stromverteilung in der NSp 173                                  F.-Ebert-Str. / Reiterweg
+
+
+
+       StromPlan (NSp)173kp8-19.xlsx                                 Seite 3
+

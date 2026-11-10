@@ -1,0 +1,153 @@
+  SVP, 461                                                                                                                          14.05.2013
+
+
+
+
+                                                                                              FAHRZEUG-VERTEILUNG
+                                                 NORD                                         NORD     SÜD WEST               SUMME %
+                                    Tschudistr.                            RAD        FSp        28         5        6             39            2,6
+
+                                                                                      NSp        17      29          3            49             3,0
+                                              4.238                                   6h        111       95        24           230             2,6
+                                                              8.364        NFZ        FSp      102       95        20           217          14,8
+                                                                                      NSp      102      128        15           245          15,2
+                                      728             3.510    4.126                  6h       537      619       112          1268          14,9
+                                                                           SV         FSp       38       39        10             87             5,9
+                                                                                      NSp       38       34          4            76             4,7
+                                                                                      6h       218      219         31           468             5,5
+                                                                           KFZ        FSp      923      401       142          1466              100
+
+
+
+
+       Amundsenstr.
+                                                                                      NSp      702      742       167          1611              100
+                                                                                      6h      4238     3417       868          8523              100
+                      1.657   789                                          FZ         FSp      951      406       107          1505              100
+                              770                                                     NSp      719      771       188          1660              100
+
+WEST
+                      868
+                              98                                                      6h      4349     3512        851          8712             100
+                                                                           Bemerkungen:
+
+                                                                           - Wetter früh 12°C bewölkt, vereinzelt Regen;
+                                                                            nachmittag 17°C bewölkt, ab 17.00 Uhr Regen
+
+
+                                                                                Sph-Beginn:   7.00 Uhr und 15.30 Uhr
+                                                                           SUMME Zufahrten: [FSp]: 1466 KFZ/h              7:30
+                                      3.608           61       3.356                          (NSp): 1611 KFZ/h            16:00
+                                                                                                 6h : 8523 KFZ
+                                     7.025                                 max. Sph /Zufahrt: NORD     923 KFZ/h           7:30
+                                                     3.417                                      SÜD    759 KFZ/h           17:00
+                                                  SÜD                       DATUM :           WEST     175 KFZ/h           16:30
+                                    Nedlitzer Str.                          31.05.2012
+                                                                            230                 Nedlitzer Str./Amundsenstr.
+
+
+
+  StromPlan 230kp5-12.xls                                              1
+  SVP, 461                                                                                                                                14.05.2013
+
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                            NORD                                                   NORD     SÜD WEST                 SUMME %
+                                  Tschudistr.                                   RAD        FSp        28         5        6              39            2,6
+
+                                                                                           NSp        17      29          3             49             3,0
+                                          923                                              6h        111       95        24            230             2,6
+                                                        1.443                   NFZ        FSp      102       95        20            217          14,8
+                                                                                           NSp      102      128        15            245          15,2
+                                    121         802         520                            6h       537      619       112           1268          14,9
+                                                                                SV         FSp       38       39        10              87             5,9
+                                                                                           NSp       38       34          4             76             4,7
+                                                                                           6h       218      219         31            468             5,5
+                                                                                KFZ        FSp      923      401       142           1466              100
+
+
+
+
+       Amundsenstr.
+                                                                                           NSp      702      742       167           1611              100
+                                                                                           6h      4238     3417       868           8523              100
+                      271   129                                                 FZ         FSp      951      406       107           1505              100
+                            127                                                            NSp      719      771       188           1660              100
+
+WEST
+                      142
+                            15                                                             6h      4349     3512        851           8712             100
+                                                                                Bemerkungen:
+
+                                                                                - Wetter früh 12°C bewölkt, vereinzelt Regen;
+                                                                                 nachmittag 17°C bewölkt, ab 17.00 Uhr Regen
+
+
+
+
+                                    817         8           393                      Sph-Beginn:   7.00 Uhr und 15.30 Uhr
+                                                                                SUMME Zufahrten: [FSp]: 1466 KFZ/h 7:30
+                                   1.218                                                           (NSp): 1611 KFZ/h 16:00
+                                                      401                                            6h : 8523 KFZ
+                                                SÜD                             max. Sph /Zufahrt: NORD    923 KFZ/h 7:30
+                                  Nedlitzer Str.                                                            SÜD        759 KFZ/h 17:00
+                                                                                  DATUM :                  WEST        175 KFZ/h 16:30
+                                                                  1.466 KFZ/h    31.05.2012
+                                      Kfz-Stromverteilung in der FSp             230                 Nedlitzer Str./Amundsenstr.
+
+
+  StromPlan FSP230kp5-12.xls                                         2
+  SVP, 461                                                                                                                                14.05.2013
+
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                            NORD                                                   NORD     SÜD WEST                 SUMME %
+                                  Tschudistr.                                   RAD        FSp        28         5        6              39            2,6
+
+                                                                                           NSp        17      29          3             49             3,0
+                                          702                                              6h        111       95        24            230             2,6
+                                                        1.569                   NFZ        FSp      102       95        20            217          14,8
+                                                                                           NSp      102      128        15            245          15,2
+                                    153         549         867                            6h       537      619       112           1268          14,9
+                                                                                SV         FSp       38       39        10              87             5,9
+                                                                                           NSp       38       34          4             76             4,7
+                                                                                           6h       218      219         31            468             5,5
+                                                                                KFZ        FSp      923      401       142           1466              100
+
+
+
+
+       Amundsenstr.
+                                                                                           NSp      702      742       167           1611              100
+                                                                                           6h      4238     3417       868           8523              100
+                      338   171                                                 FZ         FSp      951      406       107           1505              100
+                            143                                                            NSp      719      771       188           1660              100
+
+WEST
+                      167
+                            24                                                             6h      4349     3512        851           8712             100
+                                                                                Bemerkungen:
+
+                                                                                - Wetter früh 12°C bewölkt, vereinzelt Regen;
+                                                                                 nachmittag 17°C bewölkt, ab 17.00 Uhr Regen
+
+
+
+
+                                    573         18          724                      Sph-Beginn:   7.00 Uhr und 15.30 Uhr
+                                                                                SUMME Zufahrten: [FSp]: 1466 KFZ/h 7:30
+                                   1.315                                                           (NSp): 1611 KFZ/h 16:00
+                                                      742                                            6h : 8523 KFZ
+                                                SÜD                             max. Sph /Zufahrt: NORD    923 KFZ/h 7:30
+                                  Nedlitzer Str.                                                            SÜD        759 KFZ/h 17:00
+                                                                                  DATUM :                  WEST        175 KFZ/h 16:30
+                                                                  1.611 KFZ/h    31.05.2012
+                                      Kfz-Stromverteilung in der NSp             230                 Nedlitzer Str./Amundsenstr.
+
+
+  StromPlan NSP230kp5-12.xls                                         3
+

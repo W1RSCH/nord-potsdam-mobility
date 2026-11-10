@@ -1,0 +1,141 @@
+SVP, 461                                                                                                                                       04.10.2018
+
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                             Zufahrt: NORD OST WEST     SUMME %
+                                                                                        RAD         FSp         20           3         6                 29 3,3
+                                                                                                    NSp           3        12          4                 19 1,9
+                                                                                                    6h           46         36        23                105 2,2
+                                                                                        NFZ         FSp         23         35        98                156 18,5
+                                 NORD                                                               NSp         19         81        32                132 13,6
+                                                                                                    6h         109        321       333                763 16,0
+                         von Stechow Str.                                               SV          FSp           9          9       23                 41  4,9
+                             1.284                                                                  NSp           6           24      4                   34     3,5
+                                        2.469                                                       6h           39       104        79                 222      4,7
+
+                                                                                        KFZ    FSp 394                   171        277                842
+                                         1.185
+                                                                                                                                                                100
+                           445    839                                                          NSp 148                   541        280                969      100
+                                                                                               6h   1284                1954       1536               4774      100
+                                                                                        FZ     FSp   414                 174        283                871      100
+                                                                                               NSp   151                 553        284                988      100
+                                                                                               6h   1330                1990       1559               4879      100
+                                                                                        Q DTVw: 2,2 5432                8587       6987
+    3.176     1.640                                                  759                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                            1.954
+               426                                                  1.195               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+    1.536
+              1.110                                                 1.949   3.903       Bemerkungen :
+                                                                                        - Wetter früh 15ºC bewölkt, vereinzelt Regen;
+                                                                                          nachmittag 18ºC bewölkt, vereinzelt Regen
+                                                                                            Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+
+               WEST        Ketziner Str.                            OST                 SUMME Zufahrten: FSp :                      842 KFZ/h     7:30
+                                                                                                           NSp :                    969 KFZ/h     16:00
+                                                                                                             6h :                  4774 KFZ
+                                                                                        max. Sph /Zufahrt: NORD                     394 KFZ/h     7:30
+                                                                                                            OST                     541 KFZ/h     16:00
+                                                                                         DATUM :           WEST                     331 KFZ/h     8:00
+                                                                              6h Werte 30.08.2018
+                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 286 Ketziner Str./von Stechow Str. - OT Fahrland -
+
+
+
+
+StromPlan286kp8-18.xls                                    Seite 1
+SVP, 461                                                                                                                                         04.10.2018
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD OST WEST     SUMME %
+                                                                                          RAD         FSp         20           3         6                 29 3,3
+                                                                                                      NSp           3        12          4                 19 1,9
+                                                                                                      6h           46         36        23                105 2,2
+                                                                                          NFZ         FSp         23         35        98                156 18,5
+                                         NORD                                                         NSp         19         81        32                132 13,6
+                                                                                                      6h         109        321       333                763 16,0
+                               von Stechow Str.                                           SV          FSp           9          9       23                 41  4,9
+                                       394                                                            NSp           6           24      4                   34     3,5
+                                                   479                                                6h           39       104        79                 222      4,7
+
+                                                                                          KFZ    FSp 394                   171        277                842      100
+                                 124         270   85                                            NSp 148                   541        280                969      100
+                                                                                                 6h   1284                1954       1536               4774      100
+                                                                                          FZ     FSp   414                 174        283                871      100
+                                                                                                 NSp   151                 553        284                988      100
+                                                                                                 6h   1330                1990       1559               4879      100
+                                                                                          Q DTVw: 2,2 5432                8587       6987
+     538        261                                                     34                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                               171
+                 51                                                    137                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     277
+                226                                                    496     667        Bemerkungen :
+                                                                                          - Wetter früh 15ºC bewölkt, vereinzelt Regen;
+                                                                                            nachmittag 18ºC bewölkt, vereinzelt Regen
+                                                                                              Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+
+               WEST              Ketziner Str.                         OST                SUMME Zufahrten: FSp :                      842 KFZ/h     7:30
+                                                                                                             NSp :                    969 KFZ/h     16:00
+                                                                                                               6h :                  4774 KFZ
+                                                                                          max. Sph /Zufahrt: NORD                     394 KFZ/h     7:30
+                                                                                                              OST                     541 KFZ/h     16:00
+                                                                                           DATUM :           WEST                     331 KFZ/h     8:00
+                                                                               842 KFZ/h 30.08.2018
+                                                         Kfz-Stromverteilung in der FSp 286 Ketziner Str./von Stechow Str. - OT Fahrland -
+
+
+
+
+StromPlan (FSp)286kp8-18.xls                                 Seite 2
+SVP, 461                                                                                                                                       04.10.2018
+
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                             Zufahrt: NORD OST WEST     SUMME %
+                                                                                        RAD         FSp         20           3         6                 29 3,3
+                                                                                                    NSp           3        12          4                 19 1,9
+                                                                                                    6h           46         36        23                105 2,2
+                                                                                        NFZ         FSp         23         35        98                156 18,5
+                                        NORD                                                        NSp         19         81        32                132 13,6
+                                                                                                    6h         109        321       333                763 16,0
+                               von Stechow Str.                                         SV          FSp           9          9       23                 41  4,9
+                                      148                                                           NSp           6           24      4                   34     3,5
+                                                 486                                                6h           39       104        79                 222      4,7
+
+                                                                                        KFZ    FSp 394                   171        277                842      100
+                                 65         83   338                                           NSp 148                   541        280                969      100
+                                                                                               6h   1284                1954       1536               4774      100
+                                                                                        FZ     FSp   414                 174        283                871      100
+                                                                                               NSp   151                 553        284                988      100
+                                                                                               6h   1330                1990       1559               4879      100
+                                                                                        Q DTVw: 2,2 5432                8587       6987
+     656        376                                                  230                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                             541
+                108                                                  311                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     280
+                172                                                  255     796        Bemerkungen :
+                                                                                        - Wetter früh 15ºC bewölkt, vereinzelt Regen;
+                                                                                          nachmittag 18ºC bewölkt, vereinzelt Regen
+                                                                                            Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+
+               WEST              Ketziner Str.                       OST                SUMME Zufahrten: FSp :                      842 KFZ/h     7:30
+                                                                                                           NSp :                    969 KFZ/h     16:00
+                                                                                                             6h :                  4774 KFZ
+                                                                                        max. Sph /Zufahrt: NORD                     394 KFZ/h     7:30
+                                                                                                            OST                     541 KFZ/h     16:00
+                                                                                         DATUM :           WEST                     331 KFZ/h     8:00
+                                                                             969 KFZ/h 30.08.2018
+                                                       Kfz-Stromverteilung in der NSp 286 Ketziner Str./von Stechow Str. - OT Fahrland -
+
+
+
+
+StromPlan (NSp)286kp8-18.xls                               Seite 3
+

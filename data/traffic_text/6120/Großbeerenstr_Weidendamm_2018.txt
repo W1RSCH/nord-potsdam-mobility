@@ -1,0 +1,125 @@
+  Landeshauptstadt Potsdam                                                                                                                                29.11.2018
+  Bereich Verkehrsentwicklung
+                                               (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                        Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                   RAD         FSp        106         21    134                    261     16,6
+                                                                                                               NSp        171         51    194                    416     22,1
+                                                                                                               6h         812        227    972                   2011     20,9
+
+Großbeerenstr.                                                      Großbeerenstr. NFZ                         FSp         76        38      98                   212      16,1
+                                                                                                               NSp         52        18      66                   136       9,3
+                                                                                                               6h         370       185     459                  1014      13,3
+                    WEST                                           OST                             SV          FSp         25        10      11                    46       3,5
+                                                                                                               NSp         19         1      10                    30       2,0
+                                                                                                               6h         122        23      82                   227       3,0
+                                                                                                   KFZ         FSp        525       227     563                  1315       100
+
+6.527    3.285                                                                  2.428                          NSp        561       278     628                  1467       100
+                                                                                           2.942
+                                                                                 514                           6h       2942       1437    3242                  7621       100
+
+         2.306                                                                                     FZ          FSp        631        248    697                   1576      100
+3.242
+          936                                                                   2.886      5.828          NSp    732                329   822                     1883      100
+                                                                                                          6h    3754               1664 4214                      9632      100
+                                                                                                   Q DTVw: 2,4 13696               6784 15338
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+
+                                 1.450    857     580                                              - Baustelle Nuthestraße in beiden Richtungen
+                                                                                                   - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+                                2.887                                                                   Sph-Beginn:       8.00 Uhr und     16.00 Uhr
+                                           1.437                                                   SUMME Zufahrten: [FSp]:                 1315 KFZ/h 8:30
+                                Weidendamm                                                                            (NSp): 1467 KFZ/h                      16:30
+                                                                                                                        6h : 7621 KFZ
+                                         SÜD                                                       max. Sph /Zufahrt:   OST   561 KFZ/h                      16:30
+                                                                                                                        SÜD   318 KFZ/h                      17:30
+                                                                                                    DATUM :            WEST   628 KFZ/h                      16:30
+                                                                                        6h Werte 19.04.2018
+                                          von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 612                             Großbeerenstr./Weidendamm
+  StromPlan612kp4-18.xls                                              Seite 1
+  Landeshauptstadt Potsdam                                                                                                                          29.11.2018
+  Bereich Verkehrsentwicklung
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp        106         21    134                    261     16,6
+                                                                                                         NSp        171         51    194                    416     22,1
+                                                                                                         6h         812        227    972                   2011     20,9
+
+Großbeerenstr.                                                     Großbeerenstr. NFZ                    FSp         76        38      98                   212      16,1
+                                                                                                         NSp         52        18      66                   136       9,3
+                                                                                                         6h         370       185     459                  1014      13,3
+                    WEST                                          OST                        SV          FSp         25        10      11                    46       3,5
+                                                                                                         NSp         19         1      10                    30       2,0
+                                                                                                         6h         122        23      82                   227       3,0
+                                                                                             KFZ         FSp        525       227     563                  1315       100
+
+1.121     558                                                                  430                       NSp        561       278     628                  1467       100
+                                                                                      525
+                                                                                95                       6h       2942       1437    3242                  7621       100
+
+          381                                                                                FZ          FSp        631        248    697                   1576      100
+ 563
+          182                                                                  480   1.005          NSp    732                329   822                     1883      100
+                                                                                                    6h    3754               1664 4214                      9632      100
+                                                                                             Q DTVw: 2,4 13696               6784 15338
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                  277    128     99                                          - Baustelle Nuthestraße in beiden Richtungen
+                                                                                             - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+                                  504                                                             Sph-Beginn:       8.00 Uhr und     16.00 Uhr
+                                              227                                            SUMME Zufahrten: [FSp]:                 1315 KFZ/h 8:30
+                                 Weidendamm                                                                     (NSp): 1467 KFZ/h                      16:30
+                                                                                                                  6h : 7621 KFZ
+                                        SÜD                                                  max. Sph /Zufahrt:   OST   561 KFZ/h                      16:30
+                                                                                                                  SÜD   318 KFZ/h                      17:30
+                                                                                              DATUM :            WEST   628 KFZ/h                      16:30
+                                                                               1.315 KFZ/h 19.04.2018
+                                                      Kfz-Stromverteilung in der FSp 612                      Großbeerenstr./Weidendamm
+  StromPlan (FSp)612kp4-18.xls                                       Seite 2
+  Landeshauptstadt Potsdam                                                                                                                          29.11.2018
+  Bereich Verkehrsentwicklung
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp        106         21    134                    261     16,6
+                                                                                                         NSp        171         51    194                    416     22,1
+                                                                                                         6h         812        227    972                   2011     20,9
+
+Großbeerenstr.                                                     Großbeerenstr. NFZ                    FSp         76        38      98                   212      16,1
+                                                                                                         NSp         52        18      66                   136       9,3
+                                                                                                         6h         370       185     459                  1014      13,3
+                    WEST                                          OST                        SV          FSp         25        10      11                    46       3,5
+                                                                                                         NSp         19         1      10                    30       2,0
+                                                                                                         6h         122        23      82                   227       3,0
+                                                                                             KFZ         FSp        525       227     563                  1315       100
+
+1.231     603                                                                  437                       NSp        561       278     628                  1467       100
+                                                                                      561
+                                                                               124                       6h       2942       1437    3242                  7621       100
+
+          450                                                                                FZ          FSp        631        248    697                   1576      100
+ 628
+          178                                                                  562   1.123          NSp    732                329   822                     1883      100
+                                                                                                    6h    3754               1664 4214                      9632      100
+                                                                                             Q DTVw: 2,4 13696               6784 15338
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                  302    166     112                                         - Baustelle Nuthestraße in beiden Richtungen
+                                                                                             - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+                                  580                                                             Sph-Beginn:       8.00 Uhr und     16.00 Uhr
+                                              278                                            SUMME Zufahrten: [FSp]:                 1315 KFZ/h 8:30
+                                 Weidendamm                                                                     (NSp): 1467 KFZ/h                      16:30
+                                                                                                                  6h : 7621 KFZ
+                                        SÜD                                                  max. Sph /Zufahrt:   OST   561 KFZ/h                      16:30
+                                                                                                                  SÜD   318 KFZ/h                      17:30
+                                                                                              DATUM :            WEST   628 KFZ/h                      16:30
+                                                                               1.467 KFZ/h 19.04.2018
+                                                       Kfz-Stromverteilung in der NSp 612                     Großbeerenstr./Weidendamm
+  StromPlan (NSp)612kp4-18.xls                                       Seite 3
+

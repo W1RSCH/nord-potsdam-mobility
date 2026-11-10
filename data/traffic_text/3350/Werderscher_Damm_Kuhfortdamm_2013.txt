@@ -1,0 +1,130 @@
+   SVP, 461                                                                                                                                             08.10.2015
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                              NORD OST WEST     SUMME %
+                                                                                            RAD        FSp          7         2         6                      15      2,9
+                                                                                                       NSp          9         3         9                      21      3,7
+                                                                                                       6h          34        15        46                      95      3,4
+                                                                                            NFZ        FSp         40        14        15                      69     14,0
+
+                                       NORD                                                            NSp         31        26        25                      82     14,9
+                                                                                                       6h         146       103       132                     381     14,3
+                              Kuhfortdamm                                                   SV         FSp         16         5         3                      24      4,9
+                                                                                                       NSp          8         7         7                      22      4,0
+                                     981
+                                                 1.907                                                 6h          44         31        35                    110      4,1
+                                                                                            KFZ        FSp       190        96       208                       494    100
+                               663         318    926                                                  NSp       206       131       213                       550    100
+                                                                                                       6h        981       629      1063                      2673    100
+                                                                                            FZ         FSp       197        98       214                       509    100
+                                                                                                       NSp       215       134       222                       571    100
+
+                                                                                                       6h       1015        644     1109                      2768    100
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+2.034    971                                                               321              Bemerkungen :
+                                                                                    629
+         605                                                               308              - Zu- / Abfahrt Süd nicht gezählt, nicht relevant
+1.063
+         458                                                               776      1.405 - WETTER: früh 10ºC trocken; nachmittag 15ºC leicht bewölkt, trocken
+
+                                                                                                       Sph-Beginn:        7.00     Uhr und      16.00   Uhr
+                                                                                            SUMME Zufahrten:            FSp :        494 KFZ/h            7:30
+        WEST                Werderscher Damm                               OST                                          NSp :        550 KFZ/h            16:30
+                                                                                                                6h :                2673 KFZ
+                                                                                            max. Sph /Zufahrt: NORD                  213 KFZ/h 16:00
+                                                                                                                OST                  139 KFZ/h 17:00
+                                                                                             DATUM :           WEST                  213 KFZ/h 16:30
+                                                                                 6h Werte 12.09.2013
+                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 335                  Werderscher Damm/Kuhfortdamm
+
+   StromPlan335kp9-13.xls                                        Seite 1
+  SVP, 461                                                                                                                                                08.10.2015
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                NORD OST WEST     SUMME %
+                                                                                              RAD        FSp          7         2         6                      15      2,9
+                                                                                                         NSp          9         3         9                      21      3,7
+                                                                                                         6h          34        15        46                      95      3,4
+                                                                                              NFZ        FSp         40        14        15                      69     14,0
+
+                                            NORD                                                         NSp         31        26        25                      82     14,9
+                                                                                                         6h         146       103       132                     381     14,3
+                                   Kuhfortdamm                                                SV         FSp         16         5         3                      24      4,9
+                                                                                                         NSp          8         7         7                      22      4,0
+                                          190
+                                                     342                                                 6h          44         31        35                    110      4,1
+                                                                                              KFZ        FSp       190        96       208                       494    100
+                                    105         85   152                                                 NSp       206       131       213                       550    100
+                                                                                                         6h        981       629      1063                      2673    100
+                                                                                              FZ         FSp       197        98       214                       509    100
+                                                                                                         NSp       215       134       222                       571    100
+
+                                                                                                         6h       1015        644     1109                      2768    100
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+363     155                                                                     46            Bemerkungen :
+                                                                                       96
+        106                                                                     50            - Zu- / Abfahrt Süd nicht gezählt, nicht relevant
+208
+        102                                                                     187     283 - WETTER: früh 10ºC trocken; nachmittag 15ºC leicht bewölkt, trocken
+
+                                                                                                         Sph-Beginn:        7.00     Uhr und      16.00   Uhr
+                                                                                              SUMME Zufahrten:            FSp :        494 KFZ/h            7:30
+       WEST                      Werderscher Damm                               OST                                       NSp :        550 KFZ/h            16:30
+                                                                                                                  6h :                2673 KFZ
+                                                                                              max. Sph /Zufahrt: NORD                  213 KFZ/h 16:00
+                                                                                                                  OST                  139 KFZ/h 17:00
+                                                                                               DATUM :           WEST                  213 KFZ/h 16:30
+                                                                                 494 KFZ/h 12.09.2013
+                                                           Kfz-Stromverteilung in der FSp 335                 Werderscher Damm/Kuhfortdamm
+
+  StromPlan (FSp)335kp9-13.xls                                        Seite 2
+  SVP, 461                                                                                                                                                08.10.2015
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                NORD OST WEST     SUMME %
+                                                                                              RAD        FSp          7         2         6                      15      2,9
+                                                                                                         NSp          9         3         9                      21      3,7
+                                                                                                         6h          34        15        46                      95      3,4
+                                                                                              NFZ        FSp         40        14        15                      69     14,0
+
+                                            NORD                                                         NSp         31        26        25                      82     14,9
+                                                                                                         6h         146       103       132                     381     14,3
+                                   Kuhfortdamm                                                SV         FSp         16         5         3                      24      4,9
+                                                                                                         NSp          8         7         7                      22      4,0
+                                          206
+                                                     388                                                 6h          44         31        35                    110      4,1
+                                                                                              KFZ        FSp       190        96       208                       494    100
+                                    153         53   182                                                 NSp       206       131       213                       550    100
+                                                                                                         6h        981       629      1063                      2673    100
+                                                                                              FZ         FSp       197        98       214                       509    100
+                                                                                                         NSp       215       134       222                       571    100
+
+                                                                                                         6h       1015        644     1109                      2768    100
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+438     225                                                                     59            Bemerkungen :
+                                                                                      131
+        123                                                                     72            - Zu- / Abfahrt Süd nicht gezählt, nicht relevant
+213
+        90                                                                      143     274 - WETTER: früh 10ºC trocken; nachmittag 15ºC leicht bewölkt, trocken
+
+                                                                                                         Sph-Beginn:        7.00     Uhr und      16.00   Uhr
+                                                                                              SUMME Zufahrten:            FSp :        494 KFZ/h            7:30
+       WEST                      Werderscher Damm                               OST                                       NSp :        550 KFZ/h            16:30
+                                                                                                                  6h :                2673 KFZ
+                                                                                              max. Sph /Zufahrt: NORD                  213 KFZ/h 16:00
+                                                                                                                  OST                  139 KFZ/h 17:00
+                                                                                               DATUM :           WEST                  213 KFZ/h 16:30
+                                                                                 550 KFZ/h 12.09.2013
+                                                           Kfz-Stromverteilung in der NSp 335                 Werderscher Damm/Kuhfortdamm
+
+  StromPlan (NSp)335kp9-13.xls                                        Seite 3
+

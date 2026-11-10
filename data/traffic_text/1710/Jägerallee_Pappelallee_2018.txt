@@ -1,0 +1,164 @@
+Landeshauptstadt Potsdam                                                                                                                                                  16.11.2018
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                       NORD                                                 Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                           Am Schragen                                                 RAD    FSp     60     92                       78                    230        11,0
+                                                                                                              NSp     69   109                        45                    223         9,2
+                                                                                                              6h     378    535                      361                   1274         9,7
+                                                    3.432
+                                                                        7.442                          NFZ    FSp     87   192                       59                    338         18,2
+                                                                                                              NSp     85   140                       36                    261         11,8
+                                            74              3.358           4.010                             6h     544   884                      271                   1699         14,3
+                                                                                                       SV     FSp     32    90                       22                    144          7,8
+                                                                                                              NSp     25    62                         7                     94         4,2
+                                                                                                              6h     211   358                        75                    644         5,4
+                                                                                                       KFZ FSp 539         884                      435                   1858         100
+                                                                                                              NSp 605 1315                          294                   2214         100
+
+
+
+
+             Pappelallee
+                                                                                                              6h    3432 6267                      2171                  11870         100
+                           4.638   2.467                                                               FZ     FSp    599   976                      513                   2088         100
+                                    136                                                                       NSp    674  1424                      339                   2437         100
+
+      WEST
+                           2.171
+                                   2.035                                                                      6h    3810  6802                     2532                  13144         100
+                                                                                                       Q DTVw: 2,4 17489 27401                    10899
+                                                                                                       Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                       Bemerkungen :
+                                                                                                       - Teilzählung - Zuf. NG + Zuf. SG durch KP170 errechnet
+                                                                                                       - Wetter früh 15ºC leicht bewölkt, sonnig; nachm. 26ºC leicht bewölkt, sonnig
+
+                                            5.393           2.393           3.874
+                                                                                                           Sph-Beginn:      8.00     Uhr und     16.00     Uhr
+                                           11.660                                                      SUMME Zufahrten: FSp :                      1858 KFZ/h          8:30
+                                                                    6.267
+                                                                                                                        NSp :                      2214 KFZ/h          16:30
+                                                        SÜD                                                              6h :                     11870 KFZ
+                                            Jägerallee                                                 max. Sph /Zufahrt:             NORD           661 KFZ/h         9:30
+                                                                                                                                        SÜD         1321 KFZ/h         17:00
+
+                                                                                                         DATUM :                      WEST           534 KFZ/h         7:30
+                                                                                              6h Werte 24.05.2018
+                                            von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 171                                              Jägerallee/Pappelallee
+
+
+
+StromPlan171kp5-18.xlsx                                                             Seite 1
+Landeshauptstadt Potsdam                                                                                                                                        16.11.2018
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                 NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                       Am Schragen                                           RAD    FSp     60     92                       78                    230        11,0
+                                                                                                    NSp     69   109                        45                    223         9,2
+                                                                                                    6h     378    535                      361                   1274         9,7
+                                               539
+                                                             1.078                           NFZ    FSp     87   192                       59                    338         18,2
+                                                                                                    NSp     85   140                       36                    261         11,8
+                                         12          527         539                                6h     544   884                      271                   1699         14,3
+                                                                                             SV     FSp     32    90                       22                    144          7,8
+                                                                                                    NSp     25    62                         7                     94         4,2
+                                                                                                    6h     211   358                        75                    644         5,4
+                                                                                             KFZ FSp 539         884                      435                   1858         100
+                                                                                                    NSp 605 1315                          294                   2214         100
+
+
+
+
+             Pappelallee
+                                                                                                    6h    3432 6267                      2171                  11870         100
+                           812   377                                                         FZ     FSp    599   976                      513                   2088         100
+                                 20                                                                 NSp    674  1424                      339                   2437         100
+
+      WEST
+                           435
+                                 415                                                                6h    3810  6802                     2532                  13144         100
+                                                                                             Q DTVw: 2,4 17489 27401                    10899
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                             Bemerkungen :
+                                                                                             - Teilzählung - Zuf. NG + Zuf. SG durch KP170 errechnet
+                                                                                             - Wetter früh 15ºC leicht bewölkt, sonnig; nachm. 26ºC leicht bewölkt, sonnig
+                                         942         365         519
+                                                                                                 Sph-Beginn:      8.00     Uhr und     16.00     Uhr
+                                        1.826                                                SUMME Zufahrten: FSp :                      1858 KFZ/h          8:30
+                                                           884
+                                                                                                              NSp :                      2214 KFZ/h          16:30
+                                                     SÜD                                                       6h :                     11870 KFZ
+                                        Jägerallee                                           max. Sph /Zufahrt:             NORD           661 KFZ/h         9:30
+                                                                                                                              SÜD         1321 KFZ/h         17:00
+
+                                                                                               DATUM :                      WEST           534 KFZ/h         7:30
+                                                                                 1.858 KFZ/h 24.05.2018
+                                                       Kfz-Stromverteilung in der FSp 171                                    Jägerallee/Pappelallee
+
+
+
+StromPlan (FSp)171kp5-18.xlsx                                          Seite 2
+Landeshauptstadt Potsdam                                                                                                                                          16.11.2018
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                 NORD                                               Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                       Am Schragen                                             RAD    FSp     60     92                       78                    230        11,0
+                                                                                                      NSp     69   109                        45                    223         9,2
+                                                                                                      6h     378    535                      361                   1274         9,7
+                                               605
+                                                               1.485                           NFZ    FSp     87   192                       59                    338         18,2
+                                                                                                      NSp     85   140                       36                    261         11,8
+                                         11          594           880                                6h     544   884                      271                   1699         14,3
+                                                                                               SV     FSp     32    90                       22                    144          7,8
+                                                                                                      NSp     25    62                         7                     94         4,2
+                                                                                                      6h     211   358                        75                    644         5,4
+                                                                                               KFZ FSp 539         884                      435                   1858         100
+                                                                                                      NSp 605 1315                          294                   2214         100
+
+
+
+
+             Pappelallee
+                                                                                                      6h    3432 6267                      2171                  11870         100
+                           762   468                                                           FZ     FSp    599   976                      513                   2088         100
+                                 22                                                                   NSp    674  1424                      339                   2437         100
+
+      WEST
+                           294
+                                 272                                                                  6h    3810  6802                     2532                  13144         100
+                                                                                               Q DTVw: 2,4 17489 27401                    10899
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                               Bemerkungen :
+                                                                                               - Teilzählung - Zuf. NG + Zuf. SG durch KP170 errechnet
+                                                                                               - Wetter früh 15ºC leicht bewölkt, sonnig; nachm. 26ºC leicht bewölkt, sonnig
+                                         866         457           858
+                                                                                                   Sph-Beginn:      8.00     Uhr und     16.00     Uhr
+                                        2.181                                                  SUMME Zufahrten: FSp :                      1858 KFZ/h          8:30
+                                                           1.315
+                                                                                                                NSp :                      2214 KFZ/h          16:30
+                                                     SÜD                                                         6h :                     11870 KFZ
+                                        Jägerallee                                             max. Sph /Zufahrt:             NORD           661 KFZ/h         9:30
+                                                                                                                                SÜD         1321 KFZ/h         17:00
+
+                                                                                                 DATUM :                      WEST           534 KFZ/h         7:30
+                                                                                   2.214 KFZ/h 24.05.2018
+                                                      Kfz-Stromverteilung in der NSp 171                                       Jägerallee/Pappelallee
+
+
+
+StromPlan (NSp)171kp5-18.xlsx                                            Seite 3
+

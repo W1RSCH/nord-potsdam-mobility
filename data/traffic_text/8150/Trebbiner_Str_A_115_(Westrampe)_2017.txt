@@ -1,0 +1,133 @@
+SVP, 461                                                                                                                                                   07.08.2017
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                            Zufahrt: NORD OST WEST     SUMME %
+                                                                                       RAD         FSp         0              8      14                     22  1,8
+                                                                                                   NSp         0             37      23                     60  3,8
+                                                                                                   6h          0             84      69                    153 2,1
+                                                                                       NFZ         FSp       105             85     144                    334 28,2
+                                  NORD                                                             NSp       124          51         64                    239 15,9
+                                                                                                   6h        650         305        616                   1571 22,2
+                                  A115                                                 SV          FSp        60          55         85                    200 16,9
+                                                                                                   NSp        55          20         33                    108  7,2
+                              2.844          3.455                                                 6h   334             163         392                    889 12,5
+                                                                                       KFZ         FSp 340              351         492                   1183 100
+                          1.615    1.229       611                                                 NSp 659              277         564                   1500 100
+                                                                                                   6h  2844            1442        2804                   7090 100
+                                                                                       FZ          FSp 340              359         506                   1205 100
+                                                                                                   NSp 659              314         587                   1560 100
+                                                                                                   6h       2844 1526 2873                                7243   100
+                                                                                       Q DTVw:2,20          7601 10793 12802
+    5.819     3.015                                                   42               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                               1.442
+               569                                                   1.400             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+    2.804
+              2.235                                                  3.464      4.906 Bemerkungen :
+                                                                                       - Teilzählung (Zuf. OG + WG durch KP816 errechnet)
+                                                                                       - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+                                                                                                   Sph-Beginn:         7.00       Uhr und   16.00   Uhr
+
+               WEST      Trebbiner Str.                              OST               SUMME Zufahrten:   [FSp] : 1183 KFZ/h   7:30
+                                                                                                          [NSp] : 1500 KFZ/h 16:30
+                                                                                                           6h : 7090 KFZ
+                                                                                       max. Sph /Zufahrt: NORD     709 KFZ/h 16:00
+                                                                                                            OST    351 KFZ/h 7:30
+                                                                                        DATUM :           WEST     564 KFZ/h 16:30
+                                                                             6h Werte 15.06.2017
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 815 Trebbiner Str./A115 (Westrampe)
+
+
+
+StromPlan815kp6-17.xls                                     Seite 1
+SVP, 461                                                                                                                                                   07.08.2017
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                            Zufahrt: NORD OST WEST     SUMME %
+                                                                                       RAD         FSp         0              8      14                     22  1,8
+                                                                                                   NSp         0             37      23                     60  3,8
+                                                                                                   6h          0             84      69                    153 2,1
+                                                                                       NFZ         FSp       105             85     144                    334 28,2
+                                        NORD                                                       NSp       124          51         64                    239 15,9
+                                                                                                   6h        650         305        616                   1571 22,2
+                                       A115                                            SV          FSp        60          55         85                    200 16,9
+                                                                                                   NSp        55          20         33                    108  7,2
+                                      340        425                                               6h   334             163         392                    889 12,5
+                                                                                       KFZ         FSp 340              351         492                   1183 100
+                                241         99   85                                                NSp 659              277         564                   1500 100
+                                                                                                   6h  2844            1442        2804                   7090 100
+                                                                                       FZ          FSp 340              359         506                   1205 100
+                                                                                                   NSp 659              314         587                   1560 100
+                                                                                                   6h       2844 1526 2873                                7243   100
+                                                                                       Q DTVw:2,20          7601 10793 12802
+    1.076       584                                                       8            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                 351
+                 77                                                      343           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     492
+                415                                                      514     865   Bemerkungen :
+                                                                                       - Teilzählung (Zuf. OG + WG durch KP816 errechnet)
+                                                                                       - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+                                                                                                   Sph-Beginn:         7.00       Uhr und   16.00   Uhr
+
+               WEST            Trebbiner Str.                            OST           SUMME Zufahrten:   [FSp] : 1183 KFZ/h   7:30
+                                                                                                          [NSp] : 1500 KFZ/h 16:30
+                                                                                                           6h : 7090 KFZ
+                                                                                       max. Sph /Zufahrt: NORD     709 KFZ/h 16:00
+                                                                                                            OST    351 KFZ/h 7:30
+                                                                                        DATUM :           WEST     564 KFZ/h 16:30
+                                                                         1.183   KFZ/h 15.06.2017
+                                                       Kfz-Stromverteilung in der FSp 815 Trebbiner Str./A115 (Westrampe)
+
+
+
+StromPlan (FSp)815kp6-17.xls                                   Seite 2
+SVP, 461                                                                                                                                                      07.08.2017
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD OST WEST     SUMME %
+                                                                                          RAD         FSp         0              8      14                     22  1,8
+                                                                                                      NSp         0             37      23                     60  3,8
+                                                                                                      6h          0             84      69                    153 2,1
+                                                                                          NFZ         FSp       105             85     144                    334 28,2
+                                        NORD                                                          NSp       124          51         64                    239 15,9
+                                                                                                      6h        650         305        616                   1571 22,2
+                                       A115                                               SV          FSp        60          55         85                    200 16,9
+                                                                                                      NSp        55          20         33                    108  7,2
+                                      659         804                                                 6h   334             163         392                    889 12,5
+                                                                                          KFZ         FSp 340              351         492                   1183 100
+                                336         323   145                                                 NSp 659              277         564                   1500 100
+                                                                                                      6h  2844            1442        2804                   7090 100
+                                                                                          FZ          FSp 340              359         506                   1205 100
+                                                                                                      NSp 659              314         587                   1560 100
+                                                                                                      6h       2844 1526 2873                                7243   100
+                                                                                          Q DTVw:2,20          7601 10793 12802
+    1.169       605                                                        8              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                  277
+                137                                                       269             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     564
+                427                                                       750     1.027   Bemerkungen :
+                                                                                          - Teilzählung (Zuf. OG + WG durch KP816 errechnet)
+                                                                                          - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+                                                                                                      Sph-Beginn:         7.00       Uhr und   16.00   Uhr
+
+               WEST            Trebbiner Str.                             OST             SUMME Zufahrten:   [FSp] : 1183 KFZ/h   7:30
+                                                                                                             [NSp] : 1500 KFZ/h 16:30
+                                                                                                              6h : 7090 KFZ
+                                                                                          max. Sph /Zufahrt: NORD     709 KFZ/h 16:00
+                                                                                                               OST    351 KFZ/h 7:30
+                                                                                           DATUM :           WEST     564 KFZ/h 16:30
+                                                                          1.500   KFZ/h 15.06.2017
+                                                        Kfz-Stromverteilung in der NSp 815 Trebbiner Str./A115 (Westrampe)
+
+
+
+StromPlan (NSp)815kp6-17.xls                                    Seite 3
+

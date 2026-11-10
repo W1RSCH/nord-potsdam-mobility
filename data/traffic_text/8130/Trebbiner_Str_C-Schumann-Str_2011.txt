@@ -1,0 +1,130 @@
+                                                                                                                                      12.10.2011
+
+
+                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                     Nord OST WEST   SUMME %
+                                                                RAD         FSp            4         3          6                          13          2,8
+                                                                            NSp            6         8          6                          20          3,9
+                                                                            6h            30        34         32                           96         3,9
+                                                                NFZ         FSp          24        43         15                           82         18,3
+                              Nord                                          NSp          13        33         11                           57         11,6
+                                                                            6h           90       186         70                          346         14,6
+                    C.-Schumann-Str.                            SV          FSp            7       10           2                          19          4,3
+                                                                            NSp            5         6          0                          11          2,2
+                            680         1.311                               6h           27         50         12                          89          3,8
+
+                      111         569    631                    KFZ         FSp        184        194         69                         447          100
+                                                                            NSp        100        259        132                         491          100
+                                                                            6h         680       1145        539                        2364          100
+                                                                FZ          FSp        188        197          75                        460          100
+                                                                            NSp        106        267        138                         511          100
+                                                                            6h          710      1179         571                       2460          100
+                                                                Bemerkungen:
+
+1.257         718                                 538           - Wetter früh 13 º C bewölkt, trocken; nachmittags 22 º C leicht bewölkt und sonnig
+                                                        1.145
+               93                                 607
+  539
+              446                               1.015   2.160
+
+
+
+
+        WEST         Trebbiner Str.             OST                  Sph-Beginn:     7.00 Uhr und 16.30 Uhr
+                                                                SUMME Zufahrten: [FSp]: 447 KFZ/h 7:30
+                                                                                   (NSp): 491 KFZ/h 17:00
+                                                                                     6h : 2364 KFZ
+                                                                max. Sph /Zufahrt: Nord    184 KFZ/h 7:30
+                                                                                     OST   260 KFZ/h 16:30
+                                                                DATUM :            WEST    132 KFZ/h 17:00
+                                                                01.09.2011
+                                                                 813                   Trebbiner Str. /C.-Schumann-Str.
+
+   SVP, 461                                                                                                           StromPlan813kp9-11.xls
+                                                                                                                                                    12.10.2011
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                   Nord OST WEST   SUMME %
+                                                                              RAD         FSp            4         3          6                          13          2,8
+                                                                                          NSp            6         8          6                          20          3,9
+                                                                                          6h            30        34         32                           96         3,9
+                                                                              NFZ         FSp          24        43         15                           82         18,3
+                            Nord                                                          NSp          13        33         11                           57         11,6
+                                                                                          6h           90       186         70                          346         14,6
+                   C.-Schumann-Str.                                           SV          FSp            7       10           2                          19          4,3
+                                                                                          NSp            5         6          0                          11          2,2
+                          184         286                                                 6h           27         50         12                          89          3,8
+
+                     27         157   102                                     KFZ         FSp        184        194         69                         447          100
+                                                                                          NSp        100        259        132                         491          100
+                                                                                          6h         680       1145        539                        2364          100
+                                                                              FZ          FSp        188        197          75                        460          100
+                                                                                          NSp        106        267        138                         511          100
+                                                                                          6h          710      1179         571                       2460          100
+                                                                              Bemerkungen:
+
+212          143                                                78            - Wetter früh 13 º C bewölkt, trocken; nachmittags 22 º C leicht bewölkt und sonnig
+                                                                        194
+              24                                               116
+  69
+              45                                               202      396
+
+
+
+
+       WEST         Trebbiner Str.                           OST                   Sph-Beginn:     7.00 Uhr und 16.30 Uhr
+                                                                              SUMME Zufahrten: [FSp]: 447 KFZ/h 7:30
+                                                                                                 (NSp): 491 KFZ/h 17:00
+                                                                                                   6h : 2364 KFZ
+                                                                              max. Sph /Zufahrt: Nord    184 KFZ/h 7:30
+                                                                                                   OST   260 KFZ/h 16:30
+                                                                              DATUM :            WEST    132 KFZ/h 17:00
+                                                               447 KFZ/h      01.09.2011
+                                            Kfz-Stromverteilung in der FSp     813                   Trebbiner Str. /C.-Schumann-Str.
+
+  SVP, 461                                                                                                                     StromPlan FSp813kp9-11.xls
+                                                                                                                                                   12.10.2011
+
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                  Nord OST WEST   SUMME %
+                                                                             RAD         FSp            4         3          6                          13          2,8
+                                                                                         NSp            6         8          6                          20          3,9
+                                                                                         6h            30        34         32                           96         3,9
+                                                                             NFZ         FSp          24        43         15                           82         18,3
+                            Nord                                                         NSp          13        33         11                           57         11,6
+                                                                                         6h           90       186         70                          346         14,6
+                   C.-Schumann-Str.                                          SV          FSp            7       10           2                          19          4,3
+                                                                                         NSp            5         6          0                          11          2,2
+                          100        252                                                 6h           27         50         12                          89          3,8
+
+                     23         77   152                                     KFZ         FSp        184        194         69                         447          100
+                                                                                         NSp        100        259        132                         491          100
+                                                                                         6h         680       1145        539                        2364          100
+                                                                             FZ          FSp        188        197          75                        460          100
+                                                                                         NSp        106        267        138                         511          100
+                                                                                         6h          710      1179         571                       2460          100
+                                                                             Bemerkungen:
+
+282          150                                              132            - Wetter früh 13 º C bewölkt, trocken; nachmittags 22 º C leicht bewölkt und sonnig
+                                                                       259
+              20                                              127
+ 132
+             112                                              189      448
+
+
+
+
+       WEST         Trebbiner Str.                          OST                   Sph-Beginn:     7.00 Uhr und 16.30 Uhr
+                                                                             SUMME Zufahrten: [FSp]: 447 KFZ/h 7:30
+                                                                                                (NSp): 491 KFZ/h 17:00
+                                                                                                  6h : 2364 KFZ
+                                                                             max. Sph /Zufahrt: Nord    184 KFZ/h 7:30
+                                                                                                  OST   260 KFZ/h 16:30
+                                                                             DATUM :            WEST    132 KFZ/h 17:00
+                                                              491 KFZ/h      01.09.2011
+                                           Kfz-Stromverteilung in der NSp     813                   Trebbiner Str. /C.-Schumann-Str.
+
+  SVP, 461                                                                                                                   StromPlan NSp813kp9-11.xls
+

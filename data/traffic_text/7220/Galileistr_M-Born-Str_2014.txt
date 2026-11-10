@@ -1,0 +1,120 @@
+                                                                                                                                      15.07.2015
+
+
+
+                                         (7:00 bis 10:00 u. 15:00 bis 18:00)                             FAHRZEUG-VERTEILUNG
+                                                                                                          OST SÜD WEST     SUMME %
+                                                                                     RAD           FSp      22      4      19                  45   9,6
+                                                                                                   NSp      15      3      12                  30   4,8
+                                                                                                   6h       98     19      86                 203   6,7
+
+                              Galileistr.                                            NFZ           FSp     12      12     21                  45 10,6
+                                                                                                   NSp      4      16      7                  27  4,6
+                                                                                                   6h      59      96     81                 236 8,4
+                  WEST                                       OST                     SV            FSp      3       7      3                  13  3,1
+                                                                                                   NSp      0       6      0                   6  1,0
+                                                                                                   6h       7      44     13                  64 2,3
+                                                                                     KFZ           FSp    159     131    136                 426 100
+1.867       972                                                         360    959                 NSp    197     210    182                  589   100
+                                                                        599                        6h      959    964    895                 2818   100
+            303                                                                      FZ            FSp     181    135    155                  471   100
+895         592                                                         655 1.614                  NSp     212    213    194                  619   100
+                                                                                                   6h     1057     983    981                3021   100
+                                                                                     Bemerkungen :
+                                                                                     Wetter:
+                                                                                               0
+
+
+                           1.191    612     352                                                     Sph-Beginn:   7.30 Uhr und   17.00 Uhr
+                         2.155           964                                         SUMME Zufahrten: FSp :              426 KFZ/h 8:00
+                         Max-Born-Str.                                                                  NSp :             589 KFZ/h    17:30
+                                                                                                          6h :           2818 KFZ
+                                   SÜD                                               max. Sph /Zufahrt:  OST              216 KFZ/h    16:00
+                                                                                                         SÜD              222 KFZ/h    17:00
+                                                                                      DATUM :           WEST              190 KFZ/h    16:30
+                                                                                     19.06.2014
+                                                                                      722                  Galileistr./M.-Born-Str.
+
+
+ SVP, 461                                                                                                                  StromPlan722kp6-14.xls
+                                                                                                                                           15.07.2015
+
+
+
+                                      (7:00 bis 10:00 u. 15:00 bis 18:00)                              FAHRZEUG-VERTEILUNG
+                                                                                                        OST SÜD WEST     SUMME %
+                                                                                   RAD           FSp      22           4       19                  45   9,6
+                                                                                                 NSp      15           3       12                  30   4,8
+                                                                                                 6h       98          19       86                 203   6,7
+
+                           Galileistr.                                             NFZ           FSp      12      12          21                  45 10,6
+                                                                                                 NSp       4      16           7                  27  4,6
+                                                                                                 6h       59      96          81                 236 8,4
+                 WEST                                     OST                      SV            FSp       3       7           3                  13  3,1
+                                                                                                 NSp       0       6           0                   6  1,0
+                                                                                                 6h        7      44          13                  64 2,3
+                                                                                   KFZ           FSp     159     131         136                 426 100
+284        148                                                        51     159                 NSp    197      210         182                  589   100
+                                                                     108                         6h      959     964         895                 2818   100
+           39                                                                      FZ            FSp     181     135         155                  471   100
+136        97                                                          73   232                  NSp     212     213         194                  619   100
+                                                                                                 6h     1057      983         981                3021   100
+                                                                                   Bemerkungen :
+                                                                                   Wetter:
+                                                                                             0
+
+
+
+                          205    97      34                                                      Sph-Beginn:   7.30        Uhr und 17.00   Uhr
+                         336          131                                          SUMME Zufahrten: FSp :                    426 KFZ/h 8:00
+                        Max-Born-Str.                                                                 NSp :                  589 KFZ/h     17:30
+                                                                                                        6h :                2818 KFZ
+                                SÜD                                                max. Sph /Zufahrt:  OST                   216 KFZ/h     16:00
+                                                                                                       SÜD                   222 KFZ/h     17:00
+                                                                                    DATUM :           WEST                   190 KFZ/h     16:30
+                                                   426     KFZ/h                   19.06.2014
+                                       Kfz-Stromverteilung in der FSp               722                   Galileistr./M.-Born-Str.
+
+
+SVP, 461                                                                                                                   StromPlan FSP722kp6-14.xls
+                                                                                                                                             15.07.2015
+
+
+
+                                        (7:00 bis 10:00 u. 15:00 bis 18:00)                              FAHRZEUG-VERTEILUNG
+                                                                                                          OST SÜD WEST     SUMME %
+                                                                                     RAD           FSp      22           4       19                    45   9,6
+                                                                                                   NSp      15           3       12                    30   4,8
+                                                                                                   6h       98          19       86                   203   6,7
+
+                             Galileistr.                                             NFZ           FSp      12      12          21                    45 10,6
+                                                                                                   NSp       4      16           7                    27  4,6
+                                                                                                   6h       59      96          81                   236 8,4
+                   WEST                                     OST                      SV            FSp       3       7           3                    13  3,1
+                                                                                                   NSp       0       6           0                     6  1,0
+                                                                                                   6h        7      44          13                    64 2,3
+                                                                                     KFZ           FSp     159     131         136                   426 100
+383          201                                                        73     197                 NSp    197      210         182                    589   100
+                                                                       124                         6h      959     964         895                   2818   100
+              72                                                                     FZ            FSp     181     135         155                    471   100
+182          110                                                       154    351                  NSp     212     213         194                    619   100
+                                                                                                   6h     1057      983         981                  3021   100
+                                                                                     Bemerkungen :
+                                                                                     Wetter:
+                                                                                               0
+
+
+
+                            234    128     82                                                      Sph-Beginn:   7.30        Uhr und 17.00     Uhr
+                           444          210                                          SUMME Zufahrten: FSp :                    426 KFZ/h 8:00
+                          Max-Born-Str.                                                                 NSp :                  589 KFZ/h       17:30
+                                                                                                          6h :                2818 KFZ
+                                  SÜD                                                max. Sph /Zufahrt:  OST                   216 KFZ/h       16:00
+                                                                                                         SÜD                   222 KFZ/h       17:00
+                                                                                      DATUM :           WEST                   190 KFZ/h       16:30
+                                                     589     KFZ/h                   19.06.2014
+                                         Kfz-Stromverteilung in der NSp               722                   Galileistr./M.-Born-Str.
+
+
+  SVP, 461                                                                                                              StromPlan NSP722kp6-14.xls
+

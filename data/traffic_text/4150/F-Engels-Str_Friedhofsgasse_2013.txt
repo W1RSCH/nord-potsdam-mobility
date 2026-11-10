@@ -1,0 +1,121 @@
+                                                                                                                         15.07.2015
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                            OST SÜD WEST     SUMME %
+                                                                        RAD        FSp      216         6     117                339   22,7
+                          Fr.-Engels-Str.                                          NSp      136        21     211                368   21,7
+                                                                                   6h        948       64      838              1850   20,8
+                                                                        NFZ        FSp       68       18      106               192    16,7
+                                                                                   NSp       58       15       81               154    11,6
+                                                                                   6h       400        80     480                960   13,7
+                                                                        SV         FSp       36         3      54                 93    8,1
+                                                                                   NSp       24         2      34                 60    4,5
+          6.795   2.880                                                            6h       198        17     236                451    6,4
+                                                    2.384 2.403   OST   KFZ        FSp      332       95      725              1152    100
+
+WEST      3.915   3.885                                19                          NSp      485      136      706              1327    100
+                    30                              4.102 6.505                    6h      2403      713     3915              7031    100
+                                                                        FZ         FSp      548      101      842              1491    100
+                                                                                   NSp      621      157      917              1695    100
+                                                                                   6h      3351       777    4753               8881   100
+                                                                        Bemerkungen :
+
+
+
+                             49   496         217
+                                                                        - Wetter
+                            762                                              Sph-Beginn:   7.30    Uhr und   16.00 Uhr
+                                        713                             SUMME Zufahrten: FSp :               1152 KFZ/h 8:00
+                                  SÜD                                                    NSp :               1327 KFZ/h 16:30
+                          Friedhofsgassse                                                           6h :     7031 KFZ
+                                                                        max. Sph /Zufahrt:          OST       493 KFZ/h 15:30
+                                                                                                    SÜD       136 KFZ/h 16:30
+                                                                          DATUM :                  WEST       725 KFZ/h 8:00
+                                                                        06.06.2013
+                                                                         415               F.-Engels-Str./Friedhofsgasse
+
+
+
+
+       SVP, 461                                                                                               StromPlan415kp6-13.xls
+                                                                                                                                   15.07.2015
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                  OST SÜD WEST     SUMME %
+                                                                              RAD        FSp      216         6       117                 339   22,7
+                        Fr.-Engels-Str.                                                  NSp      136        21       211                 368   21,7
+                                                                                         6h        948       64        838               1850   20,8
+                                                                              NFZ        FSp       68       18        106                192    16,7
+                                                                                         NSp       58       15         81                154    11,6
+                                                                                         6h       400        80       480                 960   13,7
+                                                                              SV         FSp       36         3        54                  93    8,1
+                                                                                         NSp       24         2        34                  60    4,5
+          1.119   394                                                                    6h       198        17       236                 451    6,4
+                                                           329 332      OST   KFZ        FSp      332       95        725               1152    100
+
+WEST       725    719                                        3                           NSp      485      136        706               1327    100
+                   6                                       749 1.081                     6h      2403      713       3915               7031    100
+                                                                              FZ         FSp      548      101        842               1491    100
+                                                                                         NSp      621      157        917               1695    100
+                                                                                         6h      3351       777      4753                8881   100
+                                                                              Bemerkungen :
+
+
+
+                           9    65         30
+                                                                              - Wetter
+                          104                                                      Sph-Beginn:   7.30    Uhr und     16.00 Uhr
+                                      95                                      SUMME Zufahrten: FSp :                 1152 KFZ/h 8:00
+                                SÜD                                                            NSp :                 1327 KFZ/h 16:30
+                        Friedhofsgassse                                                                   6h :       7031 KFZ
+                                                                              max. Sph /Zufahrt:          OST         493 KFZ/h 15:30
+                                                                                                          SÜD         136 KFZ/h 16:30
+                                                                                DATUM :                  WEST         725 KFZ/h 8:00
+                                                          1.152 KFZ/h         06.06.2013
+                                       Kfz-Stromverteilung in der FSp          415               F.-Engels-Str./Friedhofsgasse
+
+
+
+
+       SVP, 461                                                                                                    StromPlan FSp415kp6-13.xls
+                                                                                                                                   15.07.2015
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                  OST SÜD WEST     SUMME %
+                                                                              RAD        FSp      216         6        117                 339   22,7
+                        Fr.-Engels-Str.                                                  NSp      136        21        211                 368   21,7
+                                                                                         6h        948       64         838               1850   20,8
+                                                                              NFZ        FSp       68       18         106                192    16,7
+                                                                                         NSp       58       15          81                154    11,6
+                                                                                         6h       400        80        480                 960   13,7
+                                                                              SV         FSp       36         3         54                  93    8,1
+                                                                                         NSp       24         2         34                  60    4,5
+          1.276   570                                                                    6h       198        17        236                 451    6,4
+                                                           482 485      OST   KFZ        FSp      332       95         725               1152    100
+
+WEST       706    699                                        3                           NSp      485      136         706               1327    100
+                   7                                       747 1.232                     6h      2403      713        3915               7031    100
+                                                                              FZ         FSp      548      101         842               1491    100
+                                                                                         NSp      621      157         917               1695    100
+                                                                                         6h      3351       777       4753                8881   100
+                                                                              Bemerkungen :
+
+
+
+                           10   88          48
+                                                                              - Wetter
+                          146                                                      Sph-Beginn:   7.30    Uhr und     16.00 Uhr
+                                      136                                     SUMME Zufahrten: FSp :                 1152 KFZ/h 8:00
+                                SÜD                                                            NSp :                 1327 KFZ/h 16:30
+                        Friedhofsgassse                                                                   6h :        7031 KFZ
+                                                                              max. Sph /Zufahrt:          OST          493 KFZ/h 15:30
+                                                                                                          SÜD          136 KFZ/h 16:30
+                                                                                DATUM :                  WEST          725 KFZ/h 8:00
+                                                          1.327 KFZ/h         06.06.2013
+                                       Kfz-Stromverteilung in der NSp          415               F.-Engels-Str./Friedhofsgasse
+
+
+
+
+       SVP, 461                                                                                                    StromPlan NSp415kp6-13.xls
+

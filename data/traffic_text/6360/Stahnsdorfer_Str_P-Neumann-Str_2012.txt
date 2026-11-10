@@ -1,0 +1,181 @@
+       SVP, 461                                                                                                                                                                  15.12.2016
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: NORD OST SÜD WEST SUMME %
+                                         NORD                                                                        RAD    FSp    16                 19       10           23            68         9,9
+                                                                                                                            NSp    11                 58       25           37          131         16,0
+                                  P.-Neumann-Str.                                                                           6h    105                179      102          163           549        14,0
+                                                                                                                     NFZ    FSp    23                 15      13           28            79         12,7
+                                         816
+                                                      2.141                                                                 NSp    22                  8      15           29            74         10,8
+                                                                                                                            6h    113                 44       89         147           393         11,7
+                                  51      587   178    1.325                                                         SV     FSp    12                  4        5            4           25          4,0
+                                                                                                                            NSp     5                  1        3            3           12          1,7
+                                                                                                                            6h     32                  9       28           13            82         2,4
+                                                                                                                     KFZ FSp 184                      73     119          246           622         100
+
+
+
+
+                                                                                                 Stahnsdorfer Str.
+                                                                                                                            NSp 144                   87     191          264           686         100
+                                                                                                                            6h    816                450     856         1245          3367         100
+                                                                                                                     FZ     FSp   200                 92     129          269           690         100
+
+
+
+
+        Benzstr.
+                   1.638   393                                               171                                            NSp   155                145     216          301           817         100
+                           548                                               222   450     OST                              6h    921                629      958        1408          3916         100
+
+WEST
+                   1.245   434                                                57                                     Q DTVw: 2,4 5031               2801    4143         3849
+                           263                                               742   1.192                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                     Bemerkungen :
+                                                                                                                     - Zuf NG+SG durch KP635 errechnet
+                                                                                                                     - Wetter früh 13ºC Regen; nachm. 17ºC etwas bewölkt bis sonnig, trocken
+
+
+
+                                  907     120   606    130                                                                       Sph-Beginn:        7.30   Uhr und     15.30     Uhr
+                                                                                                                     SUMME Zufahrten: [FSp]:                 622 KFZ/h           8:00
+                                 1.763                                                                                                   (NSp):              686 KFZ/h           16:00
+                                                856
+                                                                                                                                           6h :             3367 KFZ
+                                                SÜD                                                                  max. Sph /Zufahrt: NORD :               184 KFZ/h           8:00
+                                  P.-Neumann-Str.                                                                                                OST :         92 KFZ/h          16:30
+                                                                                                                       DATUM :                   SÜD :        207 KFZ/h          16:30
+                                                                                           6h Werte 27.09.2012                                  WEST :        264 KFZ/h          16:00
+                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 636                                  Stahnsdorfer Str./P.-Neumann-Str.
+
+
+
+
+       StromPlan636kp9-12.xls                                      Seite 1
+       SVP, 461                                                                                                                                                              15.12.2016
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                            NORD                                                                 RAD    FSp    16                 19       10           23            68         9,9
+                                                                                                                        NSp    11                 58       25           37          131         16,0
+                                      P.-Neumann-Str.                                                                   6h    105                179      102          163           549        14,0
+                                                                                                                 NFZ    FSp    23                 15      13           28            79         12,7
+                                            184
+                                                         403                                                            NSp    22                  8      15           29            74         10,8
+                                                                                                                        6h    113                 44       89         147           393         11,7
+                                      10     124   50    219                                                     SV     FSp    12                  4        5            4           25          4,0
+                                                                                                                        NSp     5                  1        3            3           12          1,7
+                                                                                                                        6h     32                  9       28           13            82         2,4
+                                                                                                                 KFZ FSp 184                      73     119          246           622         100
+
+
+
+
+                                                                                             Stahnsdorfer Str.
+                                                                                                                        NSp 144                   87     191          264           686         100
+                                                                                                                        6h    816                450     856         1245          3367         100
+                                                                                                                 FZ     FSp   200                 92     129          269           690         100
+
+
+
+
+        Benzstr.
+                   309     63                                               40                                          NSp   155                145     216          301           817         100
+                           109                                              28   73    OST                              6h    921                629      958        1408          3916         100
+
+WEST
+                   246     88                                               5                                    Q DTVw: 2,4 5031               2801    4143         3849
+                           49                                              162   235                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Zuf NG+SG durch KP635 errechnet
+                                                                                                                 - Wetter früh 13ºC Regen; nachm. 17ºC etwas bewölkt bis sonnig, trocken
+
+
+
+                                      178    25    70    24                                                                  Sph-Beginn:        7.30   Uhr und     15.30     Uhr
+                                                                                                                 SUMME Zufahrten: [FSp]:                 622 KFZ/h           8:00
+                                      297                                                                                            (NSp):              686 KFZ/h           16:00
+                                                   119
+                                                                                                                                       6h :             3367 KFZ
+                                                   SÜD                                                           max. Sph /Zufahrt: NORD :               184 KFZ/h           8:00
+                                      P.-Neumann-Str.                                                                                        OST :         92 KFZ/h          16:30
+                                                                                                                   DATUM :                   SÜD :        207 KFZ/h          16:30
+                                                                                       622 KFZ/h 27.09.2012                                 WEST :        264 KFZ/h          16:00
+                                                               Kfz-Stromverteilung in der FSp 636                                  Stahnsdorfer Str./P.-Neumann-Str.
+
+
+
+
+       StromPlan (FSp)636kp9-12.xls                              Seite 2
+       SVP, 461                                                                                                                                                              15.12.2016
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                            NORD                                                                 RAD    FSp    16                 19       10           23            68         9,9
+                                                                                                                        NSp    11                 58       25           37          131         16,0
+                                      P.-Neumann-Str.                                                                   6h    105                179      102          163           549        14,0
+                                                                                                                 NFZ    FSp    23                 15      13           28            79         12,7
+                                            144
+                                                         434                                                            NSp    22                  8      15           29            74         10,8
+                                                                                                                        6h    113                 44       89         147           393         11,7
+                                      10     105   29    290                                                     SV     FSp    12                  4        5            4           25          4,0
+                                                                                                                        NSp     5                  1        3            3           12          1,7
+                                                                                                                        6h     32                  9       28           13            82         2,4
+                                                                                                                 KFZ FSp 184                      73     119          246           622         100
+
+
+
+
+                                                                                             Stahnsdorfer Str.
+                                                                                                                        NSp 144                   87     191          264           686         100
+                                                                                                                        6h    816                450     856         1245          3367         100
+                                                                                                                 FZ     FSp   200                 92     129          269           690         100
+
+
+
+
+        Benzstr.
+                   341     77                                               22                                          NSp   155                145     216          301           817         100
+                           115                                              51   87    OST                              6h    921                629      958        1408          3916         100
+
+WEST
+                   264     79                                               14                                   Q DTVw: 2,4 5031               2801    4143         3849
+                           70                                              130   217                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Zuf NG+SG durch KP635 errechnet
+                                                                                                                 - Wetter früh 13ºC Regen; nachm. 17ºC etwas bewölkt bis sonnig, trocken
+
+
+
+                                      189    16    153   22                                                                  Sph-Beginn:        7.30   Uhr und     15.30     Uhr
+                                                                                                                 SUMME Zufahrten: [FSp]:                 622 KFZ/h           8:00
+                                      380                                                                                            (NSp):              686 KFZ/h           16:00
+                                                   191
+                                                                                                                                       6h :             3367 KFZ
+                                                   SÜD                                                           max. Sph /Zufahrt: NORD :               184 KFZ/h           8:00
+                                      P.-Neumann-Str.                                                                                        OST :         92 KFZ/h          16:30
+                                                                                                                   DATUM :                   SÜD :        207 KFZ/h          16:30
+                                                                                       686 KFZ/h 27.09.2012                                 WEST :        264 KFZ/h          16:00
+                                                               Kfz-Stromverteilung in der NSp 636                                  Stahnsdorfer Str./P.-Neumann-Str.
+
+
+
+
+       StromPlan (NSp)636kp9-12.xls                              Seite 3
+

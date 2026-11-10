@@ -1,0 +1,187 @@
+       Landeshauptstadt Potsdam                                                                                                                                                                10.05.2023
+       Bereich 476
+
+
+                                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                                          NORD OST SÜD WEST SUMME %
+                                                         NORD                                                                          RAD         FSp           3           9     13         12        37        2,6
+
+                                             Potsdamer Ch. (L20)                                                                                   NSp           4           14    23         7         48        3,1
+
+                                                                                                                                              6h      19    49                       76    36         180         2,1
+                                                         1.384           2.956                                                         NFZ    FSp    44    42                       18   169         273         19,7
+                                                                                                                                              NSp    24    54                       17   138         233         15,3
+                                                                                                                                              6h    198   408                      124   802        1532         18,4
+                                                1.046     207     131     1.572                                                        SV     FSp    14    12                         6   48           80         5,8
+                                                                                                                                              NSp      7   14                         5   18           44         2,9
+                                                                                                                                              6h     62    87                       35   185          369         4,4
+
+
+
+
+        Potsdamer Ch. (B2)
+                                                                                                                                       KFZ FSp 272 319
+
+
+
+
+                                                                                                                  Potsdamer Ch. (B2)
+                                                                                                                                                                                   197   595        1383         100
+                                                                                                                                              NSp 244     444                      190   646        1524         100
+                                                                                                                                              6h   1384 2422                      1112 3413         8331         100
+                                                                                                                                       FZ     FSp   275   328                      210   607        1420         100
+                             6.798   3.385                                                      177                                           NSp   248   458                      213   653        1572         100
+                                     1.154                                                    1.866 2.422   OST                               6h   1403 2471                      1188  3449         8511        100
+
+WEST                         3.413   1.858                                                      379                                    Q DTVw:2,20 6503 10580                     4618 14956
+                                      401                                                     2.387 4.809                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                                       Bemerkungen :
+                                                                                                                                       - Wetter früh 5°C bewölkt, trocken;
+                                                                                                                                        nachmittag 14ºC bewölkt, trocken
+
+
+
+
+                                                987       473     241     398
+                                                                                                                                           Sph-Beginn:               7.00 Uhr und 16.00 Uhr
+                                               2.099                                                                                   SUMME Zufahrten: [FSp] :               1383 KFZ/h 8:00
+                                                                 1.112                                                                                               (NSp):   1524 KFZ/h 16:00
+                                                                 SÜD                                                                                                     6h : 8331 KFZ
+                                                        Sacrower Allee                                                                 max. Sph /Zufahrt: NORD :                   276 KFZ/h 7:30
+                                                                                                                                                                      OST :        470 KFZ/h 15:30
+
+                                                                                                                                         DATUM :                     SÜD :         197 KFZ/h 8:00
+                                                                                                            6h Werte 27.04.2023                                    WEST :          663 KFZ/h 16:30
+                                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2900                               Potsdamer Ch./Sacrower Allee (OT Gr. Glienicke)
+
+
+
+
+       StromPlan2900kp4-23                                                          Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                     10.05.2023
+       Bereich 476
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                               NORD OST SÜD WEST SUMME %
+                                                     NORD                                                                   RAD         FSp           3           9      13        12        37        2,6
+
+                                           Potsdamer Ch. (L20)                                                                          NSp           4           14     23        7         48        3,1
+
+                                                                                                                                   6h      19                  49         76      36       180         2,1
+                                                      272         506                                                       NFZ    FSp    44                  42         18     169       273         19,7
+                                                                                                                                   NSp    24                  54         17     138       233         15,3
+                                                                                                                                   6h    198                 408        124     802      1532         18,4
+                                              228     30    14    234                                                       SV     FSp    14                  12           6     48         80         5,8
+                                                                                                                                   NSp      7                 14           5     18         44         2,9
+                                                                                                                                   6h     62                  87         35     185        369         4,4
+
+
+
+
+        Potsdamer Ch. (B2)
+                                                                                                                            KFZ FSp 272
+
+
+
+
+                                                                                                       Potsdamer Ch. (B2)
+                                                                                                                                                             319        197     595      1383         100
+                                                                                                                                   NSp 244                   444        190     646      1524         100
+                                                                                                                                   6h   1384                2422       1112    3413      8331         100
+                                                                                                                            FZ     FSp   275                 328        210     607      1420         100
+                             1.163   568                                             24                                            NSp   248                 458        213     653      1572         100
+                                     160                                            251    319   OST                               6h   1403                2471       1188    3449       8511        100
+
+WEST                         595     349                                             44                                     Q DTVw:2,20 1113                1628        785    2559
+                                     86                                             421   740                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                            Bemerkungen :
+                                                                                                                            - Wetter früh 5°C bewölkt, trocken;
+                                                                                                                             nachmittag 14ºC bewölkt, trocken
+
+
+
+
+                                              160     89    50    58
+                                                                                                                                Sph-Beginn:               7.00 Uhr und 16.00 Uhr
+                                             357                                                                            SUMME Zufahrten: [FSp] :               1383 KFZ/h 8:00
+                                                            197                                                                                           (NSp):   1524 KFZ/h 16:00
+                                                            SÜD                                                                                               6h : 8331 KFZ
+                                                    Sacrower Allee                                                          max. Sph /Zufahrt: NORD :                   276 KFZ/h 7:30
+                                                                                                                                                           OST :        470 KFZ/h 15:30
+
+                                                                                                                              DATUM :                     SÜD :         197 KFZ/h 8:00
+                                                                                            1.383 KFZ/h 27.04.2023                                      WEST :          663 KFZ/h 16:30
+                                                                        Kfz-Stromverteilung in der FSp 2900                                Potsdamer Ch./Sacrower Allee (OT Gr. Glienicke)
+
+
+
+
+       StromPlan (FSp)2900kp4-23                                          Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                     10.05.2023
+       Bereich 476
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                               NORD OST SÜD WEST SUMME %
+                                                     NORD                                                                   RAD         FSp           3           9      13        12        37        2,6
+
+                                           Potsdamer Ch. (L20)                                                                          NSp           4           14     23        7         48        3,1
+
+                                                                                                                                   6h      19                  49         76      36       180         2,1
+                                                      244         574                                                       NFZ    FSp    44                  42         18     169       273         19,7
+                                                                                                                                   NSp    24                  54         17     138       233         15,3
+                                                                                                                                   6h    198                 408        124     802      1532         18,4
+                                              177     33    34    330                                                       SV     FSp    14                  12           6     48         80         5,8
+                                                                                                                                   NSp      7                 14           5     18         44         2,9
+                                                                                                                                   6h     62                  87         35     185        369         4,4
+
+
+
+
+        Potsdamer Ch. (B2)
+                                                                                                                            KFZ FSp 272
+
+
+
+
+                                                                                                       Potsdamer Ch. (B2)
+                                                                                                                                                             319        197     595      1383         100
+                                                                                                                                   NSp 244                   444        190     646      1524         100
+                                                                                                                                   6h   1384                2422       1112    3413      8331         100
+                                                                                                                            FZ     FSp   275                 328        210     607      1420         100
+                             1.238   592                                             36                                            NSp   248                 458        213     653      1572         100
+                                     257                                            326    444   OST                               6h   1403                2471       1188    3449       8511        100
+
+WEST                         646     317                                             82                                     Q DTVw:2,20 1263                1890        829    2724
+                                     72                                             415   859                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                            Bemerkungen :
+                                                                                                                            - Wetter früh 5°C bewölkt, trocken;
+                                                                                                                             nachmittag 14ºC bewölkt, trocken
+
+
+
+
+                                              187     89    37    64
+                                                                                                                                Sph-Beginn:               7.00 Uhr und 16.00 Uhr
+                                             377                                                                            SUMME Zufahrten: [FSp] :               1383 KFZ/h 8:00
+                                                            190                                                                                           (NSp):   1524 KFZ/h 16:00
+                                                            SÜD                                                                                               6h : 8331 KFZ
+                                                    Sacrower Allee                                                          max. Sph /Zufahrt: NORD :                   276 KFZ/h 7:30
+                                                                                                                                                           OST :        470 KFZ/h 15:30
+
+                                                                                                                              DATUM :                     SÜD :         197 KFZ/h 8:00
+                                                                                            1.524 KFZ/h 27.04.2023                                      WEST :          663 KFZ/h 16:30
+                                                                        Kfz-Stromverteilung in der NSp 2900                                Potsdamer Ch./Sacrower Allee (OT Gr. Glienicke)
+
+
+
+
+       StromPlan (NSp)2900kp4-23                                          Seite 3
+

@@ -1,0 +1,145 @@
+SVP, 461                                                                                                                                         11.01.2017
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                      OST  SÜD WEST    SUMME %
+                                                                                 RAD          FSp   27                  12         35                        74   12,6
+                                                                                              NSp   23                  23         64                      110    15,3
+                                                                                              6h   149                 156        280                       585   16,3
+                                                                                 NFZ          FSp   41                   0        41                        82    16,0
+                                                                                              NSp   61                   1        33                        95    15,5
+                          Reiherbergstraße                                                    6h   254                   5       224                       483    16,1
+                                                                                 SV           FSp   13                   0        15                        28     5,5
+                                                                                              NSp   11                   0          9                       20     3,3
+                                                                                              6h    66                   1         68                      135     4,5
+                                                                                 KFZ          FSp 196                    0       315                       511    100
+                                                                                              NSp 351                    1       259                       611    100
+                                                                                              6h  1499                  10      1491                      3000    100
+           2.988 1.497                                                           FZ           FSp  223                  12       350                       585    100
+                                                             1.494         OST                NSp  374                  24       323                       721    100
+
+    WEST
+                                                                   1.499                      6h  1648                 166      1771                      3585    100
+                 1.489                                           5
+           1.491
+                 2                                           1.496 2.995         NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                 Bemerkungen :
+
+                                                                                 - Wetter früh 13ºC stark bewölkt, ca. 7.30 Uhr leichter Nieselregen;
+                                                                                   nachmittag 18ºC bewölkt, leicht windig, trocken
+                                                                                 - Fußgängerzählung siehe Tabelle
+                                                                                   Sph-Beginn: 7:00 Uhr und 16:00 Uhr
+                                                                                 SUMME Zufahrten: FSp :      511 KFZ/h 7:30
+                              7   3        7                                                         NSp :   611 KFZ/h 16:30
+                                                                                                       6h : 3000 KFZ
+                             17                                                  max. Sph /Zufahrt:   OST     351 KFZ/h 16:30
+                                      10                                                              SÜD       3 KFZ/h 8:30
+                                           SÜD                                    DATUM :            WEST     315 KFZ/h 7:30
+                             Am Urnenfeld                                   6h Werte 11.06.2015
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2611 Reiherbergstraße/Am Urnenfeld
+
+
+
+
+StromPlan2611kp6-15.xls                                Seite 1
+SVP, 461                                                                                                                                              11.01.2017
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                           OST  SÜD WEST    SUMME %
+                                                                                      RAD          FSp   27                  12         35                        74   12,6
+                                                                                                   NSp   23                  23         64                      110    15,3
+                                                                                                   6h   149                 156        280                       585   16,3
+                                                                                      NFZ          FSp   41                   0        41                        82    16,0
+                                                                                                   NSp   61                   1        33                        95    15,5
+                                Reiherbergstraße                                                   6h   254                   5       224                       483    16,1
+                                                                                      SV           FSp   13                   0        15                        28     5,5
+                                                                                                   NSp   11                   0          9                       20     3,3
+                                                                                                   6h    66                   1         68                      135     4,5
+                                                                                      KFZ          FSp 196                    0       315                       511    100
+                                                                                                   NSp 351                    1       259                       611    100
+                                                                                                   6h  1499                  10      1491                      3000    100
+           511    196                                                                 FZ           FSp  223                  12       350                       585    100
+                                                                    196         OST                NSp  374                  24       323                       721    100
+
+    WEST
+                                                                          196                      6h  1648                 166      1771                      3585    100
+                  315                                                 0
+           315
+                  0                                                 315   511         NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                      Bemerkungen :
+
+                                                                                      - Wetter früh 13ºC stark bewölkt, ca. 7.30 Uhr leichter Nieselregen;
+                                                                                        nachmittag 18ºC bewölkt, leicht windig, trocken
+                                                                                      - Fußgängerzählung siehe Tabelle
+                                                                                        Sph-Beginn: 7:00 Uhr und 16:00 Uhr
+                                                                                      SUMME Zufahrten: FSp :      511 KFZ/h 7:30
+                                    0   0       0                                                         NSp :   611 KFZ/h 16:30
+                                                                                                            6h : 3000 KFZ
+                                    0                                                 max. Sph /Zufahrt:   OST     351 KFZ/h 16:30
+                                            0                                                              SÜD       3 KFZ/h 8:30
+                                                SÜD                                    DATUM :            WEST     315 KFZ/h 7:30
+                                   Am Urnenfeld                          511 KFZ/h 11.06.2015
+                                                      Kfz-Stromverteilung in der FSp 2611 Reiherbergstraße/Am Urnenfeld
+
+
+
+
+StromPlan (FSp)2611kp6-15.xls                             Seite 2
+SVP, 461                                                                                                                                              11.01.2017
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                           OST  SÜD WEST    SUMME %
+                                                                                      RAD          FSp   27                  12         35                        74   12,6
+                                                                                                   NSp   23                  23         64                      110    15,3
+                                                                                                   6h   149                 156        280                       585   16,3
+                                                                                      NFZ          FSp   41                   0        41                        82    16,0
+                                                                                                   NSp   61                   1        33                        95    15,5
+                                Reiherbergstraße                                                   6h   254                   5       224                       483    16,1
+                                                                                      SV           FSp   13                   0        15                        28     5,5
+                                                                                                   NSp   11                   0          9                       20     3,3
+                                                                                                   6h    66                   1         68                      135     4,5
+                                                                                      KFZ          FSp 196                    0       315                       511    100
+                                                                                                   NSp 351                    1       259                       611    100
+                                                                                                   6h  1499                  10      1491                      3000    100
+           609    350                                                                 FZ           FSp  223                  12       350                       585    100
+                                                                    350         OST                NSp  374                  24       323                       721    100
+
+    WEST
+                                                                          351                      6h  1648                 166      1771                      3585    100
+                  259                                                 1
+           259
+                  0                                                 260   611         NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                      Bemerkungen :
+
+                                                                                      - Wetter früh 13ºC stark bewölkt, ca. 7.30 Uhr leichter Nieselregen;
+                                                                                        nachmittag 18ºC bewölkt, leicht windig, trocken
+                                                                                      - Fußgängerzählung siehe Tabelle
+                                                                                        Sph-Beginn: 7:00 Uhr und 16:00 Uhr
+                                                                                      SUMME Zufahrten: FSp :      511 KFZ/h 7:30
+                                    1   0       1                                                         NSp :   611 KFZ/h 16:30
+                                                                                                            6h : 3000 KFZ
+                                    2                                                 max. Sph /Zufahrt:   OST     351 KFZ/h 16:30
+                                            1                                                              SÜD       3 KFZ/h 8:30
+                                                SÜD                                    DATUM :            WEST     315 KFZ/h 7:30
+                                   Am Urnenfeld                           611 KFZ/h 11.06.2015
+                                                      Kfz-Stromverteilung in der NSp 2611 Reiherbergstraße/Am Urnenfeld
+
+
+
+
+StromPlan (NSp)2611kp6-15.xls                             Seite 3
+

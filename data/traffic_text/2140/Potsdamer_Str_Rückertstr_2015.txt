@@ -1,0 +1,131 @@
+SVP, 461                                                                                                                                                            21.05.2015
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                              NORD                                                                                      NORD OST SÜD      SUMME %
+                 Rückertstr.                                                                        RAD          FSp         14          12         32                        58     3,7
+                                                                                                                 NSp         10          40         21                        71     3,8
+                           3.336                                                                                 6h           91        135        122                       348     3,6
+                                       6.507                                                        NFZ          FSp        104         77         54                       235     15,5
+                                                                                                                 NSp         52        115         45                       212     11,8
+                   408         2.928     3.171                                                                   6h         409        465        253                      1127     12,3
+                                                                                                    SV           FSp         20         15           5                        40     2,6
+                                                                                                                 NSp         14         11           4                        29     1,6
+                                                                                                                 6h          84          72         43                       199     2,2
+                                                                                                    KFZ
+
+
+
+
+                                                                                   Potsdamer Str.
+                                                                                                                 FSp        649        531        337                      1517     100
+                                                                                                                 NSp        590        888        318                      1796     100
+                                                                                                                 6h        3336       4219       1637                      9192     100
+                                                            2882                                    FZ           FSp        663        543        369                      1575     100
+                                                                   4219
+                                                            1337             OST                                 NSp        600        928        339                      1867     100
+                                                                                                                 6h        3427       4354       1759                       9540    100
+                                                            4276   8495                             NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - auf B273 Brücke über Sacrow-Paretzer-Kanal in Bau
+                                                                                                    - ÖPNV-Wochenstreik seit 30.04.2015
+                                                                                                    - Wetter: früh 11°C sonnig, trocken; nachmittag 20°C sonnig bis bewölkt,
+
+                   1.745       289       1.348                                                        leicht windig, ab 16.00 Uhr ab und zu leichter Regen
+                                                                                                         Sph-Beginn:         7.00 Uhr und        16.00 Uhr
+                 3.382                                                                              SUMME Zufahrten: [FSp]: 1517 KFZ/h 7:30
+                                 1.637                                                                               (NSp): 1796 KFZ/h 16:30
+                               SÜD                                                                                      6h : 9192 KFZ
+                     Hugstr.                                                                        max. Sph /Zufahrt:              NORD           652 KFZ/h 8:00
+                                                                                                                                     OST           888 KFZ/h 16:00
+                                                                                                       DATUM :                       SÜD           337 KFZ/h 7:30
+                                                                              6h Werte 07.05.2015
+                                            von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 214                                    Potsdamer Str./Rückertstr.
+StromPlan214kp5-15.xls                                             Seite 1
+SVP, 461                                                                                                                                                     21.05.2015
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                           NORD                                                                                  NORD OST SÜD      SUMME %
+                 Rückertstr.                                                                 RAD          FSp         14          12         32                        58     3,7
+                                                                                                          NSp         10          40         21                        71     3,8
+                         649                                                                              6h           91        135        122                       348     3,6
+                                     1.085                                                   NFZ          FSp        104         77         54                       235     15,5
+                                                                                                          NSp         52        115         45                       212     11,8
+                   66          583      436                                                               6h         409        465        253                      1127     12,3
+                                                                                             SV           FSp         20         15           5                        40     2,6
+                                                                                                          NSp         14         11           4                        29     1,6
+                                                                                                          6h          84          72         43                       199     2,2
+                                                                                             KFZ
+
+
+
+
+                                                                            Potsdamer Str.
+                                                                                                          FSp        649        531        337                      1517     100
+                                                                                                          NSp        590        888        318                      1796     100
+                                                                                                          6h        3336       4219       1637                      9192     100
+                                                     366                                     FZ           FSp        663        543        369                      1575     100
+                                                            531
+                                                     165              OST                                 NSp        600        928        339                      1867     100
+                                                                                                          6h        3427       4354       1759                       9540    100
+                                                     850   1381                              NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                                                                             - auf B273 Brücke über Sacrow-Paretzer-Kanal in Bau
+                                                                                             - ÖPNV-Wochenstreik seit 30.04.2015
+                                                                                             - Wetter: früh 11°C sonnig, trocken; nachmittag 20°C sonnig bis bewölkt,
+                   231         70       267                                                    leicht windig, ab 16.00 Uhr ab und zu leichter Regen
+                                                                                                  Sph-Beginn:         7.00 Uhr und        16.00 Uhr
+                   568                                                                       SUMME Zufahrten: [FSp]: 1517 KFZ/h 7:30
+                                  337                                                                         (NSp): 1796 KFZ/h 16:30
+                               SÜD                                                                               6h : 9192 KFZ
+                     Hugstr.                                                                 max. Sph /Zufahrt:              NORD           652 KFZ/h 8:00
+                                                                                                                              OST           888 KFZ/h 16:00
+                                                                                                DATUM :                       SÜD           337 KFZ/h 7:30
+                                                                1.517 KFZ/h 07.05.2015
+                                              Kfz-Stromverteilung in der FSp 214                                      Potsdamer Str./Rückertstr.
+StromPlan (FSp)214kp5-15.xls                                Seite 2
+SVP, 461                                                                                                                                                     21.05.2015
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                           NORD                                                                                  NORD OST SÜD      SUMME %
+                 Rückertstr.                                                                 RAD          FSp         14          12         32                        58     3,7
+                                                                                                          NSp         10          40         21                        71     3,8
+                         590                                                                              6h           91        135        122                       348     3,6
+                                     1.266                                                   NFZ          FSp        104         77         54                       235     15,5
+                                                                                                          NSp         52        115         45                       212     11,8
+                   86          504      676                                                               6h         409        465        253                      1127     12,3
+                                                                                             SV           FSp         20         15           5                        40     2,6
+                                                                                                          NSp         14         11           4                        29     1,6
+                                                                                                          6h          84          72         43                       199     2,2
+                                                                                             KFZ
+
+
+
+
+                                                                            Potsdamer Str.
+                                                                                                          FSp        649        531        337                      1517     100
+                                                                                                          NSp        590        888        318                      1796     100
+                                                                                                          6h        3336       4219       1637                      9192     100
+                                                     619                                     FZ           FSp        663        543        369                      1575     100
+                                                            888
+                                                     269              OST                                 NSp        600        928        339                      1867     100
+                                                                                                          6h        3427       4354       1759                       9540    100
+                                                     765    1653                             NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                                                                             - auf B273 Brücke über Sacrow-Paretzer-Kanal in Bau
+                                                                                             - ÖPNV-Wochenstreik seit 30.04.2015
+                                                                                             - Wetter: früh 11°C sonnig, trocken; nachmittag 20°C sonnig bis bewölkt,
+                   355         57       261                                                    leicht windig, ab 16.00 Uhr ab und zu leichter Regen
+                                                                                                  Sph-Beginn:         7.00 Uhr und        16.00 Uhr
+                  673                                                                        SUMME Zufahrten: [FSp]: 1517 KFZ/h 7:30
+                                  318                                                                         (NSp): 1796 KFZ/h 16:30
+                               SÜD                                                                               6h : 9192 KFZ
+                     Hugstr.                                                                 max. Sph /Zufahrt:              NORD           652 KFZ/h 8:00
+                                                                                                                              OST           888 KFZ/h 16:00
+                                                                                                DATUM :                       SÜD           337 KFZ/h 7:30
+                                                                1.796 KFZ/h 07.05.2015
+                                              Kfz-Stromverteilung in der NSp 214                                      Potsdamer Str./Rückertstr.
+StromPlan (NSp)214kp5-15.xls                                Seite 3
+

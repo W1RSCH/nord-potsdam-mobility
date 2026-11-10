@@ -1,0 +1,159 @@
+          SVP, 461                                                                                                                                                                    16.06.2014
+
+
+
+
+                                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                                        NORD OST SÜD WEST SUMME %
+                                                      NORD                                                                           RAD        FSp        82     121        62       154        419    23,2
+                                                                                                                                                NSp        42       94       88       197        421    23,0
+                                             K.-Liebknecht-Str.                                                                                 6h        334      584      440        946      2304    23,0
+                                                      2.658             4.409                                                        NFZ        FSp       93       24       56         49        222    16,0
+                                                                                                                                                NSp       72       26       50         44        192    13,6
+                                                                                                                                                6h       397      120      319        233       1069    13,8
+
+                                              1.101    1.488    69       1.751                                                       SV         FSp       16         9      35         15         75         5,4
+                                                                                                                                                NSp         8        6      18         13         45         3,2
+                                                                                                                                                6h         65       35     145          83       328         4,2
+                                                                                                                                     KFZ        FSp      499      247      370        273      1389       100
+
+
+
+
+       R.-Breitscheid-Str.                                                                                     R.-Breitscheid-Str.
+                                                                                                                                                NSp      482      247      373        307      1409       100
+                                                                                                                                                6h      2658     1292     2108       1675       7733      100
+                                                                                                                                     FZ         FSp      581      368      432        427       1808      100
+                             4.618   2.943                                                   221                                                NSp      524      341      461        504       1830      100
+                                       407                                                 1.059 1.292   OST                                    6h      2992     1876     2548       2621      10037      100
+
+WEST
+                             1.675     652                                                    12                                     Bemerkungen :
+                                       616                                                   923 2.215                               - Wetter früh 15ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+                                                                                                                                     - Baustelle in der R.-Breitscheid-Str. zwischen Alt Nowawes
+                                                                                                                                      und K.-Liebknecht-Str.
+                                                                                                                                     - Zuf. Alt-Nowawes-Nord gesperrt, daher Zuf. Nord höhere Belastung
+
+
+
+
+                                                                                                                                          Sph-Beginn:       7.30 Uhr und 15.00 Uhr
+
+                                              2.116    783      1.123    202                                                         SUMME Zufahrten: [FSp] :  1389 KFZ/h                    8:00      ###
+                                                                                                                                                               1409 KFZ/h
+                                                                                                                                                                (NSp):                       15:30
+                                             4.224                                                                                                        6h : 7733 KFZ
+                                                               2.108                                                                 max. Sph /Zufahrt: NORD :  502 KFZ/h                    16:30
+                                                               SÜD                                                                                       OST :  247 KFZ/h                    8:00
+                                             K.-Liebknecht-Str.                                                                        DATUM :                  SÜD :       373 KFZ/h 15:30
+                                                                                                                                     22.09.2011                WEST :       335 KFZ/h 17:30
+                                                                                                                                      630          R.-Breitscheid-/K.-Liebkn.-Str.
+
+
+
+          StromPlan630kp9-11.xls                                                 Seite 1
+          SVP, 461                                                                                                                                                       16.06.2014
+
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                           NORD OST SÜD WEST SUMME %
+                                               NORD                                                                     RAD        FSp        82     121        62       154        419    23,2
+                                                                                                                                   NSp        42       94       88       197        421    23,0
+                                         K.-Liebknecht-Str.                                                                        6h        334      584      440        946      2304    23,0
+                                               499          817                                                         NFZ        FSp       93       24       56         49        222    16,0
+                                                                                                                                   NSp       72       26       50         44        192    13,6
+                                                                                                                                   6h       397      120      319        233       1069    13,8
+                                         229    262   8     318                                                         SV         FSp       16         9      35         15         75         5,4
+                                                                                                                                   NSp         8        6      18         13         45         3,2
+                                                                                                                                   6h         65       35     145          83       328         4,2
+                                                                                                                        KFZ        FSp      499      247      370        273      1389       100
+
+
+
+
+       R.-Breitscheid-Str.                                                                        R.-Breitscheid-Str.
+                                                                                                                                   NSp      482      247      373        307      1409       100
+                                                                                                                                   6h      2658     1292     2108       1675       7733      100
+                                                                                                                        FZ         FSp      581      368      432        427       1808      100
+                             862   589                                           29                                                NSp      524      341      461        504       1830      100
+                                    86                                          218   247   OST                                    6h      2992     1876     2548       2621      10037      100
+
+WEST
+                             273    96                                            0                                     Bemerkungen :
+                                    91                                          129   376                               - Wetter früh 15ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+                                                                                                                        - Baustelle in der R.-Breitscheid-Str. zwischen Alt Nowawes
+                                                                                                                         und K.-Liebknecht-Str.
+                                                                                                                        - Zuf. Alt-Nowawes-Nord gesperrt, daher Zuf. Nord höhere Belastung
+
+
+
+
+                                                                                                                             Sph-Beginn:       7.30 Uhr und 15.00 Uhr
+                                         353    142   203   25                                                          SUMME Zufahrten: [FSp] :  1389 KFZ/h                    8:00      ###
+                                                                                                                                                  1409 KFZ/h
+                                                                                                                                                   (NSp):                       15:30
+                                         723                                                                                                 6h : 7733 KFZ
+                                                      370                                                               max. Sph /Zufahrt: NORD :  502 KFZ/h                    16:30
+                                                      SÜD                                                                                   OST :  247 KFZ/h                    8:00
+                                         K.-Liebknecht-Str.                                                               DATUM :                  SÜD :       373 KFZ/h 15:30
+                                                                                      1.389 KFZ/h                       22.09.2011                WEST :       335 KFZ/h 17:30
+                                                                  Kfz-Stromverteilung in der FSp                         630          R.-Breitscheid-/K.-Liebkn.-Str.
+
+
+
+          StromPlan (FSp)630kp9-11.xls                                Seite 2
+          SVP, 461                                                                                                                                                       16.06.2014
+
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                           NORD OST SÜD WEST SUMME %
+                                               NORD                                                                     RAD        FSp        82     121        62       154        419    23,2
+                                                                                                                                   NSp        42       94       88       197        421    23,0
+                                         K.-Liebknecht-Str.                                                                        6h        334      584      440        946      2304    23,0
+                                               482          801                                                         NFZ        FSp       93       24       56         49        222    16,0
+                                                                                                                                   NSp       72       26       50         44        192    13,6
+                                                                                                                                   6h       397      120      319        233       1069    13,8
+                                         209    261   12    319                                                         SV         FSp       16         9      35         15         75         5,4
+                                                                                                                                   NSp         8        6      18         13         45         3,2
+                                                                                                                                   6h         65       35     145          83       328         4,2
+                                                                                                                        KFZ        FSp      499      247      370        273      1389       100
+
+
+
+
+       R.-Breitscheid-Str.                                                                        R.-Breitscheid-Str.
+                                                                                                                                   NSp      482      247      373        307      1409       100
+                                                                                                                                   6h      2658     1292     2108       1675       7733      100
+                                                                                                                        FZ         FSp      581      368      432        427       1808      100
+                             852   545                                           55                                                NSp      524      341      461        504       1830      100
+                                    69                                          189   247   OST                                    6h      2992     1876     2548       2621      10037      100
+
+WEST
+                             307   114                                            3                                     Bemerkungen :
+                                   124                                          157   404                               - Wetter früh 15ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+                                                                                                                        - Baustelle in der R.-Breitscheid-Str. zwischen Alt Nowawes
+                                                                                                                         und K.-Liebknecht-Str.
+                                                                                                                        - Zuf. Alt-Nowawes-Nord gesperrt, daher Zuf. Nord höhere Belastung
+
+
+
+
+                                                                                                                             Sph-Beginn:       7.30 Uhr und 15.00 Uhr
+                                         388    147   195   31                                                          SUMME Zufahrten: [FSp] :  1389 KFZ/h                    8:00      ###
+                                                                                                                                                  1409 KFZ/h
+                                                                                                                                                   (NSp):                       15:30
+                                         761                                                                                                 6h : 7733 KFZ
+                                                      373                                                               max. Sph /Zufahrt: NORD :  502 KFZ/h                    16:30
+                                                      SÜD                                                                                   OST :  247 KFZ/h                    8:00
+                                         K.-Liebknecht-Str.                                                               DATUM :                  SÜD :       373 KFZ/h 15:30
+                                                                                      1.409 KFZ/h                       22.09.2011                WEST :       335 KFZ/h 17:30
+                                                                  Kfz-Stromverteilung in der NSp                         630          R.-Breitscheid-/K.-Liebkn.-Str.
+
+
+
+          StromPlan (NSp)630kp9-11.xls                                Seite 3
+

@@ -1,0 +1,169 @@
+       SVP, 461                                                                                                                                                    04.09.2013
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD OST WEST     SUMME %
+                                          NORD                                                                    RAD        FSp         22       34      71              127   42,8
+                                                                                                                             NSp         13       49      27               89   30,6
+                                  Kl. Weinmeisterstr.                                                                        6h         105      233     192              530   36,2
+                                           76               134                                                   NFZ        FSp          0        8      11               19   11,2
+
+                                                                                                                             NSp          2      27        3               32   15,8
+                                                                                                                             6h           2     124       34              160   17,1
+                                     21   52          3     58                                                    SV         FSp          0        4       5                9    5,3
+                                                                                                                             NSp          0      14        1               15    7,4
+                                                                                                                             6h           0       68      10               78    8,3
+                                                                                                                  KFZ        FSp        11      105       54             170    100
+
+
+
+
+                                                                                            Gr. Weinmeisterstr.
+                                                                                                                             NSp        22      140       40             202    100
+                                                                                                                             6h          76     653      207              936   100
+                                                                                                                  FZ         FSp         33     139      125              297   100
+
+
+
+
+       Beyerstr.
+                   387    180                                                24                                              NSp         35     189       67              291   100
+                           34                                               159 653   OST
+                                                                                                                             6h         181      886     399             1466   100
+
+WEST               207    120                                               470                                   Bemerkungen : Wetter früh 15ºC trocken;
+
+                           53                                               123 776                                                  nachmittags 26ºC sonnig
+
+
+
+
+                                                                                                                       Sph-Beginn:        7.30 Uhr und 15.30 Uhr
+                                                575                                                               SUMME Zufahrten: FSp :                170 KFZ/h 8:00
+                                                                                                                                      NSp :             202 KFZ/h 16:00
+                                                                                                                                       6h :             936 KFZ
+                                                                                                                  max. Sph /Zufahrt: NORD :               23 KFZ/h 15:30
+                                                      SÜD                                                                                     OST :      142 KFZ/h 15:30
+                                     Gr. Weinmeisterstr.                                                            DATUM :                   WEST        54 KFZ/h 8:00
+                                                                                                                  23.08.2012
+                                                                                                                   1861              Gr. Weinmeisterstr. / Beyerstr.
+
+
+
+
+       StromPlan 1861kp8-12.xls                                   Seite 1
+       SVP, 461                                                                                                                                                            04.09.2013
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD OST WEST     SUMME %
+                                              NORD                                                                        RAD        FSp         22       34      71              127   42,8
+                                                                                                                                     NSp         13       49      27               89   30,6
+                                       Kl. Weinmeisterstr.                                                                           6h         105      233     192              530   36,2
+                                               11              17                                                         NFZ        FSp          0        8      11               19   11,2
+
+                                                                                                                                     NSp          2      27        3               32   15,8
+                                                                                                                                     6h           2     124       34              160   17,1
+                                          2    9         0     6                                                          SV         FSp          0        4       5                9    5,3
+                                                                                                                                     NSp          0      14        1               15    7,4
+                                                                                                                                     6h           0       68      10               78    8,3
+                                                                                                                          KFZ        FSp        11      105       54             170    100
+
+
+
+
+                                                                                                    Gr. Weinmeisterstr.
+                                                                                                                                     NSp        22      140       40             202    100
+                                                                                                                                     6h          76     653      207              936   100
+                                                                                                                          FZ         FSp         33     139      125              297   100
+
+
+
+
+       Beyerstr.
+                   83      29                                                         6                                              NSp         35     189       67              291   100
+                            0                                                        27 105   OST
+                                                                                                                                     6h         181      886     399             1466   100
+
+WEST               54      38                                                        72                                   Bemerkungen : Wetter früh 15ºC trocken;
+
+                           16                                                        38 143                                                  nachmittags 26ºC sonnig
+
+
+
+
+                                                                                                                               Sph-Beginn:        7.30 Uhr und 15.30 Uhr
+                                                    97                                                                    SUMME Zufahrten: FSp :                170 KFZ/h 8:00
+                                                                                                                                              NSp :             202 KFZ/h 16:00
+                                                                                                                                               6h :             936 KFZ
+                                                                                                                          max. Sph /Zufahrt: NORD :               23 KFZ/h 15:30
+                                                         SÜD                                                                                          OST :      142 KFZ/h 15:30
+                                          Gr. Weinmeisterstr.                                                               DATUM :                   WEST        54 KFZ/h 8:00
+                                                                                        170 KFZ/h                         23.08.2012
+                                                                    Kfz-Stromverteilung in der FSp                         1861              Gr. Weinmeisterstr. / Beyerstr.
+
+
+
+
+       StromPlan (FSp)1861kp8-12.xls                                       Seite 2
+       SVP, 461                                                                                                                                                               04.09.2013
+
+
+
+
+                                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                                NORD OST WEST     SUMME %
+                                               NORD                                                                          RAD        FSp         22       34      71              127   42,8
+                                                                                                                                        NSp         13       49      27               89   30,6
+                                       Kl. Weinmeisterstr.                                                                              6h         105      233     192              530   36,2
+                                                22               38                                                          NFZ        FSp          0        8      11               19   11,2
+
+                                                                                                                                        NSp          2      27        3               32   15,8
+                                                                                                                                        6h           2     124       34              160   17,1
+                                          11   11          0     16                                                          SV         FSp          0        4       5                9    5,3
+                                                                                                                                        NSp          0      14        1               15    7,4
+                                                                                                                                        6h           0       68      10               78    8,3
+                                                                                                                             KFZ        FSp        11      105       54             170    100
+
+
+
+
+                                                                                                       Gr. Weinmeisterstr.
+                                                                                                                                        NSp        22      140       40             202    100
+                                                                                                                                        6h          76     653      207              936   100
+                                                                                                                             FZ         FSp         33     139      125              297   100
+
+
+
+
+       Beyerstr.
+                   82      42                                                            4                                              NSp         35     189       67              291   100
+                           12                                                           31 140   OST
+                                                                                                                                        6h         181      886     399             1466   100
+
+WEST               40      21                                                          105                                   Bemerkungen : Wetter früh 15ºC trocken;
+
+                            7                                                           21 161                                                  nachmittags 26ºC sonnig
+
+
+
+
+                                                                                                                                  Sph-Beginn:        7.30 Uhr und 15.30 Uhr
+                                                     123                                                                     SUMME Zufahrten: FSp :                170 KFZ/h 8:00
+                                                                                                                                                 NSp :             202 KFZ/h 16:00
+                                                                                                                                                  6h :             936 KFZ
+                                                                                                                             max. Sph /Zufahrt: NORD :               23 KFZ/h 15:30
+                                                           SÜD                                                                                           OST :      142 KFZ/h 15:30
+                                          Gr. Weinmeisterstr.                                                                  DATUM :                   WEST        54 KFZ/h 8:00
+                                                                                           202 KFZ/h                         23.08.2012
+                                                                      Kfz-Stromverteilung in der NSp                          1861              Gr. Weinmeisterstr. / Beyerstr.
+
+
+
+
+       StromPlan (NSp)1861kp8-12.xls                                         Seite 3
+

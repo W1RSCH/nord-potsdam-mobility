@@ -1,0 +1,172 @@
+               SVP, 461                                                                                                                                                                08.04.2016
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                     Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                                                RAD    FSp              37         53      84                   174      22,9
+                                                                                                                                       NSp              16         32      97                   145      17,1
+                                                                                                                                       6h              154        201     489                    844     18,8
+                                                                                                                                NFZ    FSp               7        33      34                     74      12,6
+                                                                                                                                       NSp             11         25      38                     74      10,5
+                                                                                                                                       6h               70       133     207                    410      11,2
+                                                                                                                                SV     FSp               3        11      20                     34       5,8
+                                                                                                                                       NSp               6          8     10                     24       3,4
+                                                                                                                                       6h               18         37      86                   141       3,9
+
+
+
+
+       Babelsberger Str.
+                                                                                                                                KFZ FSp                90        264     231                    585       100
+
+
+
+
+                                                                                                                 Humboldtring
+                                                                                                                                       NSp            120        275     307                    702       100
+                                                                                                                                       6h             652       1475    1530                   3657       100
+                           3.413   1.883                                                                                        FZ     FSp            127        317     315                    759       100
+                                                                                             580           OST                         NSp            136        307     404                    847       100
+
+WEST
+                                                                                                   652
+                                   582                                                       72                                        6h              806      1676    2019                   4501       100
+                           1.530
+                                   948                                                       754   1.406                        Q DTVw: 2,5          3515       6238    8533
+                                                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                                Bemerkungen :
+                                                                                                                                - Zuf. OL + SR durch KP405 errechnet
+                                                                                                                                - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+                                            1.020     1.303       172                                                               Sph-Beginn:      7:30    Uhr und    15:00 Uhr
+                                                                                                                                SUMME Zufahrten: FSp :                   585 KFZ/h 8:00
+                                           2.495                                                                                                   NSp :                 702 KFZ/h 15:30
+                                                              1.475                                                                                 6h :                3657 KFZ
+                                                                   SÜD                                                          max. Sph /Zufahrt:  OST                  129 KFZ/h 9:30
+                                                    F.-List-Str.                                                                                                SÜD       275 KFZ/h 15:30
+                                                                                                                                  DATUM :                     WEST        307 KFZ/h 15:30
+                                                                                                           6h Werte 03.09.2015
+                                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 404                            Humboldtring/Babelsberger Str.
+
+
+
+               StromPlan404kp9-15.xls                                              Seite 1
+               SVP, 461                                                                                                                                                     08.04.2016
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                                     RAD    FSp              37         53      84                   174      22,9
+                                                                                                                            NSp              16         32      97                   145      17,1
+                                                                                                                            6h              154        201     489                    844     18,8
+                                                                                                                     NFZ    FSp               7        33      34                     74      12,6
+                                                                                                                            NSp             11         25      38                     74      10,5
+                                                                                                                            6h               70       133     207                    410      11,2
+                                                                                                                     SV     FSp               3        11      20                     34       5,8
+                                                                                                                            NSp               6          8     10                     24       3,4
+                                                                                                                            6h               18         37      86                   141       3,9
+
+
+
+
+       Babelsberger Str.
+                                                                                                                     KFZ FSp                90        264     231                    585       100
+
+
+
+
+                                                                                                      Humboldtring
+                                                                                                                            NSp            120        275     307                    702       100
+                                                                                                                            6h             652       1475    1530                   3657       100
+                           560   329                                                                                 FZ     FSp            127        317     315                    759       100
+                                                                                    79          OST                         NSp            136        307     404                    847       100
+
+WEST
+                                                                                          90
+                                 112                                                11                                      6h              806      1676    2019                   4501       100
+                           231
+                                 119                                                126   216                        Q DTVw: 2,5          3515       6238    8533
+                                                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                     Bemerkungen :
+                                                                                                                     - Zuf. OL + SR durch KP405 errechnet
+                                                                                                                     - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+                                              130     250         14                                                     Sph-Beginn:      7:30    Uhr und    15:00 Uhr
+                                                                                                                     SUMME Zufahrten: FSp :                   585 KFZ/h 8:00
+                                              394                                                                                       NSp :                 702 KFZ/h 15:30
+                                                            264                                                                          6h :                3657 KFZ
+                                                                  SÜD                                                max. Sph /Zufahrt:  OST                  129 KFZ/h 9:30
+                                                    F.-List-Str.                                                                                     SÜD       275 KFZ/h 15:30
+                                                                                                                       DATUM :                     WEST        307 KFZ/h 15:30
+                                                                                                585 KFZ/h 03.09.2015
+                                                                        Kfz-Stromverteilung in der FSp 404                             Humboldtring/Babelsberger Str.
+
+
+
+               StromPlan (FSp)404kp9-15.xls                               Seite 2
+               SVP, 461                                                                                                                                                     08.04.2016
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                                     RAD    FSp              37         53      84                   174      22,9
+                                                                                                                            NSp              16         32      97                   145      17,1
+                                                                                                                            6h              154        201     489                    844     18,8
+                                                                                                                     NFZ    FSp               7        33      34                     74      12,6
+                                                                                                                            NSp             11         25      38                     74      10,5
+                                                                                                                            6h               70       133     207                    410      11,2
+                                                                                                                     SV     FSp               3        11      20                     34       5,8
+                                                                                                                            NSp               6          8     10                     24       3,4
+                                                                                                                            6h               18         37      86                   141       3,9
+
+
+
+
+       Babelsberger Str.
+                                                                                                                     KFZ FSp                90        264     231                    585       100
+
+
+
+
+                                                                                                      Humboldtring
+                                                                                                                            NSp            120        275     307                    702       100
+                                                                                                                            6h             652       1475    1530                   3657       100
+                           658   351                                                                                 FZ     FSp            127        317     315                    759       100
+                                                                                    111         OST                         NSp            136        307     404                    847       100
+
+WEST
+                                                                                          120
+                                 100                                                 9                                      6h              806      1676    2019                   4501       100
+                           307
+                                 207                                                135   255                        Q DTVw: 2,5          3515       6238    8533
+                                                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                     Bemerkungen :
+                                                                                                                     - Zuf. OL + SR durch KP405 errechnet
+                                                                                                                     - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+                                              216     240         35                                                     Sph-Beginn:      7:30    Uhr und    15:00 Uhr
+                                                                                                                     SUMME Zufahrten: FSp :                   585 KFZ/h 8:00
+                                              491                                                                                       NSp :                 702 KFZ/h 15:30
+                                                            275                                                                          6h :                3657 KFZ
+                                                                  SÜD                                                max. Sph /Zufahrt:  OST                  129 KFZ/h 9:30
+                                                    F.-List-Str.                                                                                     SÜD       275 KFZ/h 15:30
+                                                                                                                       DATUM :                     WEST        307 KFZ/h 15:30
+                                                                                                702 KFZ/h 03.09.2015
+                                                                        Kfz-Stromverteilung in der NSp 404                             Humboldtring/Babelsberger Str.
+
+
+
+               StromPlan (NSp)404kp9-15.xls                               Seite 3
+

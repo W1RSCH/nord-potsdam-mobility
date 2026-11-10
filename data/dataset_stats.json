@@ -1,0 +1,100 @@
+{
+  "alkis": {
+    "source": "User-provided ALKIS Nutzung.shp and VerwaltungsEinheit.shp",
+    "crs_original": "EPSG:25833",
+    "crs_web": "EPSG:4326",
+    "municipality": "Potsdam",
+    "municipality_area_km2": 188.1764,
+    "features": {
+      "housing": 2825,
+      "employment_workplace_proxy": 1715,
+      "mixed_use": 714,
+      "special_functional_use": 590,
+      "services_social_infrastructure": 780,
+      "education_representative_centroids": 137,
+      "services_representative_centroids": 443,
+      "green_recreation": 3117,
+      "parking": 480,
+      "railway_areas": 159
+    }
+  },
+  "gtfs": {
+    "service_start": "20261105",
+    "service_end": "20271211",
+    "route_features": 852,
+    "local_route_ids": 100,
+    "stop_platform_features": 879,
+    "transfer_links": 1403,
+    "pathways": 70
+  },
+  "traffic_count_locations": {
+    "locations": 426,
+    "linked_count_plan_archives": 215,
+    "numeric_measurement_fields_in_csv": false,
+    "fields": [
+      "Name",
+      "Zählpläne",
+      "Geo Point",
+      "Geo Shape",
+      "OBJECTID",
+      "KPNR",
+      "ODP"
+    ]
+  },
+  "notes": [
+    "Zensus 2022 100 m population/building grids are included as GeoJSON.",
+    "Traffic count register contains 426 location records and 215 ZIP links; numeric measurements are extracted from available survey PDFs in the local project when the downloader has processed them.",
+    "Residential-to-workplace potential includes all eligible 400 m square analysis zones, with all reachable origin-destination pairs routed through the directed OSM road graph and loads aggregated by individual road segment.",
+    "The route assignment runs in tools/transport_model_worker.js as a Web Worker; progress is displayed in the Analysis & Prioritization panel.",
+    "Strategic road sections are calculated from 5 percent of positive-flow segments (maximum 180) with measured peaks and count-location hints where available; up to 45 network nodes are selected.",
+    "Visible spatial grid and stop coverage use square 100 m cells; stop-coverage radius control is 100–1000 m.",
+    "Sector centre is the Landtag Brandenburg at Alter Markt 1, Potsdam; the four 45-degree divisions are an analytical working scheme, not official city districts.",
+    "Tram routes and tram stops are red.",
+    "Satellite imagery uses Esri World Imagery tiles and their required attribution.",
+    "Sensor locations are user-defined and stored locally in browser localStorage; they are not uploaded to a server.",
+    "The road-based OD model reports both a relative weighted potential index and the number of 400 m origin-destination zone pairs assigned to each road segment."
+  ],
+  "zensus2022": {
+    "reference_year": 2022,
+    "source": "User-provided Zensus 2022 100 m grid ZIPs; clipped to Potsdam by grid-cell centroid and transformed from EPSG:3035 to WGS84",
+    "population_cells": 3411,
+    "population_sum_included_cells": 182673,
+    "residential_building_cells": 2869,
+    "residential_buildings_sum": 23155,
+    "grid_resolution_m": 100
+  },
+  "model": {
+    "spatial_aggregation": "regular 400 m square analysis zones; visible reference/coverage grid is regular 100 m squares",
+    "origins": "all populated 400 m zones and/or zones containing >300 m² ALKIS residential area; grouped by nearest routable OSM node; weighted by Zensus inhabitants, ALKIS residential area fallback",
+    "destinations": "all 400 m zones containing >300 m² ALKIS work/employment proxy area; grouped by nearest routable OSM node and weighted by ALKIS area",
+    "routing": "Directed OSM motor-road graph with one-way restrictions and estimated travel-time costs; one Dijkstra shortest-path tree per unique residential access node in a Web Worker; stops after all destination nodes are settled or 10,800 seconds (3 h).",
+    "flow_visualization": "All reachable 400 m origin-destination zone pairs are routed; weighted potential and number of zone pairs are accumulated per individual OSM road segment and used for line width/opacity.",
+    "worker": "tools/transport_model_worker.js performs the route assignment in a Web Worker to keep the user interface responsive and reports progress",
+    "strategic_network": "Top 5 percent of candidate segments (positive model flow or adjacent to a count node), maximum 180; score combines weighted OD potential, OD zone-pair count, road hierarchy, count-station proximity and latest available measured peak values; top 45 nodes.",
+    "traffic_count_integration": "count station locations are qualitative context; parsed morning/afternoon peak Kfz/h values from available survey PDFs are snapped to nearby road nodes and contribute to section/node priorities",
+    "caveat": "relative potential model, not an observed OD matrix or traffic assignment calibrated to measured link volumes; ALKIS work land area is only a workplace proxy, no employee totals or observed modal split are available"
+  },
+  "map": {
+    "modes": [
+      "Minimal Dark",
+      "OpenStreetMap Classic",
+      "Esri World Imagery Satellite"
+    ],
+    "png_export_scale": 3,
+    "upload_ui": false,
+    "osm_network_bbox": "52.315,12.845,52.565,13.245",
+    "initial_center": {
+      "name": "Landtag Brandenburg, Alter Markt 1",
+      "latitude": 52.394623,
+      "longitude": 13.060371
+    },
+    "stop_coverage_radius_m": {
+      "min": 100,
+      "max": 1000,
+      "step": 100
+    },
+    "visible_grid": "100 m square tiles",
+    "analysis_grid": "400 m square cells",
+    "tram_color": "#e53935"
+  }
+}

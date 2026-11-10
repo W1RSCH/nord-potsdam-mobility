@@ -1,0 +1,133 @@
+SVP, 461                                                                                                                             13.09.2016
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                   NORD                                                  NORD SÜD WEST     SUMME %
+                                      Brauhausberg                                    RAD        FSp        1       3       2                 6     1,0
+
+                                                                                                 NSp     8          1       2                11     1,1
+                                                3.723                                            6h     25         17       7                 49    1,1
+                                                                  4.548               NFZ        FSp   73         19        0                92    15,0
+                                                                                                 NSp   65           7       0                72     7,0
+                                        156             3.567         825                        6h   414          90       0               504    11,0
+                                                                                      SV         FSp   29           6       0                35     5,7
+                                                                                                 NSp   21           3       0                24     2,3
+                                                                                                 6h   148          36       0               184     4,0
+
+
+
+
+       Templiner Straße
+                                                                                      KFZ        FSp 399         215        1              615     100
+                                                                                                 NSp 897         134        0             1031     100
+                                                                                                 6h  3723        842        1             4566     100
+                          174   173                                                   FZ         FSp  400        218        3               621    100
+                                 0                                                               NSp  905        135        2             1042     100
+
+WEST
+                          1
+                                 1                                                               6h  3748         859       8              4615    100
+                                                                                      Bemerkungen :
+
+
+
+
+                                        3.568           17            825                  Sph-Beginn:    7:00 Uhr und   16:30 Uhr
+                                                                                      SUMME Zufahrten: [FSp]:     615 KFZ/h 7:30
+                                       4.410                                                             (NSp): 1031 KFZ/h 17:00
+                                                                842                                         6h : 4566 KFZ
+                                                    SÜD                               max. Sph /Zufahrt: NORD     935 KFZ/h 16:30
+                                      Brauhausberg                                                               SÜD     215 KFZ/h 8:00
+
+                                                                                        DATUM :                 WEST        0 KFZ/h 8:30
+                                                                                      13.06.2013
+                                                                                       471               Templiner Str. / Brauhausberg
+StromPlan471kp6-13.xls                                                      Seite 1
+SVP, 461                                                                                                                            13.09.2016
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                              NORD                                                      NORD SÜD WEST     SUMME %
+                                    Brauhausberg                                     RAD        FSp        1       3       2                 6     1,0
+
+                                                                                                NSp     8          1       2                11     1,1
+                                            399                                                 6h     25         17       7                 49    1,1
+                                                              613                    NFZ        FSp   73         19        0                92    15,0
+                                                                                                NSp   65           7       0                72     7,0
+                                      25          374         214                               6h   414          90       0               504    11,0
+                                                                                     SV         FSp   29           6       0                35     5,7
+                                                                                                NSp   21           3       0                24     2,3
+                                                                                                6h   148          36       0               184     4,0
+
+
+
+
+       Templiner Straße
+                                                                                     KFZ        FSp 399         215        1              615     100
+                                                                                                NSp 897         134        0             1031     100
+                                                                                                6h  3723        842        1             4566     100
+                          27   26                                                    FZ         FSp  400        218        3               621    100
+                                0                                                               NSp  905        135        2             1042     100
+
+WEST
+                          1
+                                1                                                               6h  3748         859       8              4615    100
+                                                                                     Bemerkungen :
+
+
+
+
+                                      375         1           214                         Sph-Beginn:    7:00 Uhr und   16:30 Uhr
+                                                                                     SUMME Zufahrten: [FSp]:     615 KFZ/h 7:30
+                                      590                                                               (NSp): 1031 KFZ/h 17:00
+                                                        215                                                6h : 4566 KFZ
+                                                  SÜD                                max. Sph /Zufahrt: NORD     935 KFZ/h 16:30
+                                    Brauhausberg                                                                SÜD     215 KFZ/h 8:00
+
+                                                                                       DATUM :                 WEST        0 KFZ/h 8:30
+                                                                         615 KFZ/h   13.06.2013
+                                        Kfz-Stromverteilung in der FSp                471               Templiner Str. / Brauhausberg
+StromPlan FSp471kp6-13.xls                                          Seite 2
+SVP, 461                                                                                                                            13.09.2016
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                              NORD                                                      NORD SÜD WEST     SUMME %
+                                    Brauhausberg                                     RAD        FSp        1       2       1                 6     1,0
+
+                                                                                                NSp     8          1       2                11     1,1
+                                            897                                                 6h     25         17       7                 49    1,1
+                                                          1.028                      NFZ        FSp   63         20        0                92    15,0
+                                                                                                NSp   65           7       0                72     7,0
+                                      37          860         131                               6h   414          90       0               504    11,0
+                                                                                     SV         FSp   28         11        0                35     5,7
+                                                                                                NSp   21           3       0                24     2,3
+                                                                                                6h   148          36       0               184     4,0
+
+
+
+
+       Templiner Straße
+                                                                                     KFZ        FSp 456         139        0              615     100
+                                                                                                NSp 897         134        0             1031     100
+                                                                                                6h  3723        842        1             4566     100
+                          40   40                                                    FZ         FSp  457        141        1               621    100
+                                0                                                               NSp  905        135        2             1042     100
+
+WEST
+                          0
+                                0                                                               6h  3748         859       8              4615    100
+                                                                                     Bemerkungen :
+
+
+
+
+                                      860         3           131                         Sph-Beginn:    9:00 Uhr und   16:30 Uhr
+                                                                                     SUMME Zufahrten: [FSp]:     615 KFZ/h 9:30
+                                      994                                                               (NSp): 1031 KFZ/h 17:00
+                                                        134                                                6h : 4566 KFZ
+                                                  SÜD                                max. Sph /Zufahrt: NORD     935 KFZ/h 16:30
+                                    Brauhausberg                                                                SÜD      215 KFZ/h 8:00
+
+                                                                                       DATUM :                 WEST         0 KFZ/h 8:30
+                                                                       1.031 KFZ/h   13.06.2013
+                                        Kfz-Stromverteilung in der NSp                471               Templiner Str. / Brauhausberg
+StromPlan NSp471kp6-13.xls                                          Seite 3
+

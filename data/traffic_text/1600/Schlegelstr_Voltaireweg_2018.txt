@@ -1,0 +1,157 @@
+       SVP, 461                                                                                                                                                               23.10.2018
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                                    NORD                                                                RAD    FSp   109                     9     25        42         185     21,6
+                                                                                                                               NSp    63                    45     55        51         214     29,2
+                                     Schlegelstr. (Nord) u. Ruinenbergstr.                                                     6h    381                   141    205       231          958    24,2
+                                                    662                                                                 NFZ    FSp     8                   31       7       13           59      8,8
+                                                                 1.197                                                         NSp     7                   21       6       18           52     10,0
+                                                                                                                               6h     37                  166      29      102          334     11,1
+                                              304    194   164    535                                                   SV     FSp     1                     8      3         6          18      2,7
+                                                                                                                               NSp     0                     9      0         5          14      2,7
+                                                                                                                               6h      3                    58      7        38         106      3,5
+                                                                                                                        KFZ FSp 265                       148      58      199          670      100
+                                                                                                                               NSp    77                  180      87      174          518      100
+                                                                                                                               6h    662                 1069     339      928         2998      100
+
+
+
+
+       Voltaireweg                                                                                        Voltaireweg
+                                                                                                                        FZ     FSp   374                  157      83      241          855      100
+                     2.256   1.328                                                    148                                      NSp   140                  225     142      225          732      100
+                              280                                                     880   1.069   OST                        6h   1043                 1210     544     1159         3956      100
+
+WEST
+                     928      585                                                      41                               Q DTVw: 2,4 2813                 4479    1497     5302
+                              63                                                      837   1.906                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                        Bemerkungen :
+                                                                                                                        - Wetter früh 15ºC leicht bewölkt, sonnig, trocken;
+                                                                                                                         nachmittag 26ºC leicht bewölkt, trocken
+
+
+                                                                                                                            Sph-Beginn:      7.00     Uhr und    16.00 Uhr
+                                              298    144   107    88                                                    SUMME Zufahrten: [FSp] :                  670 KFZ/h 7:30
+                                                                                                                                                     (NSp):       518 KFZ/h 16:30
+                                              637                                                                                            6h :                2998 KFZ
+                                                           339                                                          max. Sph /Zufahrt: NORD :                 237 KFZ/h 7:30
+                                                           SÜD                                                                              OST :                 208 KFZ/h 15:30
+                                         Schlegelstr. u. Brentanoweg                                                      DATUM :                      SÜD :       87 KFZ/h 16:30
+                                                                                                    6h Werte 24.05.2018                              WEST :       199 KFZ/h 7:30
+                                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 160                               Voltaireweg/Schlegelstr.
+
+
+
+       StromPlan160kp5-18.xls                                               Seite 1
+       SVP, 461                                                                                                                                                          23.10.2018
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                                     NORD                                                          RAD    FSp   109                     9     25        42         185     21,6
+                                                                                                                          NSp    63                    45     55        51         214     29,2
+                                      Schlegelstr. (Nord) u. Ruinenbergstr.                                               6h    381                   141    205       231          958    24,2
+                                                     265                                                           NFZ    FSp     8                   31       7       13           59      8,8
+                                                                  322                                                     NSp     7                   21       6       18           52     10,0
+                                                                                                                          6h     37                  166      29      102          334     11,1
+                                               101    99    65    57                                               SV     FSp     1                     8      3         6          18      2,7
+                                                                                                                          NSp     0                     9      0         5          14      2,7
+                                                                                                                          6h      3                    58      7        38         106      3,5
+                                                                                                                   KFZ FSp 265                       148      58      199          670      100
+                                                                                                                          NSp    77                  180      87      174          518      100
+                                                                                                                          6h    662                 1069     339      928         2998      100
+
+
+
+
+       Voltaireweg                                                                                   Voltaireweg
+                                                                                                                   FZ     FSp   374                  157      83      241          855      100
+                     453   254                                                     17                                     NSp   140                  225     142      225          732      100
+                           29                                                      127   148   OST                        6h   1043                 1210     544     1159         3956      100
+
+WEST
+                     199   145                                                      4                              Q DTVw: 2,4 2813                 4479    1497     5302
+                           25                                                      231   379                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                   Bemerkungen :
+                                                                                                                   - Wetter früh 15ºC leicht bewölkt, sonnig, trocken;
+                                                                                                                    nachmittag 26ºC leicht bewölkt, trocken
+
+
+                                                                                                                       Sph-Beginn:      7.00     Uhr und    16.00 Uhr
+                                               128    26    11    21                                               SUMME Zufahrten: [FSp] :                  670 KFZ/h 7:30
+                                                                                                                                                (NSp):       518 KFZ/h 16:30
+                                               186                                                                                      6h :                2998 KFZ
+                                                             58                                                    max. Sph /Zufahrt: NORD :                 237 KFZ/h 7:30
+                                                            SÜD                                                                        OST :                 208 KFZ/h 15:30
+                                          Schlegelstr. u. Brentanoweg                                                DATUM :                      SÜD :       87 KFZ/h 16:30
+                                                                                               670 KFZ/h 24.05.2018                             WEST :       199 KFZ/h 7:30
+                                                                        Kfz-Stromverteilung in der FSp 160                               Voltaireweg/Schlegelstr.
+
+
+
+       StromPlan (FSp)160kp5-18.xls                                      Seite 2
+       SVP, 461                                                                                                                                                           23.10.2018
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD OST SÜD WEST SUMME %
+                                                     NORD                                                           RAD    FSp   109                     9     25        42         185     21,6
+                                                                                                                           NSp    63                    45     55        51         214     29,2
+                                      Schlegelstr. (Nord) u. Ruinenbergstr.                                                6h    381                   141    205       231          958    24,2
+                                                     265                                                            NFZ    FSp     8                   31       7       13           59      8,8
+                                                                  322                                                      NSp     7                   21       6       18           52     10,0
+                                                                                                                           6h     37                  166      29      102          334     11,1
+                                               101    99    65    57                                                SV     FSp     1                     8      3         6          18      2,7
+                                                                                                                           NSp     0                     9      0         5          14      2,7
+                                                                                                                           6h      3                    58      7        38         106      3,5
+                                                                                                                    KFZ FSp 265                       148      58      199          670      100
+                                                                                                                           NSp    77                  180      87      174          518      100
+                                                                                                                           6h    662                 1069     339      928         2998      100
+
+
+
+
+       Voltaireweg                                                                                    Voltaireweg
+                                                                                                                    FZ     FSp   374                  157      83      241          855      100
+                     453   254                                                      17                                     NSp   140                  225     142      225          732      100
+                           29                                                       127   148   OST                        6h   1043                 1210     544     1159         3956      100
+
+WEST
+                     199   145                                                       4                              Q DTVw: 2,4 2813                 4479    1497     5302
+                           25                                                       231   379                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Wetter früh 15ºC leicht bewölkt, sonnig, trocken;
+                                                                                                                     nachmittag 26ºC leicht bewölkt, trocken
+
+
+                                                                                                                        Sph-Beginn:      7.00     Uhr und    16.00 Uhr
+                                               128    26    11    21                                                SUMME Zufahrten: [FSp] :                  670 KFZ/h 7:30
+                                                                                                                                                 (NSp):       518 KFZ/h 16:30
+                                               186                                                                                       6h :                2998 KFZ
+                                                             58                                                     max. Sph /Zufahrt: NORD :                 237 KFZ/h 7:30
+                                                            SÜD                                                                         OST :                 208 KFZ/h 15:30
+                                          Schlegelstr. u. Brentanoweg                                                 DATUM :                      SÜD :       87 KFZ/h 16:30
+                                                                                                670 KFZ/h 24.05.2018                             WEST :       199 KFZ/h 7:30
+                                                                        Kfz-Stromverteilung in der NSp 160                                Voltaireweg/Schlegelstr.
+
+
+
+       StromPlan (NSp)160kp5-18.xls                                       Seite 3
+

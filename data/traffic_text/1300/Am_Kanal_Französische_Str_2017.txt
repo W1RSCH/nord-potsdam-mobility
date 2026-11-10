@@ -1,0 +1,166 @@
+       SVP, 461                                                                                                                                                     15.02.2018
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                         NORD                                                                 RAD    FSp    10     56                   13     47             126     10,3
+                                                                                                                     NSp    10     97                   17     57             181     12,6
+                                  Französische Str.                                                                  6h      52   482                    85   294             913     12,2
+                                          1.009                                                               NFZ    FSp    21    96                    19    54             190      17,3
+                                                        2.090                                                        NSp    28    84                      3   49             164      13,0
+                                                                                                                     6h    123   464                    47   223              857     13,1
+                                  316             693    1.081                                                SV     FSp      1   21                      3   19               44      4,0
+                                                                                                                     NSp      2   11                      0     8              21      1,7
+                                                                                                                     6h     15     90                     7    57             169      2,6
+                                                                                                              KFZ FSp 158        509                    84   348            1099       100
+                                                                                                                     NSp 203     699                    69   289            1260       100
+                                                                                                                     6h   1009 3544                    404 1592             6549       100
+                                                                                                              FZ     FSp   168   565                    97   395            1225
+
+
+
+
+       Am Kanal                                                                                    Am Kanal
+                                                                                                                                                                                       100
+                  4.698   3.106                                               928                                    NSp   213   796                    86   346            1441       100
+                                                                                     3.544
+                           12                                                2.616           OST                     6h   1061  4026                   489  1886             7462      100
+
+WEST
+                  1.592
+                          1.580                                                                               Q DTVw: 2,5 5225 14765                  1010 11745
+                                                                             2.362   5.906                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Wetter früh 13ºC sonnig, trocken; nachmittag 26ºC sonnig
+
+
+
+                                                                                                                  Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+                                           174    141    89                                                   SUMME Zufahrten: [FSp] :               1099 KFZ/h 8:00
+                                                                                                                                           (NSp):    1260 KFZ/h 15:30
+                                                                                                                                                6h : 6549 KFZ
+                                                  404                                                         max. Sph /Zufahrt: NORD :                 203 KFZ/h 15:30
+                                                  SÜD                                                                             OST :                 717 KFZ/h 16:00
+                                        J.-Curie-Str.                                                           DATUM :                      SÜD :       84 KFZ/h 8:00
+                                                                                             6h Werte 01.06.2017                           WEST :       348 KFZ/h 8:00
+                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 130                          Am Kanal/Französische Str.
+
+
+
+       StromPlan130kp6-17.xlsx                                     Seite 1
+       SVP, 461                                                                                                                                                   15.02.2018
+
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                           RAD    FSp    10     56                   13     47             126     10,3
+                                                                                                                   NSp    10     97                   17     57             181     12,6
+                                       Französische Str.                                                           6h      52   482                    85   294             913     12,2
+                                              158                                                           NFZ    FSp    21    96                    19    54             190      17,3
+                                                            338                                                    NSp    28    84                      3   49             164      13,0
+                                                                                                                   6h    123   464                    47   223              857     13,1
+                                       33           125     180                                             SV     FSp      1   21                      3   19               44      4,0
+                                                                                                                   NSp      2   11                      0     8              21      1,7
+                                                                                                                   6h     15     90                     7    57             169      2,6
+                                                                                                            KFZ FSp 158        509                    84   348            1099       100
+                                                                                                                   NSp 203     699                    69   289            1260       100
+                                                                                                                   6h   1009 3544                    404 1592             6549       100
+                                                                                                            FZ     FSp   168   565                    97   395            1225
+
+
+
+
+       Am Kanal                                                                                  Am Kanal
+                                                                                                                                                                                     100
+                  775      427                                               152                                   NSp   213   796                    86   346            1441       100
+                                                                                   509
+                            2                                                357           OST                     6h   1061  4026                   489  1886             7462      100
+
+WEST
+                  348
+                           346                                                                              Q DTVw: 2,5 5225 14765                  1010 11745
+                                                                             492   1.001                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+                                                                                                            - Wetter früh 13ºC sonnig, trocken; nachmittag 26ºC sonnig
+
+
+
+                                                                                                                Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+                                              37    26      21                                              SUMME Zufahrten: [FSp] :               1099 KFZ/h 8:00
+                                                                                                                                         (NSp):    1260 KFZ/h 15:30
+                                                                                                                                              6h : 6549 KFZ
+                                                     84                                                     max. Sph /Zufahrt: NORD :                 203 KFZ/h 15:30
+                                                    SÜD                                                                         OST :                 717 KFZ/h 16:00
+                                            J.-Curie-Str.                                                     DATUM :                      SÜD :       84 KFZ/h 8:00
+                                                                                      1.099 KFZ/h 01.06.2017                             WEST :       348 KFZ/h 8:00
+                                                                  Kfz-Stromverteilung in der FSp 130                          Am Kanal/Französische Str.
+
+
+
+       StromPlan (FSp)130kp6-17.xlsx                               Seite 2
+       SVP, 461                                                                                                                                                    15.02.2018
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                            RAD    FSp    10     56                   13     47             126     10,3
+                                                                                                                    NSp    10     97                   17     57             181     12,6
+                                       Französische Str.                                                            6h      52   482                    85   294             913     12,2
+                                              203                                                            NFZ    FSp    21    96                    19    54             190      17,3
+                                                            427                                                     NSp    28    84                      3   49             164      13,0
+                                                                                                                    6h    123   464                    47   223              857     13,1
+                                       64           139     224                                              SV     FSp      1   21                      3   19               44      4,0
+                                                                                                                    NSp      2   11                      0     8              21      1,7
+                                                                                                                    6h     15     90                     7    57             169      2,6
+                                                                                                             KFZ FSp 158        509                    84   348            1099       100
+                                                                                                                    NSp 203     699                    69   289            1260       100
+                                                                                                                    6h   1009 3544                    404 1592             6549       100
+                                                                                                             FZ     FSp   168   565                    97   395            1225
+
+
+
+
+       Am Kanal                                                                                   Am Kanal
+                                                                                                                                                                                      100
+                  883      594                                                197                                   NSp   213   796                    86   346            1441       100
+                                                                                    699
+                            0                                                 502           OST                     6h   1061  4026                   489  1886             7462      100
+
+WEST
+                  289
+                           289                                                                               Q DTVw: 2,5 5225 14765                  1010 11745
+                                                                              442   1.141                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                             Bemerkungen :
+                                                                                                             - Wetter früh 13ºC sonnig, trocken; nachmittag 26ºC sonnig
+
+
+
+                                                                                                                 Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+                                              28    27      14                                               SUMME Zufahrten: [FSp] :               1099 KFZ/h 8:00
+                                                                                                                                          (NSp):    1260 KFZ/h 15:30
+                                                                                                                                               6h : 6549 KFZ
+                                                     69                                                      max. Sph /Zufahrt: NORD :                 203 KFZ/h 15:30
+                                                    SÜD                                                                          OST :                 717 KFZ/h 16:00
+                                            J.-Curie-Str.                                                      DATUM :                      SÜD :       84 KFZ/h 8:00
+                                                                                       1.260 KFZ/h 01.06.2017                             WEST :       348 KFZ/h 8:00
+                                                                  Kfz-Stromverteilung in der NSp 130                           Am Kanal/Französische Str.
+
+
+
+       StromPlan (NSp)130kp6-17.xlsx                                Seite 3
+

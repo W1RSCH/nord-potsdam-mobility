@@ -1,0 +1,130 @@
+  SVP, 461                                                                                                                                          23.08.2018
+
+
+                                         (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp        224             1    163                 388     27,4
+                                                                                                         NSp        198             0    199                 397     26,3
+                                                                                                         6h        1039             6    952                1997     25,7
+
+                           H.-Mann-Allee                                                     NFZ         FSp        112             5    115                232      22,6
+                                                                                                         NSp         89             3     93                185      16,6
+                                                                                                         6h         683            19    521               1223      21,2
+                    WEST                                     OST                             SV          FSp         35             0     26                 61       5,9
+                                                                                                         NSp         22             0     17                 39       3,5
+                                                                                                         6h         318             1    118                437       7,6
+                                                                                             KFZ         FSp        462            33    531               1026       100
+
+5.520    2.690                                                            2.593                          NSp        489            34    592               1115       100
+                                                                                     2.752
+                                                                           159                           6h       2752         191      2830               5773       100
+
+         2.619                                                                               FZ          FSp        686            34    694                1414      100
+2.830
+          211                                                             2.713      5.465          NSp    687                 34   791                     1512      100
+                                                                                                    6h    3791                197 3782                      7770      100
+                                                                                             Q DTVw: 2,4 12843               1318 12972
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                             370    97      94                                               - Wetter früh 18°C sonnig, trocken; nachmittag 30ºC sonnig, trocken
+
+
+                             561                                                                  Sph-Beginn:       7.30 Uhr und        15.30 Uhr
+                                         191                                                 SUMME Zufahrten: [FSp]:                    1026 KFZ/h 8:00
+                             Drevesstr.                                                                         (NSp): 1115 KFZ/h                      16:00
+                                                                                                                  6h : 5773 KFZ
+                                   SÜD                                                       max. Sph /Zufahrt:   OST   517 KFZ/h                      16:30
+                                                                                                                  SÜD    47 KFZ/h                      9:30
+                                                                                              DATUM :            WEST   592 KFZ/h                      16:00
+                                                                                  6h Werte 07.06.2018
+                                    von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 418                                H.-Mann-Allee / Drevesstr.
+  StromPlan418kp6-18.xls                                        Seite 1
+  SVP, 461                                                                                                                                         23.08.2018
+
+
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                            RAD         FSp        224             1    163                 388     27,4
+                                                                                                        NSp        198             0    199                 397     26,3
+                                                                                                        6h        1039             6    952                1997     25,7
+
+                                 H.-Mann-Allee                                              NFZ         FSp        112             5    115                232      22,6
+                                                                                                        NSp         89             3     93                185      16,6
+                                                                                                        6h         683            19    521               1223      21,2
+                    WEST                                          OST                       SV          FSp         35             0     26                 61       5,9
+                                                                                                        NSp         22             0     17                 39       3,5
+                                                                                                        6h         318             1    118                437       7,6
+                                                                                            KFZ         FSp        462            33    531               1026       100
+
+1.007     476                                                                  455                      NSp        489            34    592               1115       100
+                                                                                      462
+                                                                                7                       6h       2752         191      2830               5773       100
+
+          499                                                                               FZ          FSp        686            34    694                1414      100
+531
+           32                                                                  511    973          NSp    687                 34   791                     1512      100
+                                                                                                   6h    3791                197 3782                      7770      100
+                                                                                            Q DTVw: 2,4 12843               1318 12972
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                            Bemerkungen :
+                                   39    21      12                                         - Wetter früh 18°C sonnig, trocken; nachmittag 30ºC sonnig, trocken
+
+
+                                   72                                                            Sph-Beginn:       7.30 Uhr und        15.30 Uhr
+                                              33                                            SUMME Zufahrten: [FSp]:                    1026 KFZ/h 8:00
+                                   Drevesstr.                                                                  (NSp): 1115 KFZ/h                      16:00
+                                                                                                                 6h : 5773 KFZ
+                                        SÜD                                                 max. Sph /Zufahrt:   OST   517 KFZ/h                      16:30
+                                                                                                                 SÜD    47 KFZ/h                      9:30
+                                                                                             DATUM :            WEST   592 KFZ/h                      16:00
+                                                                               1.026 KFZ/h 07.06.2018
+                                                      Kfz-Stromverteilung in der FSp 418                        H.-Mann-Allee / Drevesstr.
+  StromPlan (FSp)418kp6-18.xls                                       Seite 2
+  SVP, 461                                                                                                                                           23.08.2018
+
+
+                                               (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                              RAD         FSp        224             1    163                 388     27,4
+                                                                                                          NSp        198             0    199                 397     26,3
+                                                                                                          6h        1039             6    952                1997     25,7
+
+                                 H.-Mann-Allee                                                NFZ         FSp        112             5    115                232      22,6
+                                                                                                          NSp         89             3     93                185      16,6
+                                                                                                          6h         683            19    521               1223      21,2
+                    WEST                                           OST                        SV          FSp         35             0     26                 61       5,9
+                                                                                                          NSp         22             0     17                 39       3,5
+                                                                                                          6h         318             1    118                437       7,6
+                                                                                              KFZ         FSp        462            33    531               1026       100
+
+1.045     453                                                                   444                       NSp        489            34    592               1115       100
+                                                                                       489
+                                                                                 45                       6h       2752         191      2830               5773       100
+
+          551                                                                                 FZ          FSp        686            34    694                1414      100
+592
+           41                                                                   576   1.065          NSp    687                 34   791                     1512      100
+                                                                                                     6h    3791                197 3782                      7770      100
+                                                                                              Q DTVw: 2,4 12843               1318 12972
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                              Bemerkungen :
+                                   86     9       25                                          - Wetter früh 18°C sonnig, trocken; nachmittag 30ºC sonnig, trocken
+
+
+                                   120                                                             Sph-Beginn:       7.30 Uhr und        15.30 Uhr
+                                               34                                             SUMME Zufahrten: [FSp]:                    1026 KFZ/h 8:00
+                                   Drevesstr.                                                                    (NSp): 1115 KFZ/h                      16:00
+                                                                                                                   6h : 5773 KFZ
+                                         SÜD                                                  max. Sph /Zufahrt:   OST   517 KFZ/h                      16:30
+                                                                                                                   SÜD    47 KFZ/h                      9:30
+                                                                                               DATUM :            WEST   592 KFZ/h                      16:00
+                                                                                1.115 KFZ/h 07.06.2018
+                                                       Kfz-Stromverteilung in der NSp 418                         H.-Mann-Allee / Drevesstr.
+  StromPlan (NSp)418kp6-18.xls                                        Seite 3
+

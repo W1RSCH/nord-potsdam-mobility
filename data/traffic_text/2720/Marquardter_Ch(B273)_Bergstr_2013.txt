@@ -1,0 +1,144 @@
+                                                                                                                                                15.07.2015
+                                                                                                    FAHRZEUG-VERTEILUNG
+                          NORD                                                                      NORD OST SÜD      SUMME %
+           Marquardter Ch. (B273)                                             RAD             FSp           0      0        0                      0     0,0
+
+                                                                                              NSp    0             0       3                        3    0,2
+                       3.042                                                                  6h     3            11       7                       21    0,3
+                                       6.195                                  NFZ             FSp 161            50      112                    323     28,1
+                                                                                              NSp   66           25      175                    266     19,9
+               2.786           256      3.153                                                 6h   609          208      662                   1479     22,2
+                                                                              SV              FSp   47           33       38                    118     10,3
+                                                                                              NSp   24           11       34                      69     5,2
+                                                                                              6h   216          147      216                     579     8,7
+                                                                              KFZ             FSp 607           103      440                   1150     100
+                                                                                              NSp 480            95      764                   1339     100
+
+
+
+
+                                                                   Bergstr.
+                                                                                              6h  3042          524     3088                   6654     100
+                                                290                           FZ              FSp  607          103      440                   1150     100
+                                                             OST
+                                                      524
+                                                234                                           NSp  480            95     767                   1342     100
+                                                                                              6h  3045           535    3095                    6675    100
+                                                481   1005                    Bemerkungen :
+
+                                                                              - Wetter
+
+
+
+
+               3.020           2.863    225                                                   Sph-Beginn:       7.00   Uhr und   16.00   Uhr
+                                                                              SUMME Zufahrten: [FSp] : 1150 KFZ/h 7:30
+              6.108                                                                              (NSp) : 1339 KFZ/h 16:30
+                             3.088                                                                  6h : 6654 KFZ
+                           SÜD                                                max. Sph /Zufahrt: NORD     607 KFZ/h 7:30
+           Marquardter Ch. (B273)                                                                               OST       103 KFZ/h 7:30
+                                                                                  DATUM :                       SÜD       764 KFZ/h 16:30
+                                                                               30.05.2013
+                                                                                272                 Marquardter Ch. (B273) / Bergstr.
+
+
+
+
+SVP, 461                                                                                                                         StromPlan272kp5-13.xls
+                                                                                                                                           15.07.2015
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                       NORD                                                                          NORD OST SÜD      SUMME %
+           Marquardter Ch. (B273)                                              RAD             FSp           0      0        0                      0     0,0
+
+                                                                                               NSp    0             0       3                        3    0,2
+                     607                                                                       6h     3            11       7                       21    0,3
+                                 1.065                                         NFZ             FSp 161            50      112                    323     28,1
+                                                                                               NSp   66           25      175                    266     19,9
+               553         54     458                                                          6h   609          208      662                   1479     22,2
+                                                                               SV              FSp   47           33       38                    118     10,3
+                                                                                               NSp   24           11       34                      69     5,2
+                                                                                               6h   216          147      216                     579     8,7
+                                                                               KFZ             FSp 607           103      440                   1150     100
+                                                                                               NSp 480            95      764                   1339     100
+
+
+
+
+                                                                    Bergstr.
+                                                                                               6h  3042          524     3088                   6654     100
+                                                 49                            FZ              FSp  607          103      440                   1150     100
+                                                              OST
+                                                        103
+                                                 54                                            NSp  480            95     767                   1342     100
+                                                                                               6h  3045           535    3095                    6675    100
+                                                 85     188                    Bemerkungen :
+
+                                                                               - Wetter
+
+
+
+
+               607         409    31                                                           Sph-Beginn:       7.00   Uhr und   16.00   Uhr
+                                                                               SUMME Zufahrten: [FSp] : 1150 KFZ/h 7:30
+              1.047                                                                               (NSp) : 1339 KFZ/h 16:30
+                          440                                                                        6h : 6654 KFZ
+                       SÜD                                                     max. Sph /Zufahrt: NORD     607 KFZ/h 7:30
+           Marquardter Ch. (B273)                                                                                OST       103 KFZ/h 7:30
+                                                                                  DATUM :                        SÜD       764 KFZ/h 16:30
+                                                          1.150 KFZ/h 30.05.2013
+                                         Kfz-Stromverteilung in der FSp 272      Marquardter Ch. (B273) / Bergstr.
+
+
+SVP, 461                                                                                                                  StromPlan FSp272kp5-13.xls
+                                                                                                                                           15.07.2015
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                       NORD                                                                          NORD OST SÜD      SUMME %
+           Marquardter Ch. (B273)                                              RAD             FSp           0      0        0                      0     0,0
+
+                                                                                               NSp    0             0       3                        3    0,2
+                     480                                                                       6h     3            11       7                       21    0,3
+                                 1.254                                         NFZ             FSp 161            50      112                    323     28,1
+                                                                                               NSp   66           25      175                    266     19,9
+               432         48     774                                                          6h   609          208      662                   1479     22,2
+                                                                               SV              FSp   47           33       38                    118     10,3
+                                                                                               NSp   24           11       34                      69     5,2
+                                                                                               6h   216          147      216                     579     8,7
+                                                                               KFZ             FSp 607           103      440                   1150     100
+                                                                                               NSp 480            95      764                   1339     100
+
+
+
+
+                                                                    Bergstr.
+                                                                                               6h  3042          524     3088                   6654     100
+                                                 55                            FZ              FSp  607          103      440                   1150     100
+                                                              OST
+                                                         95
+                                                 40                                            NSp  480            95     767                   1342     100
+                                                                                               6h  3045           535    3095                    6675    100
+                                                 93     188                    Bemerkungen :
+
+                                                                               - Wetter
+
+
+
+
+               472         719    45                                                           Sph-Beginn:       7.00   Uhr und   16.00   Uhr
+                                                                               SUMME Zufahrten: [FSp] : 1150 KFZ/h 7:30
+              1.236                                                                               (NSp) : 1339 KFZ/h 16:30
+                          764                                                                        6h : 6654 KFZ
+                       SÜD                                                     max. Sph /Zufahrt: NORD     607 KFZ/h 7:30
+           Marquardter Ch. (B273)                                                                                OST       103 KFZ/h 7:30
+                                                                                  DATUM :                        SÜD       764 KFZ/h 16:30
+                                                           1.339 KFZ/h 30.05.2013
+                                         Kfz-Stromverteilung in der NSp 272       Marquardter Ch. (B273) / Bergstr.
+
+
+SVP, 461                                                                                                                  StromPlan NSp272kp5-13.xls
+

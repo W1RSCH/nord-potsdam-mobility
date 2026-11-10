@@ -1,0 +1,156 @@
+SVP, 461                                                                                                                                                                   13.10.2015
+
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                  NORD          OST      SÜD                SUMME %
+                                    NORD                                                           RAD        FSp   28           27       34                     89              6,9
+
+                          Dortustr.                                                                           NSp        35       36       59                  130               9,3
+
+                                                                                                              6h        257      171     221                    649              8,5
+                                  650                                                              NFZ        FSp       10        48      81                   139           11,5
+                                              1.874                                                           NSp         9       34      57                   100               7,9
+                                                                                                              6h         81      243     353                   677               9,7
+                          326           324    1.224
+                                                                                                   SV         FSp         4       10      26                    40               3,3
+                                                                                                              NSp         3        2      10                    15               1,2
+                                                                                                              6h        25       43       74                  142                2,0
+                                                                                                   KFZ        FSp      107      313      786                 1206            100
+                                                                                                              NSp       99      490       677                1266            100
+                                                                                                              6h       650     2218      4140                7008            100
+                                                                 270                               FZ         FSp      135       340     820                  1295           100
+
+
+
+
+                                                                                        Yorkstr.
+                                                                1919                                          NSp      134       526      736                 1396           100
+                                                                       2218
+                                                                 29              OST                          6h       907      2389     4361                 7657           100
+                                                                                                   NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen:
+                                                                3539   5757                        - ÖPNV-Streik
+
+                                                                                                   - Wetter früh 7ºC bewölkt, trocken;
+                                                                                                    nachmittag 17ºC bewölkt, zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+
+
+
+                          2.245         954    3.186                                                    Sph-Beginn:     9:00 Uhr und     15:30 Uhr
+                                                                                                   SUMME Zufahrten: [FSp]: 1206 KFZ/h 9:30
+                         6.385                                                                                        (NSp): 1266 KFZ/h 16:00
+                                      4.140                                                                             6h : 7008 KFZ
+                                    SÜD                                                            max. Sph /Zufahrt: NORD    130 KFZ/h 15:30
+                          Dortustr.                                                                                            OST       511 KFZ/h 15:30
+                                                                                                     DATUM :                   SÜD       786 KFZ/h 9:30
+                                                                                  6h Werte          30.04.2015
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 117                                   Dortustr ./ Yorkstr.
+
+
+StromPlan117kp4-15.xls                                                        Seite 1
+SVP, 461                                                                                                                                                                13.10.2015
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                               NORD          OST      SÜD                SUMME %
+                                       NORD                                                     RAD        FSp   28           27       34                     89              6,9
+
+                               Dortustr.                                                                   NSp        35       36       59                  130               9,3
+
+                                                                                                           6h        257      171     221                    649              8,5
+                                     107                                                        NFZ        FSp       10        48      81                   139           11,5
+                                                 346                                                       NSp         9       34      57                   100               7,9
+                                                                                                           6h         81      243     353                   677               9,7
+                               52          55    239                                            SV         FSp         4       10      26                    40               3,3
+                                                                                                           NSp         3        2      10                    15               1,2
+                                                                                                           6h        25       43       74                  142                2,0
+                                                                                                KFZ        FSp      107      313      786                 1206            100
+                                                                                                           NSp       99      490       677                1266            100
+                                                                                                           6h       650     2218      4140                7008            100
+                                                               41                               FZ         FSp      135       340     820                  1295           100
+
+
+
+
+                                                                                     Yorkstr.
+                                                               270                                         NSp      134       526      736                 1396           100
+                                                                     313
+                                                               2              OST                          6h       907      2389     4361                 7657           100
+                                                                                                NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen:
+                                                               645   958                        - ÖPNV-Streik
+
+                                                                                                - Wetter früh 7ºC bewölkt, trocken;
+                                                                                                 nachmittag 17ºC bewölkt, zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+
+
+                               322         198   588                                                 Sph-Beginn:     9:00 Uhr und     15:30 Uhr
+                                                                                                SUMME Zufahrten: [FSp]: 1206 KFZ/h 9:30
+                           1.108                                                                                   (NSp): 1266 KFZ/h 16:00
+                                          786                                                                        6h : 7008 KFZ
+                                       SÜD                                                      max. Sph /Zufahrt: NORD    130 KFZ/h 15:30
+                               Dortustr.                                                                                    OST       511 KFZ/h 15:30
+                                                                                                  DATUM :                   SÜD       786 KFZ/h 9:30
+                                                                        1.206 KFZ/h              30.04.2015
+                                                       Kfz-Stromverteilung in der FSp 117                                    Dortustr ./ Yorkstr.
+
+
+StromPlan (FSp)117kp4-15.xls                                               Seite 2
+SVP, 461                                                                                                                                                                   13.10.2015
+
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                  NORD          OST      SÜD                SUMME %
+                                      NORD                                                         RAD        FSp   28           27       34                     89              6,9
+
+                               Dortustr.                                                                      NSp        35       36       59                  130               9,3
+
+                                                                                                              6h        257      171     221                    649              8,5
+                                     99                                                            NFZ        FSp       10        48      81                   139           11,5
+                                                   290                                                        NSp         9       34      57                   100               7,9
+                                                                                                              6h         81      243     353                   677               9,7
+                               47         52       191                                             SV         FSp         4       10      26                    40               3,3
+                                                                                                              NSp         3        2      10                    15               1,2
+                                                                                                              6h        25       43       74                  142                2,0
+                                                                                                   KFZ        FSp      107      313      786                 1206            100
+                                                                                                              NSp       99      490       677                1266            100
+                                                                                                              6h       650     2218      4140                7008            100
+                                                                 45                                FZ         FSp      135       340     820                  1295           100
+
+
+
+
+                                                                                        Yorkstr.
+                                                                 442                                          NSp      134       526      736                 1396           100
+                                                                       490
+                                                                  3              OST                          6h       907      2389     4361                 7657           100
+                                                                                                   NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen:
+                                                                 586   1076                        - ÖPNV-Streik
+
+                                                                                                   - Wetter früh 7ºC bewölkt, trocken;
+                                                                                                    nachmittag 17ºC bewölkt, zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+
+
+                               489        146      531                                                  Sph-Beginn:     9:00 Uhr und     15:30 Uhr
+                                                                                                   SUMME Zufahrten: [FSp]: 1206 KFZ/h 9:30
+                           1.166                                                                                      (NSp): 1266 KFZ/h 16:00
+                                             677                                                                        6h : 7008 KFZ
+                                          SÜD                                                      max. Sph /Zufahrt: NORD    130 KFZ/h 15:30
+                               Dortustr.                                                                                       OST       511 KFZ/h 15:30
+                                                                                                     DATUM :                   SÜD       786 KFZ/h 9:30
+                                                                          1.266 KFZ/h               30.04.2015
+                                                         Kfz-Stromverteilung in der NSp 117                                     Dortustr ./ Yorkstr.
+
+
+StromPlan (NSp)117kp4-15.xls                                                  Seite 3
+

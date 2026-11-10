@@ -1,0 +1,180 @@
+        Landeshauptstadt Potsdam                                                                                                                                       09.06.2020
+        Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                            NORD                                                                                     NORD OST SÜD WEST SUMME %
+                                                                                                                  RAD    FSp            171     39          180     52            442      38,3
+                                       F.-Ebert-Str.                                                                     NSp            225     96          315     65            701      46,6
+                                                                                                                         6h            1350    479         1429    408           3666      46,1
+                                             8                87                                                  NFZ    FSp              0    42            13    53             108      15,2
+                                                                                                                         NSp              0    33            18    27              78       9,7
+                                                                                                                         6h               4   220            87   204             515      12,0
+                                      0      5     3          79                                                  SV     FSp              0    11            12    20              43       6,0
+                                                                                                                         NSp              0      6           15    12              33       4,1
+                                                                                                                         6h               1     54           79     62            196       4,6
+                                                                                                                  KFZ FSp                 0   247            13   452             712       100
+                                                                                                                         NSp              0   385            21   397             803       100
+                                                                                                                         6h               8 1803             96 2385             4292       100
+                                                                                                                  FZ     FSp            171   286           193   504            1154
+
+
+
+
+                                                                                                       Am Kanal
+                                                                                                                                                                                            100
+
+
+
+
+       Yorkstr.
+                  4.188   1.803                                                    0                                     NSp            225   481           336   462            1504       100
+                                                                                 1.803   1.803   OST                     6h            1358 2282           1525  2793            7958       100
+
+WEST
+                          2.385                                                    0                              Q DTVw: 2,5          9690 14803           823 12695
+                  2.385
+                             0                                                   2.405   4.208                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - Sperrung in der F.-Ebert-Str. zw. Ebräerstr. und Yorckstr. (Rohrbruch)
+                                                                                                                  - Wetter früh 10°C sonnig, trocken;
+                                                                                                                    nachmittag 19°C leicht bewölkt bis sonnig, trocken
+
+                                      5            79         17                                                      Sph-Beginn:      8:30     Uhr und   15:30 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] :                 712 KFZ/h 9:00
+                                      101                96                                                                                    (NSp):      803 KFZ/h 16:00
+                                                                                                                                       6h :               4292 KFZ
+                                                   SÜD                                                            max. Sph /Zufahrt: NORD :                  5 KFZ/h 7:30
+                                            F.-Ebert-Str.                                                                                       OST :       385 KFZ/h 16:00
+
+                                                                                                                    DATUM :                     SÜD :        21 KFZ/h 7:30
+                                                                                                 6h Werte 26.09.2019                          WEST :        452 KFZ/h 9:00
+                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 120                               F.-Ebert-Str./Am Kanal
+
+
+        StromPlan120kp9-19.xlsx                                        Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                09.06.2020
+        Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                            NORD                                                                              NORD OST SÜD WEST SUMME %
+                                                                                                           RAD    FSp            171     39          180     52            442      38,3
+                                       F.-Ebert-Str.                                                              NSp            225     96          315     65            701      46,6
+                                                                                                                  6h            1350    479         1429    408           3666      46,1
+                                              0               11                                           NFZ    FSp              0    42            13    53             108      15,2
+                                                                                                                  NSp              0    33            18    27              78       9,7
+                                                                                                                  6h               4   220            87   204             515      12,0
+                                      0      0     0          11                                           SV     FSp              0    11            12    20              43       6,0
+                                                                                                                  NSp              0      6           15    12              33       4,1
+                                                                                                                  6h               1     54           79     62            196       4,6
+                                                                                                           KFZ FSp                 0   247            13   452             712       100
+                                                                                                                  NSp              0   385            21   397             803       100
+                                                                                                                  6h               8 1803             96 2385             4292       100
+                                                                                                           FZ     FSp            171   286           193   504            1154
+
+
+
+
+                                                                                                Am Kanal
+                                                                                                                                                                                     100
+
+
+
+
+       Yorkstr.
+                  699      247                                                 0                                  NSp            225   481           336   462            1504       100
+                                                                              247   247   OST                     6h            1358 2282           1525  2793            7958       100
+
+WEST
+                           452                                                 0                           Q DTVw: 2,5          9690 14803           823 12695
+                  452
+                             0                                                454   701                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Sperrung in der F.-Ebert-Str. zw. Ebräerstr. und Yorckstr. (Rohrbruch)
+                                                                                                           - Wetter früh 10°C sonnig, trocken;
+                                                                                                             nachmittag 19°C leicht bewölkt bis sonnig, trocken
+
+                                      0            11         2                                                Sph-Beginn:      8:30     Uhr und   15:30 Uhr
+                                                                                                           SUMME Zufahrten: [FSp] :                 712 KFZ/h 9:00
+                                      13                 13                                                                             (NSp):      803 KFZ/h 16:00
+                                                                                                                                6h :               4292 KFZ
+                                                   SÜD                                                     max. Sph /Zufahrt: NORD :                  5 KFZ/h 7:30
+                                           F.-Ebert-Str.                                                                                 OST :       385 KFZ/h 16:00
+
+                                                                                                             DATUM :                     SÜD :        21 KFZ/h 7:30
+                                                                                          712 KFZ/h 26.09.2019                         WEST :        452 KFZ/h 9:00
+
+                                                                   Kfz-Stromverteilung in der FSp 120                              F.-Ebert-Str./Am Kanal
+
+
+        StromPlanFSP120kp9-19.xlsx                                  Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                09.06.2020
+        Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                            NORD                                                                              NORD OST SÜD WEST SUMME %
+                                                                                                           RAD    FSp            171     39          180     52            442      38,3
+                                       F.-Ebert-Str.                                                              NSp            225     96          315     65            701      46,6
+                                                                                                                  6h            1350    479         1429    408           3666      46,1
+                                              0               15                                           NFZ    FSp              0    42            13    53             108      15,2
+                                                                                                                  NSp              0    33            18    27              78       9,7
+                                                                                                                  6h               4   220            87   204             515      12,0
+                                      0      0     0          15                                           SV     FSp              0    11            12    20              43       6,0
+                                                                                                                  NSp              0      6           15    12              33       4,1
+                                                                                                                  6h               1     54           79     62            196       4,6
+                                                                                                           KFZ FSp                 0   247            13   452             712       100
+                                                                                                                  NSp              0   385            21   397             803       100
+                                                                                                                  6h               8 1803             96 2385             4292       100
+                                                                                                           FZ     FSp            171   286           193   504            1154
+
+
+
+
+                                                                                                Am Kanal
+                                                                                                                                                                                     100
+
+
+
+
+       Yorkstr.
+                  782      385                                                 0                                  NSp            225   481           336   462            1504       100
+                                                                              385   385   OST                     6h            1358 2282           1525  2793            7958       100
+
+WEST
+                           397                                                 0                           Q DTVw: 2,5          9690 14803           823 12695
+                  397
+                             0                                                403   788                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Sperrung in der F.-Ebert-Str. zw. Ebräerstr. und Yorckstr. (Rohrbruch)
+                                                                                                           - Wetter früh 10°C sonnig, trocken;
+                                                                                                             nachmittag 19°C leicht bewölkt bis sonnig, trocken
+
+                                      0            15         6                                                Sph-Beginn:      8:30     Uhr und   15:30 Uhr
+                                                                                                           SUMME Zufahrten: [FSp] :                 712 KFZ/h 9:00
+                                      21                 21                                                                             (NSp):      803 KFZ/h 16:00
+                                                                                                                                6h :               4292 KFZ
+                                                   SÜD                                                     max. Sph /Zufahrt: NORD :                  5 KFZ/h 7:30
+                                           F.-Ebert-Str.                                                                                 OST :       385 KFZ/h 16:00
+
+                                                                                                             DATUM :                     SÜD :        21 KFZ/h 7:30
+                                                                                          803 KFZ/h 26.09.2019                         WEST :        452 KFZ/h 9:00
+
+                                                                   Kfz-Stromverteilung in der NSp 120                              F.-Ebert-Str./Am Kanal
+
+
+        StromPlanNSP120kp9-19.xlsx                                  Seite 3
+

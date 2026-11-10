@@ -1,0 +1,152 @@
+                                                                                                                                    15.07.2015
+
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                                  NORD                                     NORD    SÜD WEST                      SUMME %
+                                     Am Schragen                        RAD        FSp       12       9       7                       28          1,6
+
+                                                                                   NSp   16    24              9                      49          1,9
+                                               3.134                               6h     94  130             44                     268          2,3
+                                                               7.163    NFZ        FSp   46  164             73                     283          16,4
+                                                                                   NSp   75  513             46                     634          25,2
+                                       28              3.106    4.029              6h   322 1207            313                    1842          16,0
+                                                                        SV         FSp   21   64             42                     127           7,4
+                                                                                   NSp   36   35             14                      85           3,4
+                                                                                   6h   123  290            128                     541           4,7
+                                                                        KFZ        FSp 596   709            416                   1721           100
+                                                                                   NSp 517 1623             379                   2519
+
+
+
+
+       Pappelallee
+                                                                                                                                                 100
+                                                                                   6h  3134 6216           2178                  11528           100
+                     4.570   2.392                                      FZ         FSp  608  718            423                    1749          100
+                              177                                                  NSp  533 1647            388                    2568          100
+
+WEST
+                     2.178                                                         6h  3228 6346           2222                   11796          100
+                             2.001
+                                                                        Bemerkungen:
+
+
+
+
+                                                                             Sph-Beginn:    8.00 Uhr und   15.00 Uhr
+
+                                       5.107           2.364    3.852   SUMME Zufahrten: [FSp]: 1721 KFZ/h                  8:30
+                                                                                           (NSp): 2519 KFZ/h                15:30
+                                     11.323                                                  6h : 11528 KFZ
+                                                      6.216             max. Sph /Zufahrt: NORD     596 KFZ/h               8:30
+                                                   SÜD                                       SÜD 1624 KFZ/h                 16:00
+                                      Jägerallee                         DATUM :                  WEST      416 KFZ/h 8:30
+                                                                        15.05.2014
+                                                                         171                      Jägerallee/Pappelallee
+
+
+
+SVP, 461                                                                                                               StromPlan171kp5-14.xls
+                                                                                                                           15.07.2015
+
+
+
+
+                                                                                        FAHRZEUG-VERTEILUNG
+                                              NORD                                      NORD    SÜD WEST                   SUMME %
+                                    Am Schragen                      RAD        FSp       12       9       7                    28        1,6
+
+                                                                                NSp   16    24              9                    49       1,9
+                                            596                                 6h     94  130             44                   268       2,3
+                                                              1063   NFZ        FSp   46  164             73                   283       16,4
+                                                                                NSp   75  513             46                   634       25,2
+                                      3           593          467              6h   322 1207            313                  1842       16,0
+                                                                     SV         FSp   21   64             42                   127        7,4
+                                                                                NSp   36   35             14                    85        3,4
+                                                                                6h   123  290            128                   541        4,7
+                                                                     KFZ        FSp 596   709            416                 1721        100
+                                                                                NSp 517 1623             379                 2519
+
+
+
+
+          Pappelallee
+                                                                                                                                         100
+                                                                                6h  3134 6216           2178                11528        100
+                        696   280                                    FZ         FSp  608  718            423                  1749       100
+                              35                                                NSp  533 1647            388                  2568       100
+
+   WEST
+                        416   381                                               6h  3228 6346           2222                 11796       100
+                                                                     Bemerkungen:
+
+
+
+
+                                                                          Sph-Beginn:    8.00 Uhr und   15.00 Uhr
+                                      974         277          432   SUMME Zufahrten: [FSp]: 1721 KFZ/h                8:30
+                                                                                        (NSp): 2519 KFZ/h              15:30
+                                     1683                                                 6h : 11528 KFZ
+                                                        709          max. Sph /Zufahrt: NORD     596 KFZ/h             8:30
+                                                  SÜD                                     SÜD 1624 KFZ/h               16:00
+                                     Jägerallee                       DATUM :                  WEST      416 KFZ/h 8:30
+      1.721   KFZ/h                                                  15.05.2014
+Kfz-Stromverteilung in der FSp                                        171                      Jägerallee/Pappelallee
+
+
+
+    SVP, 461                                                                                                StromPlan FSp171kp5-14.xls
+                                                                                                                           15.07.2015
+
+
+
+
+                                                                                        FAHRZEUG-VERTEILUNG
+                                              NORD                                      NORD    SÜD WEST                   SUMME %
+                                    Am Schragen                      RAD        FSp       12       9       7                   28        1,6
+
+                                                                                NSp   16    24              9                   49       1,9
+                                            517                                 6h     94  130             44                  268       2,3
+                                                         1.625       NFZ        FSp   46  164             73                  283       16,4
+                                                                                NSp   75  513             46                  634       25,2
+                                                   514       1.108              6h   322 1207            313                 1842
+                                      3                                                                                                 16,0
+                                                                     SV         FSp   21   64             42                  127        7,4
+                                                                                NSp   36   35             14                   85        3,4
+                                                                                6h   123  290            128                  541        4,7
+                                                                     KFZ        FSp 596   709            416                1721        100
+                                                                                NSp 517 1623             379                2519
+
+
+
+
+          Pappelallee
+                                                                                                                                        100
+                                                                                6h  3134 6216           2178               11528        100
+                        924   545                                    FZ         FSp  608  718            423                 1749       100
+                              27                                                NSp  533 1647            388                 2568       100
+
+   WEST
+                        379                                                     6h  3228 6346           2222                11796       100
+                              352
+                                                                     Bemerkungen:
+
+
+
+
+                                                                          Sph-Beginn:    8.00 Uhr und   15.00 Uhr
+                                      866          542       1.081   SUMME Zufahrten: [FSp]: 1721 KFZ/h               8:30
+                                                                                        (NSp): 2519 KFZ/h             15:30
+                                     2.489                                                6h : 11528 KFZ
+                                                     1.623           max. Sph /Zufahrt: NORD     596 KFZ/h            8:30
+                                                  SÜD                                     SÜD 1624 KFZ/h              16:00
+                                     Jägerallee                       DATUM :                  WEST      416 KFZ/h 8:30
+      2.519   KFZ/h                                                  15.05.2014
+Kfz-Stromverteilung in der NSp                                        171                      Jägerallee/Pappelallee
+
+
+
+    SVP, 461                                                                                               StromPlan NSp171kp5-14.xls
+

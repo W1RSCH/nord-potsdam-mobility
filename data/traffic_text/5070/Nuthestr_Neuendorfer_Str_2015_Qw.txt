@@ -1,0 +1,53 @@
+ SVP, 461                                                                                                                                                  11.04.2016
+
+
+
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                             Nuthestr./Neuend. Str. - Q WEST -                                                               OST     WEST SUMME %
+                                                                                                     RAD * FSp                        15                  12          27
+                                                2015                                                       NSp                        25                  27          52
+                                                                                                           6h                        124                 109         233
+                                                                                                     NFZ   FSp                      319                 357         676 14,5
+                                                                                                           NSp                      235                 396         631 12,1
+                                                                                                           6h                      1372                1907        3279 12,0
+                                                                                                     SV    FSp                      104                  74         178  3,8
+                                                                                                           NSp                       83                  61         144  2,8
+                                                                                                           6h                       511                 431         942 3,5
+                                                                                                     KFZ FSp                       2579                2083        4662 100
+                                            stadteinwärts                                                  NSp                     2378                2828        5206 100
+                                                                                                           6h                     13888               13348       27236 100
+                                                                                                     FZ    FSp                     2579                2083        4662 100
+                                                                                    2.579                  NSp                     2378                2828        5206 100
+                                                                       13.888                                   6h                13888               13348       27236
+                                                                                    2.378                                                                                     100
+
+WEST                                                                                        OST      DTVw:       2,35             32637               31368
+                                                                                                     DTVw=24h KFZ werktags
+
+                    2.083                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+        13.348
+                    2.828                                                                            *) = Räder auf Heiztrassenweg
+                                                                                                     Bemerkungen :
+                                                                                                     - Ermittelte Räder auf Heiztrassenweg fahrend, siehe Radtabelle!
+                                           stadtauswärts                                             - Baustelle zw. Ab- und Auffahrt A115 und Neuendorfer Str.
+                                                                                                     - Wetter früh 9ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+
+                                        Radfahrer (Heiztrasse)                                           Sph-Beginn:         7:30 Uhr und    15:30 Uhr
+                                                                                                     SUMME Zufahrten: [FSp] :  4662 KFZ/h                      8:00          ###
+                                                                        15                                                     5206 KFZ/h
+                                                                                                                                 (NSp):                        16:00
+                                                                 124
+                                                                        25                                               6h : 27236 KFZ
+                             12                                                                      max. Sph /Zufahrt: OST : 2579 KFZ/h                       8:00
+                                  109
+                             27                                                                                        WEST : 2828 KFZ/h                       16:00
+                                                                                                      DATUM :
+                                                                                            6h Werte 10.09.2015
+                                                          von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 507QW                Nuthestr./Neuend. Str. - Q WEST -
+
+
+ StromPlan507QWest9-15.xls                                                Seite 1
+

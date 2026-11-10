@@ -1,0 +1,130 @@
+  SVP, 461                                                                                                                                             07.03.2018
+
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                             FAHRZEUG-VERTEILUNG
+                                                                                                     Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                RAD         FSp           3            0       4                   7     1,2
+                                                                                                            NSp           4            0       1                   5     0,9
+                                                                                                            6h           16            0      14                  30     1,1
+
+Potsdamer Str.             Leester Str.                            Potsdamer Str. NFZ                       FSp         29        18         56                 103     18,1
+                                                                                                            NSp         71        17         16                 104     18,1
+                                                                                                            6h         230        88        152                 470     17,0
+                    WEST                                          OST                           SV          FSp         11         6         13                  30      5,3
+                                                                                                            NSp          8         2          2                  12      2,1
+                                                                                                            6h          42        14         30                  86      3,1
+                                                                                                KFZ         FSp        170       144        254                 568      100
+
+1.761     898                                                                  748                          NSp        378            92    105                 575      100
+                                                                                        1.399
+                                                                               651                          6h       1399         503       863               2765       100
+
+          574                                                                                   FZ          FSp        173        144       258                 575      100
+ 863
+          289                                                                  927      2.326          NSp            382         92        106                 580      100
+                                                                                                       6h            1415        503        877                2795      100
+                                                                                                Q DTVw: 2,2          5117       3175       3874
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                 940     150     353                                            - Bombenentschärfung in Werder (ab 9.50 Uhr Zufahrt zur AB gesperrt)
+                                                                                                - Zuf. OG + WG durch KP245 errechnet
+                                1.443                                                           - Wetter früh 4-6°C sonnig, trocken; nachm. 24ºC sonnig, trocken
+                                              503                                                    Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+
+                                       A 10                                                     SUMME Zufahrten: [FSp]:                     568 KFZ/h     7:30
+                                                                                                                   (NSp):                   575 KFZ/h     16:00
+                                        SÜD                                                                          6h :                  2765 KFZ
+                                                                                                max. Sph /Zufahrt:   OST                    378 KFZ/h     16:00
+                                                                                                                     SÜD                    144 KFZ/h     7:30
+                                                                                                 DATUM :            WEST                    254 KFZ/h     7:30
+                                                                                     6h Werte 11.05.2017
+                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 246                        AS Leest/Potsdamer Str. (West)
+  StromPlan246kp5-17.xls                                             Seite 1
+  SVP, 461                                                                                                                                              07.03.2018
+
+                                                   (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           3            0       4                   7     1,2
+                                                                                                             NSp           4            0       1                   5     0,9
+                                                                                                             6h           16            0      14                  30     1,1
+
+Potsdamer Str.                   Leester Str.                           Potsdamer Str. NFZ                   FSp         29        18         56                 103     18,1
+                                                                                                             NSp         71        17         16                 104     18,1
+                                                                                                             6h         230        88        152                 470     17,0
+                    WEST                                               OST                       SV          FSp         11         6         13                  30      5,3
+                                                                                                             NSp          8         2          2                  12      2,1
+                                                                                                             6h          42        14         30                  86      3,1
+                                                                                                 KFZ         FSp        170       144        254                 568      100
+
+ 377      123                                                                       110                      NSp        378            92    105                 575      100
+                                                                                           170
+                                                                                     60                      6h       1399         503       863               2765       100
+
+          170                                                                                    FZ          FSp        173        144       258                 575      100
+ 254
+           84                                                                       301    471          NSp            382         92        106                 580      100
+                                                                                                        6h            1415        503        877                2795      100
+                                                                                                 Q DTVw: 2,2          5117       3175       3874
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                       144    13      131                                        - Bombenentschärfung in Werder (ab 9.50 Uhr Zufahrt zur AB gesperrt)
+                                                                                                 - Zuf. OG + WG durch KP245 errechnet
+                                       288                                                       - Wetter früh 4-6°C sonnig, trocken; nachm. 24ºC sonnig, trocken
+                                                   144                                                Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+
+                                             A 10                                                SUMME Zufahrten: [FSp]:                     568 KFZ/h     7:30
+                                                                                                                    (NSp):                   575 KFZ/h     16:00
+                                             SÜD                                                                      6h :                  2765 KFZ
+                                                                                                 max. Sph /Zufahrt:   OST                    378 KFZ/h     16:00
+                                                                                                                      SÜD                    144 KFZ/h     7:30
+                                                                                                  DATUM :            WEST                    254 KFZ/h     7:30
+                                                                                      568 KFZ/h 11.05.2017
+                                                            Kfz-Stromverteilung in der FSp 246                 AS Leest/Potsdamer Str. (West)
+  StromPlan (FSp)246kp5-17.xls                                            Seite 2
+  SVP, 461                                                                                                                                              07.03.2018
+
+                                                   (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           3            0       4                   7     1,2
+                                                                                                             NSp           4            0       1                   5     0,9
+                                                                                                             6h           16            0      14                  30     1,1
+
+Potsdamer Str.                   Leester Str.                           Potsdamer Str. NFZ                   FSp         29        18         56                 103     18,1
+                                                                                                             NSp         71        17         16                 104     18,1
+                                                                                                             6h         230        88        152                 470     17,0
+                    WEST                                               OST                       SV          FSp         11         6         13                  30      5,3
+                                                                                                             NSp          8         2          2                  12      2,1
+                                                                                                             6h          42        14         30                  86      3,1
+                                                                                                 KFZ         FSp        170       144        254                 568      100
+
+ 333      228                                                                       189                      NSp        378            92    105                 575      100
+                                                                                           378
+                                                                                    189                      6h       1399         503       863               2765       100
+
+             40                                                                                  FZ          FSp        173        144       258                 575      100
+ 105
+             65                                                                     93     471          NSp            382         92        106                 580      100
+                                                                                                        6h            1415        503        877                2795      100
+                                                                                                 Q DTVw: 2,2          5117       3175       3874
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                       254    39      53                                         - Bombenentschärfung in Werder (ab 9.50 Uhr Zufahrt zur AB gesperrt)
+                                                                                                 - Zuf. OG + WG durch KP245 errechnet
+                                       346                                                       - Wetter früh 4-6°C sonnig, trocken; nachm. 24ºC sonnig, trocken
+                                                   92                                                 Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+
+                                             A 10                                                SUMME Zufahrten: [FSp]:                     568 KFZ/h     7:30
+                                                                                                                    (NSp):                   575 KFZ/h     16:00
+                                             SÜD                                                                      6h :                  2765 KFZ
+                                                                                                 max. Sph /Zufahrt:   OST                    378 KFZ/h     16:00
+                                                                                                                      SÜD                    144 KFZ/h     7:30
+                                                                                                  DATUM :            WEST                    254 KFZ/h     7:30
+                                                                                      575 KFZ/h 11.05.2017
+                                                           Kfz-Stromverteilung in der NSp 246                  AS Leest/Potsdamer Str. (West)
+  StromPlan (NSp)246kp5-17.xls                                            Seite 3
+

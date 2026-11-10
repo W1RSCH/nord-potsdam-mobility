@@ -1,0 +1,163 @@
+        SVP, 461                                                                                                                                                                         25.02.2015
+
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                       NORD            OST       SÜD WEST                 SUMME %
+                                           NORD                                                                         RAD        FSp   18              9        41    6                   74                5,9
+
+                                 Zum Kirchsteigfeld                                                                                NSp          42        11        25           5          83                4,8
+
+                                                                                                                                   6h   183               61       215          28        487                 5,6
+                                           3.411             7.402                                                      NFZ        FSp   75              24        62            7       168                 14,1
+                                                                                                                                   NSp   71              20        58            2       151                  9,2
+                                                                                                                                   6h   421             141       343          37         942                11,4
+                                   40       2.746    625      3.991                                                     SV         FSp   19                8       14            3         44                 3,7
+                                                                                                                                   NSp   19                7         8           1         35                 2,1
+                                                                                                                                   6h   119              55         60         11         245                 3,0
+                                                                                                                        KFZ        FSp 470             116        569          34       1189                 100
+                                                                                                                                   NSp 678             214        709          35       1636                 100
+                                                                                                                                   6h  3411             960      3640         252       8263                 100
+
+
+
+
+       Gerlachstr.                                                                                        Gerlachstr.
+                                                                                                                        FZ         FSp  488             125       610          40       1263                 100
+                     356   104                                                         594                                         NSp  720             225       734          40       1719                 100
+                           172                                                          18    960   OST                            6h  3594            1021      3855         280        8750                100
+
+WEST
+                     252   33                                                          348                              NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ (Lastzüge); FZ=alle
+
+                           47                                                        1.027 1.987                        Bemerkungen :
+                                                                                                                        - Wetter: früh 15°C sonnig, trocken;
+                                                                                                                         nachmittag 27 º C bewölkt, trocken (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                                             Sph-Beginn:       9.00 Uhr und     16.00 Uhr
+                                                                                                                        SUMME Zufahrten: [FSp] : 1189 KFZ/h 9:30
+                                   3.141    46       3.225    369                                                                           (NSp): 1636 KFZ/h 16:30
+                                                                                                                                              6h : 8263 KFZ
+                                  6.781                                                                                 max. Sph /Zufahrt: NORD :   716 KFZ/h 17:30
+                                                    3.640                                                                                    OST :  247 KFZ/h 17:30
+                                                    SÜD                                                                  DATUM :             SÜD :  709 KFZ/h 16:30
+                                     Zum Kirchsteigfeld                                             6h Werte 19.05.2011                            WEST :           62 KFZ/h 7:30
+                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 810                                Zum Kirchsteigfeld/Gerlachstr.
+
+
+
+
+        StromPlan810kp5-11.xls                                             Seite 1
+        SVP, 461                                                                                                                                                                    25.02.2015
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD            OST       SÜD WEST                 SUMME %
+                                               NORD                                                                RAD        FSp   18              9        41    6                   74                5,9
+
+                                       Zum Kirchsteigfeld                                                                     NSp          42        11        25           5          83                4,8
+
+                                                                                                                              6h   183               61       215          28        487                 5,6
+                                               470          1.047                                                  NFZ        FSp   75              24        62            7       168                 14,1
+                                                                                                                              NSp   71              20        58            2       151                  9,2
+                                                                                                                              6h   421             141       343          37         942                11,4
+                                         6      350   114    577                                                   SV         FSp   19                8       14            3         44                 3,7
+                                                                                                                              NSp   19                7         8           1         35                 2,1
+                                                                                                                              6h   119              55         60         11         245                 3,0
+                                                                                                                   KFZ        FSp 470             116        569          34       1189                 100
+                                                                                                                              NSp 678             214        709          35       1636                 100
+                                                                                                                              6h  3411             960      3640         252       8263                 100
+
+
+
+
+       Gerlachstr.                                                                                   Gerlachstr.
+                                                                                                                   FZ         FSp  488             125       610          40       1263                 100
+                     47    13                                                      69                                         NSp  720             225       734          40       1719                 100
+                           18                                                       1    116   OST                            6h  3594            1021      3855         280        8750                100
+
+WEST
+                     34     7                                                      46                              NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ (Lastzüge); FZ=alle
+
+                            9                                                     194   310                        Bemerkungen :
+                                                                                                                   - Wetter: früh 15°C sonnig, trocken;
+                                                                                                                    nachmittag 27 º C bewölkt, trocken (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                                        Sph-Beginn:       9.00 Uhr und     16.00 Uhr
+                                                                                                                   SUMME Zufahrten: [FSp] : 1189 KFZ/h 9:30
+                                         405    6     490    73                                                                        (NSp): 1636 KFZ/h 16:30
+                                                                                                                                         6h : 8263 KFZ
+                                         974                                                                       max. Sph /Zufahrt: NORD :   716 KFZ/h 17:30
+                                                      569                                                                               OST :  247 KFZ/h 17:30
+                                                      SÜD                                                           DATUM :             SÜD :  709 KFZ/h 16:30
+                                          Zum Kirchsteigfeld                              1.189 KFZ/h 19.05.2011                              WEST :           62 KFZ/h 7:30
+                                                                    Kfz-Stromverteilung in der FSp 810                                Zum Kirchsteigfeld/Gerlachstr.
+
+
+
+
+        StromPlan (FSp)810kp5-11.xls                                    Seite 2
+        SVP, 461                                                                                                                                                                     25.02.2015
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                                   NORD            OST       SÜD WEST                 SUMME %
+                                                NORD                                                                RAD        FSp   18              9        41    6                   74                5,9
+
+                                       Zum Kirchsteigfeld                                                                      NSp          42        11        25           5          83                4,8
+
+                                                                                                                               6h   183               61       215          28        487                 5,6
+                                                678          1.448                                                  NFZ        FSp   75              24        62            7       168                 14,1
+                                                                                                                               NSp   71              20        58            2       151                  9,2
+                                                                                                                               6h   421             141       343          37         942                11,4
+                                         3       555   120    770                                                   SV         FSp   19                8       14            3         44                 3,7
+                                                                                                                               NSp   19                7         8           1         35                 2,1
+                                                                                                                               6h   119              55         60         11         245                 3,0
+                                                                                                                    KFZ        FSp 470             116        569          34       1189                 100
+                                                                                                                               NSp 678             214        709          35       1636                 100
+                                                                                                                               6h  3411             960      3640         252       8263                 100
+
+
+
+
+       Gerlachstr.                                                                                    Gerlachstr.
+                                                                                                                    FZ         FSp  488             125       610          40       1263                 100
+                     49    14                                                      130                                         NSp  720             225       734          40       1719                 100
+                           28                                                        1    214   OST                            6h  3594            1021      3855         280        8750                100
+
+WEST
+                     35     3                                                       83                              NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ (Lastzüge); FZ=alle
+
+                            4                                                      210   424                        Bemerkungen :
+                                                                                                                    - Wetter: früh 15°C sonnig, trocken;
+                                                                                                                     nachmittag 27 º C bewölkt, trocken (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                                         Sph-Beginn:       9.00 Uhr und     16.00 Uhr
+                                                                                                                    SUMME Zufahrten: [FSp] : 1189 KFZ/h 9:30
+                                         642     10    612    87                                                                        (NSp): 1636 KFZ/h 16:30
+                                                                                                                                          6h : 8263 KFZ
+                                        1.351                                                                       max. Sph /Zufahrt: NORD :   716 KFZ/h 17:30
+                                                       709                                                                               OST :  247 KFZ/h 17:30
+                                                       SÜD                                                           DATUM :             SÜD :  709 KFZ/h 16:30
+                                          Zum Kirchsteigfeld                               1.636 KFZ/h 19.05.2011                              WEST :           62 KFZ/h 7:30
+                                                                     Kfz-Stromverteilung in der NSp 810                                Zum Kirchsteigfeld/Gerlachstr.
+
+
+
+
+        StromPlan (NSp)810kp5-11.xls                                     Seite 3
+

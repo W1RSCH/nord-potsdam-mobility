@@ -1,0 +1,152 @@
+  SVP, 461                                                                                                                                           13.09.2016
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: NORD SÜD WEST     SUMME %
+                                                   NORD                                     RAD         FSp           4           0      1                       5     0,5
+
+                                      Brauhausberg                                                      NSp           8           0      1                       9     0,7
+
+                                                                                                   6h       36    1                     11                     48      0,8
+                                                4.547                                       NFZ    FSp 125       92                      0                  217       22,8
+                                                                5.908                              NSp 153       14                      0                  167       13,9
+                                                                                                   6h     677   240                      0                   917      15,5
+                                        163             4.384    1.361                      SV     FSp     38    27                      0                    65       6,8
+                                                                                                   NSp     19     2                      0                    21       1,7
+                                                                                                   6h     188    66                      0                   254       4,3
+                                                                                            KFZ FSp 549 402                              2                  953       100
+
+
+
+
+       Templiner Straße
+                                                                                                   NSp 1066     137                      0                 1203       100
+                                                                                                   6h    4547 1361                       4                 5912       100
+                                                                                            FZ     FSp    553   402                      3                   958      100
+                          170   166                                                                NSp 1074     137                      1                 1212       100
+                                 3                                                                 6h    4583 1362                      15                  5960      100
+
+WEST
+                          4
+                                 1                                                          Q DTVw: 2,4 13884 13503                    400
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                            Bemerkungen :
+                                                                                            - Wetter früh 17ºC, vereinzelt Regen;
+                                                                                              nachmittag 24ºC stark bewölkt, trocken
+                                                                                            - Teilzählung - Zuf. NG+SG durch KP470 errechnet
+
+                                        4.385                    1.358
+                                                        3                                   - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                                Sph-Beginn:        7:30 Uhr und       16:00 Uhr
+                                       5.746                                                SUMME Zufahrten: [FSp]:   953 KFZ/h 8:00
+                                                       1.361                                                 (NSp): 1203 KFZ/h 16:30
+                                                    SÜD                                                         6h : 5912 KFZ
+                                      Brauhausberg                                          max. Sph /Zufahrt: NORD                   1066 KFZ/h 16:30
+                                                                                                                SÜD                    420 KFZ/h 8:00
+                                                                                              DATUM :                     WEST           1 KFZ/h 9:00
+                                                                                   6h Werte 02.06.2016
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 471                           Templiner Str. / Brauhausberg
+  StromPlan471kp6-16.xls                                                 Seite 1
+  SVP, 461                                                                                                                                       13.09.2016
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                             Zufahrt: NORD SÜD WEST     SUMME %
+                                              NORD                                      RAD         FSp           4           0      1                       5     0,5
+
+                                    Brauhausberg                                                    NSp           8           0      1                       9     0,7
+
+                                                                                               6h       36    1                     11                     48      0,8
+                                            549                                         NFZ    FSp 125       92                      0                  217       22,8
+                                                              953                              NSp 153       14                      0                  167       13,9
+                                                                                               6h     677   240                      0                   917      15,5
+                                      23          526         404                       SV     FSp     38    27                      0                    65       6,8
+                                                                                               NSp     19     2                      0                    21       1,7
+                                                                                               6h     188    66                      0                   254       4,3
+                                                                                        KFZ FSp 549 402                              2                  953       100
+
+
+
+
+       Templiner Straße
+                                                                                               NSp 1066     137                      0                 1203       100
+                                                                                               6h    4547 1361                       4                 5912       100
+                                                                                        FZ     FSp    553   402                      3                   958      100
+                          25   23                                                              NSp 1074     137                      1                 1212       100
+                               0                                                               6h    4583 1362                      15                  5960      100
+
+WEST
+                          2
+                               2                                                        Q DTVw: 2,4 13884 13503                    400
+                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh 17ºC, vereinzelt Regen;
+                                                                                          nachmittag 24ºC stark bewölkt, trocken
+                                                                                        - Teilzählung - Zuf. NG+SG durch KP470 errechnet
+                                      526         0           402                       - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                            Sph-Beginn:        7:30 Uhr und       16:00 Uhr
+                                      928                                               SUMME Zufahrten: [FSp]:   953 KFZ/h 8:00
+                                                        402                                              (NSp): 1203 KFZ/h 16:30
+                                                  SÜD                                                       6h : 5912 KFZ
+                                    Brauhausberg                                        max. Sph /Zufahrt: NORD                   1066 KFZ/h 16:30
+                                                                                                            SÜD                    420 KFZ/h 8:00
+                                                                                          DATUM :                     WEST           1 KFZ/h 9:00
+                                                                              953 KFZ/h 02.06.2016
+                                                    Kfz-Stromverteilung in der FSp 471                      Templiner Str. / Brauhausberg
+  StromPlan (FSp)471kp6-16.xls                                      Seite 2
+  SVP, 461                                                                                                                                               13.09.2016
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                     Zufahrt: NORD SÜD WEST     SUMME %
+                                                 NORD                                           RAD         FSp           4           0      1                       5     0,5
+
+                                    Brauhausberg                                                            NSp           8           0      1                       9     0,7
+
+                                                                                                       6h       36    1                     11                     48      0,8
+                                              1.066                                             NFZ    FSp 125       92                      0                  217       22,8
+                                                                1.201                                  NSp 153       14                      0                  167       13,9
+                                                                                                       6h     677   240                      0                   917      15,5
+                                      31              1.035         135                         SV     FSp     38    27                      0                    65       6,8
+                                                                                                       NSp     19     2                      0                    21       1,7
+                                                                                                       6h     188    66                      0                   254       4,3
+                                                                                                KFZ FSp 549 402                              2                  953       100
+
+
+
+
+       Templiner Straße
+                                                                                                       NSp 1066     137                      0                 1203       100
+                                                                                                       6h    4547 1361                       4                 5912       100
+                                                                                                FZ     FSp    553   402                      3                   958      100
+                          33   33                                                                      NSp 1074     137                      1                 1212       100
+                               0                                                                       6h    4583 1362                      15                  5960      100
+
+WEST
+                          0
+                               0                                                                Q DTVw: 2,4 13884 13503                    400
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - Wetter früh 17ºC, vereinzelt Regen;
+                                                                                                  nachmittag 24ºC stark bewölkt, trocken
+                                                                                                - Teilzählung - Zuf. NG+SG durch KP470 errechnet
+
+                                      1.035                         135
+                                                      2                                         - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                                    Sph-Beginn:        7:30 Uhr und       16:00 Uhr
+                                     1.172                                                      SUMME Zufahrten: [FSp]:   953 KFZ/h 8:00
+                                                              137                                                (NSp): 1203 KFZ/h 16:30
+                                                  SÜD                                                               6h : 5912 KFZ
+                                    Brauhausberg                                                max. Sph /Zufahrt: NORD                   1066 KFZ/h 16:30
+                                                                                                                    SÜD                    420 KFZ/h 8:00
+                                                                                                  DATUM :                     WEST           1 KFZ/h 9:00
+                                                                                    1.203 KFZ/h 02.06.2016
+                                                         Kfz-Stromverteilung in der NSp 471                         Templiner Str. / Brauhausberg
+  StromPlan (NSp)471kp6-16.xls                                            Seite 3
+

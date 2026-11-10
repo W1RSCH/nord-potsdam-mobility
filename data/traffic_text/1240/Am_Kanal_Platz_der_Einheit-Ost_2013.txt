@@ -1,0 +1,132 @@
+                                                                                                             15.07.2015
+
+
+
+
+                                                                                FAHRZEUG-VERTEILUNG
+                                                                                 OST WEST         SUMME %
+                                                             RAD        FSp      121      25                         146   14,6
+                                                                        NSp      161      37                         198   15,9
+                                                                        6h       904     189                        1093   17,3
+                                                             NFZ        FSp       68      62                        130    15,2
+                             Nord                                       NSp       47      26                          73    7,0
+                                                                        6h       347     241                         588   11,3
+                     Platz der Einheit-Ost                   SV         FSp       20      24                          44    5,1
+                                                                        NSp        8       8                          16    1,5
+                                    1.639                               6h        76      87                         163    3,1
+
+
+                                     1.639
+                                                             KFZ        FSp 399          458                        857    100
+                                                                        NSp 486          559                       1045    100
+                                                                        6h  2441        2773                       5214    100
+                                                             FZ         FSp  520         483                       1003    100
+                                                                        NSp  647         596                       1243    100
+                                                                        6h  3345        2962                        6307   100
+                                                             Bemerkungen :
+4.615        1.842                             599
+                                                     2.441
+             1.040                           1.842
+2.773
+             1.733                           1.733   4.174
+
+                                                                  Sph-Beginn:   9:00   Uhr und   15:30 Uhr
+                                                             SUMME Zufahrten: FSp :               857 KFZ/h 9:30
+         WEST             Am Kanal           OST                                       NSp :     1045 KFZ/h 16:00
+                                                                                        6h :     5214 KFZ
+                                                             max. Sph /Zufahrt:         OST       486 KFZ/h 15:30
+                                                                                       WEST       559 KFZ/h 16:00
+                                                               DATUM :
+                                                             22.08.2013
+                                                              124               Am Kanal/Platz d.Einheit-Ost
+
+
+
+  SVP, 461                                                                                       StromPlan124kp8-13.xls
+                                                                                                                    15.07.2015
+
+
+
+
+                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                        OST WEST         SUMME %
+                                                                    RAD        FSp      121      25                         146   14,6
+                                                                               NSp      161      37                         198   15,9
+                                                                               6h       904     189                        1093   17,3
+                                                                    NFZ        FSp       68      62                        130    15,2
+                         Nord                                                  NSp       47      26                          73    7,0
+                                                                               6h       347     241                         588   11,3
+                 Platz der Einheit-Ost                              SV         FSp       20      24                          44    5,1
+                                                                               NSp        8       8                          16    1,5
+                                313                                            6h        76      87                         163    3,1
+
+                                313
+                                                                    KFZ        FSp 399          458                        857    100
+                                                                               NSp 486          559                       1045    100
+                                                                               6h  2441        2773                       5214    100
+                                                                    FZ         FSp  520         483                       1003    100
+                                                                               NSp  647         596                       1243    100
+                                                                               6h  3345        2962                        6307   100
+                                                                    Bemerkungen :
+736        278                                        121
+                                                              399
+ 458       192                                        278
+           266                                        266     665
+
+                                                                         Sph-Beginn:   9:00   Uhr und   15:30 Uhr
+                                                                    SUMME Zufahrten: FSp :               857 KFZ/h 9:30
+       WEST           Am Kanal                      OST                                       NSp :     1045 KFZ/h 16:00
+                                                                                               6h :     5214 KFZ
+                                                                    max. Sph /Zufahrt:         OST       486 KFZ/h 15:30
+                                                                                              WEST       559 KFZ/h 16:00
+                                                                      DATUM :
+                                                      857 KFZ/h      22.08.2013
+                                      Kfz-Stromverteilung in der FSp 124        Am Kanal/Platz d.Einheit-Ost
+
+
+
+SVP, 461                                                                                           StromPlan FSp124kp8-13.xls
+                                                                                                                    15.07.2015
+
+
+
+
+                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                        OST WEST         SUMME %
+                                                                    RAD        FSp      121      25                         146   14,6
+                                                                               NSp      161      37                         198   15,9
+                                                                               6h       904     189                        1093   17,3
+                                                                    NFZ        FSp       68      62                        130    15,2
+                         Nord                                                  NSp       47      26                          73    7,0
+                                                                               6h       347     241                         588   11,3
+                 Platz der Einheit-Ost                              SV         FSp       20      24                          44    5,1
+                                                                               NSp        8       8                          16    1,5
+                                292                                            6h        76      87                         163    3,1
+
+                                292
+                                                                    KFZ        FSp 399          458                        857    100
+                                                                               NSp 486          559                       1045    100
+                                                                               6h  2441        2773                       5214    100
+                                                                    FZ         FSp  520         483                       1003    100
+                                                                               NSp  647         596                       1243    100
+                                                                               6h  3345        2962                        6307   100
+                                                                    Bemerkungen :
+946        387                                         99
+                                                              486
+ 559       193                                        387
+           366                                        366     852
+
+                                                                         Sph-Beginn:   9:00   Uhr und   15:30 Uhr
+                                                                    SUMME Zufahrten: FSp :               857 KFZ/h 9:30
+       WEST           Am Kanal                      OST                                       NSp :     1045 KFZ/h 16:00
+                                                                                               6h :     5214 KFZ
+                                                                    max. Sph /Zufahrt:         OST       486 KFZ/h 15:30
+                                                                                              WEST       559 KFZ/h 16:00
+                                                                      DATUM :
+                                                    1.045 KFZ/h      22.08.2013
+                                      Kfz-Stromverteilung in der NSp 124        Am Kanal/Platz d.Einheit-Ost
+
+
+
+SVP, 461                                                                                           StromPlan NSp124kp8-13.xls
+

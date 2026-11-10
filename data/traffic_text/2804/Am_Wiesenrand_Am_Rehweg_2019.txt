@@ -1,0 +1,169 @@
+Landeshauptstadt Potsdam                                                                                                                                               13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                    NORD                                                 Zufahrt: NORD               SÜD         WEST                  SUMME %
+                                    Am Wiesenrand (B2)                                              RAD    FSp     58     20                         1                    79         4,7
+                                                                                                           NSp     27     37                         1                    65         3,5
+                                                                                                           6h     172    142                         3                   317         3,4
+                                                 4.418
+                                                                     9.045                          NFZ    FSp 140      113                          3                  256         16,0
+                                                                                                           NSp     96   127                          0                  223         12,4
+                                         30              4.388           4.627                             6h     626   657                          5                 1288         14,1
+                                                                                                    SV     FSp     54    52                          2                  108          6,7
+                                                                                                           NSp     27    34                          0                    61         3,4
+                                                                                                           6h     220   258                          2                   480         5,3
+                                                                                                    KFZ FSp 952         638                        11                  1601         100
+                                                                                                           NSp 710 1072                            11                  1793
+
+
+
+
+             Am Rehweg
+                                                                                                                                                                                    100
+                                                                                                           6h    4418 4639                         59                  9116         100
+                         120   61                                                                   FZ     FSp 1010     658                        12                  1680         100
+                               19                                                                          NSp    737  1109                        12                  1858         100
+
+      WEST
+                          59
+                               40                                                                          6h    4590  4781                         62                  9433        100
+                                                                                                    Q DTVw: 2,2 19899 19947                       264
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                    Bemerkungen :
+                                                                                                    - Teilzählung - Zuf NG+SG durch KP Am Wiesenrand/Am Lehnitzsee errechnet
+                                                                                                    - Wetter früh 3ºC leicht bewölkt, trocken;
+
+                                         4.428           31              4.608                        nachmittag 7ºC bewölkt, trocken
+                                                                                                        Sph-Beginn:      7.00     Uhr und     16.00      Uhr
+                                        9.067                                                       SUMME Zufahrten: FSp :                       1601 KFZ/h         7:30
+                                                                 4.639
+                                                                                                                     NSp :                       1793 KFZ/h         16:30
+                                                     SÜD                                                              6h :                       9116 KFZ
+                                    Am Wiesenrand (B2)                                              max. Sph /Zufahrt:             NORD           952 KFZ/h         7:30
+                                                                                                                                     SÜD         1072 KFZ/h         16:30
+
+                                                                                                      DATUM :                      WEST               13 KFZ/h      15:30
+                                                                                           6h Werte 11.04.2019
+                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2804                                  Am Wiesenrand (B2) / Am Rehweg
+
+
+
+StromPlan2804kp4-19.xls                                                          Seite 1
+Landeshauptstadt Potsdam                                                                                                                                        13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                 NORD                                             Zufahrt: NORD               SÜD         WEST                  SUMME %
+                                    Am Wiesenrand (B2)                                       RAD    FSp     58     20                         1                    79         4,7
+                                                                                                    NSp     27     37                         1                    65         3,5
+                                                                                                    6h     172    142                         3                   317         3,4
+                                               952
+                                                             1.589                           NFZ    FSp 140      113                          3                  256         16,0
+                                                                                                    NSp     96   127                          0                  223         12,4
+                                         3           949         637                                6h     626   657                          5                 1288         14,1
+                                                                                             SV     FSp     54    52                          2                  108          6,7
+                                                                                                    NSp     27    34                          0                    61         3,4
+                                                                                                    6h     220   258                          2                   480         5,3
+                                                                                             KFZ FSp 952         638                        11                  1601         100
+                                                                                                    NSp 710 1072                            11                  1793
+
+
+
+
+             Am Rehweg
+                                                                                                                                                                             100
+                                                                                                    6h    4418 4639                         59                  9116         100
+                         17     6                                                            FZ     FSp 1010     658                        12                  1680         100
+                                2                                                                   NSp    737  1109                        12                  1858         100
+
+      WEST
+                         11
+                                9                                                                   6h    4590  4781                         62                  9433        100
+                                                                                             Q DTVw: 2,2 19899 19947                       264
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                             Bemerkungen :
+                                                                                             - Teilzählung - Zuf NG+SG durch KP Am Wiesenrand/Am Lehnitzsee errechnet
+                                                                                             - Wetter früh 3ºC leicht bewölkt, trocken;
+                                         958         3           635
+                                                                                                 Sph-Beginn:      7.00     Uhr und     16.00      Uhr
+                                        1.596                                                SUMME Zufahrten: FSp :                       1601 KFZ/h         7:30
+                                                           638
+                                                                                                              NSp :                       1793 KFZ/h         16:30
+                                                     SÜD                                                       6h :                       9116 KFZ
+                                    Am Wiesenrand (B2)                                       max. Sph /Zufahrt:             NORD           952 KFZ/h         7:30
+                                                                                                                              SÜD         1072 KFZ/h         16:30
+
+                                                                                               DATUM :                      WEST               13 KFZ/h      15:30
+                                                                                 1.601 KFZ/h 11.04.2019
+                                                       Kfz-Stromverteilung in der FSp 2804                        Am Wiesenrand (B2) / Am Rehweg
+
+
+
+StromPlan (FSp)2804kp4-19.xls                                          Seite 2
+Landeshauptstadt Potsdam                                                                                                                                             13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                  NORD                                                 Zufahrt: NORD               SÜD         WEST                  SUMME %
+                                     Am Wiesenrand (B2)                                           RAD    FSp     58     20                         1                    79         4,7
+                                                                                                         NSp     27     37                         1                    65         3,5
+                                                                                                         6h     172    142                         3                   317         3,4
+                                                710
+                                                                1.782                             NFZ    FSp 140      113                          3                  256         16,0
+                                                                                                         NSp     96   127                          0                  223         12,4
+                                                      702           1.072                                6h     626   657                          5                 1288
+                                          8                                                                                                                                       14,1
+                                                                                                  SV     FSp     54    52                          2                  108          6,7
+                                                                                                         NSp     27    34                          0                    61         3,4
+                                                                                                         6h     220   258                          2                   480         5,3
+                                                                                                  KFZ FSp 952         638                        11                  1601         100
+                                                                                                         NSp 710 1072                            11                  1793
+
+
+
+
+             Am Rehweg
+                                                                                                                                                                                  100
+                                                                                                         6h    4418 4639                         59                  9116         100
+                         26     15                                                                FZ     FSp 1010     658                        12                  1680         100
+                                7                                                                        NSp    737  1109                        12                  1858         100
+
+      WEST
+                         11
+                                4                                                                        6h    4590  4781                         62                  9433        100
+                                                                                                  Q DTVw: 2,2 19899 19947                       264
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                  Bemerkungen :
+                                                                                                  - Teilzählung - Zuf NG+SG durch KP Am Wiesenrand/Am Lehnitzsee errechnet
+                                                                                                  - Wetter früh 3ºC leicht bewölkt, trocken;
+                                          706                       1.065
+                                                      7
+                                                                                                      Sph-Beginn:      7.00     Uhr und     16.00      Uhr
+                                         1.778                                                    SUMME Zufahrten: FSp :                       1601 KFZ/h         7:30
+                                                            1.072
+                                                                                                                   NSp :                       1793 KFZ/h         16:30
+                                                      SÜD                                                           6h :                       9116 KFZ
+                                     Am Wiesenrand (B2)                                           max. Sph /Zufahrt:             NORD           952 KFZ/h         7:30
+                                                                                                                                   SÜD         1072 KFZ/h         16:30
+
+                                                                                                    DATUM :                      WEST               13 KFZ/h      15:30
+                                                                                      1.793 KFZ/h 11.04.2019
+                                                       Kfz-Stromverteilung in der NSp 2804                             Am Wiesenrand (B2) / Am Rehweg
+
+
+
+StromPlan (NSp)2804kp4-19.xls                                               Seite 3
+

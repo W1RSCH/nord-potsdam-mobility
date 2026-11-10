@@ -1,0 +1,163 @@
+       SVP, 461                                                                                                                                                              15.02.2018
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                            Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                   RAD    FSp   123     70   21     48                             262 10,8
+                                                                                                                              NSp    69     70   34     26                             199  8,3
+                                               Mangerstr.                                                                     6h    441    364  155    184                            1144 8,4
+                                                 46                                                                    NFZ    FSp     0   247     2    77                             326 15,0
+                                                             471                                                              NSp     0   145     1    61                             207   9,4
+                                                                                                                              6h      3 1165     11   503                            1682 13,5
+                                      14         32    0       425                                                     SV     FSp     0    66     0    26                               92  4,2
+                                                                                                                              NSp     0    37     0    16                               53  2,4
+                                                                                                                              6h      0   380     0   168                              548 4,4
+                                                                                                                       KFZ FSp        4 1250     44   874                            2172 100
+                                                                                                                              NSp     8 1472     32   687                            2199 100
+                                                                                                                              6h     46 8024    223 4193                            12486 100
+
+
+
+
+       Behlertstr.                                                                                       Behlertstr.
+                                                                                                                       FZ     FSp   127  1320    65   922                            2434 100
+                     9.304   5.111                                                  161                                       NSp    77  1542    66   713                            2398 100
+                              41                                                   5.097   8.024   OST                        6h    487  8388   378  4377                           13630 100
+
+WEST
+                     4.193                                                         2.766                               Q DTVw: 2,5 1178 20060 17933 23260
+                             4.152                                                   0     8.024                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                       Bemerkungen :
+                                                                                                                       - Wetter früh 12ºC bewölkt, trocken;
+                                                                                                                         nachmittag 16ºC bewölkt, teilweise Regen
+
+
+                                                                                                                           Sph-Beginn:      7.00     Uhr und   16.30 Uhr
+
+                                      6.950            223                                                             SUMME Zufahrten: [FSp] :                2172 KFZ/h 7:30
+                                                                                                                                                    (NSp):     2199 KFZ/h 17:00
+                                     7.173             SÜD                                                                                               6h : 12486 KFZ
+                                              Kurfürstenstr.                                                           max. Sph /Zufahrt: NORD :                 14 KFZ/h 16:30
+                                                                                                                                           OST :               1472 KFZ/h 17:00
+
+                                                                                                                         DATUM :                      SÜD :       44 KFZ/h 7:30
+                                                                                                   6h Werte 07.09.2017                              WEST :       874 KFZ/h 7:30
+                                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 181                                Behlertstr./Kurfürstenstr.
+
+
+
+       StromPlan181kp9-17.xlsx                                           Seite 1
+       SVP, 461                                                                                                                                                          15.02.2018
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                             RAD    FSp   123     70   21     48                             262 10,8
+                                                                                                                          NSp    69     70   34     26                             199  8,3
+                                                 Mangerstr.                                                               6h    441    364  155    184                            1144 8,4
+                                                    4                                                              NFZ    FSp     0   247     2    77                             326 15,0
+                                                                 85                                                       NSp     0   145     1    61                             207   9,4
+                                                                                                                          6h      3 1165     11   503                            1682 13,5
+                                        2          2     0       81                                                SV     FSp     0    66     0    26                               92  4,2
+                                                                                                                          NSp     0    37     0    16                               53  2,4
+                                                                                                                          6h      0   380     0   168                              548 4,4
+                                                                                                                   KFZ FSp        4 1250     44   874                            2172 100
+                                                                                                                          NSp     8 1472     32   687                            2199 100
+                                                                                                                          6h     46 8024    223 4193                            12486 100
+
+
+
+
+       Behlertstr.                                                                                   Behlertstr.
+                                                                                                                   FZ     FSp   127  1320    65   922                            2434 100
+                     1.697   823                                                 25                                       NSp    77  1542    66   713                            2398 100
+                             12                                                  821   1.250   OST                        6h    487  8388   378  4377                           13630 100
+
+WEST
+                     874                                                         404                               Q DTVw: 2,5 1178 20060 17933 23260
+                             862                                                  0    1.250                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                   Bemerkungen :
+                                                                                                                   - Wetter früh 12ºC bewölkt, trocken;
+                                                                                                                     nachmittag 16ºC bewölkt, teilweise Regen
+
+
+                                                                                                                       Sph-Beginn:      7.00     Uhr und   16.30 Uhr
+
+                                        1.268            44                                                        SUMME Zufahrten: [FSp] :                2172 KFZ/h 7:30
+                                                                                                                                                (NSp):     2199 KFZ/h 17:00
+                                       1.312             SÜD                                                                                         6h : 12486 KFZ
+                                                Kurfürstenstr.                                                     max. Sph /Zufahrt: NORD :                 14 KFZ/h 16:30
+                                                                                                                                       OST :               1472 KFZ/h 17:00
+
+                                                                                                                     DATUM :                      SÜD :       44 KFZ/h 7:30
+                                                                                          2.172 KFZ/h 07.09.2017                                WEST :       874 KFZ/h 7:30
+                                                                      Kfz-Stromverteilung in der FSp 181                                Behlertstr./Kurfürstenstr.
+
+
+
+       StromPlan (FSp)181kp9-17.xlsx                                   Seite 2
+       SVP, 461                                                                                                                                                           15.02.2018
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                              RAD    FSp   123     70   21     48                             262 10,8
+                                                                                                                           NSp    69     70   34     26                             199  8,3
+                                                 Mangerstr.                                                                6h    441    364  155    184                            1144 8,4
+                                                    8                                                               NFZ    FSp     0   247     2    77                             326 15,0
+                                                                 73                                                        NSp     0   145     1    61                             207   9,4
+                                                                                                                           6h      3 1165     11   503                            1682 13,5
+                                        2          6     0       65                                                 SV     FSp     0    66     0    26                               92  4,2
+                                                                                                                           NSp     0    37     0    16                               53  2,4
+                                                                                                                           6h      0   380     0   168                              548 4,4
+                                                                                                                    KFZ FSp        4 1250     44   874                            2172 100
+                                                                                                                           NSp     8 1472     32   687                            2199 100
+                                                                                                                           6h     46 8024    223 4193                            12486 100
+
+
+
+
+       Behlertstr.                                                                                    Behlertstr.
+                                                                                                                    FZ     FSp   127  1320    65   922                            2434 100
+                     1.622   935                                                  25                                       NSp    77  1542    66   713                            2398 100
+                              8                                                   933   1.472   OST                        6h    487  8388   378  4377                           13630 100
+
+WEST
+                     687                                                          514                               Q DTVw: 2,5 1178 20060 17933 23260
+                             679                                                   0    1.472                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Wetter früh 12ºC bewölkt, trocken;
+                                                                                                                      nachmittag 16ºC bewölkt, teilweise Regen
+
+
+                                                                                                                        Sph-Beginn:      7.00     Uhr und   16.30 Uhr
+
+                                        1.199            32                                                         SUMME Zufahrten: [FSp] :                2172 KFZ/h 7:30
+                                                                                                                                                 (NSp):     2199 KFZ/h 17:00
+                                       1.231             SÜD                                                                                          6h : 12486 KFZ
+                                                Kurfürstenstr.                                                      max. Sph /Zufahrt: NORD :                 14 KFZ/h 16:30
+                                                                                                                                        OST :               1472 KFZ/h 17:00
+
+                                                                                                                      DATUM :                      SÜD :       44 KFZ/h 7:30
+                                                                                           2.199 KFZ/h 07.09.2017                                WEST :       874 KFZ/h 7:30
+                                                                      Kfz-Stromverteilung in der NSp 181                                 Behlertstr./Kurfürstenstr.
+
+
+
+       StromPlan (NSp)181kp9-17.xlsx                                    Seite 3
+

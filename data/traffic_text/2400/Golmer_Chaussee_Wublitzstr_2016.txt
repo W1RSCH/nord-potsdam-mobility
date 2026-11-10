@@ -1,0 +1,130 @@
+  SVP, 461                                                                                                                                      15.07.2016
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                         Zufahrt: NORD OST WEST     SUMME %
+                                                                                    RAD         FSp           2         5        1                      8          1,2
+                                                                                                NSp           0         1        7                      8          1,1
+                                                                                                6h           11        16       18                     45          1,2
+                                                                                    NFZ         FSp         53        23       19                     95       14,0
+                                                                                                NSp         23        36       37                     96       12,9
+                                 NORD                                                           6h         177       180      156                    513       13,8
+                                                                                    SV          FSp           8         6        8                    22           3,2
+                           Wublitzstr.                                                          NSp           3         2        7                    12           1,6
+                                                                                                6h          38        35       48                    121           3,3
+                             1.414      2.795                                       KFZ    FSp            402        156     120                     678           100
+                                                                                           NSp            183        240     324                     747           100
+                           584    830     1.381                                            6h            1414       1192    1104                    3710           100
+                                                                                    FZ     FSp            404        161     121                     686           100
+                                                                                           NSp            183        241     331                     755           100
+                                                                                           6h            1425       1208    1122                    3755           100
+                                                                                    Q DTVw: ###          6149       5337    4838
+                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+
+2.199    1.095                                                      681             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                           1.192
+          700                                                       511             Bemerkungen :
+1.104
+          404                                                      1.234   2.426 - Baustelle auf Eisenbahnbrücke, eingeengte Fahrspuren, LKW- und
+                                                                                     Lastverkehr bis 28t zugelassen
+                                                                                    - Wetter früh 14ºC bewölkt, trocken bis leichter Regen;
+                                                                                      nachmittag 19ºC bewölkt, trocken
+
+         WEST              Golmer Ch.                              OST                   Sph-Beginn:       7:00 Uhr und     16:00 Uhr
+                                                                                    SUMME Zufahrten: [FSp]:                  678 KFZ/h         7:30
+                                                                                                       (NSp):                747 KFZ/h         16:30
+                                                                                                          6h :              3710 KFZ
+                                                                                    max. Sph /Zufahrt: NORD                  402 KFZ/h         7:30
+                                                                                                         OST                 241 KFZ/h         17:00
+                                                                                     DATUM :            WEST                 324 KFZ/h         16:30
+                                                                         6h Werte 14.07.2016
+                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 240                       Golmer Chaussee / Wublitzstr.
+
+  StromPlan240kp7-16.xls                                 Seite 1
+ SVP, 461                                                                                                                                            15.07.2016
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                              Zufahrt: NORD OST WEST     SUMME %
+                                                                                         RAD         FSp           2         5        1                      8          1,2
+                                                                                                     NSp           0         1        7                      8          1,1
+                                                                                                     6h           11        16       18                     45          1,2
+                                                                                         NFZ         FSp         53        23       19                     95       14,0
+                                                                                                     NSp         23        36       37                     96       12,9
+                                        NORD                                                         6h         177       180      156                    513       13,8
+                                                                                         SV          FSp           8         6        8                    22           3,2
+                                Wublitzstr.                                                          NSp           3         2        7                    12           1,6
+                                                                                                     6h          38        35       48                    121           3,3
+                                      402         530                                    KFZ    FSp            402        156     120                     678           100
+                                                                                                NSp            183        240     324                     747           100
+                                200         202   128                                           6h            1414       1192    1104                    3710           100
+                                                                                         FZ     FSp            404        161     121                     686           100
+                                                                                                NSp            183        241     331                     755           100
+                                                                                                6h            1425       1208    1122                    3755           100
+                                                                                         Q DTVw: ###          6149       5337    4838
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+
+416         296                                                               60         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                   156
+            68                                                               96          Bemerkungen :
+120
+            52                                                               254   410   - Baustelle auf Eisenbahnbrücke, eingeengte Fahrspuren, LKW- und
+                                                                                          Lastverkehr bis 28t zugelassen
+                                                                                         - Wetter früh 14ºC bewölkt, trocken bis leichter Regen;
+                                                                                           nachmittag 19ºC bewölkt, trocken
+
+        WEST                    Golmer Ch.                                   OST              Sph-Beginn:       7:00 Uhr und     16:00 Uhr
+                                                                                         SUMME Zufahrten: [FSp]:                  678 KFZ/h         7:30
+                                                                                                            (NSp):                747 KFZ/h         16:30
+                                                                                                               6h :              3710 KFZ
+                                                                                         max. Sph /Zufahrt: NORD                  402 KFZ/h         7:30
+                                                                                                              OST                 241 KFZ/h         17:00
+                                                                                          DATUM :            WEST                 324 KFZ/h         16:30
+                                                                              678 KFZ/h 14.07.2016
+                                                        Kfz-Stromverteilung in der FSp 240                    Golmer Chaussee / Wublitzstr.
+
+ StromPlan (FSp)240kp7-16.xls                                      Seite 2
+ SVP, 461                                                                                                                                           15.07.2016
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                             Zufahrt: NORD OST WEST     SUMME %
+                                                                                        RAD         FSp           2         5        1                      8          1,2
+                                                                                                    NSp           0         1        7                      8          1,1
+                                                                                                    6h           11        16       18                     45          1,2
+                                                                                        NFZ         FSp         53        23       19                     95       14,0
+                                                                                                    NSp         23        36       37                     96       12,9
+                                       NORD                                                         6h         177       180      156                    513       13,8
+                                                                                        SV          FSp           8         6        8                    22           3,2
+                                Wublitzstr.                                                         NSp           3         2        7                    12           1,6
+                                                                                                    6h          38        35       48                    121           3,3
+                                     183         596                                    KFZ    FSp            402        156     120                     678           100
+                                                                                               NSp            183        240     324                     747           100
+                                63         120   413                                           6h            1414       1192    1104                    3710           100
+                                                                                        FZ     FSp            404        161     121                     686           100
+                                                                                               NSp            183        241     331                     755           100
+                                                                                               6h            1425       1208    1122                    3755           100
+                                                                                        Q DTVw: ###          6149       5337    4838
+                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+443         119                                                             184         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                  240
+            229                                                             56          Bemerkungen :
+324
+            95                                                              215   455   - Baustelle auf Eisenbahnbrücke, eingeengte Fahrspuren, LKW- und
+                                                                                         Lastverkehr bis 28t zugelassen
+                                                                                        - Wetter früh 14ºC bewölkt, trocken bis leichter Regen;
+                                                                                          nachmittag 19ºC bewölkt, trocken
+
+        WEST                    Golmer Ch.                                  OST              Sph-Beginn:       7:00 Uhr und     16:00 Uhr
+                                                                                        SUMME Zufahrten: [FSp]:                  678 KFZ/h         7:30
+                                                                                                           (NSp):                747 KFZ/h         16:30
+                                                                                                              6h :              3710 KFZ
+                                                                                        max. Sph /Zufahrt: NORD                  402 KFZ/h         7:30
+                                                                                                             OST                 241 KFZ/h         17:00
+                                                                                         DATUM :            WEST                 324 KFZ/h         16:30
+                                                                             747 KFZ/h 14.07.2016
+                                                       Kfz-Stromverteilung in der NSp 240                    Golmer Chaussee / Wublitzstr.
+
+ StromPlan (NSp)240kp7-16.xls                                     Seite 3
+

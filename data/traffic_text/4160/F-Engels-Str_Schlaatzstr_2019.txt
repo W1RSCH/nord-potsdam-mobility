@@ -1,0 +1,133 @@
+Landeshauptstadt Potsdam                                                                                                                                       15.04.2020
+Bereich Verkehrsentwicklung
+
+
+                                             (7:00 bis 10:00 u. 15:00 bis 18:00)                              FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp        274             85     259                618      41,2
+                                                                                                             NSp        191             41     250                482      37,3
+                                                                                                             6h        1130            285    1185               2600      36,2
+
+Fr.-Engels-Str.                                                    Fr.-Engels-Str. NFZ                       FSp         43             1      96                140       15,9
+                                                                                                             NSp         13             1      39                 53        6,5
+                                                                                                             6h         192             9     397                598       13,1
+                         WEST                                     OST                            SV          FSp         12             1      29                 42        4,8
+                                                                                                             NSp          5             0      12                 17        2,1
+                                                                                                             6h          62             5     118                185        4,0
+                                                                                                 KFZ         FSp        240            16     625                881        100
+
+ 4.478      1.268                                                             1.236                          NSp        228            13     570                811        100
+                                                                                         1.289
+                                                                                53                           6h        1289            80    3210               4579        100
+
+            3.155                                                                                FZ          FSp         514       101        884               1499        100
+ 3.210
+              55                                                              3.203      4.492          NSp    419                  54   820                    1293        100
+                                                                                                        6h    2419                 365 4395                     7179        100
+                                                                                                 Q DTVw: 2,4 10556                 442 10523
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                 108    32      48                                               - Wetter früh 15°C sonnig, trocken;
+                                                                                                   nachmittag 25°C sonnig, trocken
+                                188                                                                   Sph-Beginn:        7.30 Uhr und        16.30   Uhr
+                                             80                                                  SUMME Zufahrten: [FSp]:                      881 KFZ/h 8:00
+                                Schlaatzstr.                                                                        (NSp):                    811 KFZ/h    17:00
+                                                                                                                       6h :                  4579 KFZ
+                                       SÜD                                                       max. Sph /Zufahrt:   OST                     240 KFZ/h    8:00
+                                                                                                                      SÜD                      17 KFZ/h    17:30
+                                                                                                  DATUM :            WEST                     625 KFZ/h    8:00
+                                                                                      6h Werte 08.08.2019
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 416                               Fr.-Engels-Str. / Schlaatzstr.
+
+StromPlan416kp8-19.xls                                              Seite 1
+Landeshauptstadt Potsdam                                                                                                                               15.04.2020
+Bereich Verkehrsentwicklung
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                        FAHRZEUG-VERTEILUNG
+                                                                                              Zufahrt: OST SÜD WEST     SUMME %
+                                                                                         RAD         FSp        274             85     259                618      41,2
+                                                                                                     NSp        191             41     250                482      37,3
+                                                                                                     6h        1130            285    1185               2600      36,2
+
+Fr.-Engels-Str.                                                  Fr.-Engels-Str. NFZ                 FSp         43             1      96                140       15,9
+                                                                                                     NSp         13             1      39                 53        6,5
+                                                                                                     6h         192             9     397                598       13,1
+                        WEST                                    OST                      SV          FSp         12             1      29                 42        4,8
+                                                                                                     NSp          5             0      12                 17        2,1
+                                                                                                     6h          62             5     118                185        4,0
+                                                                                         KFZ         FSp        240            16     625                881        100
+
+  868         243                                                           236                      NSp        228            13     570                811        100
+                                                                                   240
+                                                                             4                       6h        1289            80    3210               4579        100
+
+              617                                                                        FZ          FSp         514       101        884               1499        100
+  625
+               8                                                            626    866          NSp    419                  54   820                    1293        100
+                                                                                                6h    2419                 365 4395                     7179        100
+                                                                                         Q DTVw: 2,4 10556                 442 10523
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+                                12    7       9                                          - Wetter früh 15°C sonnig, trocken;
+                                                                                           nachmittag 25°C sonnig, trocken
+                                28                                                            Sph-Beginn:        7.30 Uhr und        16.30   Uhr
+                                           16                                            SUMME Zufahrten: [FSp]:                      881 KFZ/h 8:00
+                               Schlaatzstr.                                                                 (NSp):                    811 KFZ/h    17:00
+                                                                                                               6h :                  4579 KFZ
+                                     SÜD                                                 max. Sph /Zufahrt:   OST                     240 KFZ/h    8:00
+                                                                                                              SÜD                      17 KFZ/h    17:30
+                                                                                          DATUM :            WEST                     625 KFZ/h    8:00
+                                                                              881 KFZ/h 08.08.2019
+                                                  Kfz-Stromverteilung in der FSp 416                        Fr.-Engels-Str. / Schlaatzstr.
+
+StromPlan (FSp)416kp8-19.xls                                      Seite 2
+Landeshauptstadt Potsdam                                                                                                                               15.04.2020
+Bereich Verkehrsentwicklung
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                        FAHRZEUG-VERTEILUNG
+                                                                                              Zufahrt: OST SÜD WEST     SUMME %
+                                                                                         RAD         FSp        274             85     259                618      41,2
+                                                                                                     NSp        191             41     250                482      37,3
+                                                                                                     6h        1130            285    1185               2600      36,2
+
+Fr.-Engels-Str.                                                  Fr.-Engels-Str. NFZ                 FSp         43             1      96                140       15,9
+                                                                                                     NSp         13             1      39                 53        6,5
+                                                                                                     6h         192             9     397                598       13,1
+                        WEST                                    OST                      SV          FSp         12             1      29                 42        4,8
+                                                                                                     NSp          5             0      12                 17        2,1
+                                                                                                     6h          62             5     118                185        4,0
+                                                                                         KFZ         FSp        240            16     625                881        100
+
+  781         211                                                           206                      NSp        228            13     570                811        100
+                                                                                   228
+                                                                            22                       6h        1289            80    3210               4579        100
+
+              558                                                                        FZ          FSp         514       101        884               1499        100
+  570
+              12                                                            566    794          NSp    419                  54   820                    1293        100
+                                                                                                6h    2419                 365 4395                     7179        100
+                                                                                         Q DTVw: 2,4 10556                 442 10523
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+                                34    5       8                                          - Wetter früh 15°C sonnig, trocken;
+                                                                                           nachmittag 25°C sonnig, trocken
+                                47                                                            Sph-Beginn:        7.30 Uhr und        16.30   Uhr
+                                           13                                            SUMME Zufahrten: [FSp]:                      881 KFZ/h 8:00
+                               Schlaatzstr.                                                                 (NSp):                    811 KFZ/h    17:00
+                                                                                                               6h :                  4579 KFZ
+                                     SÜD                                                 max. Sph /Zufahrt:   OST                     240 KFZ/h    8:00
+                                                                                                              SÜD                      17 KFZ/h    17:30
+                                                                                          DATUM :            WEST                     625 KFZ/h    8:00
+                                                                              811 KFZ/h 08.08.2019
+                                                  Kfz-Stromverteilung in der NSp 416                        Fr.-Engels-Str. / Schlaatzstr.
+
+StromPlan (NSp)416kp8-19.xls                                      Seite 3
+

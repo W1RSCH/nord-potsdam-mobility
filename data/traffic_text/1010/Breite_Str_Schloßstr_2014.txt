@@ -1,0 +1,157 @@
+       SVP, 461                                                                                                                                                                      20.11.2014
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                             NORD                                                                                 NORD     OST SÜD WEST SUMME %
+                                                                                                                RAD           FSp    0                   69            0        144            213    5,2
+
+                                        Schlossstr.                                                                           NSp             2        166             5        113            286    6,7
+
+                                                                                                                              6h             5   713                 17   688                1423     6,2
+                                             834          1.092                                                 NFZ           FSp            7  288                   7  252                 554     14,2
+                                                                                                                              NSp          27   213                   4  238                 482     12,1
+                                                                                                                              6h            99 1381                 31 1226                 2737     12,8
+                                      204     28    602    258                                                  SV            FSp            1    85                  0   78                 164      4,2
+                                                                                                                              NSp            3    64                  1   56                 124      3,1
+                                                                                                                              6h            15   457                  6  375                  853     4,0
+                                                                                                                KFZ           FSp          77 1801                  36 1999                 3913     100
+                                                                                                                              NSp         200 1679                  60 2041                 3980     100
+                                                                                                                              6h          834 9881                 270 10431               21416     100
+
+
+
+
+       Breite Str.                                                                                Breite Str.
+                                                                                                                FZ            FSp           77 1870                 36  2143                4126     100
+                     19.698 9.267                                              244                                            NSp         202 1845                  65  2154                4266     100
+                               0                                             9.035 9.881    OST                               6h           839 10594               287 11119               22839     100
+
+WEST
+                     10.431 10.231                                             602                              Bemerkungen :
+                             200                                            11.061 20.942                       - Wetter früh 7ºC bewölkt, anfänglich mit Regen; nachmittag 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                     Sph-Beginn:         7.30     Uhr und       15.00 Uhr
+                                                                                                                SUMME Zufahrten: [FSp] :   3913 KFZ/h                                  8:00
+                                      830     28    14     228                                                                             3980 KFZ/h
+                                                                                                                                                  (NSp):                               15:30
+                                                                                                                                     6h : 21416 KFZ
+                                     1.100                                                                      max. Sph /Zufahrt: NORD     200 KFZ/h                                  15:30
+                                                    270                                                                             OST 1801 KFZ/h                                     8:00
+                                                    SÜD                                                          DATUM :            SÜD      74 KFZ/h                                  16:30
+                                                                                                                10.04.2014                      WEST :           2041 KFZ/h 15:30
+                                             Schlossstr.                                                          101                      Breite Str. / Schlossstr.
+
+
+
+
+       StromPlan101kp4-14.xls                                     Seite 1
+       SVP, 461                                                                                                                                                                  20.11.2014
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                             NORD                                                                              NORD     OST SÜD WEST SUMME %
+                                                                                                             RAD           FSp    0                   69            0        144            213    5,2
+
+                                        Schlossstr.                                                                        NSp             2        166             5        113            286    6,7
+
+                                                                                                                           6h             5   713                 17   688                1423     6,2
+                                              77          124                                                NFZ           FSp            7  288                   7  252                 554     14,2
+                                                                                                                           NSp          27   213                   4  238                 482     12,1
+                                                                                                                           6h            99 1381                 31 1226                 2737     12,8
+                                      18      1     58    47                                                 SV            FSp            1    85                  0   78                 164      4,2
+                                                                                                                           NSp            3    64                  1   56                 124      3,1
+                                                                                                                           6h            15   457                  6  375                  853     4,0
+                                                                                                             KFZ           FSp          77 1801                  36 1999                 3913     100
+                                                                                                                           NSp         200 1679                  60 2041                 3980     100
+                                                                                                                           6h          834 9881                 270 10431               21416     100
+
+
+
+
+       Breite Str.                                                                             Breite Str.
+                                                                                                             FZ            FSp           77 1870                 36  2143                4126     100
+                     3.612   1.613                                            44                                           NSp         202 1845                  65  2154                4266     100
+                                0                                          1.583 1.801   OST                               6h           839 10594               287 11119               22839     100
+
+WEST
+                     1.999   1.976                                           174                             Bemerkungen :
+                               23                                          2.055 3.856                       - Wetter früh 7ºC bewölkt, anfänglich mit Regen; nachmittag 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                  Sph-Beginn:         7.30     Uhr und       15.00 Uhr
+                                                                                                             SUMME Zufahrten: [FSp] :   3913 KFZ/h                                  8:00
+                                      198     12    3     21                                                                            3980 KFZ/h
+                                                                                                                                               (NSp):                               15:30
+                                                                                                                                  6h : 21416 KFZ
+                                      234                                                                    max. Sph /Zufahrt: NORD     200 KFZ/h                                  15:30
+                                                     36                                                                          OST 1801 KFZ/h                                     8:00
+                                                    SÜD                                                       DATUM :            SÜD      74 KFZ/h                                  16:30
+                                                                                    3.913 KFZ/h 10.04.2014                                   WEST :           2041 KFZ/h 15:30
+                                            Schlossstr.         Kfz-Stromverteilung in der FSp 101                                      Breite Str. / Schlossstr.
+
+
+
+
+       StromPlan (FSp)101kp4-14.xls                              Seite 2
+       SVP, 461                                                                                                                                                                  20.11.2014
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                             NORD                                                                              NORD     OST SÜD WEST SUMME %
+                                                                                                             RAD           FSp    0                   69            0        144            213    5,2
+
+                                        Schlossstr.                                                                        NSp             2        166             5        113            286    6,7
+
+                                                                                                                           6h             5   713                 17   688                1423     6,2
+                                              200         227                                                NFZ           FSp            7  288                   7  252                 554     14,2
+                                                                                                                           NSp          27   213                   4  238                 482     12,1
+                                                                                                                           6h            99 1381                 31 1226                 2737     12,8
+                                      51      5     144   27                                                 SV            FSp            1    85                  0   78                 164      4,2
+                                                                                                                           NSp            3    64                  1   56                 124      3,1
+                                                                                                                           6h            15   457                  6  375                  853     4,0
+                                                                                                             KFZ           FSp          77 1801                  36 1999                 3913     100
+                                                                                                                           NSp         200 1679                  60 2041                 3980     100
+                                                                                                                           6h          834 9881                 270 10431               21416     100
+
+
+
+
+       Breite Str.                                                                             Breite Str.
+                                                                                                             FZ            FSp           77 1870                 36  2143                4126     100
+                     3.672   1.631                                            25                                           NSp         202 1845                  65  2154                4266     100
+                                0                                          1.580 1.679   OST                               6h           839 10594               287 11119               22839     100
+
+WEST
+                     2.041   2.022                                            74                             Bemerkungen :
+                               19                                          2.224 3.903                       - Wetter früh 7ºC bewölkt, anfänglich mit Regen; nachmittag 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                  Sph-Beginn:        15.00 Uhr und           15.00 Uhr
+                                                                                                             SUMME Zufahrten: [FSp] :   3913 KFZ/h                                  8:00
+                                      98      0     2     58                                                                            3980 KFZ/h
+                                                                                                                                               (NSp):                               15:30
+                                                                                                                                  6h : 21416 KFZ
+                                      158                                                                    max. Sph /Zufahrt: NORD     200 KFZ/h                                  15:30
+                                                     60                                                                          OST 1801 KFZ/h                                     8:00
+                                                    SÜD                                                       DATUM :            SÜD      74 KFZ/h                                  16:30
+                                                                                    3.980 KFZ/h 10.04.2014                                   WEST :           2041 KFZ/h 15:30
+                                            Schlossstr.         Kfz-Stromverteilung in der NSp 101                                      Breite Str. / Schlossstr.
+
+
+
+
+       StromPlan (NSp)101kp4-14.xls                              Seite 3
+

@@ -1,0 +1,158 @@
+       Landeshauptstadt Potsdam                                                                                                                                                               12.08.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                            Zufahrt: NORD OST SÜD WEST SUMME %
+                                                       NORD                                                                            RAD    FSp   126                    54      64       80         324      28,7
+                                                                                                                                              NSp    59                    58      46       45         208      20,5
+                                                  K.-Marx-Straße                                                                              6h    412                   394     310      326        1442      25,0
+                                                        826                                                                            NFZ    FSp    14                     7     57       15           93      11,6
+                                                                      1.631                                                                   NSp    12                   19      30       20           81      10,0
+                                                                                                                                              6h     71                    73    211      107          462      10,7
+                                              85        414    327     805                                                             SV     FSp     4                     0       9        5          18       2,2
+                                                                                                                                              NSp     0                     1       5        3           9       1,1
+                                                                                                                                              6h      7                     7      41       26          81       1,9
+                                                                                                                                       KFZ FSp 198                       152     269      184          803      100
+
+
+
+
+       R.-Breitscheid-Str.                                                                                       R.-Breitscheid-Str.
+                                                                                                                                              NSp 158                    208     305      138          809      100
+                                                                                                                                              6h    826                 1062    1502      925         4315      100
+                                                                                                                                       FZ     FSp   324                  206     333      264         1127      100
+                             1.985   1.060                                                  310                                               NSp   217                  266     351      183         1017      100
+                                      92                                                    358    1.062   OST                                6h   1238                 1456    1812     1251         5757      100
+
+WEST
+                             925      336                                                   394                                        Q DTVw: 2,4 3833                 5186    6596     4665
+                                      497                                                  1.145   2.207                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                       Bemerkungen :
+                                                                                                                                       - von umliegenden Schulen waren 1-2 Klassen auf Klassenfahrt
+                                                                                                                                       - Wetter früh 16ºC sonnig bis bewölkt, trocken;
+                                                                                                                                        nachm. 26ºC leicht bewölkt, trocken
+                                                                                                                                           Sph-Beginn:      7.30     Uhr und    16.00 Uhr
+
+                                              1.305     617    403     482                                                             SUMME Zufahrten: [FSp] :                  803 KFZ/h 8:00
+                                                                                                                                                                    (NSp):       809 KFZ/h 16:30
+                                             2.807                                                                                                          6h :                4315 KFZ
+                                                              1.502                                                                    max. Sph /Zufahrt: NORD :                 198 KFZ/h 8:00
+                                                              SÜD                                                                                          OST :                 210 KFZ/h 17:30
+                                                      A.-Bebel-Str.                                                                      DATUM :                      SÜD :      305 KFZ/h 16:30
+                                                                                                           6h Werte 28.06.2018                                      WEST :       185 KFZ/h 17:30
+                                                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 640                                 R.-Breitscheid-Str./A.-Bebel-Str.
+
+
+
+       StromPlan640kp6-18.xls                                                    Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                 12.08.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                     RAD    FSp   126                    54      64       80         324      28,7
+                                                                                                                                NSp    59                    58      46       45         208      20,5
+                                           K.-Marx-Straße                                                                       6h    412                   394     310      326        1442      25,0
+                                                 198                                                                     NFZ    FSp    14                     7     57       15           93      11,6
+                                                               377                                                              NSp    12                   19      30       20           81      10,0
+                                                                                                                                6h     71                    73    211      107          462      10,7
+                                         17      83    98      179                                                       SV     FSp     4                     0       9        5          18       2,2
+                                                                                                                                NSp     0                     1       5        3           9       1,1
+                                                                                                                                6h      7                     7      41       26          81       1,9
+                                                                                                                         KFZ FSp 198                       152     269      184          803      100
+
+
+
+
+       R.-Breitscheid-Str.                                                                         R.-Breitscheid-Str.
+                                                                                                                                NSp 158                    208     305      138          809      100
+                                                                                                                                6h    826                 1062    1502      925         4315      100
+                                                                                                                         FZ     FSp   324                  206     333      264         1127      100
+                             327   143                                           63                                             NSp   217                  266     351      183         1017      100
+                                   13                                            42    152   OST                                6h   1238                 1456    1812     1251         5757      100
+
+WEST
+                             184   73                                             47                                     Q DTVw: 2,4 3833                 5186    6596     4665
+                                   98                                            253   405                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - von umliegenden Schulen waren 1-2 Klassen auf Klassenfahrt
+                                                                                                                         - Wetter früh 16ºC sonnig bis bewölkt, trocken;
+                                                                                                                          nachm. 26ºC leicht bewölkt, trocken
+                                                                                                                             Sph-Beginn:      7.30     Uhr und    16.00 Uhr
+                                         228     84    103     82                                                        SUMME Zufahrten: [FSp] :                  803 KFZ/h 8:00
+                                                                                                                                                      (NSp):       809 KFZ/h 16:30
+                                         497                                                                                                  6h :                4315 KFZ
+                                                       269                                                               max. Sph /Zufahrt: NORD :                 198 KFZ/h 8:00
+                                                       SÜD                                                                                   OST :                 210 KFZ/h 17:30
+                                               A.-Bebel-Str.                                                               DATUM :                      SÜD :      305 KFZ/h 16:30
+                                                                                             803 KFZ/h 28.06.2018                                     WEST :       185 KFZ/h 17:30
+                                                                     Kfz-Stromverteilung in der FSp 640                                R.-Breitscheid-Str./A.-Bebel-Str.
+
+
+
+       StromPlan (FSp)640kp6-18.xls                                    Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                 12.08.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                     RAD    FSp   126                    54      64       80         324      28,7
+                                                                                                                                NSp    59                    58      46       45         208      20,5
+                                           K.-Marx-Straße                                                                       6h    412                   394     310      326        1442      25,0
+                                                 158                                                                     NFZ    FSp    14                     7     57       15           93      11,6
+                                                               296                                                              NSp    12                   19      30       20           81      10,0
+                                                                                                                                6h     71                    73    211      107          462      10,7
+                                         22      89    47      138                                                       SV     FSp     4                     0       9        5          18       2,2
+                                                                                                                                NSp     0                     1       5        3           9       1,1
+                                                                                                                                6h      7                     7      41       26          81       1,9
+                                                                                                                         KFZ FSp 198                       152     269      184          803      100
+
+
+
+
+       R.-Breitscheid-Str.                                                                         R.-Breitscheid-Str.
+                                                                                                                                NSp 158                    208     305      138          809      100
+                                                                                                                                6h    826                 1062    1502      925         4315      100
+                                                                                                                         FZ     FSp   324                  206     333      264         1127      100
+                             375   237                                           58                                             NSp   217                  266     351      183         1017      100
+                                   11                                            72    208   OST                                6h   1238                 1456    1812     1251         5757      100
+
+WEST
+                             138   41                                             78                                     Q DTVw: 2,4 3833                 5186    6596     4665
+                                   86                                            181   389                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - von umliegenden Schulen waren 1-2 Klassen auf Klassenfahrt
+                                                                                                                         - Wetter früh 16ºC sonnig bis bewölkt, trocken;
+                                                                                                                          nachm. 26ºC leicht bewölkt, trocken
+                                                                                                                             Sph-Beginn:      7.30     Uhr und    16.00 Uhr
+                                         253     143   69      93                                                        SUMME Zufahrten: [FSp] :                  803 KFZ/h 8:00
+                                                                                                                                                      (NSp):       809 KFZ/h 16:30
+                                         558                                                                                                  6h :                4315 KFZ
+                                                       305                                                               max. Sph /Zufahrt: NORD :                 198 KFZ/h 8:00
+                                                       SÜD                                                                                   OST :                 210 KFZ/h 17:30
+                                               A.-Bebel-Str.                                                               DATUM :                      SÜD :      305 KFZ/h 16:30
+                                                                                             809 KFZ/h 28.06.2018                                     WEST :       185 KFZ/h 17:30
+                                                                     Kfz-Stromverteilung in der NSp 640                                R.-Breitscheid-Str./A.-Bebel-Str.
+
+
+
+       StromPlan (NSp)640kp6-18.xls                                    Seite 3
+

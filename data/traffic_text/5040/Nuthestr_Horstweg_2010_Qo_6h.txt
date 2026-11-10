@@ -1,0 +1,46 @@
+                                                                                                                             03.08.2011
+
+
+
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                            Nuthestraße/Horstweg - Q OST -                                            OST     WEST SUMME %
+                                                                               RAD * FSp                  0                 0         0
+                                         2010                                        NSp                  0                 0         0
+                                                                                     6h                   0                 0         0
+                                                                               NFZ   FSp                344               334       678   13,2
+                                                                                     NSp                257               360       617   11,2
+                                                                                     6h                1526              1752      3278   11,3
+                                                                               SV    FSp                110               109       219    4,3
+                                                                                     NSp                 58               103       161    2,9
+                                                                                     6h                 424               554       978    3,4
+                                                                               KFZ FSp                 2678              2460      5138    100
+                                      stadteinwärts                                  NSp               2571              2924      5495    100
+                                                                                     6h               14719             14386     29105    100
+                                                                               FZ    FSp               2678              2460      5138   100
+                                                                 2.678               NSp               2571              2924      5495   100
+                                                        14.719                          6h            14719             14386     29105
+                                                                 2.571                                                                    100
+
+ WEST                                                                    OST
+                                                                               Bemerkungen :
+                    2.460
+           14.386
+                    2.924
+
+
+                                      stadtauswärts
+
+                                                                                   Sph-Beginn:     7.00 Uhr und 15.30 Uhr
+                                                                               SUMME Zufahrten: [FSp] :    5138 KFZ/h           7:30      ###
+                                                                                                   (NSp): 5495 KFZ/h            16:00
+                                                                                                     6h : 29105 KFZ
+                                                                               max. Sph /Zufahrt:   OST : 2678 KFZ/h            7:30
+                                                                                                  WEST : 2924 KFZ/h             16:00
+                                                                                DATUM :
+                                                                               02.09.2010
+                                                                               504QO                        Nuthestraße
+
+
+SVP, 461                                                                                                       StromPlan504QOst9-10.xls
+

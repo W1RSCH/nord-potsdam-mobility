@@ -1,0 +1,155 @@
+       Landeshauptstadt Potsdam                                                                                                                                                               16.11.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                                    Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                                NORD                                                                           RAD     FSp        34                      37      36  21            128       12,5
+                                                                                                                                       NSp        26                      41      46  11            124       12,6
+                                     An der Alten Zauche                                                                               6h        151                     192     240   56            639      12,0
+                                                1.250                                                                          NFZ     FSp       30                     107      65     1           203       22,7
+                                                                2.984                                                                  NSp       39                      63      68     0           170       19,7
+                                                                                                                                       6h       165                     454     313   15            947       20,1
+                                      20         538     692     1.734                                                         SV      FSp         7                     35      13     0            55        6,1
+                                                                                                                                       NSp         3                     13        9    0            25        2,9
+                                                                                                                                       6h         29                    115       57    3           204        4,3
+                                                                                                                               KFZ FSp          201                     423     247   24            895       100
+                                                                                                                                       NSp      256                     314     269   22            861       100
+
+
+
+
+       Drewitzer Str.                                                                                         Drewitzer Str.
+                                                                                                                                       6h      1250                    1945    1349  158           4702       100
+                                                                                                                               FZ      FSp      235                     460     283   45           1023       100
+                        274   116                                                       1.023                                          NSp      282                     355     315   33            985       100
+                              41                                                         51     1.945   OST                            6h      1401                    2137    1589  214           5341       100
+
+WEST                    158   49                                                         871                                   Q DTVw:    2,35 7012                    7802    6641  644
+                              68                                                        1.375   3.320                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                               Bemerkungen :
+                                                                                                                               - Baustelle Leipziger Dreieck
+                                                                                                                               - Zuf.+Abf. Horstweg Süd gesperrt
+                                                                                                                               - Wetter früh 16ºC trocken; nachm. 27ºC sonnig, trocken
+                                                                                                                                        Sph-Beginn:      7.30        Uhr und   15.00 Uhr
+
+                                      1.477      45      670     634                                                           SUMME Zufahrten:                      [FSp] :    895 KFZ/h 8:00
+                                                                                                                                                                     (NSp):     861 KFZ/h 15:30
+                                     2.826                                                                                                                              6h :   4702 KFZ
+                                                        1.349                                                                  max. Sph /Zufahrt:                NORD :         256 KFZ/h 15:30
+                                                        SÜD                                                                                                       OST :         423 KFZ/h 8:00
+                                              H.-Mann-Allee                                                                         DATUM :                           SÜD :     269 KFZ/h 15:30
+                                                                                                        6h Werte                  28.09.2023                     WEST :          45 KFZ/h 17:30
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 4400                                       Drewitzer Str./A.d.A. Zauche
+
+
+
+       StromPlan4400kp9-23                                                    Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                    16.11.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                              NORD                                                                  RAD     FSp        34                      37      36  21            128       12,5
+                                                                                                                            NSp        26                      41      46  11            124       12,6
+                                     An der Alten Zauche                                                                    6h        151                     192     240   56            639      12,0
+                                               201                                                                  NFZ     FSp       30                     107      65     1           203       22,7
+                                                            557                                                             NSp       39                      63      68     0           170       19,7
+                                                                                                                            6h       165                     454     313   15            947       20,1
+                                      2        88    111    356                                                     SV      FSp         7                     35      13     0            55        6,1
+                                                                                                                            NSp         3                     13        9    0            25        2,9
+                                                                                                                            6h         29                    115       57    3           204        4,3
+                                                                                                                    KFZ FSp          201                     423     247   24            895       100
+                                                                                                                            NSp      256                     314     269   22            861       100
+
+
+
+
+       Drewitzer Str.                                                                              Drewitzer Str.
+                                                                                                                            6h      1250                    1945    1349  158           4702       100
+                                                                                                                    FZ      FSp      235                     460     283   45           1023       100
+                        42   18                                                 221                                         NSp      282                     355     315   33            985       100
+                              2                                                  9    423    OST                            6h      1401                    2137    1589  214           5341       100
+
+WEST                    24   11                                                 193                                 Q DTVw:    2,35 7012                    7802    6641  644
+                             11                                                 229   652                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Baustelle Leipziger Dreieck
+                                                                                                                    - Zuf.+Abf. Horstweg Süd gesperrt
+                                                                                                                    - Wetter früh 16ºC trocken; nachm. 27ºC sonnig, trocken
+                                                                                                                             Sph-Beginn:      7.30        Uhr und   15.00 Uhr
+                                      292      7     133    107                                                     SUMME Zufahrten:                      [FSp] :    895 KFZ/h 8:00
+                                                                                                                                                          (NSp):     861 KFZ/h 15:30
+                                      539                                                                                                                    6h :   4702 KFZ
+                                                     247                                                            max. Sph /Zufahrt:                NORD :         256 KFZ/h 15:30
+                                                     SÜD                                                                                               OST :         423 KFZ/h 8:00
+                                            H.-Mann-Allee                                                                DATUM :                           SÜD :     269 KFZ/h 15:30
+                                                                                            895 KFZ/h                  28.09.2023                     WEST :          45 KFZ/h 17:30
+                                                                  Kfz-Stromverteilung in der FSp 4400                                      Drewitzer Str./A.d.A. Zauche
+
+
+
+       StromPlan (FSp)4400kp9-23                                      Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                    16.11.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                              NORD                                                                  RAD     FSp        34                      37      36  21            128       12,5
+                                                                                                                            NSp        26                      41      46  11            124       12,6
+                                     An der Alten Zauche                                                                    6h        151                     192     240   56            639      12,0
+                                               256                                                                  NFZ     FSp       30                     107      65     1           203       22,7
+                                                            553                                                             NSp       39                      63      68     0           170       19,7
+                                                                                                                            6h       165                     454     313   15            947       20,1
+                                      5        101   150    297                                                     SV      FSp         7                     35      13     0            55        6,1
+                                                                                                                            NSp         3                     13        9    0            25        2,9
+                                                                                                                            6h         29                    115       57    3           204        4,3
+                                                                                                                    KFZ FSp          201                     423     247   24            895       100
+                                                                                                                            NSp      256                     314     269   22            861       100
+
+
+
+
+       Drewitzer Str.                                                                              Drewitzer Str.
+                                                                                                                            6h      1250                    1945    1349  158           4702       100
+                                                                                                                    FZ      FSp      235                     460     283   45           1023       100
+                        38   16                                                 165                                         NSp      282                     355     315   33            985       100
+                              8                                                  5    314    OST                            6h      1401                    2137    1589  214           5341       100
+
+WEST                    22    5                                                 144                                 Q DTVw:    2,35 7012                    7802    6641  644
+                              9                                                 294   608                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Baustelle Leipziger Dreieck
+                                                                                                                    - Zuf.+Abf. Horstweg Süd gesperrt
+                                                                                                                    - Wetter früh 16ºC trocken; nachm. 27ºC sonnig, trocken
+                                                                                                                             Sph-Beginn:      7.30        Uhr und   15.00 Uhr
+                                      254      6     124    139                                                     SUMME Zufahrten:                      [FSp] :    895 KFZ/h 8:00
+                                                                                                                                                          (NSp):     861 KFZ/h 15:30
+                                      523                                                                                                                    6h :   4702 KFZ
+                                                     269                                                            max. Sph /Zufahrt:                NORD :         256 KFZ/h 15:30
+                                                     SÜD                                                                                               OST :         423 KFZ/h 8:00
+                                            H.-Mann-Allee                                                                DATUM :                           SÜD :     269 KFZ/h 15:30
+                                                                                            861 KFZ/h                  28.09.2023                     WEST :          45 KFZ/h 17:30
+                                                                  Kfz-Stromverteilung in der NSp 4400                                      Drewitzer Str./A.d.A. Zauche
+
+
+
+       StromPlan (NSp)4400kp9-23                                      Seite 3
+

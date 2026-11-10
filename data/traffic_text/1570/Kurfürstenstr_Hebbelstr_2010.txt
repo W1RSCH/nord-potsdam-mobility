@@ -1,0 +1,154 @@
+                                                                                                                                                                  03.08.2011
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                  Hebbelstr.                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                RAD       FSp                67       21          50     138  7,8
+                                                    NORD                                                                  NSp                90       58          66     214 10,6
+                                                                                                                          6h                498      215         371    1084 9,9
+                                                                                                                NFZ       FSp               15       47         111      173 10,7
+                                                     257                                                                  NSp                 5      28          89      122  6,8
+                                                                                                                          6h                 72     160         588      820 8,3
+                                                                                                                SV        FSp               10         9         39       58  3,6
+                                                                                                                          NSp                 4        5         31       40  2,2
+                                                                                                                          6h                 40       31        195      266 2,7
+                                                                                                                KFZ       FSp              533      257         832    1622 100
+                                                                                                                          NSp              599      353         846    1798 100
+
+
+
+
+        Kurfürstenstr.                                                                         Kurfürstenstr.
+                                                                                                                          6h              3169     1591        5115     9875 100
+                                                                                                                FZ        FSp              600      278         882     1760 100
+                         9.023   3.908                                       152                                          NSp              689      411         912     2012 100
+                                   3                                       2.619 3.169   OST
+                                                                                                                          6h              3667     1806        5486    10959 100
+
+WEST
+                         5.115   4.258                                       398                                Bemerkungen :
+                                  854                                      4.458 7.627                          - Straße Am Neuen Garten nur in Richtung Nord (Baustelle)
+                                                                                                                - Gegenrichtung wird umgeleitet (Jägerstr./F.-Ebert-Str.)
+                                                                                                                - Wetter früh: 22°C trockem, nachm.:35°C trocken
+
+
+
+                                                                                                                     Sph-Beginn:      9.00 Uhr und 16.00 Uhr
+                                                                                                                SUMME Zufahrten: [FSp] :           1622 KFZ/h 9:30
+                                          1.252      1.289    102    200                                                                (NSp):     1798 KFZ/h 16:30
+                                                                                                                                     6h :          9875 KFZ
+                                         2.843                                                                  max. Sph /Zufahrt: NORD :               KFZ/h
+                                                             1.591                                                                  OST :           608 KFZ/h 17:00
+                                                             SÜD                                                 DATUM :            SÜD :           361 KFZ/h 16:00
+                                                     Hebbelstr.                                                 01.07.2010             WEST :        905 KFZ/h 17:30
+                                                                                                                 157               Kurfürstenstr./Hebbelstr.
+
+
+
+
+       SVP, 461                                                                                                                                     StromPlan157kp7-10.xls
+                                                                                                                                                                      03.08.2011
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                             Hebbelstr.                                                                                NORD OST SÜD WEST SUMME %
+                                                                                                                    RAD       FSp                67       21          50     138  7,8
+                                               NORD                                                                           NSp                90       58          66     214 10,6
+                                                                                                                              6h                498      215         371    1084 9,9
+                                                                                                                    NFZ       FSp               15       47         111      173 10,7
+                                                52                                                                            NSp                 5      28          89      122  6,8
+                                                                                                                              6h                 72     160         588      820 8,3
+                                                                                                                    SV        FSp               10         9         39       58  3,6
+                                                                                                                              NSp                 4        5         31       40  2,2
+                                                                                                                              6h                 40       31        195      266 2,7
+                                                                                                                    KFZ       FSp              533      257         832    1622 100
+                                                                                                                              NSp              599      353         846    1798 100
+
+
+
+
+        Kurfürstenstr.                                                                             Kurfürstenstr.
+                                                                                                                              6h              3169     1591        5115     9875 100
+                                                                                                                    FZ        FSp              600      278         882     1760 100
+                         1.442   610                                             20                                           NSp              689      411         912     2012 100
+                                  0                                             427    533   OST
+                                                                                                                              6h              3667     1806        5486    10959 100
+
+WEST
+                         832     665                                             86                                 Bemerkungen :
+                                 167                                            750 1.283                           - Straße Am Neuen Garten nur in Richtung Nord (Baustelle)
+                                                                                                                    - Gegenrichtung wird umgeleitet (Jägerstr./F.-Ebert-Str.)
+                                                                                                                    - Wetter früh: 22°C trockem, nachm.:35°C trocken
+
+
+
+                                                                                                                         Sph-Beginn:      9.00 Uhr und 16.00 Uhr
+                                                                                                                    SUMME Zufahrten: [FSp] :           1622 KFZ/h 9:30
+                                       204      202   13     42                                                                             (NSp):     1798 KFZ/h 16:30
+                                                                                                                                         6h :          9875 KFZ
+                                       461                                                                          max. Sph /Zufahrt: NORD :               KFZ/h
+                                                      257                                                                               OST :           608 KFZ/h 17:00
+                                                      SÜD                                                            DATUM :            SÜD :           361 KFZ/h 16:00
+                                                Hebbelstr.                          1.622 KFZ/h                     01.07.2010             WEST :        905 KFZ/h 17:30
+                                                                  Kfz-Stromverteilung in der FSp                     157               Kurfürstenstr./Hebbelstr.
+
+
+
+
+       SVP, 461                                                                                                                                      StromPlanFSP157kp7-10.xls
+                                                                                                                                                                      03.08.2011
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                             Hebbelstr.                                                                                NORD OST SÜD WEST SUMME %
+                                                                                                                    RAD       FSp                67        21         50     138  7,8
+                                               NORD                                                                           NSp                90        58         66     214 10,6
+                                                                                                                              6h                498       215        371    1084 9,9
+                                                                                                                    NFZ       FSp               15        47        111      173 10,7
+                                                33                                                                            NSp                 5       28         89      122  6,8
+                                                                                                                              6h                 72      160        588      820 8,3
+                                                                                                                    SV        FSp               10          9        39       58  3,6
+                                                                                                                              NSp                 4         5        31       40  2,2
+                                                                                                                              6h                 40        31       195      266 2,7
+                                                                                                                    KFZ       FSp              533       257        832    1622 100
+                                                                                                                              NSp              599       353        846    1798 100
+
+
+
+
+        Kurfürstenstr.                                                                             Kurfürstenstr.
+                                                                                                                              6h              3169      1591       5115     9875 100
+                                                                                                                    FZ        FSp              600       278        882     1760 100
+                         1.661   815                                             21                                           NSp              689       411        912     2012 100
+                                  0                                             511    599   OST
+                                                                                                                              6h              3667      1806       5486    10959 100
+
+WEST
+                         846     718                                             67                                 Bemerkungen :
+                                 128                                            755 1.354                           - Straße Am Neuen Garten nur in Richtung Nord (Baustelle)
+                                                                                                                    - Gegenrichtung wird umgeleitet (Jägerstr./F.-Ebert-Str.)
+                                                                                                                    - Wetter früh: 22°C trockem, nachm.:35°C trocken
+
+
+
+                                                                                                                         Sph-Beginn:      9.00 Uhr und 16.00 Uhr
+                                                                                                                    SUMME Zufahrten: [FSp] :           1622 KFZ/h 9:30
+                                       195      304   12     37                                                                             (NSp):     1798 KFZ/h 16:30
+                                                                                                                                         6h :          9875 KFZ
+                                       548                                                                          max. Sph /Zufahrt: NORD :               KFZ/h
+                                                      353                                                                               OST :           608 KFZ/h 17:00
+                                                      SÜD                                                            DATUM :            SÜD :           361 KFZ/h 16:00
+                                                Hebbelstr.                          1.798 KFZ/h                     01.07.2010             WEST :        905 KFZ/h 17:30
+                                                                  Kfz-Stromverteilung in der NSp                     157               Kurfürstenstr./Hebbelstr.
+
+
+
+
+       SVP, 461                                                                                                                                      StromPlanNSP157kp7-10.xls
+

@@ -1,0 +1,133 @@
+SVP, 461                                                                                                                     15.02.2017
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                              NORD                                               NORD SÜD WEST     SUMME %
+                                    Lerchensteig                              RAD        FSp        0       7       1                 8    3,8
+
+                                                                                         NSp        2       3     10                 15    7,2
+                                            198                                          6h         5      26      25                56    6,7
+                                                              498             NFZ        FSp        5     27      17                49    24,4
+                                                                                         NSp       16     10      10                36    18,7
+                                      48          160         300                        6h        37      76     50               163    20,8
+                                                                              SV         FSp        3       9       9               21    10,4
+                                                                                         NSp        3     11        6               16     8,3
+                                                                                         6h        16      41     26                 83   10,6
+                                                                              KFZ        FSp       33    126      42               201    100
+
+
+
+
+       Max-Eyth-Allee
+                                                                                         NSp       57     53      83               193    100
+                                                                                         6h       165    344     276               785    100
+                        605   287                                             FZ         FSp       33    133      43               209    100
+                               69                                                        NSp       29      90    143               208    100
+
+WEST
+                        318
+                              249                                                        6h       170     370    301                841   100
+                                                                              Bemerkungen :
+
+
+
+
+                                      409         239         231                  Sph-Beginn:    7:00 Uhr und   15:30 Uhr
+                                                                              SUMME Zufahrten: [FSp]:            201 KFZ/h 7:30
+                                      879                                                        (NSp):          193 KFZ/h 16:00
+                                                        470                                         6h :         785 KFZ
+                                                  SÜD                         max. Sph /Zufahrt: NORD             57 KFZ/h 16:00
+                                    Rückertstraße                                                        SÜD     126 KFZ/h 8:00
+
+                                                                                DATUM :                 WEST       83 KFZ/h 16:00
+                                                                              18.04.2013
+                                                                               216               Rückertstraße/Max-Eyth-Allee
+StromPlan216kp4-13.xls                                              Seite 1
+SVP, 461                                                                                                                          15.02.2017
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                                            NORD                                                      NORD SÜD WEST     SUMME %
+                                   Lerchensteig                                    RAD        FSp        0       7       1                 8    3,8
+
+                                                                                              NSp        2       3     10                 15    7,2
+                                           33                                                 6h         5      26      25                56    6,7
+                                                            112                    NFZ        FSp        5     27      17                49    24,4
+                                                                                              NSp       16     10      10                36    18,7
+                                     15         18          79                                6h        37      76     50               163    20,8
+                                                                                   SV         FSp        3       9       9               21    10,4
+                                                                                              NSp        3     11        6               16     8,3
+                                                                                              6h        16      41     26                 83   10,6
+                                                                                   KFZ        FSp       33    126      42               201    100
+
+
+
+
+       Max-Eyth-Allee
+                                                                                              NSp       57     53      83               193    100
+                                                                                              6h       165    344     276               785    100
+                        117   75                                                   FZ         FSp       33    133      43               209    100
+                              13                                                              NSp       29      90    143               208    100
+
+WEST
+                        42
+                              29                                                              6h       170     370    301                841   100
+                                                                                   Bemerkungen :
+
+
+
+
+                                     47         60          66                          Sph-Beginn:    7:00 Uhr und   15:30 Uhr
+                                                                                   SUMME Zufahrten: [FSp]:            201 KFZ/h 7:30
+                                     173                                                              (NSp):          193 KFZ/h 16:00
+                                                      126                                                6h :         785 KFZ
+                                                SÜD                                max. Sph /Zufahrt: NORD             57 KFZ/h 16:00
+                                   Rückertstraße                                                              SÜD     126 KFZ/h 8:00
+
+                                                                                     DATUM :                 WEST       83 KFZ/h 16:00
+                                                                       201 KFZ/h   18.04.2013
+                                      Kfz-Stromverteilung in der FSp                216               Rückertstraße/Max-Eyth-Allee
+StromPlan FSp216kp4-13.xls                                        Seite 2
+SVP, 461                                                                                                                         15.02.2017
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                            NORD                                                     NORD SÜD WEST     SUMME %
+                                   Lerchensteig                                   RAD        FSp        0       6       2                 8    3,8
+
+                                                                                             NSp        2       3      10                15    7,2
+                                           57                                                6h         5      26       25               56    6,7
+                                                           102                    NFZ        FSp        3     19       20               49    24,4
+                                                                                             NSp       16     10       10               36    18,7
+                                     4          53         45                                6h        37      76      50              163    20,8
+                                                                                  SV         FSp        4     14       16               21    10,4
+                                                                                             NSp        3     11         6              16     8,3
+                                                                                             6h        16      41      26                83   10,6
+                                                                                  KFZ        FSp       26    123       45              201    100
+
+
+
+
+       Max-Eyth-Allee
+                                                                                             NSp       57     53       83              193    100
+                                                                                             6h       165    344      276              785    100
+                        112   29                                                  FZ         FSp       43    196       70              209    100
+                              17                                                             NSp       29      90     143              208    100
+
+WEST
+                        83
+                              66                                                             6h       170     370     301               841   100
+                                                                                  Bemerkungen :
+
+
+
+
+                                     119        25         28                          Sph-Beginn:    7:30 Uhr und   15:30 Uhr
+                                                                                  SUMME Zufahrten: [FSp]:             201 KFZ/h 8:00
+                                     172                                                             (NSp):           193 KFZ/h 16:00
+                                                      53                                                6h :          785 KFZ
+                                                SÜD                               max. Sph /Zufahrt: NORD              57 KFZ/h 16:00
+                                   Rückertstraße                                                             SÜD      126 KFZ/h 8:00
+
+                                                                                    DATUM :                 WEST       83 KFZ/h 16:00
+                                                                      193 KFZ/h   18.04.2013
+                                       Kfz-Stromverteilung in der NSp              216               Rückertstraße/Max-Eyth-Allee
+StromPlan NSp216kp4-13.xls                                       Seite 3
+

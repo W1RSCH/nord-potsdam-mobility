@@ -1,0 +1,160 @@
+        Landeshauptstadt Potsdam                                                                                                                                                                 28.05.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                       Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                                          NORD                                                                    RAD     FSp      20                        51     16 105             192       64,0
+                                                                                                                                          NSp      32                      139      16   62            249       59,1
+                                                         Sellostraße                                                                      6h      165                       582     79  538           1364       64,3
+                                                           49                                                                     NFZ     FSp       3                         8      1    7             19       17,6
+                                                                       367                                                                NSp       2                       15       0    5             22       12,8
+                                                                                                                                          6h        9                        75      8   21            113       14,9
+                                                   12      31    6     318                                                        SV      FSp       0                         0      0    0              0        0,0
+                                                                                                                                          NSp       0                         0      0    0              0        0,0
+                                                                                                                                          6h        0                         7      0    4             11        1,5
+                                                                                                                                  KFZ FSp          10                       74       4  20            108        100
+
+
+
+
+       Feuerbachstraße                                                                                          Feuerbachstraße
+                                                                                                                                          NSp       9                      130       7  26            172        100
+                                                                                                                                          6h       49                      548      43 118             758       100
+                                                                                                                                  FZ      FSp      30                      125      20 125             300       100
+                         367   249                                                            247                                         NSp      41                      269      23   88            421       100
+                               46                                                             228   548   OST                             6h      214                     1130     122  656           2122       100
+
+WEST
+                         118   18                                                             73                                  Q DTVw:    2,35 862                     1365     472 862
+                               54                                                             33    581                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                  Bemerkungen :
+                                                                                                                                  - Wetter früh 9ºC sonnig, trocken;
+                                                                                                                                    nachmittag 20ºC sonnig, trocken
+
+
+                                                                                                                                           Sph-Beginn:      8.00        Uhr und   16.30 Uhr
+                                                   158     9     25    9                                                          SUMME Zufahrten:                      [FSp] :    108 KFZ/h 8:30
+                                                                                                                                                                        (NSp):     172 KFZ/h 17:00
+                                                   201                                                                                                                     6h :    758 KFZ
+                                                                  43                                                              max. Sph /Zufahrt:                NORD :          12 KFZ/h 15:30
+                                                                 SÜD                                                                                                 OST :         130 KFZ/h 17:00
+                                                         Sellostraße                                                                   DATUM :                           SÜD :      14 KFZ/h 9:30
+                                                                                                          6h Werte                   02.05.2019                     WEST :          28 KFZ/h 16:00
+                                                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr                                             Feuerbach- / Sellostraße
+
+
+
+        StromPlanFeuerbach-Sellostraßekp5-19.xls                                    Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                                                28.05.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                      Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                                               NORD                                                              RAD     FSp      20                        51     16 105             192       64,0
+                                                                                                                                         NSp      32                      139      16   62            249       59,1
+                                                              Sellostraße                                                                6h      165                       582     79  538           1364       64,3
+                                                                10                                                               NFZ     FSp       3                         8      1    7             19       17,6
+                                                                            59                                                           NSp       2                       15       0    5             22       12,8
+                                                                                                                                         6h        9                        75      8   21            113       14,9
+                                                         3      4     3     49                                                   SV      FSp       0                         0      0    0              0        0,0
+                                                                                                                                         NSp       0                         0      0    0              0        0,0
+                                                                                                                                         6h        0                         7      0    4             11        1,5
+                                                                                                                                 KFZ FSp          10                       74       4  20            108        100
+
+
+
+
+       Feuerbachstraße                                                                                         Feuerbachstraße
+                                                                                                                                         NSp       9                      130       7  26            172        100
+                                                                                                                                         6h       49                      548      43 118             758       100
+                                                                                                                                 FZ      FSp      30                      125      20 125             300       100
+                         46   26                                                               37                                        NSp      41                      269      23   88            421       100
+                               9                                                               22   74   OST                             6h      214                     1130     122  656           2122       100
+
+WEST
+                         20    0                                                               15                                Q DTVw:    2,35 862                     1365     472 862
+                              11                                                                3   77                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                 Bemerkungen :
+                                                                                                                                 - Wetter früh 9ºC sonnig, trocken;
+                                                                                                                                   nachmittag 20ºC sonnig, trocken
+
+
+                                                                                                                                          Sph-Beginn:      8.00        Uhr und   16.30 Uhr
+                                                         30     1     3     0                                                    SUMME Zufahrten:                      [FSp] :    108 KFZ/h 8:30
+                                                                                                                                                                       (NSp):     172 KFZ/h 17:00
+                                                         34                                                                                                               6h :    758 KFZ
+                                                                       4                                                         max. Sph /Zufahrt:                NORD :          12 KFZ/h 15:30
+                                                                      SÜD                                                                                           OST :         130 KFZ/h 17:00
+                                                              Sellostraße                                                             DATUM :                           SÜD :      14 KFZ/h 9:30
+                                                                                                         108 KFZ/h                  02.05.2019                     WEST :          28 KFZ/h 16:00
+                                                                                 Kfz-Stromverteilung in der FSp                                             Feuerbach- / Sellostraße
+
+
+
+        StromPlan (FSp)Feuerbach-Sellostraßekp5-19.xls                               Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                                                 28.05.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                       Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                                               NORD                                                               RAD     FSp      20                        51     16 105             192       64,0
+                                                                                                                                          NSp      32                      139      16   62            249       59,1
+                                                              Sellostraße                                                                 6h      165                       582     79  538           1364       64,3
+                                                                9                                                                 NFZ     FSp       3                         8      1    7             19       17,6
+                                                                            81                                                            NSp       2                       15       0    5             22       12,8
+                                                                                                                                          6h        9                        75      8   21            113       14,9
+                                                         0      8     1     72                                                    SV      FSp       0                         0      0    0              0        0,0
+                                                                                                                                          NSp       0                         0      0    0              0        0,0
+                                                                                                                                          6h        0                         7      0    4             11        1,5
+                                                                                                                                  KFZ FSp          10                       74       4  20            108        100
+
+
+
+
+       Feuerbachstraße                                                                                          Feuerbachstraße
+                                                                                                                                          NSp       9                      130       7  26            172        100
+                                                                                                                                          6h       49                      548      43 118             758       100
+                                                                                                                                  FZ      FSp      30                      125      20 125             300       100
+                         87   61                                                               61                                         NSp      41                      269      23   88            421       100
+                              10                                                               59   130   OST                             6h      214                     1130     122  656           2122       100
+
+WEST
+                         26    5                                                               10                                 Q DTVw:    2,35 862                     1365     472 862
+                              11                                                               10   140                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                  Bemerkungen :
+                                                                                                                                  - Wetter früh 9ºC sonnig, trocken;
+                                                                                                                                    nachmittag 20ºC sonnig, trocken
+
+
+                                                                                                                                           Sph-Beginn:      8.00        Uhr und   16.30 Uhr
+                                                         29     2     1     4                                                     SUMME Zufahrten:                      [FSp] :    108 KFZ/h 8:30
+                                                                                                                                                                        (NSp):     172 KFZ/h 17:00
+                                                         36                                                                                                                6h :    758 KFZ
+                                                                       7                                                          max. Sph /Zufahrt:                NORD :          12 KFZ/h 15:30
+                                                                      SÜD                                                                                            OST :         130 KFZ/h 17:00
+                                                              Sellostraße                                                              DATUM :                           SÜD :      14 KFZ/h 9:30
+                                                                                                          172 KFZ/h                  02.05.2019                     WEST :          28 KFZ/h 16:00
+                                                                                 Kfz-Stromverteilung in der NSp                                              Feuerbach- / Sellostraße
+
+
+
+        StromPlan (NSp)Feuerbach-Sellostraßekp5-19.xls                               Seite 3
+

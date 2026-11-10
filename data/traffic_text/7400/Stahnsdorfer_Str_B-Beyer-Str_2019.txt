@@ -1,0 +1,157 @@
+Landeshauptstadt Potsdam                                                                                                                                            06.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                          NORD                                          Zufahrt: NORD SÜD WEST     SUMME %
+                                                B.-Beyer-Str.                                      RAD    FSp    20                   37      30                    87     17,6
+                                                                                                          NSp      8                  17      29                    54     14,2
+                                                        361                                               6h      80                 149     168                   397     17,3
+                                                                          809                      NFZ    FSp    10                  23        9                   42      10,3
+                                                                                                          NSp    10                  16        9                   35      10,8
+                                                  126         235         448                             6h     55                   95      55                  205      10,7
+                                                                                                   SV     FSp      3                   6       3                   12       3,0
+                                                                                                          NSp      3                   4       3                   10       3,1
+                                                                                                          6h     20                   36      20                    76      4,0
+                                                                                                   KFZ FSp       52                 214     140                   406
+
+
+
+
+              Stahnsdorfer Str.
+                                                                                                                                                                            100
+                                                                                                          NSp    68                 117     140                   325       100
+                                                                                                          6h    361                 858     690                  1909       100
+                                  1.392   702                                                      FZ     FSp    72                 251     116                   493       100
+                                          166                                                             NSp    76                 134     206                   379       100
+
+       WEST
+                                  690                                                                     6h    441                1007      851                 2299       100
+                                          524
+                                                                                                   Q DTVw:2,35 1901                3800    3271
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Wetter früh 21ºC sonnig, trocken
+                                                                                                     nachmittag 25ºC bewölkt, trocken; Unwetterwarnung
+                                                  759         576         282
+
+                                                 1.617                                                 Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                                                    858                            SUMME Zufahrten: [FSp]:                  406 KFZ/h 8:00
+                                                              SÜD                                                  (NSp):                   325 KFZ/h 16:30
+                                                B.-Beyer-Str.                                                           6h :               1909 KFZ
+                                                                                                   max. Sph /Zufahrt: NORD                   86 KFZ/h 17:00
+                                                                                                                       SÜD                  214 KFZ/h 8:00
+                                                                                                     DATUM :                     WEST       147 KFZ/h 7:30
+                                                                                          6h Werte 06.06.2019
+                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 740                   Stahnsdorfer Str./B.-Beyer-Str.
+
+
+StromPlan740kp6-19.xlsx                                                         Seite 1
+Landeshauptstadt Potsdam                                                                                                                                         06.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                      NORD                                           Zufahrt: NORD SÜD WEST     SUMME %
+                                              B.-Beyer-Str.                                     RAD    FSp    20                   37      30                    87     17,6
+                                                                                                       NSp      8                  17      29                    54     14,2
+                                                     52                                                6h      80                 149     168                   397     17,3
+                                                                      162                       NFZ    FSp    10                  23        9                   42      10,3
+                                                                                                       NSp    10                  16        9                   35      10,8
+                                               25         27          110                              6h     55                   95      55                  205      10,7
+                                                                                                SV     FSp      3                   6       3                   12       3,0
+                                                                                                       NSp      3                   4       3                   10       3,1
+                                                                                                       6h     20                   36      20                    76      4,0
+                                                                                                KFZ FSp       52                 214     140                   406
+
+
+
+
+              Stahnsdorfer Str.
+                                                                                                                                                                         100
+                                                                                                       NSp    68                 117     140                   325       100
+                                                                                                       6h    361                 858     690                  1909       100
+                                  308   168                                                     FZ     FSp    72                 251     116                   493       100
+                                        39                                                             NSp    76                 134     206                   379       100
+
+       WEST
+                                  140                                                                  6h    441                1007      851                 2299       100
+                                        101
+                                                                                                Q DTVw:2,35 1901                3800    3271
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - Wetter früh 21ºC sonnig, trocken
+                                                                                                  nachmittag 25ºC bewölkt, trocken; Unwetterwarnung
+                                               128        143         71
+
+                                               342                                                  Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                                                214                              SUMME Zufahrten: [FSp]:                 406 KFZ/h 8:00
+                                                          SÜD                                                    (NSp):                  325 KFZ/h 16:30
+                                              B.-Beyer-Str.                                                           6h :              1909 KFZ
+                                                                                                 max. Sph /Zufahrt: NORD                  86 KFZ/h 17:00
+                                                                                                                     SÜD                 214 KFZ/h 8:00
+                                                                                                  DATUM :                     WEST       147 KFZ/h 7:30
+                                                                                      406 KFZ/h 06.06.2019
+                                                            Kfz-Stromverteilung in der FSp 740                 Stahnsdorfer Str./B.-Beyer-Str.
+
+
+StromPlan (FSp)740kp6-19.xlsx                                               Seite 2
+Landeshauptstadt Potsdam                                                                                                                                         06.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                      NORD                                           Zufahrt: NORD SÜD WEST     SUMME %
+                                              B.-Beyer-Str.                                     RAD    FSp    20                   37      30                    87     17,6
+                                                                                                       NSp      8                  17      29                    54     14,2
+                                                     68                                                6h      80                 149     168                   397     17,3
+                                                                      140                       NFZ    FSp    10                  23        9                   42      10,3
+                                                                                                       NSp    10                  16        9                   35      10,8
+                                               13         55          72                               6h     55                   95      55                  205      10,7
+                                                                                                SV     FSp      3                   6       3                   12       3,0
+                                                                                                       NSp      3                   4       3                   10       3,1
+                                                                                                       6h     20                   36      20                    76      4,0
+                                                                                                KFZ FSp       52                 214     140                   406
+
+
+
+
+              Stahnsdorfer Str.
+                                                                                                                                                                         100
+                                                                                                       NSp    68                 117     140                   325       100
+                                                                                                       6h    361                 858     690                  1909       100
+                                  229   89                                                      FZ     FSp    72                 251     116                   493       100
+                                        31                                                             NSp    76                 134     206                   379       100
+
+       WEST
+                                  140                                                                  6h    441                1007      851                 2299       100
+                                        109
+                                                                                                Q DTVw:2,35 1901                3800    3271
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - Wetter früh 21ºC sonnig, trocken
+                                                                                                  nachmittag 25ºC bewölkt, trocken; Unwetterwarnung
+                                               164        76          41
+
+                                               281                                                  Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                                                117                              SUMME Zufahrten: [FSp]:                 406 KFZ/h 8:00
+                                                          SÜD                                                    (NSp):                  325 KFZ/h 16:30
+                                              B.-Beyer-Str.                                                           6h :              1909 KFZ
+                                                                                                 max. Sph /Zufahrt: NORD                  86 KFZ/h 17:00
+                                                                                                                     SÜD                 214 KFZ/h 8:00
+                                                                                                  DATUM :                     WEST       147 KFZ/h 7:30
+                                                                                      325 KFZ/h 06.06.2019
+                                                           Kfz-Stromverteilung in der NSp 740                  Stahnsdorfer Str./B.-Beyer-Str.
+
+
+StromPlan (NSp)740kp6-19.xlsx                                               Seite 3
+

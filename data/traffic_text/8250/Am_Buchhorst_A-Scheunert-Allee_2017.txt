@@ -1,0 +1,157 @@
+       SVP, 461                                                                                                                                                                        24.10.2017
+
+
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                           RAD    FSp      3  114                     10     42            169     12,8
+                                                                                                                                        NSp    11     15                      0    60             86      5,1
+                                              Am Buchhorst                                                                              6h      36   399                     26   281            742      8,9
+                                                  2.018                                                                          NFZ    FSp    74    81                       4   51            210      18,2
+                                                                  3.876                                                                 NSp    67    58                       2   81            208      13,0
+                                                                                                                                        6h    382   406                     20   350           1158      15,2
+                                            727    42     1.249    1.858                                                         SV     FSp    27    24                       0   26              77      6,7
+                                                                                                                                        NSp    16    15                       1   14              46      2,9
+                                                                                                                                        6h    112   105                       6  112             335      4,4
+                                                                                                                                 KFZ FSp 230        530                     30   363           1153       100
+
+
+
+
+       A.-Scheunert-Allee                                                                                   A.-Scheunert-Allee
+                                                                                                                                        NSp 513     485                     30   573           1601       100
+                                                                                                                                        6h   2018 2877                     186 2521            7602       100
+                                                                                                                                 FZ     FSp   233   644                     40   405           1322       100
+                            5.078   2.557                                             1.033                                             NSp   524   500                     30   633           1687       100
+                                     776                                              1.771   2.877   OST                               6h   2054  3276                    212  2802            8344      100
+
+WEST
+                            2.521   1.717                                               73                                       Q DTVw: 2,4 9109 13914                    773 11933
+                                     28                                               3.044   5.921                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                 Bemerkungen :
+                                                                                                                                 - Wetter früh 12ºC bewölkt, trocken; nachm. 19ºC stark bewölkt, Regen
+
+
+
+                                                                                                                                     Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                            143    59     49       78                                                            SUMME Zufahrten: [FSp] :               1153 KFZ/h 8:00
+                                                                                                                                                              (NSp):    1601 KFZ/h 16:30
+                                            329                                                                                                                    6h : 7602 KFZ
+                                                          186                                                                    max. Sph /Zufahrt: NORD :                 513 KFZ/h 16:30
+                                                          SÜD                                                                                        OST :                 557 KFZ/h 7:30
+                                                  Verdistr.                                                                        DATUM :                      SÜD :       46 KFZ/h 7:30
+                                                                                                      6h Werte 29.06.2017                                     WEST :       573 KFZ/h 16:30
+                                                                   von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 825 Am Buchhorst/A.-Scheunert-Allee
+
+
+
+       StromPlan825kp6-17.xls                                               Seite 1
+       SVP, 461                                                                                                                                                         24.10.2017
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                 RAD    FSp      3  114                     10     42            169     12,8
+                                                                                                                         NSp    11     15                      0    60             86      5,1
+                                         Am Buchhorst                                                                    6h      36   399                     26   281            742      8,9
+                                             230                                                                  NFZ    FSp    74    81                       4   51            210      18,2
+                                                          586                                                            NSp    67    58                       2   81            208      13,0
+                                                                                                                         6h    382   406                     20   350           1158      15,2
+                                        97    3     130   356                                                     SV     FSp    27    24                       0   26              77      6,7
+                                                                                                                         NSp    16    15                       1   14              46      2,9
+                                                                                                                         6h    112   105                       6  112             335      4,4
+                                                                                                                  KFZ FSp 230        530                     30   363           1153       100
+
+
+
+
+       A.-Scheunert-Allee                                                                    A.-Scheunert-Allee
+                                                                                                                         NSp 513     485                     30   573           1601       100
+                                                                                                                         6h   2018 2877                     186 2521            7602       100
+                                                                                                                  FZ     FSp   233   644                     40   405           1322       100
+                            776   413                                      213                                           NSp   524   500                     30   633           1687       100
+                                  135                                      306   530   OST                               6h   2054  3276                    212  2802            8344      100
+
+WEST
+                            363   225                                       11                                    Q DTVw: 2,4 9109 13914                    773 11933
+                                   3                                       367   897                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - Wetter früh 12ºC bewölkt, trocken; nachm. 19ºC stark bewölkt, Regen
+
+
+
+                                                                                                                      Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                        17    10    8     12                                                      SUMME Zufahrten: [FSp] :               1153 KFZ/h 8:00
+                                                                                                                                               (NSp):    1601 KFZ/h 16:30
+                                        47                                                                                                          6h : 7602 KFZ
+                                                     30                                                           max. Sph /Zufahrt: NORD :                 513 KFZ/h 16:30
+                                                    SÜD                                                                               OST :                 557 KFZ/h 7:30
+                                             Verdistr.                                                              DATUM :                      SÜD :       46 KFZ/h 7:30
+                                                                                   1.153 KFZ/h 29.06.2017                                      WEST :       573 KFZ/h 16:30
+                                                                Kfz-Stromverteilung in der FSp 825 Am Buchhorst/A.-Scheunert-Allee
+
+
+
+       StromPlan (FSp)825kp6-17.xls                              Seite 2
+       SVP, 461                                                                                                                                                              24.10.2017
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                            Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                   RAD    FSp      3  114                     10     42            169     12,8
+                                                                                                                              NSp    11     15                      0    60             86      5,1
+                                            Am Buchhorst                                                                      6h      36   399                     26   281            742      8,9
+                                                513                                                                    NFZ    FSp    74    81                       4   51            210      18,2
+                                                             849                                                              NSp    67    58                       2   81            208      13,0
+                                                                                                                              6h    382   406                     20   350           1158      15,2
+                                          167    16    330   336                                                       SV     FSp    27    24                       0   26              77      6,7
+                                                                                                                              NSp    16    15                       1   14              46      2,9
+                                                                                                                              6h    112   105                       6  112             335      4,4
+                                                                                                                       KFZ FSp 230        530                     30   363           1153       100
+
+
+
+
+       A.-Scheunert-Allee                                                                         A.-Scheunert-Allee
+                                                                                                                              NSp 513     485                     30   573           1601       100
+                                                                                                                              6h   2018 2877                     186 2521            7602       100
+                                                                                                                       FZ     FSp   233   644                     40   405           1322       100
+                            1.047   474                                       163                                             NSp   524   500                     30   633           1687       100
+                                    162                                       298   485     OST                               6h   2054  3276                    212  2802            8344      100
+
+WEST
+                            573     402                                        24                                      Q DTVw: 2,4 9109 13914                    773 11933
+                                     9                                        742   1.227                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                       Bemerkungen :
+                                                                                                                       - Wetter früh 12ºC bewölkt, trocken; nachm. 19ºC stark bewölkt, Regen
+
+
+
+                                                                                                                           Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                          49     9     11    10                                                        SUMME Zufahrten: [FSp] :               1153 KFZ/h 8:00
+                                                                                                                                                    (NSp):    1601 KFZ/h 16:30
+                                          79                                                                                                             6h : 7602 KFZ
+                                                        30                                                             max. Sph /Zufahrt: NORD :                 513 KFZ/h 16:30
+                                                       SÜD                                                                                 OST :                 557 KFZ/h 7:30
+                                                Verdistr.                                                                DATUM :                      SÜD :       46 KFZ/h 7:30
+                                                                                       1.601 KFZ/h 29.06.2017                                       WEST :       573 KFZ/h 16:30
+                                                                   Kfz-Stromverteilung in der NSp 825 Am Buchhorst/A.-Scheunert-Allee
+
+
+
+       StromPlan (NSp)825kp6-17.xls                                 Seite 3
+

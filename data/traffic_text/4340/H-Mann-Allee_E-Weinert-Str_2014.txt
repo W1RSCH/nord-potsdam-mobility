@@ -1,0 +1,145 @@
+         SVP, 461                                                                                                                                                   15.07.2015
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD OST SÜD WEST SUMME %
+                                                NORD                                                              RAD        FSp       24      44      18          51        137   10,3
+
+                                       E.-Weinert-Str.                                                                       NSp       29      20      21          50        120    9,2
+
+                                                                                                                             6h        164     150    107          217       638 8,8
+                                                 628         1.203                                                NFZ        FSp       16      59      16          62       153 12,8
+                                                                                                                             NSp       11      58       4          49       122 10,3
+                                                                                                                             6h         74    301      78         280        733 11,0
+                                        301      179   148    575                                                 SV         FSp         7     22       4          21         54  4,5
+                                                                                                                             NSp         4       4      0            8        16  1,4
+                                                                                                                             6h         30      69     13           73       185 2,8
+                                                                                                                  KFZ        FSp      107     481    196          411      1195 100
+                                                                                                                             NSp      125     396    136          526      1183 100
+
+
+
+
+       H.-Mann-Allee                                                                              H.-Mann-Allee
+                                                                                                                             6h       628    2279     986        2744      6637 100
+                                                                                                                  FZ         FSp      131     525     214         462      1332 100
+                       5.395   2.651                                            221                                          NSp      154     416     157         576      1303 100
+                                212                                           1.805 2.279   OST                              6h        792   2429    1093        2961       7275 100
+WEST                   2.744   1.910                                            253                               Bemerkungen :
+                                622                                           2.357 4.636
+
+
+
+
+                                                                                                                       Sph-Beginn:      7.30 Uhr und 16.00 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] : 1195 KFZ/h                    8:00
+                                        1.054    545   142    299                                                                     (NSp): 1183 KFZ/h                  16:30
+                                                                                                                                        6h : 6637 KFZ
+                                       2.040                                                                      max. Sph /Zufahrt: NORD :   135 KFZ/h                  17:00
+                                                       986                                                                             OST :  520 KFZ/h                  7:30
+                                                       SÜD                                                         DATUM :            SÜD :   228 KFZ/h                  7:30
+                                                Am Moosfenn                                                       22.05.2014             WEST :       534 KFZ/h 16:00
+                                                                                                                   434          H.-Mann-Allee/E.-Weinert-Str.
+
+
+
+         StromPlan434kp5-14.xls                                      Seite1
+         SVP, 461                                                                                                                                                   15.07.2015
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD OST SÜD WEST SUMME %
+                                              NORD                                                                RAD        FSp       24      44      18          51        137   10,3
+
+                                        E.-Weinert-Str.                                                                      NSp       29      20      21          50        120    9,2
+
+                                                                                                                             6h        164     150    107          217       638 8,8
+                                               107         202                                                    NFZ        FSp       16      59      16          62       153 12,8
+                                                                                                                             NSp       11      58       4          49       122 10,3
+                                                                                                                             6h         74    301      78         280        733 11,0
+                                        56     25    26    95                                                     SV         FSp         7     22       4          21         54  4,5
+                                                                                                                             NSp         4       4      0            8        16  1,4
+                                                                                                                             6h         30      69     13           73       185 2,8
+                                                                                                                  KFZ        FSp      107     481    196          411      1195 100
+                                                                                                                             NSp      125     396    136          526      1183 100
+
+
+
+
+       H.-Mann-Allee                                                                              H.-Mann-Allee
+                                                                                                                             6h       628    2279     986        2744      6637 100
+                                                                                                                  FZ         FSp      131     525     214         462      1332 100
+                       967   556                                                38                                           NSp      154     416     157         576      1303 100
+                              29                                               385    481   OST                              6h        792   2429    1093        2961       7275 100
+WEST                   411   265                                                58                                Bemerkungen :
+                             117                                               344   825
+
+
+
+
+                                                                                                                       Sph-Beginn:      7.30 Uhr und 16.00 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] : 1195 KFZ/h                    8:00
+                                        200    115   28    53                                                                         (NSp): 1183 KFZ/h                  16:30
+                                                                                                                                        6h : 6637 KFZ
+                                        396                                                                       max. Sph /Zufahrt: NORD :   135 KFZ/h                  17:00
+                                                     196                                                                               OST :  520 KFZ/h                  7:30
+                                                     SÜD                                                           DATUM :            SÜD :   228 KFZ/h                  7:30
+                                              Am Moosfenn                          1.195 KFZ/h                    22.05.2014             WEST :       534 KFZ/h 16:00
+                                                                 Kfz-Stromverteilung in der FSp                    434          H.-Mann-Allee/E.-Weinert-Str.
+
+
+
+         StromPlan (FSp)434kp5-14.xls                                 Seite2
+         SVP, 461                                                                                                                                                    15.07.2015
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                      NORD OST SÜD WEST SUMME %
+                                              NORD                                                                 RAD        FSp       24      44      18          51        137   10,3
+
+                                        E.-Weinert-Str.                                                                       NSp       29      20      21          50        120    9,2
+
+                                                                                                                              6h        164     150    107          217       638 8,8
+                                               125         223                                                     NFZ        FSp       16      59      16          62       153 12,8
+                                                                                                                              NSp       11      58       4          49       122 10,3
+                                                                                                                              6h         74    301      78         280        733 11,0
+                                        68     35    22    98                                                      SV         FSp         7     22       4          21         54  4,5
+                                                                                                                              NSp         4       4      0            8        16  1,4
+                                                                                                                              6h         30      69     13           73       185 2,8
+                                                                                                                   KFZ        FSp      107     481    196          411      1195 100
+                                                                                                                              NSp      125     396    136          526      1183 100
+
+
+
+
+       H.-Mann-Allee                                                                               H.-Mann-Allee
+                                                                                                                              6h       628    2279     986        2744      6637 100
+                                                                                                                   FZ         FSp      131     525     214         462      1332 100
+                       987   461                                                 45                                           NSp      154     416     157         576      1303 100
+                              34                                                312    396   OST                              6h        792   2429    1093        2961       7275 100
+WEST                   526   377                                                 39                                Bemerkungen :
+                             115                                                435   831
+
+
+
+
+                                                                                                                        Sph-Beginn:      7.30 Uhr und 16.00 Uhr
+                                                                                                                   SUMME Zufahrten: [FSp] : 1195 KFZ/h                    8:00
+                                        189    81    19    36                                                                          (NSp): 1183 KFZ/h                  16:30
+                                                                                                                                         6h : 6637 KFZ
+                                        325                                                                        max. Sph /Zufahrt: NORD :   135 KFZ/h                  17:00
+                                                     136                                                                                OST :  520 KFZ/h                  7:30
+                                                     SÜD                                                            DATUM :            SÜD :   228 KFZ/h                  7:30
+                                              Am Moosfenn                          1.183 KFZ/h                     22.05.2014             WEST :       534 KFZ/h 16:00
+                                                                 Kfz-Stromverteilung in der NSp                     434          H.-Mann-Allee/E.-Weinert-Str.
+
+
+
+         StromPlan (NSp)434kp5-14.xls                                  Seite3
+

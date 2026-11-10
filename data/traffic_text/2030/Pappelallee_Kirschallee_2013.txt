@@ -1,0 +1,164 @@
+                                                                                                                                                    15.07.2015
+
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                      NORD OST SÜD WEST SUMME %
+                                            NORD                                                   RAD        FSp       49         8      17        37       111   10,0
+
+                                          Kirschallee                                                         NSp       16        37      44        15       112    9,6
+
+                                                                                                              6h        141      117     139      100        497 8,2
+                                             812         1.509                                     NFZ        FSp       23       53       14      54        144 14,4
+                                                                                                              NSp       22       79        6      31        138 13,1
+                                                                                                              6h       120      383       52     252         807 14,4
+                                    390      246   176     697                                     SV         FSp       15       23        9      33          80  8,0
+                                                                                                              NSp       11       19        1      19          50  4,7
+                                                                                                              6h         78     144       26     171         419 7,5
+                                                                                                   KFZ        FSp      180      284       61     474        999 100
+                                                                                                              NSp      123      499       85     350       1057 100
+                                                                                                              6h       812     2355      369    2061       5597 100
+
+
+
+
+                                                                                     Pappelallee
+                                                                                                   FZ         FSp      229      292       78     511       1110 100
+
+
+
+
+       Schulplatz
+                    4.589   2.528                                  112                                        NSp      139      536      129     365       1169 100
+                             337                                 2.090 2.355   OST                            6h        953    2472      508    2161        6094 100
+
+WEST                2.061   1.674                                  153                             Bemerkungen : Wetter:
+                              50                                 1.923 4.278
+
+
+
+
+                                                                                                        Sph-Beginn:   7.00    Uhr und   16.00 Uhr
+                                                                                                   SUMME Zufahrten: [FSp] :              999 KFZ/h       7:30
+                                    449      48    248     73                                                                 (NSp):    1057 KFZ/h       16:30
+                                                                                                                        6h :            5597 KFZ
+                                    818                                                            max. Sph /Zufahrt: NORD :             180 KFZ/h       7:30
+                                                   369                                                                 OST :             520 KFZ/h       16:00
+                                                   SÜD                                              DATUM :            SÜD :              97 KFZ/h       17:00
+                                             Kirschallee                                           02.05.2013                WEST :      474 KFZ/h 7:30
+                                                                                                    203                Pappelallee/Kirschallee
+
+
+
+       SVP, 461                                                                                                                         StromPlan203kp5-13.xls
+                                                                                                                                                         15.07.2015
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                           NORD OST SÜD WEST SUMME %
+                                       NORD                                                             RAD        FSp       49         8      17        37       111   10,0
+
+                                     Kirschallee                                                                   NSp       16        37      44        15       112    9,6
+
+                                                                                                                   6h        141      117     139      100        497 8,2
+                                        180         306                                                 NFZ        FSp       23       53       14      54        144 14,4
+                                                                                                                   NSp       22       79        6      31        138 13,1
+                                                                                                                   6h       120      383       52     252         807 14,4
+                                74      56    50      126                                               SV         FSp       15       23        9      33          80  8,0
+                                                                                                                   NSp       11       19        1      19          50  4,7
+                                                                                                                   6h         78     144       26     171         419 7,5
+                                                                                                        KFZ        FSp      180      284       61     474        999 100
+                                                                                                                   NSp      123      499       85     350       1057 100
+                                                                                                                   6h       812     2355      369    2061       5597 100
+
+
+
+
+                                                                                          Pappelallee
+                                                                                                        FZ         FSp      229      292       78     511       1110 100
+
+
+
+
+       Schulplatz
+                    800   326                                           13                                         NSp      139      536      129     365       1169 100
+                           72                                          249    284   OST                            6h        953    2472      508    2161        6094 100
+
+WEST                474   399                                           22                              Bemerkungen : Wetter:
+                           3                                           466   750
+
+
+
+
+                                                                                                             Sph-Beginn:   7.00    Uhr und   16.00 Uhr
+                                                                                                        SUMME Zufahrten: [FSp] :              999 KFZ/h       7:30
+                                81      3     41      17                                                                           (NSp):    1057 KFZ/h       16:30
+                                                                                                                             6h :            5597 KFZ
+                                142                                                                     max. Sph /Zufahrt: NORD :             180 KFZ/h       7:30
+                                               61                                                                           OST :             520 KFZ/h       16:00
+                                              SÜD                                                        DATUM :            SÜD :              97 KFZ/h       17:00
+                                        Kirschallee                           999 KFZ/h                 02.05.2013                WEST :      474 KFZ/h 7:30
+                                                      Kfz-Stromverteilung in der FSp                     203                Pappelallee/Kirschallee
+
+
+
+       SVP, 461                                                                                                                          StromPlanFSP203kp5-13.xls
+                                                                                                                                                          15.07.2015
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                            NORD OST SÜD WEST SUMME %
+                                       NORD                                                              RAD        FSp       49         8      17        37       111   10,0
+
+                                     Kirschallee                                                                    NSp       16        37      44        15       112    9,6
+
+                                                                                                                    6h        141      117     139      100        497 8,2
+                                        123         260                                                  NFZ        FSp       23       53       14      54        144 14,4
+                                                                                                                    NSp       22       79        6      31        138 13,1
+                                                                                                                    6h       120      383       52     252         807 14,4
+                                67      40    16      137                                                SV         FSp       15       23        9      33          80  8,0
+                                                                                                                    NSp       11       19        1      19          50  4,7
+                                                                                                                    6h         78     144       26     171         419 7,5
+                                                                                                         KFZ        FSp      180      284       61     474        999 100
+                                                                                                                    NSp      123      499       85     350       1057 100
+                                                                                                                    6h       812     2355      369    2061       5597 100
+
+
+
+
+                                                                                           Pappelallee
+                                                                                                         FZ         FSp      229      292       78     511       1110 100
+
+
+
+
+       Schulplatz
+                    882   532                                            24                                         NSp      139      536      129     365       1169 100
+                           60                                           444    499   OST                            6h        953    2472      508    2161        6094 100
+
+WEST                350   278                                            31                              Bemerkungen : Wetter:
+                           12                                           305   804
+
+
+
+
+                                                                                                              Sph-Beginn:   7.00    Uhr und   16.00 Uhr
+                                                                                                         SUMME Zufahrten: [FSp] :              999 KFZ/h       7:30
+                                83      21    53      11                                                                            (NSp):    1057 KFZ/h       16:30
+                                                                                                                              6h :            5597 KFZ
+                                168                                                                      max. Sph /Zufahrt: NORD :             180 KFZ/h       7:30
+                                               85                                                                            OST :             520 KFZ/h       16:00
+                                              SÜD                                                         DATUM :            SÜD :              97 KFZ/h       17:00
+                                        Kirschallee                          1.057 KFZ/h                 02.05.2013                WEST :      474 KFZ/h 7:30
+                                                      Kfz-Stromverteilung in der NSp                      203                Pappelallee/Kirschallee
+
+
+
+
+       SVP, 461                                                                                                                          StromPlanNSP203kp5-13.xls
+

@@ -1,0 +1,157 @@
+SVP, 461                                                                                                                                                            13.02.2017
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                          NORD                                          Zufahrt: NORD SÜD WEST     SUMME %
+                                                B.-Beyer-Str.                                      RAD    FSp      7                  26      20                    53     11,1
+                                                                                                          NSp    12                   18      22                    52     11,2
+                                                        439                                               6h      62                 115     112                   289     11,9
+                                                                          878                      NFZ    FSp    11                  16      10                    37       8,7
+                                                                                                          NSp      7                 11        5                   23       5,6
+                                                  139         300         439                             6h     47                   87      55                  189       8,8
+                                                                                                   SV     FSp      4                   8       3                   15       3,5
+                                                                                                          NSp      3                   7       3                   13       3,1
+                                                                                                          6h     19                   40      22                    81      3,8
+                                                                                                   KFZ FSp       57                 200     168                   425
+
+
+
+
+              Stahnsdorfer Str.
+                                                                                                                                                                            100
+                                                                                                          NSp    81                 185     148                   414       100
+                                                                                                          6h    439                 969     729                  2137       100
+                                  1.555   826                                                      FZ     FSp    64                 226     116                   478       100
+                                          157                                                             NSp    93                 203     206                   466       100
+
+       WEST
+                                  729                                                                     6h    501                1084      851                 2436       100
+                                          572
+                                                                                                   Q DTVw:2,35 2063                4326    3654
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - durch Unfallbeseitigung auf A10 zw. Ludwigsfelde und ▲ Nuthetal -
+                                                                                                     Umleitung teilweise über Potsdam
+                                                  872         687         282                      - Wetter früh 4ºC anfangs sonnig, dann bewölkt, trocken
+                                                                                                     nachm. 11ºC wechs. Wetter - sonnig mit bewölkt mit Regenschauer
+                                                 1.841                                                 Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                                                    969                            SUMME Zufahrten: [FSp]:                  425 KFZ/h 8:00
+                                                              SÜD                                                  (NSp):                   414 KFZ/h 16:30
+                                                B.-Beyer-Str.                                                           6h :               2137 KFZ
+                                                                                                   max. Sph /Zufahrt: NORD                   94 KFZ/h 17:30
+                                                                                                                       SÜD                  200 KFZ/h 8:00
+                                                                                                     DATUM :                     WEST       168 KFZ/h 8:00
+                                                                                          6h Werte 28.04.2016
+                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 740                   Stahnsdorfer Str./B.-Beyer-Str.
+
+
+StromPlan740kp4-16.xls                                                          Seite 1
+SVP, 461                                                                                                                                                         13.02.2017
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                      NORD                                           Zufahrt: NORD SÜD WEST     SUMME %
+                                              B.-Beyer-Str.                                     RAD    FSp      7                  26      20                    53     11,1
+                                                                                                       NSp    12                   18      22                    52     11,2
+                                                     57                                                6h      62                 115     112                   289     11,9
+                                                                      149                       NFZ    FSp    11                  16      10                    37       8,7
+                                                                                                       NSp      7                 11        5                   23       5,6
+                                               20         37          92                               6h     47                   87      55                  189       8,8
+                                                                                                SV     FSp      4                   8       3                   15       3,5
+                                                                                                       NSp      3                   7       3                   13       3,1
+                                                                                                       6h     19                   40      22                    81      3,8
+                                                                                                KFZ FSp       57                 200     168                   425
+
+
+
+
+              Stahnsdorfer Str.
+                                                                                                                                                                         100
+                                                                                                       NSp    81                 185     148                   414       100
+                                                                                                       6h    439                 969     729                  2137       100
+                                  331   163                                                     FZ     FSp    64                 226     116                   478       100
+                                        35                                                             NSp    93                 203     206                   466       100
+
+       WEST
+                                  168                                                                  6h    501                1084      851                 2436       100
+                                        133
+                                                                                                Q DTVw:2,35 2063                4326    3654
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - durch Unfallbeseitigung auf A10 zw. Ludwigsfelde und ▲ Nuthetal -
+                                                                                                  Umleitung teilweise über Potsdam
+                                               170        143         57                        - Wetter früh 4ºC anfangs sonnig, dann bewölkt, trocken
+                                                                                                  nachm. 11ºC wechs. Wetter - sonnig mit bewölkt mit Regenschauer
+                                               370                                                  Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                                                200                              SUMME Zufahrten: [FSp]:                 425 KFZ/h 8:00
+                                                          SÜD                                                    (NSp):                  414 KFZ/h 16:30
+                                              B.-Beyer-Str.                                                           6h :              2137 KFZ
+                                                                                                 max. Sph /Zufahrt: NORD                  94 KFZ/h 17:30
+                                                                                                                     SÜD                 200 KFZ/h 8:00
+                                                                                                  DATUM :                     WEST       168 KFZ/h 8:00
+                                                                                      425 KFZ/h 28.04.2016
+                                                            Kfz-Stromverteilung in der FSp 740                 Stahnsdorfer Str./B.-Beyer-Str.
+
+
+StromPlan (FSp)740kp4-16.xls                                                Seite 2
+SVP, 461                                                                                                                                                         13.02.2017
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                      NORD                                           Zufahrt: NORD SÜD WEST     SUMME %
+                                              B.-Beyer-Str.                                     RAD    FSp      7                  26      20                    53     11,1
+                                                                                                       NSp    12                   18      22                    52     11,2
+                                                     81                                                6h      62                 115     112                   289     11,9
+                                                                      165                       NFZ    FSp    11                  16      10                    37       8,7
+                                                                                                       NSp      7                 11        5                   23       5,6
+                                               11         70          84                               6h     47                   87      55                  189       8,8
+                                                                                                SV     FSp      4                   8       3                   15       3,5
+                                                                                                       NSp      3                   7       3                   13       3,1
+                                                                                                       6h     19                   40      22                    81      3,8
+                                                                                                KFZ FSp       57                 200     168                   425
+
+
+
+
+              Stahnsdorfer Str.
+                                                                                                                                                                         100
+                                                                                                       NSp    81                 185     148                   414       100
+                                                                                                       6h    439                 969     729                  2137       100
+                                  286   138                                                     FZ     FSp    64                 226     116                   478       100
+                                        26                                                             NSp    93                 203     206                   466       100
+
+       WEST
+                                  148                                                                  6h    501                1084      851                 2436       100
+                                        122
+                                                                                                Q DTVw:2,35 2063                4326    3654
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - durch Unfallbeseitigung auf A10 zw. Ludwigsfelde und ▲ Nuthetal -
+                                                                                                  Umleitung teilweise über Potsdam
+                                               192        127         58                        - Wetter früh 4ºC anfangs sonnig, dann bewölkt, trocken
+                                                                                                  nachm. 11ºC wechs. Wetter - sonnig mit bewölkt mit Regenschauer
+                                               377                                                  Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                                                185                              SUMME Zufahrten: [FSp]:                 425 KFZ/h 8:00
+                                                          SÜD                                                    (NSp):                  414 KFZ/h 16:30
+                                              B.-Beyer-Str.                                                           6h :              2137 KFZ
+                                                                                                 max. Sph /Zufahrt: NORD                  94 KFZ/h 17:30
+                                                                                                                     SÜD                 200 KFZ/h 8:00
+                                                                                                  DATUM :                     WEST       168 KFZ/h 8:00
+                                                                                      414 KFZ/h 28.04.2016
+                                                            Kfz-Stromverteilung in der NSp 740                 Stahnsdorfer Str./B.-Beyer-Str.
+
+
+StromPlan (NSp)740kp4-16.xls                                                Seite 3
+

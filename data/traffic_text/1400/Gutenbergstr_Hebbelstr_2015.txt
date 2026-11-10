@@ -1,0 +1,158 @@
+       SVP, 461                                                                                                                                                                      11.04.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                       RAD         FSp         75       225         39     102         441    32,9
+
+                                              Hebbelstr.                                                                               NSp         50            95     39      86         270    21,6
+
+                                                                                                                                  6h    289                 755         257     519      1820 26,0
+                                                1.404            3.342                                                     NFZ    FSp    18                   4         24      29         75  8,3
+                                                                                                                                  NSp    23                   2         30      27         82  8,4
+                                                                                                                                  6h    121                  19        204     154        498 9,6
+                                      257        895     252      1.938                                                    SV     FSp     4                   0           6       4        14  1,6
+                                                                                                                                  NSp     5                   0           0       4         9  0,9
+                                                                                                                                  6h     29                   2          21      17        69 1,3
+                                                                                                                           KFZ FSp 269                       35        278     319        901 100
+                                                                                                                                  NSp 249                    43        431     255        978 100
+
+
+
+
+       Gutenbergstr.                                                                                       Gutenbergstr.
+                                                                                                                                  6h   1404                 237       2093    1453       5187 100
+                                                                                                                           FZ     FSp   344                 260        317     421       1342 100
+                       1.906   453                                                    125                                         NSp   299                 138        470     341       1248 100
+                               350                                                    41     237     OST                          6h   1693                 992       2350    1972       7007 100
+
+WEST
+                       1.453   930                                                     71                                  Q DTVw: 2,5 8355                4735       8080    4765
+                               173                                                   1.657   1.894                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                           Bemerkungen :
+                                                                                                                           - ÖPNV-Streik
+                                                                                                                           - Wetter früh 7°C bewölkt, trocken; nachmittag 17°C bewölkt,
+                                                                                                                             zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+                                                                                                                              Sph-Beginn: 7:30 Uhr und 15:00 Uhr
+
+                                      1.139      155     1.463    475                                                      SUMME Zufahrten:[FSp] :                     901 KFZ/h 8:00
+                                                                                                                                               (NSp):                  978 KFZ/h 15:30
+                                     3.232                                                                                                        6h :                5187 KFZ
+                                                        2.093                                                              max. Sph /Zufahrt: NORD :                   288 KFZ/h 9:00
+                                                        SÜD                                                                                     OST :                   62 KFZ/h 16:30
+                                                 Hebbelstr.                                                                  DATUM :                     SÜD :         431 KFZ/h 15:30
+                                                                                                 6h Werte 30.04.2015   WEST : 319 KFZ/h 8:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 140       Gutenbergstr./Hebbelstr.
+
+
+
+       StromPlan140kp4-15.xls                                              Seite 1
+       SVP, 461                                                                                                                                                           11.04.2016
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                              RAD         FSp         75       225         39     102         441    32,9
+
+                                            Hebbelstr.                                                                      NSp         50            95     39      86         270    21,6
+
+                                                                                                                       6h    289                 755         257     519      1820 26,0
+                                               269          518                                                 NFZ    FSp    18                   4         24      29         75  8,3
+                                                                                                                       NSp    23                   2         30      27         82  8,4
+                                                                                                                       6h    121                  19        204     154        498 9,6
+                                      35       165   69     249                                                 SV     FSp     4                   0           6       4        14  1,6
+                                                                                                                       NSp     5                   0           0       4         9  0,9
+                                                                                                                       6h     29                   2          21      17        69 1,3
+                                                                                                                KFZ FSp 269                       35        278     319        901 100
+                                                                                                                       NSp 249                    43        431     255        978 100
+
+
+
+
+       Gutenbergstr.                                                                            Gutenbergstr.
+                                                                                                                       6h   1404                 237       2093    1453       5187 100
+                                                                                                                FZ     FSp   344                 260        317     421       1342 100
+                       384   65                                               18                                       NSp   299                 138        470     341       1248 100
+                             57                                                9    35    OST                          6h   1693                 992       2350    1972       7007 100
+
+WEST
+                       319   218                                               8                                Q DTVw: 2,5 8355                4735       8080    4765
+                             44                                               370   405                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                Bemerkungen :
+                                                                                                                - ÖPNV-Streik
+                                                                                                                - Wetter früh 7°C bewölkt, trocken; nachmittag 17°C bewölkt,
+                                                                                                                  zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+                                                                                                                   Sph-Beginn: 7:30 Uhr und 15:00 Uhr
+                                      217      21    174    83                                                  SUMME Zufahrten:[FSp] :                     901 KFZ/h 8:00
+                                                                                                                                    (NSp):                  978 KFZ/h 15:30
+                                      495                                                                                              6h :                5187 KFZ
+                                                     278                                                        max. Sph /Zufahrt: NORD :                   288 KFZ/h 9:00
+                                                     SÜD                                                                             OST :                   62 KFZ/h 16:30
+                                               Hebbelstr.                                                         DATUM :                     SÜD :         431 KFZ/h 15:30
+                                                                                       901 KFZ/h 30.04.2015   WEST : 319 KFZ/h 8:00
+                                                                  Kfz-Stromverteilung in der FSp 140        Gutenbergstr./Hebbelstr.
+
+
+
+       StromPlan (FSp)140kp4-15.xls                                 Seite 2
+       SVP, 461                                                                                                                                                           11.04.2016
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                              RAD         FSp         75       225         39     102         441    32,9
+
+                                            Hebbelstr.                                                                      NSp         50            95     39      86         270    21,6
+
+                                                                                                                       6h    289                 755         257     519      1820 26,0
+                                               249          671                                                 NFZ    FSp    18                   4         24      29         75  8,3
+                                                                                                                       NSp    23                   2         30      27         82  8,4
+                                                                                                                       6h    121                  19        204     154        498 9,6
+                                      42       171   36     422                                                 SV     FSp     4                   0           6       4        14  1,6
+                                                                                                                       NSp     5                   0           0       4         9  0,9
+                                                                                                                       6h     29                   2          21      17        69 1,3
+                                                                                                                KFZ FSp 269                       35        278     319        901 100
+                                                                                                                       NSp 249                    43        431     255        978 100
+
+
+
+
+       Gutenbergstr.                                                                            Gutenbergstr.
+                                                                                                                       6h   1404                 237       2093    1453       5187 100
+                                                                                                                FZ     FSp   344                 260        317     421       1342 100
+                       323   68                                               29                                       NSp   299                 138        470     341       1248 100
+                             60                                                4    43    OST                          6h   1693                 992       2350    1972       7007 100
+
+WEST
+                       255   173                                               10                               Q DTVw: 2,5 8355                4735       8080    4765
+                             22                                               285   328                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                Bemerkungen :
+                                                                                                                - ÖPNV-Streik
+                                                                                                                - Wetter früh 7°C bewölkt, trocken; nachmittag 17°C bewölkt,
+                                                                                                                  zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+                                                                                                                   Sph-Beginn: 7:30 Uhr und 15:00 Uhr
+                                      203      22    333    76                                                  SUMME Zufahrten:[FSp] :                     901 KFZ/h 8:00
+                                                                                                                                    (NSp):                  978 KFZ/h 15:30
+                                      634                                                                                              6h :                5187 KFZ
+                                                     431                                                        max. Sph /Zufahrt: NORD :                   288 KFZ/h 9:00
+                                                     SÜD                                                                             OST :                   62 KFZ/h 16:30
+                                               Hebbelstr.                                                         DATUM :                     SÜD :         431 KFZ/h 15:30
+                                                                                       978 KFZ/h 30.04.2015   WEST : 319 KFZ/h 8:00
+                                                                  Kfz-Stromverteilung in der NSp 140        Gutenbergstr./Hebbelstr.
+
+
+
+       StromPlan (NSp)140kp4-15.xls                                 Seite 3
+

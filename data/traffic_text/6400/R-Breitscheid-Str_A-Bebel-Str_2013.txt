@@ -1,0 +1,154 @@
+                                                                                                                                                                        15.07.2015
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD     OST      SÜD      WEST        SUMME %
+                                                    NORD                                                             RAD      FSp        69      53       25        62          209   21,2
+                                                                                                                              NSp        63      49       33        56          201   19,3
+                                           K.-Marx-Straße                                                                     6h        347     246      145       284         1022   18,5
+                                                     853           1.624                                             NFZ      FSp       15      20       43        23           101   13,0
+                                                                                                                              NSp         3     41       15        13            72    8,6
+                                                                                                                              6h         99    132      182       113           526   11,7
+                                            74       463    316     771                                              SV       FSp         4       2      14          6           26    3,3
+                                                                                                                              NSp         0     25         4         3           32    3,8
+                                                                                                                              6h         14      43       55        35          147    3,3
+                                                                                                                     KFZ      FSp      166     150      251       212           779
+
+
+
+
+       R.-Breitscheid-Str.
+                                                                                                                                                                                      100
+
+
+
+
+                                                                                               R.-Breitscheid-Str.
+                                                                                                                              NSp      143     232      299       164           838   100
+                                                                                                                              6h       853    1090     1520      1029          4492   100
+                                                                                                                     FZ       FSp      235     203      276       274           988   100
+                             1.997   968                                     253                                              NSp      206     281      332       220          1039   100
+                                      75                                     383 1.090   OST                                  6h      1200    1336     1665      1313          5514   100
+
+WEST                         1.029   401                                     454                                     Bemerkungen :
+                                     553                                   1.283 2.373
+
+
+
+
+                                                                                                                             Sph-Beginn:      7:30    Uhr und   17:00    Uhr
+                                                                                                                     SUMME Zufahrten: [FSp]:            779 KFZ/h         8:00
+                                            1.470    511    443     566                                                                  (NSp):         838 KFZ/h         17:30
+                                                                                                                                            6h :       4492 KFZ
+                                           2.990                                                                     max. Sph /Zufahrt: NORD :          168 KFZ/h         16:00
+                                                           1.520                                                                          OST :         203 KFZ/h         17:30
+                                                           SÜD                                                        DATUM :             SÜD :         299 KFZ/h         17:30
+                                                    A.-Bebel-Str.                                                    13.06.2013            WEST :       212 KFZ/h         8:00
+                                                                                                                      640        R.-Breitscheid-Str./A.-Bebel-Str.
+
+
+
+
+         SVP, 461                                                                                                                             StromPlan640kp6-13_bearbeitung.xls
+                                                                                                                                                                             15.07.2015
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                NORD                                                                                    NORD OST SÜD WEST SUMME %
+                                                                                                                        RAD      FSp      69         53       25        62          209   21,2
+
+                                         K.-Marx-Straße                                                                          NSp      63         49       33        56          201   19,3
+
+                                                                                                                                 6h       347       246      145       284         1022   18,5
+                                                 166           316                                                      NFZ      FSp       15       20       43        23           101   13,0
+                                                                                                                                 NSp        3       41       15        13            72    8,6
+                                                                                                                                 6h        99      132      182       113           526   11,7
+                                         9        92   65      150                                                      SV       FSp        4         2      14          6           26    3,3
+                                                                                                                                 NSp        0       25         4         3           32    3,8
+                                                                                                                                 6h        14        43       55        35          147    3,3
+                                                                                                                        KFZ      FSp     166       150      251       212           779   100
+
+
+
+
+       R.-Breitscheid-Str.                                                                        R.-Breitscheid-Str.
+                                                                                                                                 NSp     143       232      299       164           838   100
+                                                                                                                                 6h       853     1090     1520      1029          4492   100
+                                                                                                                        FZ       FSp      235      203      276       274           988   100
+                             343   131                                          38                                               NSp      206      281      332       220          1039   100
+                                    9                                           45    150   OST                                  6h      1200     1336     1665      1313          5514   100
+
+WEST                         212   82                                           67                                      Bemerkungen :
+                                   121                                         218   368
+
+
+
+
+                                                                                                                                 Sph-Beginn:      7:30    Uhr und   17:00    Uhr
+                                                                                                                        SUMME Zufahrten: [FSp]:             779 KFZ/h        8:00
+                                         280      77   103     71                                                                           (NSp):          838 KFZ/h        17:30
+                                                                                                                                               6h :        4492 KFZ
+                                         531                                                                            max. Sph /Zufahrt: NORD :           168 KFZ/h        16:00
+                                                       251                                                                                   OST :          203 KFZ/h        17:30
+                                                       SÜD                                                               DATUM :             SÜD :          299 KFZ/h        17:30
+                                                                              779           KFZ/h                       13.06.2013             WEST :       212 KFZ/h        8:00
+
+                                               A.-Bebel-Str.         Kfz-Stromverteilung in der FSp 640                             R.-Breitscheid-Str./A.-Bebel-Str.
+
+
+
+
+          SVP, 461                                                                                                                             StromPlan FSp640kp6-13_bearbeitung.xls
+                                                                                                                                                                             15.07.2015
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                NORD                                                                                    NORD OST SÜD WEST SUMME %
+                                                                                                                        RAD      FSp       69        53       25        62           209   21,2
+
+                                         K.-Marx-Straße                                                                          NSp       63        49       33        56           201   19,3
+
+                                                                                                                                 6h       347       246      145       284          1022   18,5
+                                                 143           268                                                      NFZ      FSp       15       20       43        23            101   13,0
+                                                                                                                                 NSp        3       41       15        13             72    8,6
+                                                                                                                                 6h        99      132      182       113            526   11,7
+                                         13       82    48     125                                                      SV       FSp        4         2      14          6            26    3,3
+                                                                                                                                 NSp        0       25         4         3            32    3,8
+                                                                                                                                 6h        14        43       55        35           147    3,3
+                                                                                                                        KFZ      FSp     166       150      251       212            779
+
+
+
+
+       R.-Breitscheid-Str.
+                                                                                                                                                                                           100
+
+
+
+
+                                                                                                  R.-Breitscheid-Str.
+                                                                                                                                 NSp     143       232      299       164            838   100
+                                                                                                                                 6h       853     1090     1520      1029           4492   100
+                                                                                                                        FZ       FSp      235      203      276       274            988   100
+                             377   213                                          59                                               NSp      206      281      332       220           1039   100
+                                   15                                           95    232   OST                                  6h      1200     1336     1665      1313           5514   100
+
+WEST                         164   57                                           78                                      Bemerkungen :
+                                   92                                          248   480
+
+
+
+
+                                                                                                                                 Sph-Beginn:      17:00   Uhr und   7:30      Uhr
+                                                                                                                        SUMME Zufahrten: [FSp]:             779 KFZ/h         8:00
+                                         252      105   51     143                                                                          (NSp):          838 KFZ/h         17:30
+                                                                                                                                              6h :         4492 KFZ
+                                         551                                                                            max. Sph /Zufahrt: NORD :           168 KFZ/h         16:00
+                                                        299                                                                                  OST :          203 KFZ/h         17:30
+                                                        SÜD                                                              DATUM :             SÜD :          299 KFZ/h         17:30
+                                                                               838          KFZ/h                       13.06.2013             WEST :       212 KFZ/h         8:00
+
+                                               A.-Bebel-Str.         Kfz-Stromverteilung in der NSp 640                             R.-Breitscheid-Str./A.-Bebel-Str.
+
+
+
+
+          SVP, 461                                                                                                                             StromPlan NSp640kp6-13_bearbeitung.xls
+

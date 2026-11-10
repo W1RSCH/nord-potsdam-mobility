@@ -1,0 +1,178 @@
+SVP, 461                                                                                                                                         11.04.2016
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                             Zufahrt: OST SÜD WEST     SUMME %
+                                                                                        RAD    FSp    197                  64   116                    377      29,2
+                                                                                               NSp     98                  32   220                    350      27,3
+                                                                                               6h     661                 230    817                  1708      25,3
+                                                                                        NFZ    FSp     58                   8    94                    160      17,5
+
+                           F.-Engels-Str.                                                      NSp
+                                                                                               6h
+                                                                                                       59
+                                                                                                      351
+                                                                                                                            1
+                                                                                                                           16
+                                                                                                                                 67
+                                                                                                                                386
+                                                                                                                                                       127
+                                                                                                                                                       753
+                                                                                                                                                                13,7
+                                                                                                                                                                14,9
+                                                                                        SV     FSp     25                   1    53                     79       8,7
+                                                                                               NSp     14                   0    25                     39       4,2
+                                                                                               6h     136                   3   186                    325       6,4
+                                                                                        KFZ FSp 319                        64   529                    912      100
+                                                                                               NSp 378                     26   526                    930      100
+                                                                                               6h    2037                 209 2797                    5043      100
+           4.932   2.135                                                                FZ     FSp    516                 128   645                   1289      100
+                                                                  1.982           OST          NSp    476                  58   746                   1280      100
+
+   WEST
+                                                                          2.037
+                   2.698                                            55                         6h    2698                 439 3614                    6751      100
+           2.797
+                    99                                            2.754   4.791         Q DTVw: 2,5 11978                 908 12330
+                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh 12°C bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+
+                             154   153         56                                           Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                        SUMME Zufahrten: FSp :                  912 KFZ/h 8:00
+                             363                                                                           NSp :                930 KFZ/h 16:00
+                                         209                                                                6h :               5043 KFZ
+                                   SÜD                                                  max. Sph /Zufahrt:  OST                 400 KFZ/h 17:00
+                             Schlaatzstr.                                                                               SÜD        65 KFZ/h 8:30
+                                                                                          DATUM :                     WEST       529 KFZ/h 8:00
+                                                                               6h Werte 03.09.2015
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 416                   F.-Engels-Str./Schlaatzstr.
+
+
+
+StromPlan416kp9-15.xls                                        Seite 1
+SVP, 461                                                                                                                                    11.04.2016
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                        Zufahrt: OST SÜD WEST     SUMME %
+                                                                                   RAD    FSp    197                  64   116                    377      29,2
+                                                                                          NSp     98                  32   220                    350      27,3
+                                                                                          6h     661                 230    817                  1708      25,3
+                                                                                   NFZ    FSp     58                   8    94                    160      17,5
+
+                               F.-Engels-Str.                                             NSp
+                                                                                          6h
+                                                                                                  59
+                                                                                                 351
+                                                                                                                       1
+                                                                                                                      16
+                                                                                                                            67
+                                                                                                                           386
+                                                                                                                                                  127
+                                                                                                                                                  753
+                                                                                                                                                           13,7
+                                                                                                                                                           14,9
+                                                                                   SV     FSp     25                   1    53                     79       8,7
+                                                                                          NSp     14                   0    25                     39       4,2
+                                                                                          6h     136                   3   186                    325       6,4
+                                                                                   KFZ FSp 319                        64   529                    912      100
+                                                                                          NSp 378                     26   526                    930      100
+                                                                                          6h    2037                 209 2797                    5043      100
+           902      373                                                            FZ     FSp    516                 128   645                   1289      100
+                                                               315         OST            NSp    476                  58   746                   1280      100
+
+   WEST
+                                                                     319
+                    505                                         4                         6h    2698                 439 3614                    6751      100
+           529
+                    24                                         511   830           Q DTVw: 2,5 11978                 908 12330
+                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                   Bemerkungen :
+                                                                                   - Wetter früh 12°C bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+
+                                 28   58         6                                     Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                   SUMME Zufahrten: FSp :                  912 KFZ/h 8:00
+                                 92                                                                   NSp :                930 KFZ/h 16:00
+                                            64                                                         6h :               5043 KFZ
+                                      SÜD                                          max. Sph /Zufahrt:  OST                 400 KFZ/h 17:00
+                                 Schlaatzstr.                                                                      SÜD        65 KFZ/h 8:30
+                                                                                     DATUM :                     WEST       529 KFZ/h 8:00
+                                                                         912 KFZ/h 03.09.2015
+                                                     Kfz-Stromverteilung in der FSp 416                   F.-Engels-Str./Schlaatzstr.
+
+
+
+StromPlan (FSp)416kp9-15.xls                              Seite 2
+SVP, 461                                                                                                                                      11.04.2016
+
+
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                          Zufahrt: OST SÜD WEST     SUMME %
+                                                                                     RAD    FSp    197                  64   116                    377      29,2
+                                                                                            NSp     98                  32   220                    350      27,3
+                                                                                            6h     661                 230    817                  1708      25,3
+                                                                                     NFZ    FSp     58                   8    94                    160      17,5
+
+                               F.-Engels-Str.                                               NSp
+                                                                                            6h
+                                                                                                    59
+                                                                                                   351
+                                                                                                                         1
+                                                                                                                        16
+                                                                                                                              67
+                                                                                                                             386
+                                                                                                                                                    127
+                                                                                                                                                    753
+                                                                                                                                                             13,7
+                                                                                                                                                             14,9
+                                                                                     SV     FSp     25                   1    53                     79       8,7
+                                                                                            NSp     14                   0    25                     39       4,2
+                                                                                            6h     136                   3   186                    325       6,4
+                                                                                     KFZ FSp 319                        64   529                    912      100
+                                                                                            NSp 378                     26   526                    930      100
+                                                                                            6h    2037                 209 2797                    5043      100
+           906     380                                                               FZ     FSp    516                 128   645                   1289      100
+                                                                 365         OST            NSp    476                  58   746                   1280      100
+
+   WEST
+                                                                       378
+                   511                                           13                         6h    2698                 439 3614                    6751      100
+           526
+                   15                                            522   900           Q DTVw: 2,5 11978                 908 12330
+                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                     Bemerkungen :
+                                                                                     - Wetter früh 12°C bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+
+                                 28   15         11                                      Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                     SUMME Zufahrten: FSp :                  912 KFZ/h 8:00
+                                 54                                                                     NSp :                930 KFZ/h 16:00
+                                            26                                                           6h :               5043 KFZ
+                                      SÜD                                            max. Sph /Zufahrt:  OST                 400 KFZ/h 17:00
+                                 Schlaatzstr.                                                                        SÜD        65 KFZ/h 8:30
+                                                                                       DATUM :                     WEST       529 KFZ/h 8:00
+                                                                           930 KFZ/h 03.09.2015
+                                                      Kfz-Stromverteilung in der NSp 416                    F.-Engels-Str./Schlaatzstr.
+
+
+
+StromPlan (NSp)416kp9-15.xls                                Seite 3
+

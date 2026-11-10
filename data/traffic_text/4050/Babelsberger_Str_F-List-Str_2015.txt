@@ -1,0 +1,147 @@
+SVP, 461                                                                                                                                                 11.04.2016
+
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                    Zufahrt: NORD                  OST        WEST                   SUMME %
+                                                                                  RAD   FSp     31                   58         11                   100              7,5
+                                                                                        NSp     62                   24          2                    88              6,5
+                                                                                        6h     192                  219         28                   439              6,0
+                                                                                  NFZ   FSp     26                   87         77                   190            15,3
+
+                                 NORD                                                        NSp         31             52        47                 130            10,2
+                                                                                             6h         151            369       367                 887            12,9
+                         Babelsberger Str.                                        SV         FSp         14             33        15                  62              5,0
+                                                                                             NSp          8             11         6                  25              2,0
+                             1.020       2.495                                               6h           56           111        77                  244             3,6
+
+                                                                                  KFZ        FSp 130                588         523                  1241
+                                           1.475
+                                                                                                                                                                     100
+                           310    710                                                        NSp 223                580         466                  1269            100
+                                                                                             6h  1020              3176        2674                  6870            100
+                                                                                  FZ         FSp 161                646         534                  1341            100
+                                                                                             NSp 285                604         468                  1357            100
+
+                                                                                             6h       1212        3395         2702                  7309            100
+                                                                                  Q DTVw: 2,5         6238       16068        12045
+4.818      2.144                                                1.342            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                        3.176 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+            133                                                 1.834
+2.674
+           2.541                                                3.251   6.427 Bemerkungen :
+                                                                                  - Baustellen in der F.-List-Str. beids. versetzt mit jeweils einer Fahrspur je Richtung
+                                                                                  - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+           WEST             F.-List-Str.                         OST                         Sph-Beginn:          7:30       Uhr und   16:00   Uhr
+                                                                                  SUMME Zufahrten:     [FSp]:                  1241 KFZ/h      8:00
+                                                                                                     (NSp):                    1269 KFZ/h      16:30
+                                                                                                       6h :                    6870 KFZ
+                                                                                  max. Sph /Zufahrt: NORD                       223 KFZ/h      16:30
+                                                                                                        OST                     588 KFZ/h      8:00
+                                                                                   DATUM :            WEST                      523 KFZ/h      8:00
+                                                                     6h Werte 03.09.2015
+                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 405                          F.-List-Str./Babelsberger Str.
+
+
+
+StromPlan405kp9-15.xls                                      Seite 1
+SVP, 461                                                                                                                                                       11.04.2016
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                         Zufahrt: NORD                   OST        WEST                   SUMME %
+                                                                                       RAD   FSp     31                    58         11                   100              7,5
+                                                                                             NSp     62                    24          2                    88              6,5
+                                                                                             6h     192                   219         28                   439              6,0
+                                                                                       NFZ   FSp     26                    87         77                   190           15,3
+
+                                        NORD                                                       NSp         31             52        47                 130           10,2
+                                                                                                   6h         151            369       367                 887           12,9
+                               Babelsberger Str.                                       SV          FSp         14             33        15                  62              5,0
+                                                                                                   NSp          8             11         6                  25              2,0
+                                      130        394                                               6h           56           111        77                  244             3,6
+
+                                                                                       KFZ         FSp 130                588         523                  1241           100
+                                 43         87   264                                               NSp 223                580         466                  1269           100
+                                                                                                   6h  1020              3176        2674                  6870           100
+                                                                                       FZ          FSp 161                646         534                  1341           100
+                                                                                                   NSp 285                604         468                  1357           100
+
+                                                                                                   6h       1212        3395         2702                  7309           100
+                                                                                       Q DTVw: 2,5          6238       16068        12045
+ 913         390                                                          241          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                 588
+             23                                                           347          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+ 523
+             500                                                          587   1.175 Bemerkungen :
+                                                                                       - Baustellen in der F.-List-Str. beids. versetzt mit jeweils einer Fahrspur je Richtung
+                                                                                       - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+           WEST                   F.-List-Str.                            OST                      Sph-Beginn:          7:30       Uhr und   16:00   Uhr
+                                                                                       SUMME Zufahrten:     [FSp]:                   1241 KFZ/h      8:00
+                                                                                                          (NSp):                     1269 KFZ/h      16:30
+                                                                                                            6h :                     6870 KFZ
+                                                                                       max. Sph /Zufahrt: NORD                        223 KFZ/h      16:30
+                                                                                                             OST                      588 KFZ/h      8:00
+                                                                                        DATUM :            WEST                       523 KFZ/h      8:00
+                                                                         1.241 KFZ/h 03.09.2015
+                                                       Kfz-Stromverteilung in der FSp 405                         F.-List-Str./Babelsberger Str.
+
+
+
+StromPlan (FSp)405kp9-15.xls                                         Seite 2
+SVP, 461                                                                                                                                                    11.04.2016
+
+
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                      Zufahrt: NORD                   OST        WEST                   SUMME %
+                                                                                    RAD   FSp     31                    58         11                   100              7,5
+                                                                                          NSp     62                    24          2                    88              6,5
+                                                                                          6h     192                   219         28                   439              6,0
+                                                                                    NFZ   FSp     26                    87         77                   190           15,3
+
+                                        NORD                                                    NSp         31             52        47                 130           10,2
+                                                                                                6h         151            369       367                 887           12,9
+                               Babelsberger Str.                                    SV          FSp         14             33        15                  62              5,0
+                                                                                                NSp          8             11         6                  25              2,0
+                                      223         492                                           6h           56           111        77                  244             3,6
+
+                                                                                    KFZ         FSp 130                588         523                  1241           100
+                                 59         164   269                                           NSp 223                580         466                  1269           100
+                                                                                                6h  1020              3176        2674                  6870           100
+                                                                                    FZ          FSp 161                646         534                  1341           100
+                                                                                                NSp 285                604         468                  1357           100
+
+                                                                                                6h       1212        3395         2702                  7309           100
+                                                                                    Q DTVw: 2,5          6238       16068        12045
+ 863        397                                                        242          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                              580
+            27                                                         338          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+ 466
+            439                                                        603   1.183 Bemerkungen :
+                                                                                    - Baustellen in der F.-List-Str. beids. versetzt mit jeweils einer Fahrspur je Richtung
+                                                                                    - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+           WEST                   F.-List-Str.                         OST                      Sph-Beginn:          7:30       Uhr und   16:00   Uhr
+                                                                                    SUMME Zufahrten:     [FSp]:                   1241 KFZ/h      8:00
+                                                                                                       (NSp):                     1269 KFZ/h      16:30
+                                                                                                         6h :                     6870 KFZ
+                                                                                    max. Sph /Zufahrt: NORD                        223 KFZ/h      16:30
+                                                                                                          OST                      588 KFZ/h      8:00
+                                                                                     DATUM :            WEST                       523 KFZ/h      8:00
+                                                                      1.269 KFZ/h 03.09.2015
+                                                    Kfz-Stromverteilung in der NSp 405                         F.-List-Str./Babelsberger Str.
+
+
+
+StromPlan (NSp)405kp9-15.xls                                      Seite 3
+

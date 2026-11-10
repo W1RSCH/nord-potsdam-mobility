@@ -1,0 +1,157 @@
+SVP, 461                                                                                                                                                       15.07.2015
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                      NORD                                                                         NORD     OST      SÜD           SUMME %
+                         Brauhausberg                                                           RAD         FSp       33       30       -4               59        5,8
+
+                                                                                                            NSp     9          45        5                59       3,6
+                                   5.157                                                                    6h    122         206      -19               309       4,4
+                                                 6.504                                          NFZ         FSp 127           20       45               192       20,0
+                                                                                                            NSp 148           17       19               184       11,8
+                           4.714           443    1.347                                                     6h   664           89     177               930       13,8
+                                                                                                SV          FSp   52            8        9               69        7,2
+                                                                                                            NSp   24            3        4               31        2,0
+                                                                                                            6h   215           23       41              279        4,1
+                                                                                                KFZ         FSp 628           58      272               958       100
+                                                                                                            NSp 1284         150      129              1563
+
+
+
+
+                                                                             A.-Einstein-Str.
+                                                                                                                                                                  100
+                                                                                                            6h  5157         557     1014              6728       100
+                                                          448                                   FZ          FSp      661      88      268               1017      100
+                                                                557
+                                                          109          OST                                  NSp     1293     195      134               1622      100
+                                                                                                            6h      5279     763      995               7037      100
+                                                          558   1115                            Bemerkungen:
+
+                                                                                                        0
+
+                                                                                                        0
+                                                                                                        0
+                                                                                                        0
+                                                                                                        0
+                           4.823           899    115
+
+                          5.837
+                                         1.014                                                       Sph-Beginn:    7:30   Uhr und   15:30 Uhr
+                                       SÜD                                                      SUMME Zufahrten: [FSp]:               958 KFZ/h 8:00
+                         Brauhausberg                                                                              (NSp): 1563 KFZ/h            16:00
+                                                                                                                     6h : 6728 KFZ
+                                                                                                max. Sph /Zufahrt: NORD 1284 KFZ/h              16:00
+                                                                                                                     OST   155 KFZ/h            16:30
+                                                                                                 DATUM :             SÜD   298 KFZ/h            7:30
+                                                                                                05.06.2014
+                                                                                                 412               Brauhausberg /A.-Einstein-Str.
+
+StromPlan412kp9-14.xls                                             Seite1
+SVP, 461                                                                                                                                                                15.07.2015
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                    NORD                                                                                    NORD     OST      SÜD           SUMME %
+                        Brauhausberg                                                                     RAD         FSp       33       30       -4               59        5,8
+
+                                                                                                                     NSp     9          45        5                59       3,6
+                                  628                                                                                6h    122         206      -19               309       4,4
+                                              920                                                        NFZ         FSp 127           20       45               192       20,0
+                                                                                                                     NSp 148           17       19               184       11,8
+                            514         114   292                                                                    6h   664           89     177               930       13,8
+                                                                                                         SV          FSp   52            8        9               69        7,2
+                                                                                                                     NSp   24            3        4               31        2,0
+                                                                                                                     6h   215           23       41              279        4,1
+                                                                                                         KFZ         FSp 628           58      272               958       100
+                                                                                                                     NSp 1284         150      129              1563
+
+
+
+
+                                                                                      A.-Einstein-Str.
+                                                                                                                                                                           100
+                                                                                                                     6h  5157         557     1014              6728       100
+                                                                53                                       FZ          FSp      661      88      268               1017      100
+                                                                       58
+                                                                 5              OST                                  NSp     1293     195      134               1622      100
+                                                                                                                     6h      5279     763      995               7037      100
+                                                                147    205                               Bemerkungen:
+
+                                                                                                                 0
+
+                                                                                                                 0
+                                                                                                                 0
+                                                                                                                 0
+                                                                                                                 0
+                            519         239   33
+
+                            791
+                                       272                                                                    Sph-Beginn:    7:30   Uhr und   15:30 Uhr
+                                    SÜD                                                                  SUMME Zufahrten: [FSp]:               958 KFZ/h 8:00
+                        Brauhausberg                                                                                        (NSp): 1563 KFZ/h            16:00
+                                                                                                                              6h : 6728 KFZ
+                                                                                                         max. Sph /Zufahrt: NORD 1284 KFZ/h              16:00
+                                                                                                                              OST   155 KFZ/h            16:30
+                                                                                                          DATUM :             SÜD   298 KFZ/h            7:30
+                                                                        958 KFZ/h                        05.06.2014
+                                                    Kfz-Stromverteilung in der FSp                        412               Brauhausberg /A.-Einstein-Str.
+
+StromPlanFSP412kp9-14.xls                                                   Seite2
+SVP, 461                                                                                                                                                                    15.07.2015
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                        NORD                                                                                    NORD     OST      SÜD           SUMME %
+                       Brauhausberg                                                                          RAD         FSp       33       30       -4               59        5,8
+
+                                                                                                                         NSp     9          45        5                59       3,6
+                                     1.284                                                                               6h    122         206      -19               309       4,4
+                                                   1.516                                                     NFZ         FSp 127           20       45               192       20,0
+                                                                                                                         NSp 148           17       19               184       11,8
+                             1.242           42     232                                                                  6h   664           89     177               930       13,8
+                                                                                                             SV          FSp   52            8        9               69        7,2
+                                                                                                                         NSp   24            3        4               31        2,0
+                                                                                                                         6h   215           23       41              279        4,1
+                                                                                                             KFZ         FSp 628           58      272               958       100
+                                                                                                                         NSp 1284         150      129              1563
+
+
+
+
+                                                                                          A.-Einstein-Str.
+                                                                                                                                                                               100
+                                                                                                                         6h  5157         557     1014              6728       100
+                                                                       113                                   FZ          FSp      661      88      268               1017      100
+                                                                              150
+                                                                        37          OST                                  NSp     1293     195      134               1622      100
+                                                                                                                         6h      5279     763      995               7037      100
+                                                                       52     202                            Bemerkungen:
+
+                                                                                                                     0
+
+                                                                                                                     0
+                                                                                                                     0
+                                                                                                                     0
+                                                                                                                     0
+                             1.279           119    10
+
+                            1.408
+                                            129                                                                   Sph-Beginn:    7:30   Uhr und   15:30 Uhr
+                                         SÜD                                                                 SUMME Zufahrten: [FSp]:               958 KFZ/h 8:00
+                       Brauhausberg                                                                                             (NSp): 1563 KFZ/h            16:00
+                                                                                                                                  6h : 6728 KFZ
+                                                                                                             max. Sph /Zufahrt: NORD 1284 KFZ/h              16:00
+                                                                                                                                  OST   155 KFZ/h            16:30
+                                                                                                              DATUM :             SÜD   298 KFZ/h            7:30
+                                                                             1.563 KFZ/h                     05.06.2014
+                                                           Kfz-Stromverteilung in der NSp                     412               Brauhausberg /A.-Einstein-Str.
+
+StromPlanNSP412kp9-14.xls                                                       Seite3
+

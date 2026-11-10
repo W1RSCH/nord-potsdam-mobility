@@ -1,0 +1,154 @@
+SVP, 461                                                                                                                              11.01.2017
+
+
+
+
+                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                   Zufahrt: NORD SÜD WEST     SUMME %
+                                            NORD                               RAD        FSp         16            29      2                   47     19,0
+                                    Flotowstr.                                            NSp         17            18      1                   36     13,4
+
+                                                                                     6h      69                  86         12                 167      9,4
+                                          452                                  NFZ   FSp      5                 10           0                  15      7,5
+                                                            656                      NSp      7                   8          1                  16      6,9
+                                                                                     6h     25                  36           7                  68      8,0
+                                    61          391         204               SV     FSp      1                   2          0                   3      1,5
+                                                                                     NSp      0                   1          1                   2      0,9
+                                                                                     6h       2                   5          2                   9      1,1
+                                                                              KFZ FSp       98                  86         16                 200       100
+                                                                                     NSp 135                    87         10                 232       100
+                                                                                     6h    452                 327         72                  851      100
+                                                                              FZ     FSp   114                 115        107                  247      100
+
+
+
+
+            Gluckstr.
+                        271   199                                                    NSp   152                 105        154                  268      100
+                              15                                                     6h    521                 413        851                 1785      100
+
+     WEST               72                                                    Q DTVw: ### 1542                1821        637
+                              57
+                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                              Bemerkungen :
+                                                                              - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                                                              - Teilzählung - Zuf. NG + SG errechnet durch KP Patrizierweg/Gluckstr.
+                                                                              - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                    448         138         189                   Sph-Beginn:        7.00 Uhr und        15.00 Uhr
+                                                                               SUMME Zufahrten: [FSp]:                    200 KFZ/h     7:30
+                                    775                                                           (NSp):                  232 KFZ/h     15:30
+                                                      327                                            6h :                 851 KFZ
+                                                SÜD                            max. Sph /Zufahrt: NORD                    135 KFZ/h     15:30
+                                    Flotowstr.                                                      SÜD                    87 KFZ/h     15:30
+                                                                                DATUM :                     WEST           17 KFZ/h 16:30
+                                                                      6h Werte 22.09.2016
+                                      von 6.00 - 9.00 Uhr u. 15.00 - 18.00 Uhr 735                      Flotowstr./Gluckstr.
+
+
+StromPlan 735kp9-16.xls                                           Seite 1
+SVP, 461                                                                                                                             11.01.2017
+
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                  Zufahrt: NORD SÜD WEST     SUMME %
+                                           NORD                              RAD         FSp         16            29      2                   47     19,0
+                                    Flotowstr.                                           NSp         17            18      1                   36     13,4
+
+                                                                                    6h      69                  86         12                 167      9,4
+                                          98                                 NFZ    FSp      5                 10           0                  15      7,5
+                                                          149                       NSp      7                   8          1                  16      6,9
+                                                                                    6h     25                  36           7                  68      8,0
+                                    28         70         51                 SV     FSp      1                   2          0                   3      1,5
+                                                                                    NSp      0                   1          1                   2      0,9
+                                                                                    6h       2                   5          2                   9      1,1
+                                                                             KFZ FSp       98                  86         16                 200       100
+                                                                                    NSp 135                    87         10                 232       100
+                                                                                    6h    452                 327         72                  851      100
+                                                                             FZ     FSp   114                 115        107                  247      100
+
+
+
+
+            Gluckstr.
+                        85     69                                                   NSp   152                 105        154                  268      100
+                                6                                                   6h    521                 413        851                 1785      100
+
+     WEST               16                                                   Q DTVw: ### 1542                1821        637
+                               10
+                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                             Bemerkungen :
+                                                                             - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                                                             - Teilzählung - Zuf. NG + SG errechnet durch KP Patrizierweg/Gluckstr.
+                                                                             - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                    80         41         45                     Sph-Beginn:        7.00 Uhr und        15.00 Uhr
+                                                                             SUMME Zufahrten: [FSp]:                     200 KFZ/h     7:30
+                                    166                                                         (NSp):                   232 KFZ/h     15:30
+                                                     86                                            6h :                  851 KFZ
+                                               SÜD                           max. Sph /Zufahrt: NORD                     135 KFZ/h     15:30
+                                    Flotowstr.                                                    SÜD                     87 KFZ/h     15:30
+                                                                               DATUM :                     WEST           17 KFZ/h 16:30
+                                                                   200 KFZ/h 22.09.2016
+                                      von 6.00 - 9.00 Uhr u. 15.00 - 18.00 Uhr 735                     Flotowstr./Gluckstr.
+
+
+StromPlan (FSp)735kp9-16.xls                                    Seite 2
+SVP, 461                                                                                                                             11.01.2017
+
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                  Zufahrt: NORD SÜD WEST     SUMME %
+                                            NORD                             RAD         FSp         16            29      2                   47     19,0
+                                    Flotowstr.                                           NSp         17            18      1                   36     13,4
+
+                                                                                    6h      69                  86         12                 167      9,4
+                                          135                                NFZ    FSp      5                 10           0                  15      7,5
+                                                           192                      NSp      7                   8          1                  16      6,9
+                                                                                    6h     25                  36           7                  68      8,0
+                                    10          125        57                SV     FSp      1                   2          0                   3      1,5
+                                                                                    NSp      0                   1          1                   2      0,9
+                                                                                    6h       2                   5          2                   9      1,1
+                                                                             KFZ FSp       98                  86         16                 200       100
+                                                                                    NSp 135                    87         10                 232       100
+                                                                                    6h    452                 327         72                  851      100
+                                                                             FZ     FSp   114                 115        107                  247      100
+
+
+
+
+            Gluckstr.
+                        52     42                                                   NSp   152                 105        154                  268      100
+                                2                                                   6h    521                 413        851                 1785      100
+
+     WEST               10                                                   Q DTVw: ### 1542                1821        637
+                               8
+                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                             Bemerkungen :
+                                                                             - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                                                             - Teilzählung - Zuf. NG + SG errechnet durch KP Patrizierweg/Gluckstr.
+                                                                             - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                    133         32         55                    Sph-Beginn:        7.00 Uhr und        15.00 Uhr
+                                                                             SUMME Zufahrten: [FSp]:                     200 KFZ/h     7:30
+                                    220                                                         (NSp):                   232 KFZ/h     15:30
+                                                      87                                           6h :                  851 KFZ
+                                                SÜD                          max. Sph /Zufahrt: NORD                     135 KFZ/h     15:30
+                                    Flotowstr.                                                    SÜD                     87 KFZ/h     15:30
+                                                                               DATUM :                     WEST           17 KFZ/h 16:30
+                                                                   232 KFZ/h 22.09.2016
+                                      von 6.00 - 9.00 Uhr u. 15.00 - 18.00 Uhr 735                     Flotowstr./Gluckstr.
+
+
+StromPlan (NSp)735kp9-16.xls                                     Seite 3
+

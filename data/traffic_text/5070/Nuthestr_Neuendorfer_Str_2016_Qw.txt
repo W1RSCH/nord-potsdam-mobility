@@ -1,0 +1,53 @@
+ SVP, 461                                                                                                                                                  27.09.2016
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                             Nuthestr./Neuend. Str. - Q WEST -                                            Zufahrt:      OST     WEST SUMME %
+                                                                                                     RAD * FSp                        26                  10          36
+                                                2016                                                       NSp                        23                  28          51
+                                                                                                           6h                        132                 104         236
+                                                                                                     NFZ   FSp                      499                 437         936 15,1
+                                                                                                           NSp                      250                 396         646 10,6
+                                                                                                           6h                      1758                2416        4174 12,7
+                                                                                                     SV    FSp                      119                  94         213  3,4
+                                                                                                           NSp                       66                  67         133  2,2
+                                                                                                           6h                       510                 663        1173 3,6
+                                                                                                     KFZ FSp                       3493                2721        6214 100
+                                            stadteinwärts                                                  NSp                     2752                3316        6068 100
+                                                                                                           6h                     16429               16538       32967 100
+                                                                                                     FZ    FSp                     3493                2721        6214 100
+                                                                                    3.493                  NSp                     2752                3316        6068 100
+                                                                       16.429                                   6h                16429               16538       32967
+                                                                                    2.752                                                                                     100
+
+WEST                                                                                        OST      DTVw:       2,35             38608               38864
+                                                                                                     DTVw=24h KFZ werktags
+
+                    2.721                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+        16.538
+                    3.316                                                                            *) = Räder auf Heiztrassenweg
+                                                                                                     Bemerkungen :
+                                                                                                     - Ermittelte Räder auf Heiztrassenweg fahrend, siehe Radtabelle!
+                                           stadtauswärts                                             - Baustelle in der Neuendorfer Str. - Einbahnstr. Ri. Kirchsteigfeld
+                                                                                                     - Wetter früh 15ºC sonnig; nachmittag 33ºC sonnig
+
+
+
+                                        Radfahrer (Heiztrasse)                                           Sph-Beginn:         7:00 Uhr und    16:00 Uhr
+                                                                                                     SUMME Zufahrten: [FSp] :  6214 KFZ/h                      7:30          ###
+                                                                        26                                                     6068 KFZ/h
+                                                                                                                                 (NSp):                        16:30
+                                                                 132
+                                                                        23                                               6h : 32967 KFZ
+                             10                                                                      max. Sph /Zufahrt: OST : 3493 KFZ/h                       7:30
+                                  104
+                             28                                                                                        WEST : 3316 KFZ/h                       16:30
+                                                                                                      DATUM :
+                                                                                            6h Werte 08.09.2016
+                                                          von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 507QW                Nuthestr./Neuend. Str. - Q WEST -
+
+
+ StromPlan507QWest9-16.xls                                                Seite 1
+

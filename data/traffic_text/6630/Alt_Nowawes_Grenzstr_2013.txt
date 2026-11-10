@@ -1,0 +1,151 @@
+           SVP, 461                                                                                                                                               07.10.2015
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                              NORD OST SÜD WEST SUMME %
+                                            NORD                                                           RAD        FSp          1          7       12          1            21    8,4
+                                                                                                                      NSp         12          8       28          1            49   16,1
+                                           Alt Nowawes                                                                6h          19         41      101          7           168   11,6
+                                             421         984                                               NFZ        FSp          8          5      20           1           34    14,8
+                                                                                                                      NSp          7          1      13           0           21     8,2
+                                                                                                                      6h          49        19        94          6          168    13,1
+                                     12      308   101   563                                               SV         FSp          2          1        5          0             8    3,5
+                                                                                                                      NSp          1          0        0          0             1    0,4
+                                                                                                                      6h           9          4       17          0            30    2,3
+                                                                                                           KFZ        FSp        77         53       97           2          229     100
+                                                                                                                      NSp       104         25      118           8          255     100
+                                                                                                                      6h        421        239      588          32         1280     100
+                                                                                                           FZ         FSp         78        60      109           3          250     100
+
+
+
+
+       Grenzstr.                                                                               Grenzstr.
+                   99       67                                               125                                      NSp       116         33      146           9          304     100
+                            5                                                 11   239   OST                          6h         440       280       689         39         1448     100
+
+WEST
+                   32       4                                                103                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                            23                                               216   455                     Bemerkungen :
+                                                                                                           - Wetter früh 9ºC bewölkt, trocken; nachmittag 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                Sph-Beginn:                7.30 Uhr und      16.30    Uhr
+                                     434     44    433   111                                               SUMME Zufahrten: [FSp] :                 229 KFZ/h         8:00
+                                                                                                                                       (NSp):       255 KFZ/h         17:00
+                                    1.022                                                                                       6h :               1280 KFZ
+                                                   588                                                     max. Sph /Zufahrt: NORD :                104 KFZ/h         16:30
+                                                   SÜD                                                                         OST :                 56 KFZ/h         8:30
+                                           Alt Nowawes                                                       DATUM :                  SÜD :          118 KFZ/h 17:00
+                                                                                         6h Werte 23.05.2013                         WEST :            9 KFZ/h 17:30
+                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 663                           Alt Nowawes/Grenzstr.
+
+
+
+           StromPlan663kp5-13.xls                                  Seite 1
+           SVP, 461                                                                                                                                                07.10.2015
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                               NORD OST SÜD WEST SUMME %
+                                                 NORD                                                       RAD        FSp          1          7       12          1            21    8,4
+                                                                                                                       NSp         12          8       28          1            49   16,1
+                                                Alt Nowawes                                                            6h          19         41      101          7           168   11,6
+                                                  77          176                                           NFZ        FSp          8          5      20           1           34    14,8
+                                                                                                                       NSp          7          1      13           0           21     8,2
+                                                                                                                       6h          49        19        94          6          168    13,1
+                                          1       53    23    99                                            SV         FSp          2          1        5          0             8    3,5
+                                                                                                                       NSp          1          0        0          0             1    0,4
+                                                                                                                       6h           9          4       17          0            30    2,3
+                                                                                                            KFZ        FSp        77         53       97           2          229     100
+                                                                                                                       NSp       104         25      118           8          255     100
+                                                                                                                       6h        421        239      588          32         1280     100
+                                                                                                            FZ         FSp         78        60      109           3          250     100
+
+
+
+
+       Grenzstr.                                                                                Grenzstr.
+                   14        12                                                 25                                     NSp       116         33      146           9          304     100
+                             0                                                   1   53   OST                          6h         440       280       689         39         1448     100
+
+WEST
+                      2      0                                                  27                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                             2                                                  36   89                     Bemerkungen :
+                                                                                                            - Wetter früh 9ºC bewölkt, trocken; nachmittag 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                 Sph-Beginn:                7.30 Uhr und      16.30    Uhr
+                                          82      10    74    13                                            SUMME Zufahrten: [FSp] :                 229 KFZ/h         8:00
+                                                                                                                                        (NSp):       255 KFZ/h         17:00
+                                          179                                                                                    6h :               1280 KFZ
+                                                         97                                                 max. Sph /Zufahrt: NORD :                104 KFZ/h         16:30
+                                                        SÜD                                                                     OST :                 56 KFZ/h         8:30
+                                                Alt Nowawes                                                   DATUM :                  SÜD :          118 KFZ/h 17:00
+                                                                                          229 KFZ/h 23.05.2013                        WEST :            9 KFZ/h 17:30
+                                                                    Kfz-Stromverteilung in der FSp 663                            Alt Nowawes/Grenzstr.
+
+
+
+           StromPlan (FSp)663kp5-13.xls                               Seite 2
+           SVP, 461                                                                                                                                                07.10.2015
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                               NORD OST SÜD WEST SUMME %
+                                                 NORD                                                       RAD        FSp          1          7       12          1            21    8,4
+                                                                                                                       NSp         12          8       28          1            49   16,1
+                                                Alt Nowawes                                                            6h          19         41      101          7           168   11,6
+                                                  104         209                                           NFZ        FSp          8          5      20           1           34    14,8
+                                                                                                                       NSp          7          1      13           0           21     8,2
+                                                                                                                       6h          49        19        94          6          168    13,1
+                                          2       71    31    105                                           SV         FSp          2          1        5          0             8    3,5
+                                                                                                                       NSp          1          0        0          0             1    0,4
+                                                                                                                       6h           9          4       17          0            30    2,3
+                                                                                                            KFZ        FSp        77         53       97           2          229     100
+                                                                                                                       NSp       104         25      118           8          255     100
+                                                                                                                       6h        421        239      588          32         1280     100
+                                                                                                            FZ         FSp         78        60      109           3          250     100
+
+
+
+
+       Grenzstr.                                                                                Grenzstr.
+                   15        7                                                  17                                     NSp       116         33      146           9          304     100
+                             2                                                   2   25   OST                          6h         440       280       689         39         1448     100
+
+WEST
+                      8      1                                                   6                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                             5                                                  61   86                     Bemerkungen :
+                                                                                                            - Wetter früh 9ºC bewölkt, trocken; nachmittag 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                 Sph-Beginn:                7.30 Uhr und      16.30    Uhr
+                                          82      3     86    29                                            SUMME Zufahrten: [FSp] :                 229 KFZ/h         8:00
+                                                                                                                                        (NSp):       255 KFZ/h         17:00
+                                          200                                                                                    6h :               1280 KFZ
+                                                        118                                                 max. Sph /Zufahrt: NORD :                104 KFZ/h         16:30
+                                                        SÜD                                                                     OST :                 56 KFZ/h         8:30
+                                                Alt Nowawes                                                   DATUM :                  SÜD :          118 KFZ/h 17:00
+                                                                                          255 KFZ/h 23.05.2013                        WEST :            9 KFZ/h 17:30
+                                                                    Kfz-Stromverteilung in der NSp 663                            Alt Nowawes/Grenzstr.
+
+
+
+           StromPlan (NSp)663kp5-13.xls                               Seite 3
+

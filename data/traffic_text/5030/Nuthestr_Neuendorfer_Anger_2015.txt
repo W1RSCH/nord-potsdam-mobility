@@ -1,0 +1,151 @@
+SVP, 461                                                                                                                                                                        11.04.2016
+
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                     NORD                                                                   Zufahrt: NORD OST          SUMME %
+                         Nuthestraße                                                                   RAD         FSp           0           0                            0     0,0
+
+                                                                                                                   NSp    0                1                            1  0,2
+                                  1.720                                                                            6h     1                3                            4 0,2
+                                              1.751                                                    NFZ         FSp   61               12                           73 21,6
+                                                                                                                   NSp   61               15                           76 17,8
+                          1.681       39       31                                                                  6h   331               86                          417 19,0
+                                                                                                       SV          FSp   14                2                           16  4,7
+                                                                                                                   NSp   17                2                           19  4,5
+                                                                                                                   6h    96               12                          108 4,9
+                                                                                                       KFZ         FSp 260                78                          338 100
+                                                                                                                   NSp 354                72                          426 100
+
+
+
+
+                                                                                       Neuend. Anger
+                                                                                                                   6h  1720              469                         2189 100
+                                                                 31                                    FZ          FSp        260         78                           338     100
+                                                                        469
+                                                                 438             OST                               NSp        354         73                           427     100
+                                                                                                                   6h        1721        472                          2193     100
+                                                                 39     508                            Q DTVw: 2,4          4115       1194
+                                                                                                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                       Bemerkungen :
+                                                                                                       - Wetter früh 9ºC bewölkt, trocken; nachmittags 19ºC bewölkt, trocken
+
+
+                                      2.119
+                                                                                                            Sph-Beginn:     7:00     Uhr und     15:00 Uhr
+                                                                                                       SUMME Zufahrten: [FSp]: 338 KFZ/h 7:30
+                                                                                                                       (NSp): 426 KFZ/h 15:30
+                                      SÜD                                                                                 6h : 2189 KFZ
+                         Nuthestraße                                                      max. Sph /Zufahrt: NORD                                 354 KFZ/h 15:30
+                                                                                                              OST                                  87 KFZ/h 17:00
+                                                                                           DATUM :
+                                                                                 6h Werte 10.09.2015
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 503                       Nuthestraße/Neuendorfer Anger
+
+
+StromPlan503kp9-15.xls                                                 Seite 1
+SVP, 461                                                                                                                                                                       11.04.2016
+
+
+
+
+                                                                                                                    FAHRZEUG-VERTEILUNG
+                                        NORD                                                               Zufahrt: NORD OST          SUMME %
+                               Nuthestraße                                                            RAD         FSp           0           0                            0     0,0
+
+                                                                                                                  NSp    0                1                            1  0,2
+                                      260                                                                         6h     1                3                            4 0,2
+                                                  267                                                 NFZ         FSp   61               12                           73 21,6
+                                                                                                                  NSp   61               15                           76 17,8
+                                250         10    7                                                               6h   331               86                          417 19,0
+                                                                                                      SV          FSp   14                2                           16  4,7
+                                                                                                                  NSp   17                2                           19  4,5
+                                                                                                                  6h    96               12                          108 4,9
+                                                                                                      KFZ         FSp 260                78                          338 100
+                                                                                                                  NSp 354                72                          426 100
+
+
+
+
+                                                                                      Neuend. Anger
+                                                                                                                  6h  1720              469                         2189 100
+                                                                7                                     FZ          FSp        260         78                           338     100
+                                                                       78
+                                                                71              OST                               NSp        354         73                           427     100
+                                                                                                                  6h        1721        472                          2193     100
+                                                                10     88                             Q DTVw: 2,4          4115       1194
+                                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                      Bemerkungen :
+                                                                                                      - Wetter früh 9ºC bewölkt, trocken; nachmittags 19ºC bewölkt, trocken
+
+
+                                            321
+                                                                                                           Sph-Beginn:     7:00     Uhr und     15:00 Uhr
+                                                                                                      SUMME Zufahrten: [FSp]: 338 KFZ/h 7:30
+                                                                                                                      (NSp): 426 KFZ/h 15:30
+                                        SÜD                                                                              6h : 2189 KFZ
+                               Nuthestraße                                               max. Sph /Zufahrt: NORD                                 354 KFZ/h 15:30
+                                                                                                             OST                                  87 KFZ/h 17:00
+                                                                                           DATUM :
+                                                                                338 KFZ/h 10.09.2015
+                                                        Kfz-Stromverteilung in der FSp 503                         Nuthestraße/Neuendorfer Anger
+
+
+StromPlan (FSp)503kp9-15.xls                                          Seite 2
+SVP, 461                                                                                                                                                                       11.04.2016
+
+
+
+
+                                                                                                                    FAHRZEUG-VERTEILUNG
+                                        NORD                                                               Zufahrt: NORD OST          SUMME %
+                               Nuthestraße                                                            RAD         FSp           0           0                            0     0,0
+
+                                                                                                                  NSp    0                1                            1  0,2
+                                      354                                                                         6h     1                3                            4 0,2
+                                                  357                                                 NFZ         FSp   61               12                           73 21,6
+                                                                                                                  NSp   61               15                           76 17,8
+                                353         1     3                                                               6h   331               86                          417 19,0
+                                                                                                      SV          FSp   14                2                           16  4,7
+                                                                                                                  NSp   17                2                           19  4,5
+                                                                                                                  6h    96               12                          108 4,9
+                                                                                                      KFZ         FSp 260                78                          338 100
+                                                                                                                  NSp 354                72                          426 100
+
+
+
+
+                                                                                      Neuend. Anger
+                                                                                                                  6h  1720              469                         2189 100
+                                                                3                                     FZ          FSp        260         78                           338     100
+                                                                       72
+                                                                69              OST                               NSp        354         73                           427     100
+                                                                                                                  6h        1721        472                          2193     100
+                                                                 1     73                             Q DTVw: 2,4          4115       1194
+                                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                      Bemerkungen :
+                                                                                                      - Wetter früh 9ºC bewölkt, trocken; nachmittags 19ºC bewölkt, trocken
+
+
+                                            422
+                                                                                                           Sph-Beginn:     7:00     Uhr und     15:00 Uhr
+                                                                                                      SUMME Zufahrten: [FSp]: 338 KFZ/h 7:30
+                                                                                                                      (NSp): 426 KFZ/h 15:30
+                                        SÜD                                                                              6h : 2189 KFZ
+                               Nuthestraße                                               max. Sph /Zufahrt: NORD                                 354 KFZ/h 15:30
+                                                                                                             OST                                  87 KFZ/h 17:00
+                                                                                           DATUM :
+                                                                                426 KFZ/h 10.09.2015
+                                                        Kfz-Stromverteilung in der NSp 503                         Nuthestraße/Neuendorfer Anger
+
+
+StromPlan (NSp)503kp9-15.xls                                          Seite 3
+

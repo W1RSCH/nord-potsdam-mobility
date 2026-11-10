@@ -1,0 +1,154 @@
+       Landeshauptstadt Potsdam                                                                                                                                          27.09.2023
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                            NORD                                                                  RAD    FSp    17                    22     13        17           69      10,3
+                                                                                                                         NSp    27                    51     30        25         133       16,7
+                                        David-Gilly-Str.                                                                 6h    191                   237    136       175          739      16,9
+                                             378                                                                  NFZ    FSp     7                   60       3       40          110       18,3
+                                                         483                                                             NSp    21                   68       1       20          110       16,6
+                                                                                                                         6h     66                  330      17      173          586       16,2
+                                      233    84    61    105                                                      SV     FSp     2                   22       0       19           43        7,2
+                                                                                                                         NSp     3                   12       0       13           28        4,2
+                                                                                                                         6h     10                    90      1        83         184        5,1
+                                                                                                                  KFZ FSp       65                  266      26      244          601        100
+                                                                                                                         NSp    80                  345      31      207          663        100
+                                                                                                                         6h    378                 1694     194     1356         3622        100
+
+
+
+
+        Pappelallee                                                                                 Pappelallee
+                                                                                                                  FZ     FSp    82                  288      39      261          670        100
+                      3.235   1.879                                            48                                        NSp   107                  396      61      232          796        100
+                                                                              1.646   1.694   OST                        6h    569                 1931     330     1531         4361        100
+
+WEST                  1.356   1.356                                                                               Q DTVw: 2,4 1135                 7633     653     7602
+                                                                              1.554   3.248                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - Wetter früh 15ºC sonnig, trocken; nachmittags 25ºC sonnig, trocken
+                                                                                                                  - keine Corona-Einschränkungen
+                                                                                                                  - Ukraine-Krieg
+                                                                                                                  - hohe Kraftstoffkosten (Benzin 1,939€; Diesel 1,819€)
+                                      84           57    137                                                      - Die Richtungen OL, SL, WR und WL sind nicht zugelassen
+                                                                                                                      Sph-Beginn:      9.00     Uhr und    15.30 Uhr
+                                      278                                                                         SUMME Zufahrten: [FSp] :                  601 KFZ/h 9:30
+                                                   194                                                                                         (NSp):       663 KFZ/h 16:00
+                                                   SÜD                                                                                              6h :   3622 KFZ
+                                            Reiherweg                                                             max. Sph /Zufahrt: NORD :                  81 KFZ/h 15:30
+                                                                                                                                                 OST :      345 KFZ/h 15:30
+
+                                                                                                                    DATUM :                      SÜD :       45 KFZ/h 17:00
+                                                                                              6h Werte 07.09.2023                              WEST :       280 KFZ/h 8:00
+                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2020                                   Pappelallee/Reiherweg
+
+       StromPlan2020kp9-23                                          Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                 27.09.2023
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                          NORD                                                           RAD    FSp    17                    22     13        17           69      10,3
+                                                                                                                NSp    27                    51     30        25         133       16,7
+                                      David-Gilly-Str.                                                          6h    191                   237    136       175          739      16,9
+                                           65                                                            NFZ    FSp     7                   60       3       40          110       18,3
+                                                       87                                                       NSp    21                   68       1       20          110       16,6
+                                                                                                                6h     66                  330      17      173          586       16,2
+                                     45    10    10    22                                                SV     FSp     2                   22       0       19           43        7,2
+                                                                                                                NSp     3                   12       0       13           28        4,2
+                                                                                                                6h     10                    90      1        83         184        5,1
+                                                                                                         KFZ FSp       65                  266      26      244          601        100
+                                                                                                                NSp    80                  345      31      207          663        100
+                                                                                                                6h    378                 1694     194     1356         3622        100
+
+
+
+
+        Pappelallee                                                                        Pappelallee
+                                                                                                         FZ     FSp    82                  288      39      261          670        100
+                      544   300                                         11                                      NSp   107                  396      61      232          796        100
+                                                                        255   266    OST                        6h    569                 1931     330     1531         4361        100
+
+WEST                  244   244                                                                          Q DTVw: 2,4 1135                 7633     653     7602
+                                                                        269   535                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                         Bemerkungen :
+                                                                                                         - Wetter früh 15ºC sonnig, trocken; nachmittags 25ºC sonnig, trocken
+                                                                                                         - keine Corona-Einschränkungen
+                                                                                                         - Ukraine-Krieg
+                                                                                                         - hohe Kraftstoffkosten (Benzin 1,939€; Diesel 1,819€)
+                                     10          11    15                                                - Die Richtungen OL, SL, WR und WL sind nicht zugelassen
+                                                                                                             Sph-Beginn:      9.00     Uhr und    15.30 Uhr
+                                     36                                                                  SUMME Zufahrten: [FSp] :                  601 KFZ/h 9:30
+                                                  26                                                                                  (NSp):       663 KFZ/h 16:00
+                                                 SÜD                                                                                       6h :   3622 KFZ
+                                          Reiherweg                                                      max. Sph /Zufahrt: NORD :                  81 KFZ/h 15:30
+                                                                                                                                        OST :      345 KFZ/h 15:30
+
+                                                                                                           DATUM :                      SÜD :       45 KFZ/h 17:00
+                                                                                    601 KFZ/h 07.09.2023                              WEST :       280 KFZ/h 8:00
+                                                            Kfz-Stromverteilung in der FSp 2020                                  Pappelallee/Reiherweg
+
+       StromPlan (FSp)2020kp9-23                              Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                 27.09.2023
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                          NORD                                                           RAD    FSp    17                    22     13        17           69      10,3
+                                                                                                                NSp    27                    51     30        25         133       16,7
+                                      David-Gilly-Str.                                                          6h    191                   237    136       175          739      16,9
+                                           80                                                            NFZ    FSp     7                   60       3       40          110       18,3
+                                                       94                                                       NSp    21                   68       1       20          110       16,6
+                                                                                                                6h     66                  330      17      173          586       16,2
+                                     46    22    12    14                                                SV     FSp     2                   22       0       19           43        7,2
+                                                                                                                NSp     3                   12       0       13           28        4,2
+                                                                                                                6h     10                    90      1        83         184        5,1
+                                                                                                         KFZ FSp       65                  266      26      244          601        100
+                                                                                                                NSp    80                  345      31      207          663        100
+                                                                                                                6h    378                 1694     194     1356         3622        100
+
+
+
+
+        Pappelallee                                                                        Pappelallee
+                                                                                                         FZ     FSp    82                  288      39      261          670        100
+                      588   381                                         10                                      NSp   107                  396      61      232          796        100
+                                                                        335   345    OST                        6h    569                 1931     330     1531         4361        100
+
+WEST                  207   207                                                                          Q DTVw: 2,4 1135                 7633     653     7602
+                                                                        246   591                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                         Bemerkungen :
+                                                                                                         - Wetter früh 15ºC sonnig, trocken; nachmittags 25ºC sonnig, trocken
+                                                                                                         - keine Corona-Einschränkungen
+                                                                                                         - Ukraine-Krieg
+                                                                                                         - hohe Kraftstoffkosten (Benzin 1,939€; Diesel 1,819€)
+                                     22          4     27                                                - Die Richtungen OL, SL, WR und WL sind nicht zugelassen
+                                                                                                             Sph-Beginn:      9.00     Uhr und    15.30 Uhr
+                                     53                                                                  SUMME Zufahrten: [FSp] :                  601 KFZ/h 9:30
+                                                  31                                                                                  (NSp):       663 KFZ/h 16:00
+                                                 SÜD                                                                                       6h :   3622 KFZ
+                                          Reiherweg                                                      max. Sph /Zufahrt: NORD :                  81 KFZ/h 15:30
+                                                                                                                                        OST :      345 KFZ/h 15:30
+
+                                                                                                           DATUM :                      SÜD :       45 KFZ/h 17:00
+                                                                                    663 KFZ/h 07.09.2023                              WEST :       280 KFZ/h 8:00
+                                                            Kfz-Stromverteilung in der NSp 2020                                  Pappelallee/Reiherweg
+
+       StromPlan (NSp)2020kp9-23                              Seite 3
+

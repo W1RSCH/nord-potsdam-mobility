@@ -1,0 +1,175 @@
+       SVP, 461                                                                                                                                                                          03.08.2017
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                                 RAD    FSp      8                 181       40       6          235 24,8
+                                                                                                                                          NSp    22                    40      13     187          262 29,7
+                                            Alter Tornow                                                                                  6h      58                  399     131     274           862 21,2
+                                                    735                                                                            NFZ    FSp    16                   33      15        0           64   9,0
+                                                                    1.060                                                                 NSp    14                   32        8       1           55   8,9
+                                                                                                                                          6h     73                  173       66       1          313 9,8
+                                      0        52         683           325                                                        SV     FSp    14                   16        7       0           37   5,2
+                                                                                                                                          NSp      9                  12        2       0           23   3,7
+                                                                                                                                          6h     45                    68      27       0          140 4,4
+                                                                                                                                   KFZ FSp 109                       325     278        0          712 100
+
+
+
+
+       Herrmannswerder
+                                                                                                                                          NSp 232                    249     134        5          620 100
+
+
+
+
+                                                                                                                  Templiner Str.
+                                                                                                                                          6h    735                 1393    1056       16         3200 100
+                                                                                                                                   FZ     FSp   117                  506     318        6          947 100
+                         494   478                                                           260                                          NSp   254                  289     147      192          882 100
+                                0                                                            478    1.393   OST                           6h    793                 1792    1187      290         4062 100
+
+WEST
+                         16    16                                                            655                                   Q DTVw: 2,2 2332                 6783    3879     1087
+                                0                                                           1.690   3.083                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                   Bemerkungen :
+                                                                                                                                   - die Zufahrten NR, SL, WR, WL wurden nicht gezählt
+                                                                                                                                   - Wetter früh 14ºC sonnig; nachmittag 21ºC leicht bewölkt, sonnig
+
+
+                                                                                                                                       Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                      707      0          65            991                                                        SUMME Zufahrten: [FSp] :                  712 KFZ/h 8:00
+                                                                                                                                                                (NSp):       620 KFZ/h 15:30
+                                     1.763                                                                                                              6h :                3200 KFZ
+                                                                1.056
+                                                                                                                                   max. Sph /Zufahrt: NORD :                 232 KFZ/h 15:30
+                                                          SÜD                                                                                          OST :                 325 KFZ/h 8:00
+                                            Templiner Str.                                                                           DATUM :                      SÜD :      308 KFZ/h 7:30
+                                                                                                            6h Werte 06.09.2012                                 WEST :          5 KFZ/h 15:30
+                                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 473                               Templiner Str. / Alter Tornow
+
+
+
+       StromPlan473kp9-12.xls                                                     Seite 1
+       SVP, 461                                                                                                                                                               03.08.2017
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                       RAD    FSp      8                 181       40       6          235 24,8
+                                                                                                                               NSp    22                    40      13     187          262 29,7
+                                           Alter Tornow                                                                        6h      58                  399     131     274           862 21,2
+                                                  109                                                                   NFZ    FSp    16                   33      15        0           64   9,0
+                                                                    242                                                        NSp    14                   32        8       1           55   8,9
+                                                                                                                               6h     73                  173       66       1          313 9,8
+                                      0       7         102         133                                                 SV     FSp    14                   16        7       0           37   5,2
+                                                                                                                               NSp      9                  12        2       0           23   3,7
+                                                                                                                               6h     45                    68      27       0          140 4,4
+                                                                                                                        KFZ FSp 109                       325     278        0          712 100
+
+
+
+
+       Herrmannswerder
+                                                                                                                               NSp 232                    249     134        5          620 100
+
+
+
+
+                                                                                                       Templiner Str.
+                                                                                                                               6h    735                 1393    1056       16         3200 100
+                                                                                                                        FZ     FSp   117                  506     318        6          947 100
+                         192   192                                                   95                                        NSp   254                  289     147      192          882 100
+                                0                                                    192   325   OST                           6h    793                 1792    1187      290         4062 100
+
+WEST
+                         0      0                                                     38                                Q DTVw: 2,2 2332                 6783    3879     1087
+                                0                                                    342   667                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                        Bemerkungen :
+                                                                                                                        - die Zufahrten NR, SL, WR, WL wurden nicht gezählt
+                                                                                                                        - Wetter früh 14ºC sonnig; nachmittag 21ºC leicht bewölkt, sonnig
+
+
+                                                                                                                            Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                      45      0         38          240                                                 SUMME Zufahrten: [FSp] :                  712 KFZ/h 8:00
+                                                                                                                                                     (NSp):       620 KFZ/h 15:30
+                                      45                                                                                                     6h :                3200 KFZ
+                                                              278
+                                                                                                                        max. Sph /Zufahrt: NORD :                 232 KFZ/h 15:30
+                                                        SÜD                                                                                 OST :                 325 KFZ/h 8:00
+                                           Templiner Str.                                                                 DATUM :                      SÜD :      308 KFZ/h 7:30
+                                                                                                 325 KFZ/h 06.09.2012                                WEST :          5 KFZ/h 15:30
+                                                                          Kfz-Stromverteilung in der FSp 473                             Templiner Str. / Alter Tornow
+
+
+
+       StromPlan (FSp)473kp9-12.xls                                        Seite 2
+       SVP, 461                                                                                                                                                                  03.08.2017
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                         RAD    FSp      8                 181       40       6          235 24,8
+                                                                                                                                  NSp    22                    40      13     187          262 29,7
+                                            Alter Tornow                                                                          6h      58                  399     131     274           862 21,2
+                                                    232                                                                    NFZ    FSp    16                   33      15        0           64   9,0
+                                                                      264                                                         NSp    14                   32        8       1           55   8,9
+                                                                                                                                  6h     73                  173       66       1          313 9,8
+                                      0        20         212         32                                                   SV     FSp    14                   16        7       0           37   5,2
+                                                                                                                                  NSp      9                  12        2       0           23   3,7
+                                                                                                                                  6h     45                    68      27       0          140 4,4
+                                                                                                                           KFZ FSp 109                       325     278        0          712 100
+
+
+
+
+       Herrmannswerder
+                                                                                                                                  NSp 232                    249     134        5          620 100
+
+
+
+
+                                                                                                          Templiner Str.
+                                                                                                                                  6h    735                 1393    1056       16         3200 100
+                                                                                                                           FZ     FSp   117                  506     318        6          947 100
+                         49   44                                                        28                                        NSp   254                  289     147      192          882 100
+                              0                                                         44    249   OST                           6h    793                 1792    1187      290         4062 100
+
+WEST
+                         5    5                                                         177                                Q DTVw: 2,2 2332                 6783    3879     1087
+                              0                                                         347   596                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                           Bemerkungen :
+                                                                                                                           - die Zufahrten NR, SL, WR, WL wurden nicht gezählt
+                                                                                                                           - Wetter früh 14ºC sonnig; nachmittag 21ºC leicht bewölkt, sonnig
+
+
+                                                                                                                               Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                      197      0          4           130                                                  SUMME Zufahrten: [FSp] :                  712 KFZ/h 8:00
+                                                                                                                                                        (NSp):       620 KFZ/h 15:30
+                                      197                                                                                                       6h :                3200 KFZ
+                                                                134
+                                                                                                                           max. Sph /Zufahrt: NORD :                 232 KFZ/h 15:30
+                                                          SÜD                                                                                  OST :                 325 KFZ/h 8:00
+                                            Templiner Str.                                                                   DATUM :                      SÜD :      308 KFZ/h 7:30
+                                                                                                    254 KFZ/h 06.09.2012                                WEST :          5 KFZ/h 15:30
+                                                                            Kfz-Stromverteilung in der NSp 473                              Templiner Str. / Alter Tornow
+
+
+
+       StromPlan (NSp)473kp9-12.xls                                           Seite 3
+

@@ -1,0 +1,149 @@
+                                                                                                                                                              15.03.2012
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                               NORD OST SÜD WEST SUMME %
+                                               NORD                                                         RAD        FSp         0       32      10         16         58    5,1
+                                                                                                                       NSp         4       16        5        19         44    3,7
+                                                Steinstr.                                                              6h         17      119       36         99       271    4,6
+                                                1.118         2.187                                         NFZ        FSp       22       65         7        62       156    14,4
+                                                                                                                       NSp       15       34         6        45       100     8,7
+                                                                                                                       6h       131      227       26        275        659   11,7
+                                        420      19     679    1.069                                        SV         FSp         4      22         3        21         50    4,6
+                                                                                                                       NSp         8        8        0        12         28    2,4
+                                                                                                                       6h        49        63        9        98        219    3,9
+                                                                                                            KFZ        FSp      154      430       61        439      1084    100
+                                                                                                                       NSp      271      410       82        381      1144    100
+
+
+
+
+       Großbeerenstr.                                                                      Großbeerenstr.
+                                                                                                                       6h      1118     2142      376       2006      5642    100
+                                                                                                            FZ         FSp      154      462       71        455      1142    100
+                        3.875   1.869                                    640                                           NSp      275      426       87        400      1188    100
+                                 381                                   1.337 2.142   OST
+                                                                                                                       6h      1135     2261      412       2105       5913   100
+
+WEST
+                        2.006   1.518                                    165                                Bemerkungen :
+                                 107                                   2.413 4.555                          Wetter: früh 10ºC trocken; nachmittag 23ºC sonnig, trocken
+
+
+
+
+                                                                                                                 Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                                        291      112    48     216                                          SUMME Zufahrten: [FSp] :  1084 KFZ/h                    7:30
+                                                                                                                                      1144 KFZ/h
+                                                                                                                                       (NSp):                       16:30
+                                        667                                                                                      6h : 5642 KFZ
+                                                        376                                                 max. Sph /Zufahrt: NORD :  271 KFZ/h                    16:30
+                                                        SÜD                                                                     OST :  440 KFZ/h                    8:00
+                                              Jagdhausstr.                                                    DATUM :                SÜD :         82 KFZ/h 16:30
+                                                                                                            29.09.2011              WEST :        439 KFZ/h 7:30
+                                                                                                             702           Großbeerenstr./Jagdhausstr.
+
+
+
+           SVP, 461                                                                                                                             StromPlan702kp9-11.xls
+                                                                                                                                                                 15.03.2012
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                              NORD     OST SÜD WEST SUMME %
+                                           NORD                                                                RAD        FSp      0         32       10         16         58    5,1
+                                                                                                                          NSp      4         16         5        19         44    3,7
+                                            Steinstr.                                                                     6h      17        119        36         99       271    4,6
+                                            154          485                                                   NFZ        FSp    22         65          7        62       156    14,4
+                                                                                                                          NSp    15         34          6        45       100     8,7
+                                                                                                                          6h    131        227        26        275        659   11,7
+                                    50      1     103    331                                                   SV         FSp      4        22          3        21         50    4,6
+                                                                                                                          NSp      8          8         0        12         28    2,4
+                                                                                                                          6h     49          63         9        98        219    3,9
+                                                                                                               KFZ        FSp 154          430        61        439      1084    100
+                                                                                                                          NSp 271          410        82        381      1144    100
+
+
+
+
+       Großbeerenstr.                                                                         Großbeerenstr.
+                                                                                                                          6h   1118       2142       376       2006      5642    100
+                                                                                                               FZ         FSp   154        462        71        455      1142    100
+                        717   278                                           178                                           NSp   275        426        87        400      1188    100
+                              147                                           217   430   OST                               6h   1135       2261       412       2105       5913   100
+
+WEST
+                        439   276                                            35                                Bemerkungen :
+                               16                                           423   853                          Wetter: früh 10ºC trocken; nachmittag 23ºC sonnig, trocken
+
+
+
+
+                                                                                                                    Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                                    52      11    6      44                                                    SUMME Zufahrten: [FSp] :  1084 KFZ/h                    7:30
+                                                                                                                                         1144 KFZ/h
+                                                                                                                                        (NSp):                         16:30
+                                    113                                                                                             6h : 5642 KFZ
+                                                   61                                                          max. Sph /Zufahrt: NORD :  271 KFZ/h                    16:30
+                                                  SÜD                                                                              OST :  440 KFZ/h                    8:00
+                                          Jagdhausstr.                                                           DATUM :                SÜD :         82 KFZ/h 16:30
+                                                                                  1.084 KFZ/h                  29.09.2011              WEST :        439 KFZ/h 7:30
+                                                               Kfz-Stromverteilung in der FSp                   702           Großbeerenstr./Jagdhausstr.
+
+
+
+           SVP, 461                                                                                                                          StromPlan (FSp)702kp9-11.xls
+                                                                                                                                                                 15.03.2012
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                              NORD     OST SÜD WEST SUMME %
+                                           NORD                                                                RAD        FSp      0         32       10         16         58    5,1
+                                                                                                                          NSp      4         16         5        19         44    3,7
+                                            Steinstr.                                                                     6h      17        119        36         99       271    4,6
+                                            271          422                                                   NFZ        FSp    22         65          7        62       156    14,4
+                                                                                                                          NSp    15         34          6        45       100     8,7
+                                                                                                                          6h    131        227        26        275        659   11,7
+                                    107     1     163    151                                                   SV         FSp      4        22          3        21         50    4,6
+                                                                                                                          NSp      8          8         0        12         28    2,4
+                                                                                                                          6h     49          63         9        98        219    3,9
+                                                                                                               KFZ        FSp 154          430        61        439      1084    100
+                                                                                                                          NSp 271          410        82        381      1144    100
+
+
+
+
+       Großbeerenstr.                                                                         Großbeerenstr.
+                                                                                                                          6h   1118       2142       376       2006      5642    100
+                                                                                                               FZ         FSp   154        462        71        455      1142    100
+                        787   406                                           107                                           NSp   275        426        87        400      1188    100
+                               38                                           276   410   OST                               6h   1135       2261       412       2105       5913   100
+
+WEST
+                        381   318                                            27                                Bemerkungen :
+                               25                                           534   944                          Wetter: früh 10ºC trocken; nachmittag 23ºC sonnig, trocken
+
+
+
+
+                                                                                                                    Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                                    53      23    6      53                                                    SUMME Zufahrten: [FSp] :  1084 KFZ/h                    7:30
+                                                                                                                                         1144 KFZ/h
+                                                                                                                                        (NSp):                         16:30
+                                    135                                                                                             6h : 5642 KFZ
+                                                   82                                                          max. Sph /Zufahrt: NORD :  271 KFZ/h                    16:30
+                                                  SÜD                                                                              OST :  440 KFZ/h                    8:00
+                                          Jagdhausstr.                                                           DATUM :                SÜD :         82 KFZ/h 16:30
+                                                                                  1.144 KFZ/h                  29.09.2011              WEST :        439 KFZ/h 7:30
+                                                               Kfz-Stromverteilung in der NSp                   702           Großbeerenstr./Jagdhausstr.
+
+
+
+           SVP, 461                                                                                                                          StromPlan (NSp)702kp9-11.xls
+

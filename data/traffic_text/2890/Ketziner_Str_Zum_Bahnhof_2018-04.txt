@@ -1,0 +1,133 @@
+  SVP, 461                                                                                                                                             29.05.2019
+
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                             FAHRZEUG-VERTEILUNG
+                                                                                                     Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                RAD         FSp           3            2       1                   6     2,2
+                                                                                                            NSp          10            3       4                  17     4,0
+                                                                                                            6h           24           12      12                  48     2,7
+
+Potsdamer Str.             Leester Str.                                 Ketziner Str. NFZ                   FSp         31         36        25                  92     34,3
+                                                                                                            NSp         29         22        37                  88     21,7
+                                         nördlicher                                                         6h         158        183       144                 485     27,8
+                    WEST                 Königsweg                OST                           SV          FSp         11         19        10                  40     14,9
+                                          vernach-                                                          NSp          8         12        11                  31      7,6
+                                           lässigt
+                                                                                                            6h          66        104        56                 226     13,0
+                                                                                                KFZ         FSp         77         92        99                 268      100
+
+1.201     645                                                                  367                          NSp        162       100        144                 406      100
+                                                                                        663
+                                                                               296                          6h         663        525       556                1744      100
+
+          359                                                                                   FZ          FSp          80           94    100                 274      100
+ 556
+          197                                                                  606      1.269          NSp            172        103        148                 423      100
+                                                                                                       6h             687        537        568                1792      100
+                                                                                                Q DTVw: 2,2          2792       2240       2642
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                 493     278     247                                            - Baustelle auf westl. Berliner Ring (jeweils eine Fahrspur)
+                                                                                                - nördlicher Königsweg vernachlässigt
+                                1.018                                                           - Wetter früh 10°C sonnig, trocken; nachmittag 24ºC sonnig, trocken
+                                              525                                                    Sph-Beginn:       7.00 Uhr und        16.30 Uhr
+
+                           Zum Bahnhof (Königsweg)                                              SUMME Zufahrten: [FSp]:                     268 KFZ/h     7:30
+                                                                                                                   (NSp):                   406 KFZ/h     17:00
+                                        SÜD                                                                          6h :                  1744 KFZ
+                                                                                                max. Sph /Zufahrt:   OST                    162 KFZ/h     16:30
+                                                                                                                     SÜD                    110 KFZ/h     15:30
+                                                                                                 DATUM :            WEST                    144 KFZ/h     17:00
+                                                                                     6h Werte 12.04.2018
+                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 289 Ketziner Str./Zum Bahnhof - OT Fahrland -
+  StromPlan289kp4-18.xls                                             Seite 1
+  SVP, 461                                                                                                                                              29.05.2019
+
+                                                   (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           3            2       1                   6     2,2
+                                                                                                             NSp          10            3       4                  17     4,0
+                                                                                                             6h           24           12      12                  48     2,7
+
+Potsdamer Str.                   Leester Str.                                Ketziner Str. NFZ               FSp         31         36        25                  92     34,3
+                                                                                                             NSp         29         22        37                  88     21,7
+                                              nördlicher                                                     6h         158        183       144                 485     27,8
+                    WEST                      Königsweg                OST                       SV          FSp         11         19        10                  40     14,9
+                                               vernach-                                                      NSp          8         12        11                  31      7,6
+                                                lässigt
+                                                                                                             6h          66        104        56                 226     13,0
+                                                                                                 KFZ         FSp         77         92        99                 268      100
+
+ 171         72                                                                     41                       NSp        162       100        144                 406      100
+                                                                                           77
+                                                                                    36                       6h         663        525       556                1744      100
+
+             68                                                                                  FZ          FSp          80           94    100                 274      100
+ 99
+             31                                                                     129    206          NSp            172        103        148                 423      100
+                                                                                                        6h             687        537        568                1792      100
+                                                                                                 Q DTVw: 2,2          2792       2240       2642
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                       67     31      61                                         - Baustelle auf westl. Berliner Ring (jeweils eine Fahrspur)
+                                                                                                 - nördlicher Königsweg vernachlässigt
+                                       159                                                       - Wetter früh 10°C sonnig, trocken; nachmittag 24ºC sonnig, trocken
+                                                   92                                                 Sph-Beginn:       7.00 Uhr und        16.30 Uhr
+
+                          Zum Bahnhof (Königsweg)                                                SUMME Zufahrten: [FSp]:                     268 KFZ/h     7:30
+                                                                                                                    (NSp):                   406 KFZ/h     17:00
+                                             SÜD                                                                      6h :                  1744 KFZ
+                                                                                                 max. Sph /Zufahrt:   OST                    162 KFZ/h     16:30
+                                                                                                                      SÜD                    110 KFZ/h     15:30
+                                                                                                  DATUM :            WEST                    144 KFZ/h     17:00
+                                                                                      268 KFZ/h 12.04.2018
+                                                           Kfz-Stromverteilung in der FSp 289 Ketziner Str./Zum Bahnhof - OT Fahrland -
+  StromPlan (FSp)289kp4-18.xls                                            Seite 2
+  SVP, 461                                                                                                                                              29.05.2019
+
+                                                   (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           3            2       1                   6     2,2
+                                                                                                             NSp          10            3       4                  17     4,0
+                                                                                                             6h           24           12      12                  48     2,7
+
+Potsdamer Str.                   Leester Str.                                Ketziner Str. NFZ               FSp         31         36        25                  92     34,3
+                                                                                                             NSp         29         22        37                  88     21,7
+                                              nördlicher                                                     6h         158        183       144                 485     27,8
+                    WEST                      Königsweg                OST                       SV          FSp         11         19        10                  40     14,9
+                                               vernach-                                                      NSp          8         12        11                  31      7,6
+                                                lässigt
+                                                                                                             6h          66        104        56                 226     13,0
+                                                                                                 KFZ         FSp         77         92        99                 268      100
+
+ 295      151                                                                       88                       NSp        162       100        144                 406      100
+                                                                                           162
+                                                                                    74                       6h         663        525       556                1744      100
+
+             87                                                                                  FZ          FSp          80           94    100                 274      100
+ 144
+             57                                                                     124    286          NSp            172        103        148                 423      100
+                                                                                                        6h             687        537        568                1792      100
+                                                                                                 Q DTVw: 2,2          2792       2240       2642
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                       131    63      37                                         - Baustelle auf westl. Berliner Ring (jeweils eine Fahrspur)
+                                                                                                 - nördlicher Königsweg vernachlässigt
+                                       231                                                       - Wetter früh 10°C sonnig, trocken; nachmittag 24ºC sonnig, trocken
+                                                   100                                                Sph-Beginn:       7.00 Uhr und        16.30 Uhr
+
+                          Zum Bahnhof (Königsweg)                                                SUMME Zufahrten: [FSp]:                     268 KFZ/h     7:30
+                                                                                                                    (NSp):                   406 KFZ/h     17:00
+                                             SÜD                                                                      6h :                  1744 KFZ
+                                                                                                 max. Sph /Zufahrt:   OST                    162 KFZ/h     16:30
+                                                                                                                      SÜD                    110 KFZ/h     15:30
+                                                                                                  DATUM :            WEST                    144 KFZ/h     17:00
+                                                                                      406 KFZ/h 12.04.2018
+                                                           Kfz-Stromverteilung in der NSp 289 Ketziner Str./Zum Bahnhof - OT Fahrland -
+  StromPlan (NSp)289kp4-18.xls                                            Seite 3
+

@@ -1,0 +1,160 @@
+        Landeshauptstadt Potsdam                                                                                                                                                    15.04.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: NORD                      OST    SÜD WEST           SUMME %
+                                              NORD                                                                  RAD     FSp       17                       43     40   39             139      46,2
+                                                                                                                            NSp         6                      42     12   98             158      42,1
+                                            Gagarinstraße                                                                   6h         58                     236    130  343             767      43,4
+                                               304                                                                  NFZ     FSp         6                       1     14    6              27      16,7
+                                                           641                                                              NSp         5                       0      7    2              14       6,5
+                                                                                                                            6h        26                        2     36   23              87       8,7
+                                      62       201   41     337                                                     SV      FSp         1                       0      2    0               3       1,9
+                                                                                                                            NSp         1                       0      0    0               1       0,5
+                                                                                                                            6h          2                       0      3    0               5       0,5
+                                                                                                                    KFZ FSp           41                      13      68   40            162       100
+                                                                                                                            NSp       74                      17      58   68            217       100
+
+
+
+
+       Bahnhofstraße                                                                                Bahnhofstraße
+                                                                                                                            6h       304                       78    351  266             999      100
+                                                                                                                    FZ      FSp       58                       56    108   79             301      100
+                       433   167                                                   42                                       NSp       80                       59     70  166             375      100
+                             97                                                     0   78    OST                           6h       362                      314    481  609            1766      100
+
+WEST
+                       266    5                                                    36                               Q DTVw:    2,35 1506                     404    1767 1018
+                             164                                                   94   172                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Wetter früh 11ºC sonnig; nachmittag 26ºC sonnig, trocken
+
+
+
+                                                                                                                             Sph-Beginn:      8.00        Uhr und   15.00   Uhr
+                                      401      105   198    48                                                      SUMME Zufahrten:                      [FSp] :    162 KFZ/h 8:30
+                                                                                                                                                          (NSp):     217 KFZ/h 15:30
+                                      752                                                                                                                    6h :    999 KFZ
+                                                     351                                                            max. Sph /Zufahrt:                NORD :           77 KFZ/h 16:00
+                                                     SÜD                                                                                               OST :           17 KFZ/h 15:30
+                                            Gagarinstraße                                                                DATUM :                           SÜD :       70 KFZ/h 8:00
+                                                                                              6h Werte                 22.08.2019                     WEST :           68 KFZ/h 15:30
+                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 7101                             Gagarinstraße / Bahnhofstraße
+
+
+
+        StromPlan7101kp8-19.xls                                          Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                               15.04.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD                      OST    SÜD WEST           SUMME %
+                                               NORD                                                            RAD     FSp       17                       43     40   39             139      46,2
+                                                                                                                       NSp         6                      42     12   98             158      42,1
+                                             Gagarinstraße                                                             6h         58                     236    130  343             767      43,4
+                                                41                                                             NFZ     FSp         6                       1     14    6              27      16,7
+                                                             98                                                        NSp         5                       0      7    2              14       6,5
+                                                                                                                       6h        26                        2     36   23              87       8,7
+                                        13      21    7      57                                                SV      FSp         1                       0      2    0               3       1,9
+                                                                                                                       NSp         1                       0      0    0               1       0,5
+                                                                                                                       6h          2                       0      3    0               5       0,5
+                                                                                                               KFZ FSp           41                      13      68   40            162       100
+                                                                                                                       NSp       74                      17      58   68            217       100
+
+
+
+
+       Bahnhofstraße                                                                           Bahnhofstraße
+                                                                                                                       6h       304                       78    351  266             999      100
+                                                                                                               FZ      FSp       58                       56    108   79             301      100
+                       84   44                                                  7                                      NSp       80                       59     70  166             375      100
+                            18                                                  0   13   OST                           6h       362                      314    481  609            1766      100
+
+WEST
+                       40    1                                                  6                              Q DTVw:    2,35 1506                     404    1767 1018
+                            21                                                 13   26                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Wetter früh 11ºC sonnig; nachmittag 26ºC sonnig, trocken
+
+
+
+                                                                                                                        Sph-Beginn:      8.00        Uhr und   15.00   Uhr
+                                        48      31    32     5                                                 SUMME Zufahrten:                      [FSp] :    162 KFZ/h 8:30
+                                                                                                                                                     (NSp):     217 KFZ/h 15:30
+                                        116                                                                                                             6h :    999 KFZ
+                                                       68                                                      max. Sph /Zufahrt:                NORD :           77 KFZ/h 16:00
+                                                      SÜD                                                                                         OST :           17 KFZ/h 15:30
+                                             Gagarinstraße                                                          DATUM :                           SÜD :       70 KFZ/h 8:00
+                                                                                         162 KFZ/h                22.08.2019                     WEST :           68 KFZ/h 15:30
+                                                                  Kfz-Stromverteilung in der FSp 7101                              Gagarinstraße / Bahnhofstraße
+
+
+
+        StromPlan (FSp)7101kp8-19.xls                                Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                                15.04.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD                      OST    SÜD WEST           SUMME %
+                                               NORD                                                             RAD     FSp       17                       43     40   39             139      46,2
+                                                                                                                        NSp         6                      42     12   98             158      42,1
+                                             Gagarinstraße                                                              6h         58                     236    130  343             767      43,4
+                                                74                                                              NFZ     FSp         6                       1     14    6              27      16,7
+                                                            145                                                         NSp         5                       0      7    2              14       6,5
+                                                                                                                        6h        26                        2     36   23              87       8,7
+                                        14      51    9      71                                                 SV      FSp         1                       0      2    0               3       1,9
+                                                                                                                        NSp         1                       0      0    0               1       0,5
+                                                                                                                        6h          2                       0      3    0               5       0,5
+                                                                                                                KFZ FSp           41                      13      68   40            162       100
+                                                                                                                        NSp       74                      17      58   68            217       100
+
+
+
+
+       Bahnhofstraße                                                                            Bahnhofstraße
+                                                                                                                        6h       304                       78    351  266             999      100
+                                                                                                                FZ      FSp       58                       56    108   79             301      100
+                       96   28                                                   9                                      NSp       80                       59     70  166             375      100
+                            28                                                   0   17   OST                           6h       362                      314    481  609            1766      100
+
+WEST
+                       68    3                                                   8                              Q DTVw:    2,35 1506                     404    1767 1018
+                            37                                                  22   39                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - Wetter früh 11ºC sonnig; nachmittag 26ºC sonnig, trocken
+
+
+
+                                                                                                                         Sph-Beginn:      8.00        Uhr und   15.00   Uhr
+                                        96      14    34     10                                                 SUMME Zufahrten:                      [FSp] :    162 KFZ/h 8:30
+                                                                                                                                                      (NSp):     217 KFZ/h 15:30
+                                        154                                                                                                              6h :    999 KFZ
+                                                       58                                                       max. Sph /Zufahrt:                NORD :           77 KFZ/h 16:00
+                                                      SÜD                                                                                          OST :           17 KFZ/h 15:30
+                                             Gagarinstraße                                                           DATUM :                           SÜD :       70 KFZ/h 8:00
+                                                                                          217 KFZ/h                22.08.2019                     WEST :           68 KFZ/h 15:30
+                                                                  Kfz-Stromverteilung in der NSp 7101                               Gagarinstraße / Bahnhofstraße
+
+
+
+        StromPlan (NSp)7101kp8-19.xls                                 Seite 3
+

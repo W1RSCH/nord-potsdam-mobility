@@ -1,0 +1,142 @@
+                                                                                                                                                    15.07.2015
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                       NORD OST SÜD WEST SUMME %
+                                      NORD                                                            RAD      FSp       58         2       27       41       128   17,1
+
+                            Schlegelstr. (Nord) u. Ruinenbergstr.                                              NSp       28        15       40       32       115   18,1
+
+                                                                                                               6h        256      108      206      193        763 20,7
+                                              607                                                     NFZ      FSp         6      16         4       10        36   5,8
+                                                           1.055                                               NSp         5      22         1       16        44   8,4
+                                                                                                               6h         26     113        38       92       269 9,2
+                                        348    108   151   448                                        SV       FSp         1        3        2        4        10   1,6
+                                                                                                               NSp         1      13         0        8        22   4,2
+                                                                                                               6h          4       45       20       42       111 3,8
+                                                                                                      KFZ      FSp      207      194        64     154        619 100
+                                                                                                               NSp       62      194        84     182        522 100
+                                                                                                               6h       607     1031       373      907      2918 100
+
+
+
+
+       Voltaireweg                                                                      Voltaireweg
+                                                                                                      FZ       FSp      265      196        91      195       747 100
+                             225                                    120                                        NSp        90     209       124      214       637 100
+                     907     546                                    812   992     OST                          6h        863    1139       579     1100      3681 100
+West                         136                                     60                               Bemerkungen :
+
+
+                     2216   1309                                   818    1.810
+
+
+
+
+                                                                                                         Sph-Beginn:   7:30    Uhr und   15:30    Uhr
+                                                                                                      SUMME Zufahrten: [FSp] :            619 KFZ/h       8:00
+                                        343    149   103   121                                                                 (NSp):     522 KFZ/h       16:00
+                                                                                                                           6h :          2918 KFZ
+                                       716                                                            max. Sph /Zufahrt: NORD :           227 KFZ/h       7:30
+                                                     373                                                                  OST :           194 KFZ/h       8:00
+                                              SÜD                                                      DATUM :            SÜD :            84 KFZ/h       16:00
+                               Schlegelstr. u. Brentanoweg                                            29.08.2013              WEST :       182 KFZ/h 16:00
+                                                                                                       160             Voltaireweg/Schlegelstr.
+
+
+
+
+SVP, 461                                                                                                                                 StromPlan160kp8-13.xls
+                                                                                                                                                      15.07.2015
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                          NORD OST SÜD WEST SUMME %
+                                        NORD                                                             RAD      FSp       58         2       27     41       128   17,1
+
+                           Schlegelstr. (Nord) u. Ruinenbergstr.                                                  NSp       28        15       40     32       115   18,1
+
+                                                                                                                  6h        256      108     206     193        763 20,7
+                                               207                                                       NFZ      FSp         6      16        4      10        36   5,8
+                                                          248                                                     NSp         5      22        1      16        44   8,4
+                                                                                                                  6h         26     113       38      92       269 9,2
+                                         111    46   50   41                                             SV       FSp         1        3       2       4        10   1,6
+                                                                                                                  NSp         1      13        0       8        22   4,2
+                                                                                                                  6h          4       45      20      42       111 3,8
+                                                                                                         KFZ      FSp      207      194       64    154        619 100
+                                                                                                                  NSp       62      194       84    182        522 100
+                                                                                                                  6h       607     1031      373     907      2918 100
+
+
+
+
+       Voltaireweg                                                                         Voltaireweg
+                                                                                                         FZ       FSp      265      196       91     195       747 100
+                            9                                             15                                      NSp        90     209      124     214       637 100
+                     154    99                                           155   194   OST                          6h        863    1139      579    1100      3681 100
+West                        46                                            24                             Bemerkungen :
+
+
+                     446    292                                        170     364
+
+
+
+
+                                                                                                            Sph-Beginn:   7:30    Uhr und   15:30   Uhr
+                                                                                                         SUMME Zufahrten: [FSp] :            619 KFZ/h     8:00
+                                         116    26   17   21                                                                      (NSp):     522 KFZ/h     16:00
+                                                                                                                              6h :          2918 KFZ
+                                         180                                                             max. Sph /Zufahrt: NORD :           227 KFZ/h     7:30
+                                                     64                                                                      OST :           194 KFZ/h     8:00
+                                               SÜD                                                        DATUM :            SÜD :            84 KFZ/h     16:00
+                                 Schlegelstr. u. Brentanoweg                     619 KFZ/h     29.08.2013    WEST : 182 KFZ/h 16:00
+                                                                Kfz-Stromverteilung in der FSp 160        Voltaireweg/Schlegelstr.
+
+
+
+
+SVP, 461                                                                                                                              StromPlan FSp160kp8-13.xls
+                                                                                                                                                   15.07.2015
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                       NORD OST SÜD WEST SUMME %
+                                     NORD                                                             RAD      FSp       58         2       27     41       128   17,1
+
+                           Schlegelstr. (Nord) u. Ruinenbergstr.                                               NSp       28        15       40     32       115   18,1
+
+                                                                                                               6h        256      108     206     193        763 20,7
+                                            62                                                        NFZ      FSp         6      16        4      10        36   5,8
+                                                       173                                                     NSp         5      22        1      16        44   8,4
+                                                                                                               6h         26     113       38      92       269 9,2
+                                       43   6     13   111                                            SV       FSp         1        3       2       4        10   1,6
+                                                                                                               NSp         1      13        0       8        22   4,2
+                                                                                                               6h          4       45      20      42       111 3,8
+                                                                                                      KFZ      FSp      207      194       64    154        619 100
+                                                                                                               NSp       62      194       84    182        522 100
+                                                                                                               6h       607     1031      373     907      2918 100
+
+
+
+
+       Voltaireweg                                                                      Voltaireweg
+                                                                                                      FZ       FSp      265      196       91     195       747 100
+                             63                                        20                                      NSp        90     209      124     214       637 100
+                     182    113                                       160   194   OST                          6h        863    1139      579    1100      3681 100
+West                         6                                         14                             Bemerkungen :
+
+
+                     419    237                                      148    342
+
+
+
+
+                                                                                                         Sph-Beginn:   7:30    Uhr und   15:30   Uhr
+                                                                                                      SUMME Zufahrten: [FSp] :            619 KFZ/h     8:00
+                                       26   34    28   22                                                                      (NSp):     522 KFZ/h     16:00
+                                                                                                                           6h :          2918 KFZ
+                                      110                                                             max. Sph /Zufahrt: NORD :           227 KFZ/h     7:30
+                                                  84                                                                      OST :           194 KFZ/h     8:00
+                                            SÜD                                                        DATUM :            SÜD :            84 KFZ/h     16:00
+                              Schlegelstr. u. Brentanoweg                     522 KFZ/h     29.08.2013    WEST : 182 KFZ/h 16:00
+                                                             Kfz-Stromverteilung in der NSp 160        Voltaireweg/Schlegelstr.
+
+
+
+
+SVP, 461                                                                                                                           StromPlan NSp160kp8-13.xls
+

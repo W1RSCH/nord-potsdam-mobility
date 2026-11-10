@@ -1,0 +1,128 @@
+SVP, 461                                                                                                                                   06.06.2014
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                              NORD                                                                      NORD OST SÜD   WG SUMME %
+                 Neuendorfer Str.                                                    RAD        FSp         25       7       58        7           97    6,3
+                                                                                                NSp         51     17        41       17          126    6,8
+                           3.424                                                                6h         224      85      271       83          663    7,3
+                                       7.037                                         NFZ        FSp        83      34       88                   205    14,2
+                                                                                                NSp        61      22       57                   140     8,1
+
+                   2.938       486      3.613                                                   6h        404     147      397                    948   11,2
+                                                                                     SV         FSp        29      17       24                     70    4,9
+                                                                                                NSp        16        8      11                     35    2,0
+                                                                                                6h        113      66      110                    289    3,4
+                                                                                     KFZ        FSp       535     193      712                  1440    100
+                                                                                                NSp       680     187      864                  1731    100
+
+
+
+
+                                                                       Galileistr.
+                                                                                                6h       3424    1022     4008                  8454    100
+                                                393                                  FZ         FSp       560     200      770             7    1537    100
+                                                       1022
+                                                629              OST                            NSp       731     204      905            17    1857    100
+                                                                                                6h       3648    1107     4279            83     9117   100
+                                                1274   2296                          Bemerkungen :
+                                                                                     - Wetter früh 14ºC, sonnig; nachmittag 20ºC sonnig
+
+
+
+
+                                                                                          Sph-Beginn:       7.00 Uhr und 17.00 Uhr
+                   3.567       3.220    788                                          SUMME Zufahrten: FSp : 1440 KFZ/h 7:30
+                                                                                                        NSp : 1731 KFZ/h 17:30
+                 7.575                                                                                    6h : 8454 KFZ
+                                 4.008                                               max. Sph /Zufahrt: NORD    708 KFZ/h 17:00
+                               SÜD                                                                       OST    199 KFZ/h 8:00
+                 Neuendorfer Str.                                                      DATUM :                   SÜD       864 KFZ/h 17:30
+                                                                                     06.09.2011
+                                                                                      720               Galileistr./Neuendorfer Str.
+StromPlan720kp9-11.xls                                 Seite 1
+SVP, 461                                                                                                                                            06.06.2014
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                           NORD                                                                                  NORD OST SÜD   WG SUMME %
+                 Neuendorfer Str.                                                             RAD        FSp         25       7       58        7           97    6,3
+                                                                                                         NSp         51     17        41       17          126    6,8
+                         535                                                                             6h         224      85      271       83          663    7,3
+                                     1.192                                                    NFZ        FSp        83      34       88                   205    14,2
+                                                                                                         NSp        61      22       57                   140     8,1
+                   490         45       657                                                              6h        404     147      397                    948   11,2
+                                                                                              SV         FSp        29      17       24                     70    4,9
+                                                                                                         NSp        16        8      11                     35    2,0
+                                                                                                         6h        113      66      110                    289    3,4
+                                                                                              KFZ        FSp       535     193      712                  1440    100
+                                                                                                         NSp       680     187      864                  1731    100
+
+
+
+
+                                                                                Galileistr.
+                                                                                                         6h       3424    1022     4008                  8454    100
+                                                         65                                   FZ         FSp       560     200      770             7    1537    100
+                                                                193
+                                                         128              OST                            NSp       731     204      905            17    1857    100
+                                                                                                         6h       3648    1107     4279            83     9117   100
+                                                         165    358                           Bemerkungen :
+                                                                                              - Wetter früh 14ºC, sonnig; nachmittag 20ºC sonnig
+
+
+
+
+                                                                                                   Sph-Beginn:       7.00 Uhr und 17.00 Uhr
+                   618         592      120                                                   SUMME Zufahrten: FSp : 1440 KFZ/h 7:30
+                                                                                                                 NSp : 1731 KFZ/h 17:30
+                  1.330                                                                                            6h : 8454 KFZ
+                                  712                                                         max. Sph /Zufahrt: NORD    708 KFZ/h 17:00
+                               SÜD                                                                                OST    199 KFZ/h 8:00
+                 Neuendorfer Str.                                                               DATUM :                   SÜD       864 KFZ/h 17:30
+                                                                1.440 KFZ/h                   06.09.2011
+                                              Kfz-Stromverteilung in der FSp                   720               Galileistr./Neuendorfer Str.
+StromPlan (FSp)720kp9-11.xls                                    Seite 2
+SVP, 461                                                                                                                                           06.06.2014
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                           NORD                                                                                 NORD OST SÜD   WG SUMME %
+                 Neuendorfer Str.                                                            RAD        FSp         25       7       58        7           97    6,3
+                                                                                                        NSp         51     17        41       17          126    6,8
+                         680                                                                            6h         224      85      271       83          663    7,3
+                                     1.431                                                   NFZ        FSp        83      34       88                   205    14,2
+                                                                                                        NSp        61      22       57                   140     8,1
+                   549         131    751                                                               6h        404     147      397                    948   11,2
+                                                                                             SV         FSp        29      17       24                     70    4,9
+                                                                                                        NSp        16        8      11                     35    2,0
+                                                                                                        6h        113      66      110                    289    3,4
+                                                                                             KFZ        FSp       535     193      712                  1440    100
+                                                                                                        NSp       680     187      864                  1731    100
+
+
+
+
+                                                                               Galileistr.
+                                                                                                        6h       3424    1022     4008                  8454    100
+                                                        69                                   FZ         FSp       560     200      770             7    1537    100
+                                                               187
+                                                        118              OST                            NSp       731     204      905            17    1857    100
+                                                                                                        6h       3648    1107     4279            83     9117   100
+                                                        313    500                           Bemerkungen :
+                                                                                             - Wetter früh 14ºC, sonnig; nachmittag 20ºC sonnig
+
+
+
+
+                                                                                                  Sph-Beginn:       7.00 Uhr und 17.00 Uhr
+                   667         682    182                                                    SUMME Zufahrten: FSp : 1440 KFZ/h 7:30
+                                                                                                                NSp : 1731 KFZ/h 17:30
+                 1.531                                                                                            6h : 8454 KFZ
+                              864                                                            max. Sph /Zufahrt: NORD    708 KFZ/h 17:00
+                           SÜD                                                                                   OST    199 KFZ/h 8:00
+                 Neuendorfer Str.                                                              DATUM :                   SÜD       864 KFZ/h 17:30
+                                                              1.731 KFZ/h                    06.09.2011
+                                             Kfz-Stromverteilung in der NSp                   720               Galileistr./Neuendorfer Str.
+StromPlan (NSp)720kp9-11.xls                                   Seite 3
+

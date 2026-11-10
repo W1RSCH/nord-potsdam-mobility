@@ -1,0 +1,136 @@
+                                                                                                                                                       01.02.2017
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                    NORD     OST SÜD WEST SUMME %
+                                             NORD                                                    RAD        FSp    0             21        12       50           83   4,9
+
+                                   Große Weinmeisterstr.                                                        NSp          0       43        10       53       106      6,0
+
+                                                                                                                6h           9      230         47     253       539 5,6
+                                             1.037         1.043                                     NFZ        FSp        15      159           6     74       254 15,8
+                                                                                                                NSp        26      108           8     80       222 13,3
+                                                                                                                6h        114      716         40     427      1297 14,2
+                                       477           560    6                                        SV         FSp          1      31           1     39         72  4,5
+                                                                                                                NSp          5      17           0     25         47  2,8
+                                                                                                                6h          33     155           6    198        392 4,3
+                                                                                                     KFZ        FSp       191      767         26     619      1603 100
+                                                                                                                NSp       172      861         56     581      1670 100
+                                                                                                                6h        477     4949        260    3469      9155 100
+                                                                                                     FZ         FSp       191      788         38     669      1686 100
+
+
+
+       Alleestr.                                                                         Alleestr.
+                   9.066   5.597                                       6                                        NSp       172      904         66     634      1776 100
+                                                                   4.943   4.949   OST                          6h         484    5179        307    3722       9692 100
+WEST               3.469   3.469                                                                     Bemerkungen :      Wetter früh 15ºC, nachm. 29ºC sonnig, trocken
+                                                                   4.112 9.061                                          TEILZÄHLUNG
+
+
+
+
+                                                                                                          Sph-Beginn:    7:00    Uhr und    16:00    Uhr
+                                                                                                     SUMME Zufahrten: [FSp]: 1603 KFZ/h 7:30
+                                              177           83                                                          (NSp) : 1670 KFZ/h 16:30
+                                                                                                                           6h : 9155 KFZ
+                                      260                                                            max. Sph /Zufahrt: NORD     100 KFZ/h 15:30
+                                                     260                                                                   OST   874 KFZ/h 17:30
+                                                     SÜD                                              DATUM :             SÜD     64 KFZ/h 15:30
+                                             Eisenhartstr.                                           03.07.2014                  WEST         619 KFZ/h 7:30
+                                                                                                      1851                      Alleestr./Eisenhartstr.
+
+
+
+
+       SVP, 461                                                                                                                            StromPlan1851kp7-14.xls
+                                                                                                                                                            01.02.2017
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                         NORD     OST SÜD WEST SUMME %
+                                          NORD                                                            RAD        FSp    0             21       12        50          83   4,9
+
+                                 Große Weinmeisterstr.                                                               NSp          0       43       10        53       106     6,0
+
+                                                                                                                     6h           9      230        47      253       539 5,6
+                                           191          191                                               NFZ        FSp        15      159          6      74       254 15,8
+                                                                                                                     NSp        26      108          8      80       222 13,3
+                                                                                                                     6h        114      716        40      427      1297 14,2
+                                     69          122     0                                                SV         FSp          1      31          1      39         72  4,5
+                                                                                                                     NSp          5      17          0      25         47  2,8
+                                                                                                                     6h          33     155          6     198        392 4,3
+                                                                                                          KFZ        FSp       191      767        26      619      1603 100
+                                                                                                                     NSp       172      861        56      581      1670 100
+                                                                                                                     6h        477     4949       260     3469      9155 100
+                                                                                                          FZ         FSp       191      788        38      669      1686 100
+
+
+
+       Alleestr.                                                                              Alleestr.
+                   1.469   850                                                0                                      NSp       172      904        66      634      1776 100
+                                                                            767   767   OST                          6h         484    5179       307     3722       9692 100
+WEST               619     619                                                                            Bemerkungen :      Wetter früh 15ºC, nachm. 29ºC sonnig, trocken
+                                                                            753 1.520                                        TEILZÄHLUNG
+
+
+
+
+                                                                                                               Sph-Beginn:    7:00    Uhr und   16:00     Uhr
+                                                                                                          SUMME Zufahrten: [FSp]: 1603 KFZ/h 7:30
+                                           14            12                                                                  (NSp) : 1670 KFZ/h 16:30
+                                                                                                                                6h : 9155 KFZ
+                                    26                                                                    max. Sph /Zufahrt: NORD     100 KFZ/h 15:30
+                                                  26                                                                            OST   874 KFZ/h 17:30
+                                                 SÜD                                                       DATUM :             SÜD     64 KFZ/h 15:30
+                                          Eisenhartstr.          1603 KFZ/h                               03.07.2014                  WEST        619 KFZ/h 7:30
+                                                       Kfz-Stromverteilung in der FSp                      1851                      Alleestr./Eisenhartstr.
+
+
+
+
+       SVP, 461                                                                                                                           StromPlan FSp1851kp7-14.xls
+                                                                                                                                                            01.02.2017
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                         NORD     OST SÜD WEST SUMME %
+                                          NORD                                                            RAD        FSp    0             21       12        50          83   4,9
+
+                                 Große Weinmeisterstr.                                                               NSp          0       43       10        53       106     6,0
+
+                                                                                                                     6h           9      230        47      253       539 5,6
+                                           172          173                                               NFZ        FSp        15      159          6      74       254 15,8
+                                                                                                                     NSp        26      108          8      80       222 13,3
+                                                                                                                     6h        114      716        40      427      1297 14,2
+                                     83          89      1                                                SV         FSp          1      31          1      39         72  4,5
+                                                                                                                     NSp          5      17          0      25         47  2,8
+                                                                                                                     6h          33     155          6     198        392 4,3
+                                                                                                          KFZ        FSp       191      767        26      619      1603 100
+                                                                                                                     NSp       172      861        56      581      1670 100
+                                                                                                                     6h        477     4949       260     3469      9155 100
+                                                                                                          FZ         FSp       191      788        38      669      1686 100
+
+
+
+       Alleestr.                                                                              Alleestr.
+                   1.567   986                                               1                                       NSp       172      904        66      634      1776 100
+                                                                           860    861   OST                          6h         484    5179       307     3722       9692 100
+WEST               581     581                                                                            Bemerkungen :      Wetter früh 15ºC, nachm. 29ºC sonnig, trocken
+                                                                           683 1.544                                         TEILZÄHLUNG
+
+
+
+
+                                                                                                               Sph-Beginn:    7:00    Uhr und   16:00     Uhr
+                                                                                                          SUMME Zufahrten: [FSp]: 1603 KFZ/h 7:30
+                                           43            13                                                                  (NSp) : 1670 KFZ/h 16:30
+                                                                                                                                6h : 9155 KFZ
+                                    56                                                                    max. Sph /Zufahrt: NORD     195 KFZ/h 15:30
+                                                  56                                                                            OST   874 KFZ/h 17:30
+                                                 SÜD                                                       DATUM :             SÜD     64 KFZ/h 15:30
+                                          Eisenhartstr.               1.670     KFZ/h                     03.07.2014                  WEST        619 KFZ/h 7:30
+                                                       Kfz-Stromverteilung in der NSp                      1851                      Alleestr./Eisenhartstr.
+
+
+
+
+       SVP, 461                                                                                                                           StromPlan NSp1851kp7-14.xls
+

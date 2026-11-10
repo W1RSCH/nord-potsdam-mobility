@@ -1,0 +1,155 @@
+SVP, 461                                                                                                                                          05.09.2016
+
+
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: OST SÜD WEST     SUMME %
+                         Fr.-Engels-Str.                                                  RAD         FSp
+                                                                                                      NSp
+                                                                                                                 229
+                                                                                                                 133            11
+                                                                                                                                  9      97
+                                                                                                                                       231
+                                                                                                                                                          335
+                                                                                                                                                          375
+                                                                                                                                                                   20,6
+                                                                                                                                                                   20,0
+                                                                                                      6h         888             64     912              1864      19,3
+                                                                                          NFZ         FSp         77            16     119                212      16,4
+                                                                                                      NSp         78            10     109                197      13,1
+                                                                                                      6h         442            89     611               1142      14,6
+                                                                                          SV          FSp         53              5     52                110       8,5
+                                                                                                      NSp         36              4     51                 91       6,1
+        7.444    3.255                                           2.682                                6h         249            30     292                571       7,3
+                                                                         2.830
+                                                                  148            OST      KFZ    FSp 392                   122   777                     1291      100
+
+ WEST   4.189
+                 4.017                                                                           NSp 629                   134   736                     1499      100
+                  172                                            4.222   7.052                   6h    2830                778 4189                      7797      100
+                                                                                          FZ     FSp    621                131   874                     1626      100
+                                                                                                 NSp    762                145   967                     1874      100
+                                                                                                 6h    3718                 842 5101                      9661     100
+                                                                                          Q DTVw: 2,4 16572               2580 17493
+                                                                                          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                            320    573         205                                        Bemerkungen :
+                                                                                          - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+                           1.098                                                              Sph-Beginn:       7.30    Uhr und       16.00 Uhr
+                                         778                                              SUMME Zufahrten: FSp :                      1291 KFZ/h 8:00
+                                   SÜD                                                                     NSp :                      1499 KFZ/h 16:30
+                         Friedhofsgassse                                                                                 6h :         7797 KFZ
+                                                                                          max. Sph /Zufahrt:             OST           630 KFZ/h 17:00
+                                                                                                                         SÜD           161 KFZ/h 15:30
+                                                                                            DATUM :                     WEST           784 KFZ/h 8:30
+                                                                                 6h Werte 09.06.2016
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 415                  F.-Engels-Str./Friedhofsgasse
+
+
+
+StromPlan415kp6-16.xls                                       Seite 1
+SVP, 461                                                                                                                                       05.09.2016
+
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                            Zufahrt: OST SÜD WEST     SUMME %
+                               Fr.-Engels-Str.                                         RAD         FSp
+                                                                                                   NSp
+                                                                                                              229
+                                                                                                              133            11
+                                                                                                                               9      97
+                                                                                                                                    231
+                                                                                                                                                       335
+                                                                                                                                                       375
+                                                                                                                                                                20,6
+                                                                                                                                                                20,0
+                                                                                                   6h         888             64     912              1864      19,3
+                                                                                       NFZ         FSp         77            16     119                212      16,4
+                                                                                                   NSp         78            10     109                197      13,1
+                                                                                                   6h         442            89     611               1142      14,6
+                                                                                       SV          FSp         53              5     52                110       8,5
+                                                                                                   NSp         36              4     51                 91       6,1
+        1.203     426                                             341                              6h         249            30     292                571       7,3
+                                                                        392
+                                                                  51            OST    KFZ    FSp 392                   122   777                     1291      100
+
+ WEST      777
+                  739                                                                         NSp 629                   134   736                     1499      100
+                   38                                             776   1.168                 6h    2830                778 4189                      7797      100
+                                                                                       FZ     FSp    621                131   874                     1626      100
+                                                                                              NSp    762                145   967                     1874      100
+                                                                                              6h    3718                 842 5101                      9661     100
+                                                                                       Q DTVw: 2,4 16572               2580 17493
+                                                                                       Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                 89    85          37                                  Bemerkungen :
+                                                                                       - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+                                 211                                                       Sph-Beginn:       7.30    Uhr und       16.00 Uhr
+                                             122                                       SUMME Zufahrten: FSp :                      1291 KFZ/h 8:00
+                                       SÜD                                                              NSp :                      1499 KFZ/h 16:30
+                               Friedhofsgassse                                                                        6h :         7797 KFZ
+                                                                                       max. Sph /Zufahrt:             OST           630 KFZ/h 17:00
+                                                                                                                      SÜD           161 KFZ/h 15:30
+                                                                                         DATUM :                     WEST           784 KFZ/h 8:30
+                                                                           1.291 KFZ/h 09.06.2016
+                                                        Kfz-Stromverteilung in der FSp 415                 F.-Engels-Str./Friedhofsgasse
+
+
+
+StromPlan (FSp)415kp6-16.xls                                 Seite 2
+SVP, 461                                                                                                                                       05.09.2016
+
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                            Zufahrt: OST SÜD WEST     SUMME %
+                               Fr.-Engels-Str.                                         RAD         FSp
+                                                                                                   NSp
+                                                                                                              229
+                                                                                                              133            11
+                                                                                                                               9      97
+                                                                                                                                    231
+                                                                                                                                                       335
+                                                                                                                                                       375
+                                                                                                                                                                20,6
+                                                                                                                                                                20,0
+                                                                                                   6h         888             64     912              1864      19,3
+                                                                                       NFZ         FSp         77            16     119                212      16,4
+                                                                                                   NSp         78            10     109                197      13,1
+                                                                                                   6h         442            89     611               1142      14,6
+                                                                                       SV          FSp         53              5     52                110       8,5
+                                                                                                   NSp         36              4     51                 91       6,1
+        1.435     699                                             615                              6h         249            30     292                571       7,3
+                                                                        629
+                                                                  14            OST    KFZ    FSp 392                   122   777                     1291      100
+
+ WEST      736
+                  705                                                                         NSp 629                   134   736                     1499      100
+                   31                                             755   1.384                 6h    2830                778 4189                      7797      100
+                                                                                       FZ     FSp    621                131   874                     1626      100
+                                                                                              NSp    762                145   967                     1874      100
+                                                                                              6h    3718                 842 5101                      9661     100
+                                                                                       Q DTVw: 2,4 16572               2580 17493
+                                                                                       Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                 45    84          50                                  Bemerkungen :
+                                                                                       - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+                                 179                                                       Sph-Beginn:       7.30    Uhr und       16.00 Uhr
+                                             134                                       SUMME Zufahrten: FSp :                      1291 KFZ/h 8:00
+                                       SÜD                                                              NSp :                      1499 KFZ/h 16:30
+                               Friedhofsgassse                                                                        6h :         7797 KFZ
+                                                                                       max. Sph /Zufahrt:             OST           630 KFZ/h 17:00
+                                                                                                                      SÜD           161 KFZ/h 15:30
+                                                                                         DATUM :                     WEST           784 KFZ/h 8:30
+                                                                           1.499 KFZ/h 09.06.2016
+                                                        Kfz-Stromverteilung in der NSp 415                 F.-Engels-Str./Friedhofsgasse
+
+
+
+StromPlan (NSp)415kp6-16.xls                                 Seite 3
+

@@ -1,0 +1,144 @@
+                                                                                                                             15.07.2015
+                                                                                         FAHRZEUG-VERTEILUNG
+                                            NORD                                         NORD SÜD WEST OST SUMME %
+                                   Berliner Str.                      RAD        FSp       57       70       8                   135    8,8
+
+                                                                                 NSp   69          106      15                  190    12,6
+                                            3.784                                6h   380           398      92                 870    10,6
+                                                             6.929    NFZ        FSp   90           62        3                155     11,1
+                                                                                 NSp   72           60      10                 142     10,8
+                                    63       3.715            3.145              6h   425          343      37                  805
+                                                      6                                                                                11,0
+                                                                      SV         FSp   19           15        2                  36     2,6
+                                                                                 NSp    8           13        1                  22     1,7
+                                                                                 6h   100            77       8                 185     2,5
+                                                                      KFZ        FSp 750           591      52                1393     100
+
+
+
+
+       O.-Nagel-Str.
+                                                                                 NSp 702           542      71                1315     100
+                                                                                 6h  3784         3107     426                7317     100
+                       549   123                                      FZ         FSp  807          661      60                1528     100
+                             131                                                 NSp  771          648      86                1505     100
+
+WEST
+                       426                                                       6h  4164         3505     518                 8187    100
+                             295
+                                                                      Bemerkungen :
+                                                                      - Wetter
+
+
+
+
+                                                                           Sph-Beginn:   8:00   Uhr und   15:30 Uhr
+
+                                    4.049    60       39      3.008   SUMME Zufahrten: [FSp] : 1393 KFZ/h                 08:30
+                                                                                          (NSp): 1315 KFZ/h               16:00
+                                   7.156                                                    6h : 7317 KFZ
+                                                     3.107            max. Sph /Zufahrt: NORD :   759 KFZ/h               9:00
+                                            SÜD                                            SÜD :  635 KFZ/h               8:00
+                                   Berliner Str.                         DATUM :                WEST :      96 KFZ/h 17:00
+                                                                      02.05.2013
+                                                                        190              Berliner Str./O.-Nagel-Str.
+
+
+
+
+ SVP, 461                                                                                                         StromPlan190kp5-13.xls
+                                                                                                                           15.07.2015
+                                                                                        FAHRZEUG-VERTEILUNG
+                                         NORD                                           NORD SÜD WEST OST SUMME %
+                                 Berliner Str.                       RAD        FSp       57       70       8                 135    8,8
+
+                                                                                NSp   69          106      15                190    12,6
+                                         750                                    6h   380           398      92               870    10,6
+                                                      1.337          NFZ        FSp   90           62        3              155     11,1
+                                                                                NSp   72           60      10               142     10,8
+                                  7       741    2     587                      6h   425          343      37                805    11,0
+                                                                     SV         FSp   19           15        2                36     2,6
+                                                                                NSp    8           13        1                22     1,7
+                                                                                6h   100            77       8               185     2,5
+                                                                     KFZ        FSp 750           591      52              1393     100
+
+
+
+
+       O.-Nagel-Str.
+                                                                                NSp 702           542      71              1315     100
+                                                                                6h  3784         3107     426              7317     100
+                       69   17                                       FZ         FSp  807          661      60              1528     100
+                            14                                                  NSp  771          648      86              1505     100
+
+WEST
+                       52                                                       6h  4164         3505     518               8187    100
+                            38
+                                                                     Bemerkungen :
+                                                                     - Wetter
+
+
+
+
+                                                                          Sph-Beginn:   8:00   Uhr und   15:30 Uhr
+                                  789     10     10    571           SUMME Zufahrten: [FSp] : 1393 KFZ/h               08:30
+                                                                                         (NSp): 1315 KFZ/h             16:00
+                                 1.380                                                     6h : 7317 KFZ
+                                                591                  max. Sph /Zufahrt: NORD :   759 KFZ/h             9:00
+                                         SÜD                                              SÜD :  635 KFZ/h             8:00
+                                 Berliner Str.                          DATUM :                WEST :      96 KFZ/h 17:00
+                                                      1.393 KFZ/h    02.05.2013
+                                    Kfz-Stromverteilung in der FSp     190              Berliner Str./O.-Nagel-Str.
+
+
+
+
+ SVP, 461                                                                                                  StromPlan FSp190kp5-13.xls
+                                                                                                                          15.07.2015
+                                                                                       FAHRZEUG-VERTEILUNG
+                                         NORD                                          NORD SÜD WEST OST SUMME %
+                                 Berliner Str.                      RAD        FSp       57       70       8                 135    8,8
+
+                                                                               NSp   69          106      15                190    12,6
+                                         702                                   6h   380           398      92               870    10,6
+                                                      1.245         NFZ        FSp   90           62        3              155     11,1
+                                                                               NSp   72           60      10               142     10,8
+                                  10      692    0     543                     6h   425          343      37                805    11,0
+                                                                    SV         FSp   19           15        2                36     2,6
+                                                                               NSp    8           13        1                22     1,7
+                                                                               6h   100            77       8               185     2,5
+                                                                    KFZ        FSp 750           591      52              1393     100
+
+
+
+
+       O.-Nagel-Str.
+                                                                               NSp 702           542      71              1315     100
+                                                                               6h  3784         3107     426              7317     100
+                       90   19                                      FZ         FSp  807          661      60              1528     100
+                            17                                                 NSp  771          648      86              1505     100
+
+WEST
+                       71                                                      6h  4164         3505     518               8187    100
+                            54
+                                                                    Bemerkungen :
+                                                                    - Wetter
+
+
+
+
+                                                                         Sph-Beginn:   8:00   Uhr und   15:30 Uhr
+                                  753     9      7     526          SUMME Zufahrten: [FSp] : 1393 KFZ/h               08:30
+                                                                                        (NSp): 1315 KFZ/h             16:00
+                                 1.295                                                    6h : 7317 KFZ
+                                                542                 max. Sph /Zufahrt: NORD :   759 KFZ/h             9:00
+                                         SÜD                                             SÜD :  635 KFZ/h             8:00
+                                 Berliner Str.                         DATUM :                WEST :      96 KFZ/h 17:00
+                                                     1.315 KFZ/h    02.05.2013
+                                   Kfz-Stromverteilung in der NSp     190              Berliner Str./O.-Nagel-Str.
+
+
+
+
+ SVP, 461                                                                                                 StromPlan NSp190kp5-13.xls
+

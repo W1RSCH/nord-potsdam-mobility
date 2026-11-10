@@ -1,0 +1,150 @@
+SVP, 461                                                                                                                         15.10.2014
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                             NORD                                          NORD      SÜD WEST (=OST)               SUMME %
+                                 Neuendorfer Str.                       RAD       FSp         19       43        15                    77        3,6
+
+                                                                                  NSp         18       52        11                    81        3,1
+
+                                         4.752                                    6h         129       268       56                   453        3,6
+
+                                                     9.223              NFZ       FSp         96  192           40                   328        15,8
+                                                                                  NSp         87   96           57                   240
+                                     1.602   3.150    4.471
+                                                                                                                                                 9,5
+                                                                                  6h         561  701          282                  1544        12,6
+                                                                        SV        FSp         26   49           11                    86         4,1
+                                                                                  NSp         19   20           15                    54         2,1
+                                                                                  6h         137  157           81                   375         3,1
+                                                                        KFZ       FSp       749 1056           276                 2081         100
+                                                                                  NSp      1014   979          523                 2516         100
+                                                                                  6h       4752 5349          2132                12233         100
+
+
+
+
+       Nuthestr.
+                   5.765 3.633                                          FZ        FSp        768 1099          291                  2158        100
+
+                   2.132 1.153
+                                                                                  NSp      1032 1031           534                  2597        100
+
+WEST                      979                                                     6h        4881 5617         2188                 12686        100
+                                                                        Bemerkungen:
+                                                                        - Zuf Nord enthält durch Umbaumaßnahme Güterfelder Eck Umleitungsverkehr
+                                                                        - ZufNG und ZufSG wurden mit KP726 errechnet
+                                                                        - Wetter früh 10ºC bewölkt, trocken; nachmittag 15ºC bewölkt, trocken
+
+
+
+                                                                             Sph-Beginn:        7.00 Uhr und 15.30 Uhr
+
+                                     4.129   2.031    3.318
+                                                                        SUMME Zufahrten:           [FSp] :   2081 KFZ/h         7:30
+                                                                                                   (NSp) :   2516 KFZ/h         16:00
+                                    9.478                                                             6h : 12233 KFZ
+                                                 5.349                  max. Sph /Zufahrt:          NORD      1014 KFZ/h        16:00
+                                             SÜD                                                     SÜD      1056 KFZ/h        7:30
+                                 Neuendorfer Str.                         DATUM :                   WEST       523 KFZ/h        16:00
+                                                                        19.09.2013
+                                                                         725               Nuthestr./Neuendorfer Str.(N)
+
+StromPlan725kp9-13.xls                                        Seite 1
+SVP, 461                                                                                                                               15.10.2014
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                             NORD                                                NORD      SÜD WEST (=OST)               SUMME %
+                                 Neuendorfer Str.                             RAD       FSp         19       43        15                    77        3,6
+
+                                                                                        NSp         18       52        11                    81        3,1
+
+                                           749                                          6h         129       268       56                   453        3,6
+
+                                                       1.577                  NFZ       FSp         96  192           40                   328        15,8
+                                                                                        NSp         87   96           57                   240         9,5
+                                     322         427    828                             6h         561  701          282                  1544        12,6
+                                                                              SV        FSp         26   49           11                    86         4,1
+                                                                                        NSp         19   20           15                    54         2,1
+                                                                                        6h         137  157           81                   375         3,1
+                                                                              KFZ       FSp       749 1056           276                 2081         100
+                                                                                        NSp      1014   979          523                 2516         100
+                                                                                        6h       4752 5349          2132                12233         100
+
+
+
+
+       Nuthestr.
+                   1.002   726                                                FZ        FSp        768 1099          291                  2158        100
+                           176                                                          NSp      1032 1031           534                  2597        100
+
+WEST
+                   276
+                           100                                                          6h        4881 5617         2188                 12686        100
+                                                                              Bemerkungen:
+                                                                              - Zuf Nord enthält durch Umbaumaßnahme Güterfelder Eck Umleitungsverkehr
+                                                                              - ZufNG und ZufSG wurden mit KP726 errechnet
+                                                                              - Wetter früh 10ºC bewölkt, trocken; nachmittag 15ºC bewölkt, trocken
+
+
+
+                                                                                   Sph-Beginn:        7.00 Uhr und 15.30 Uhr
+                                     527         404    652                   SUMME Zufahrten:           [FSp] :   2081 KFZ/h         7:30
+                                                                                                         (NSp) :   2516 KFZ/h         16:00
+                                    1.583                                                                   6h : 12233 KFZ
+                                                   1.056                      max. Sph /Zufahrt:          NORD      1014 KFZ/h        16:00
+                                             SÜD                                                           SÜD      1056 KFZ/h        7:30
+                                 Neuendorfer Str.                               DATUM :                   WEST       523 KFZ/h        16:00
+                                                                2.081 KFZ/h   19.09.2013
+                                       Kfz-Stromverteilung in der FSp          725               Nuthestr./Neuendorfer Str.(N)
+
+StromPlanFSP725kp9-13.xls                                      Seite 2
+SVP, 461                                                                                                                               15.10.2014
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                             NORD                                                NORD      SÜD WEST (=OST)               SUMME %
+                                 Neuendorfer Str.                             RAD       FSp         19       43        15                    77        3,6
+
+                                                                                        NSp         18       52        11                    81        3,1
+
+                                         1.014                                          6h         129       268       56                   453        3,6
+
+                                                     1.917                    NFZ       FSp         96  192           40                   328        15,8
+                                                                                        NSp         87   96           57                   240         9,5
+                                     254     760         903                            6h         561  701          282                  1544        12,6
+                                                                              SV        FSp         26   49           11                    86         4,1
+                                                                                        NSp         19   20           15                    54         2,1
+                                                                                        6h         137  157           81                   375         3,1
+                                                                              KFZ       FSp       749 1056           276                 2081         100
+                                                                                        NSp      1014   979          523                 2516         100
+                                                                                        6h       4752 5349          2132                12233         100
+
+
+
+
+       Nuthestr.
+                   1.122   599                                                FZ        FSp        768 1099          291                  2158        100
+                           269                                                          NSp      1032 1031           534                  2597        100
+
+WEST
+                   523
+                           254                                                          6h        4881 5617         2188                 12686        100
+                                                                              Bemerkungen:
+                                                                              - Zuf Nord enthält durch Umbaumaßnahme Güterfelder Eck Umleitungsverkehr
+                                                                              - ZufNG und ZufSG wurden mit KP726 errechnet
+                                                                              - Wetter früh 10ºC bewölkt, trocken; nachmittag 15ºC bewölkt, trocken
+
+
+
+                                                                                   Sph-Beginn:        7.00 Uhr und 15.30 Uhr
+
+                                     1.014   345         634                  SUMME Zufahrten:           [FSp] :   2081 KFZ/h         7:30
+                                                                                                         (NSp) :   2516 KFZ/h         16:00
+                                    1.993                                                                   6h : 12233 KFZ
+                                                   979                        max. Sph /Zufahrt:          NORD      1014 KFZ/h        16:00
+                                             SÜD                                                           SÜD      1056 KFZ/h        7:30
+                                 Neuendorfer Str.                               DATUM :                   WEST       523 KFZ/h        16:00
+                                                                2.516 KFZ/h   19.09.2013
+                                         Kfz-Stromverteilung in der NSp        725               Nuthestr./Neuendorfer Str.(N)
+
+StromPlanNSP725kp9-13.xls                                      Seite 3
+

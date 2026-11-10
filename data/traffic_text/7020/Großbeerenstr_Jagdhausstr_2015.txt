@@ -1,0 +1,166 @@
+           SVP, 461                                                                                                                                                          12.10.2016
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                            Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                                    RAD    FSp               4    29           20    30               83      5,1
+                                                                                                                              NSp             18     34           12    25               89      5,1
+                                                Steinstr.                                                                     6h               57   164           71   158              450      5,1
+                                                              2.355                                                    NFZ    FSp             30    76           10    84              200      13,1
+                                                1.265
+                                                                                                                              NSp             23    58           12    98              191      11,6
+                                                                                                                              6h             137   399            45  451             1032      12,3
+                                        356      114    795    1.090                                                   SV     FSp               9   22             0   34                65      4,2
+                                                                                                                              NSp               7   13             2   30                52      3,2
+                                                                                                                              6h              47     86            4  162               299      3,6
+                                                                                                                       KFZ FSp               176   642          110   603             1531       100
+                                                                                                                              NSp            343   556           81   669             1649       100
+
+
+
+
+       Großbeerenstr.                                                                                 Großbeerenstr.
+                                                                                                                              6h            1265 3082           528 3514              8389       100
+                                                                                                                       FZ     FSp            180   671          130   633             1614       100
+                        6.354   2.840                                            584                                          NSp            361   590            93  694             1738       100
+                                 396                                            2.312   3.082   OST                           6h            1322 3246            599 3672              8839      100
+
+WEST
+                        3.514   3.011                                            186                                   Q DTVw: 2,4          5534 16765         2197 14932
+                                 107                                            4.052   7.134                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                       Bemerkungen :
+
+                                                                                                                       - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuendorf. Str.,
+                                                                                                                        beide Richtungen je eine Fahrspur
+                                                                                                                       - zwischen 16.00 und 17.00 Uhr Unfall auf der L40
+                                                                                                                       - Wetter früh 19ºC sonnig; nachmittag 34ºC sonnig
+                                        407      172    110    246                                                         Sph-Beginn:        7.30 Uhr und    15.30 Uhr
+                                                                                                                       SUMME Zufahrten: [FSp] :    1531 KFZ/h 8:00
+                                        935                                                                                                (NSp):  1649 KFZ/h 16:00
+                                                        528
+                                                                                                                                              6h : 8389 KFZ
+                                                        SÜD                                                            max. Sph /Zufahrt: NORD :    343 KFZ/h 16:00
+                                              Jagdhausstr.                                                                                           OST :       642 KFZ/h 8:00
+
+                                                                                                                         DATUM :                    SÜD :        110 KFZ/h 8:00
+                                                                                                6h Werte 02.07.2015                                WEST :        730 KFZ/h 17:30
+                                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 702                            Großbeerenstr./Jagdhausstr.
+
+
+           StromPlan702kp7-15.xls
+           SVP, 461                                                                                                                                                     12.10.2016
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                                 NORD                                                             RAD    FSp               4    29           20    30               83      5,1
+                                                                                                                         NSp             18     34           12    25               89      5,1
+                                                  Steinstr.                                                              6h               57   164           71   158              450      5,1
+                                                               479                                                NFZ    FSp             30    76           10    84              200      13,1
+                                                  176
+                                                                                                                         NSp             23    58           12    98              191      11,6
+                                                                                                                         6h             137   399            45  451             1032      12,3
+                                          40      26    110    303                                                SV     FSp               9   22             0   34                65      4,2
+                                                                                                                         NSp               7   13             2   30                52      3,2
+                                                                                                                         6h              47     86            4  162               299      3,6
+                                                                                                                  KFZ FSp               176   642          110   603             1531       100
+                                                                                                                         NSp            343   556           81   669             1649       100
+
+
+
+
+       Großbeerenstr.                                                                            Großbeerenstr.
+                                                                                                                         6h            1265 3082           528 3514              8389       100
+                                                                                                                  FZ     FSp            180   671          130   633             1614       100
+                        1.146   543                                          150                                         NSp            361   590            93  694             1738       100
+                                125                                          473    642    OST                           6h            1322 3246            599 3672              8839      100
+
+WEST
+                        603     464                                          19                                   Q DTVw: 2,4          5534 16765         2197 14932
+                                 14                                          626   1.268                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+
+                                                                                                                  - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuendorf. Str.,
+                                                                                                                   beide Richtungen je eine Fahrspur
+                                                                                                                  - zwischen 16.00 und 17.00 Uhr Unfall auf der L40
+                                                                                                                  - Wetter früh 19ºC sonnig; nachmittag 34ºC sonnig
+                                          59      30    28     52                                                     Sph-Beginn:        7.30 Uhr und    15.30 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] :    1531 KFZ/h 8:00
+                                          169                                                                                         (NSp):  1649 KFZ/h 16:00
+                                                        110
+                                                                                                                                         6h : 8389 KFZ
+                                                        SÜD                                                       max. Sph /Zufahrt: NORD :    343 KFZ/h 16:00
+                                                Jagdhausstr.                                                                                    OST :       642 KFZ/h 8:00
+
+                                                                                                                    DATUM :                    SÜD :        110 KFZ/h 8:00
+                                                                                      1.531 KFZ/h 02.07.2015                                  WEST :        730 KFZ/h 17:30
+                                                                     Kfz-Stromverteilung in der FSp 702                            Großbeerenstr./Jagdhausstr.
+
+
+           StromPlan (FSp)702kp7-15.xls
+           SVP, 461                                                                                                                                                      12.10.2016
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                                 NORD                                                              RAD    FSp               4    29           20    30               83      5,1
+                                                                                                                          NSp             18     34           12    25               89      5,1
+                                                  Steinstr.                                                               6h               57   164           71   158              450      5,1
+                                                               462                                                 NFZ    FSp             30    76           10    84              200      13,1
+                                                  343
+                                                                                                                          NSp             23    58           12    98              191      11,6
+                                                                                                                          6h             137   399            45  451             1032      12,3
+                                          94      21    228    119                                                 SV     FSp               9   22             0   34                65      4,2
+                                                                                                                          NSp               7   13             2   30                52      3,2
+                                                                                                                          6h              47     86            4  162               299      3,6
+                                                                                                                   KFZ FSp               176   642          110   603             1531       100
+                                                                                                                          NSp            343   556           81   669             1649       100
+
+
+
+
+       Großbeerenstr.                                                                             Großbeerenstr.
+                                                                                                                          6h            1265 3082           528 3514              8389       100
+                                                                                                                   FZ     FSp            180   671          130   633             1614       100
+                        1.226   557                                           74                                          NSp            361   590            93  694             1738       100
+                                 38                                           440   556     OST                           6h            1322 3246            599 3672              8839      100
+
+WEST
+                        669     623                                           42                                   Q DTVw: 2,4          5534 16765         2197 14932
+                                 8                                            902   1.458                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                   Bemerkungen :
+
+                                                                                                                   - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuendorf. Str.,
+                                                                                                                    beide Richtungen je eine Fahrspur
+                                                                                                                   - zwischen 16.00 und 17.00 Uhr Unfall auf der L40
+                                                                                                                   - Wetter früh 19ºC sonnig; nachmittag 34ºC sonnig
+                                          71      23    7      51                                                      Sph-Beginn:        7.30 Uhr und    15.30 Uhr
+                                                                                                                   SUMME Zufahrten: [FSp] :    1531 KFZ/h 8:00
+                                          152                                                                                          (NSp):  1649 KFZ/h 16:00
+                                                        81
+                                                                                                                                          6h : 8389 KFZ
+                                                        SÜD                                                        max. Sph /Zufahrt: NORD :    343 KFZ/h 16:00
+                                                Jagdhausstr.                                                                                     OST :       642 KFZ/h 8:00
+
+                                                                                                                     DATUM :                    SÜD :        110 KFZ/h 8:00
+                                                                                       1.649 KFZ/h 02.07.2015                                  WEST :        730 KFZ/h 17:30
+                                                                     Kfz-Stromverteilung in der NSp 702                             Großbeerenstr./Jagdhausstr.
+
+
+           StromPlan (NSp)702kp7-15.xls
+

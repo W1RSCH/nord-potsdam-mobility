@@ -1,0 +1,158 @@
+SVP, 461                                                                                                                                                    19.03.2018
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                           NORD                                 Zufahrt: NORD SÜD WEST     SUMME %
+                                              Potsdamer Ch.                                RAD    FSp       1                  5       0                     6      0,6
+                                                                                                  NSp       7                  5       5                    17      1,4
+                                                        2.634                                     6h       16                 31      17                    64      1,1
+                                                                        5.311              NFZ    FSp     50                 65      19                   134      14,4
+                                                                                                  NSp     76                 35      14                   125      10,6
+                                                791             1.843    2.677                    6h     322                278     110                    710     12,2
+                                                                                           SV     FSp     15                 25        4                    44      4,7
+                                                                                                  NSp     22                 12        5                    39      3,3
+                                                                                                  6h      89                100       25                   214      3,7
+                                                                                           KFZ FSp 378                      419     133                   930
+
+
+
+
+              Seeburger Ch.
+                                                                                                                                                                    100
+                                                                                                  NSp 623                   352     209                  1184       100
+                                                                                                  6h    2634               2281     911                  5826       100
+                              1.963   1.052                                                FZ     FSp    379                424     133                    936      100
+                                       657                                                        NSp    630                357     214                  1201       100
+
+       WEST
+                              911                                                                 6h    2650               2312      851                  5813      100
+                                      254
+                                                                                           Q DTVw:2,20 11684               9632    4319
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                           - Wetter früh 14°C bewölkt, trocken;
+                                                                                             nachmittag 25ºC sonnig bis bewölkt, trocken
+
+                                                2.097           261      2.020                 Sph-Beginn:      8.30     Uhr und   15.30 Uhr
+                                                                                           SUMME Zufahrten: [FSp]: 930 KFZ/h 9:00
+                                               4.378                                                          (NSp): 1184 KFZ/h 16:00
+                                                               2.281                                            6h : 5826 KFZ
+                                                            SÜD                            max. Sph /Zufahrt: NORD    623 KFZ/h 16:00
+                                              Potsdamer Ch.                                                               SÜD       429 KFZ/h 8:30
+                                                                                             DATUM :                     WEST       209 KFZ/h 16:00
+                                                                                            08.06.2017
+                                                                                6h Werte                  Seeburger CH./Potsdamer Ch.
+                                                                                          296
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr                      OT Groß Glienicke
+
+
+
+StromPlan296kp5-17_in Bearbeitung.xls                                            Seite 1
+SVP, 461                                                                                                                                                    19.03.2018
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                        NORD                                    Zufahrt: NORD SÜD WEST     SUMME %
+                                              Potsdamer Ch.                                RAD    FSp       1                  5       0                     6      0,6
+                                                                                                  NSp       7                  5       5                    17      1,4
+                                                      378                                         6h       16                 31      17                    64      1,1
+                                                                        848                NFZ    FSp     50                 65      19                   134      14,4
+                                                                                                  NSp     76                 35      14                   125      10,6
+                                                128         250         470                       6h     322                278     110                    710     12,2
+                                                                                           SV     FSp     15                 25        4                    44      4,7
+                                                                                                  NSp     22                 12        5                    39      3,3
+                                                                                                  6h      89                100       25                   214      3,7
+                                                                                           KFZ FSp 378                      419     133                   930
+
+
+
+
+              Seeburger Ch.
+                                                                                                                                                                    100
+                                                                                                  NSp 623                   352     209                  1184       100
+                                                                                                  6h    2634               2281     911                  5826       100
+                              315   182                                                    FZ     FSp    379                424     133                    936      100
+                                    105                                                           NSp    630                357     188                  1201       100
+
+       WEST
+                              133                                                                 6h    2650               2312      851                  5813      100
+                                    28
+                                                                                           Q DTVw:2,20 11684               9632    4319
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                           - Wetter früh 14°C bewölkt, trocken;
+                                                                                             nachmittag 25ºC sonnig bis bewölkt, trocken
+                                                278         54          365                    Sph-Beginn:      8.30     Uhr und   15.30 Uhr
+                                                                                           SUMME Zufahrten: [FSp]: 930 KFZ/h 9:00
+                                                697                                                           (NSp): 1184 KFZ/h 16:00
+                                                                  419                                           6h : 5826 KFZ
+                                                            SÜD                            max. Sph /Zufahrt: NORD    623 KFZ/h 16:00
+                                              Potsdamer Ch.                                                               SÜD       429 KFZ/h 8:30
+                                                                                             DATUM :                     WEST       209 KFZ/h 16:00
+                                                                                            08.06.2017
+                                                                                 930 KFZ/h                Seeburger CH./Potsdamer Ch.
+                                                                                             296
+                                                              Kfz-Stromverteilung in der FSp                   OT Groß Glienicke
+
+
+
+StromPlan (FSp)296kp5-17_in Bearbeitung.xls                                   Seite 2
+SVP, 461                                                                                                                                                    19.03.2018
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                        NORD                                    Zufahrt: NORD SÜD WEST     SUMME %
+                                              Potsdamer Ch.                                RAD    FSp       1                  5       0                     6      0,6
+                                                                                                  NSp       7                  5       5                    17      1,4
+                                                      623                                         6h       16                 31      17                    64      1,1
+                                                                    1.068                  NFZ    FSp     50                 65      19                   134      14,4
+                                                                                                  NSp     76                 35      14                   125      10,6
+                                                186         437         445                       6h     322                278     110                    710     12,2
+                                                                                           SV     FSp     15                 25        4                    44      4,7
+                                                                                                  NSp     22                 12        5                    39      3,3
+                                                                                                  6h      89                100       25                   214      3,7
+                                                                                           KFZ FSp 378                      419     133                   930
+
+
+
+
+              Seeburger Ch.
+                                                                                                                                                                    100
+                                                                                                  NSp 623                   352     209                  1184       100
+                                                                                                  6h    2634               2281     911                  5826       100
+                              434   225                                                    FZ     FSp    379                424     133                    936      100
+                                    132                                                           NSp    630                357     188                  1201       100
+
+       WEST
+                              209                                                                 6h    2650               2312      851                  5813      100
+                                    77
+                                                                                           Q DTVw:2,20 11684               9632    4319
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                           - Wetter früh 14°C bewölkt, trocken;
+                                                                                             nachmittag 25ºC sonnig bis bewölkt, trocken
+                                                514         39          313                    Sph-Beginn:      8.30     Uhr und   15.30 Uhr
+                                                                                           SUMME Zufahrten: [FSp]: 930 KFZ/h 9:00
+                                                866                                                           (NSp): 1184 KFZ/h 16:00
+                                                                  352                                           6h : 5826 KFZ
+                                                            SÜD                            max. Sph /Zufahrt: NORD    623 KFZ/h 16:00
+                                              Potsdamer Ch.                                                               SÜD       429 KFZ/h 8:30
+                                                                                             DATUM :                     WEST       209 KFZ/h 16:00
+                                                                                            08.06.2017
+                                                                                1.184 KFZ/h               Seeburger CH./Potsdamer Ch.
+                                                                                             296
+                                                              Kfz-Stromverteilung in der NSp                   OT Groß Glienicke
+
+
+
+StromPlan (NSp)296kp5-17_in Bearbeitung.xls                                   Seite 3
+

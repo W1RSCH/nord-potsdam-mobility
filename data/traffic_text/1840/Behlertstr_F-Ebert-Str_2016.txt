@@ -1,0 +1,139 @@
+SVP, 461                                                                                                                                               18.07.2016
+
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                         NORD                                                                       Zufahrt: NORD SÜD          SUMME %
+           F.-Ebert-Str.                                                                       RAD         FSp        226       121                             347     49,3
+                                                                                                           NSp        115       197                             312     43,3
+                                                                                                           6h         822       870                            1692     46,3
+                    1.128
+                                  1.783                                                        NFZ         FSp         34        16                              50     14,0
+
+                                                            Eisenhartstr.                                  NSp         32        24                              56     13,7
+              608         520         655                                                                  6h         181       154                             335     17,1
+                                                                                               SV          FSp         11         9                              20       5,6
+                                                                                                           NSp         11        10                              21       5,1
+                                                      572             700                                  6h          62        54                             116       5,9
+                                                                                               KFZ    FSp            281         76                             357      100
+
+
+
+
+                                                                             Behlertstr.
+                                                                                                      NSp            199        209                             408      100
+                                                                                                      6h            1128        835                            1963      100
+                                                                                               FZ     FSp            507        197                             704      100
+                                            OST                       128                             NSp            314        406                             720      100
+                                                                                                      6h            1950       1705                            3655      100
+                                                                                               Q DTVw: ###          4458       3608
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                               Bemerkungen :
+                                                                                               - Behlertstr. nicht befahrbar da Einbahnstr.
+              608         655         180                                                      - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+                                                                                                  Sph-Beginn: 7.30 Uhr und 15.30 Uhr
+             1.443                                                                             SUMME Zufahrten: [FSp] :                 357 KFZ/h 8:00
+                                835
+                                                                                                                            (NSp):      408 KFZ/h 16:00
+                         SÜD                                                                                                    6h :   1963 KFZ
+           F.-Ebert-Str.                                                                       max. Sph /Zufahrt: NORD                   281 KFZ/h 8:00
+                                                                                                                   SÜD                   213 KFZ/h 15:30
+                                                                                                DATUM :
+                                                                                      6h Werte 12.05.2016
+                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 184                     F.-Ebert-Str. / Behlertstr.
+
+StromPlan184kp5-16.xls                                                1
+SVP, 461                                                                                                                                      18.07.2016
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                      NORD                                                                 Zufahrt: NORD SÜD          SUMME %
+           F.-Ebert-Str.                                                              RAD         FSp        226       121                             347     49,3
+                                                                                                  NSp        115       197                             312     43,3
+                                                                                                  6h         822       870                            1692     46,3
+                    281
+                                     330                                              NFZ         FSp         34        16                              50     14,0
+
+                                                       Eisenhartstr.                              NSp         32        24                              56     13,7
+              131         150        49                                                           6h         181       154                             335     17,1
+                                                                                      SV          FSp         11         9                              20       5,6
+                                                                                                  NSp         11        10                              21       5,1
+                                                 154              177                             6h          62        54                             116       5,9
+                                                                                      KFZ    FSp            281         76                             357      100
+
+
+
+
+                                                                        Behlertstr.
+                                                                                             NSp            199        209                             408      100
+                                                                                             6h            1128        835                            1963      100
+                                                                                      FZ     FSp            507        197                             704      100
+                                           OST                    23                         NSp            314        406                             720      100
+                                                                                             6h            1950       1705                            3655      100
+                                                                                      Q DTVw: ###          4458       3608
+                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                      Bemerkungen :
+                                                                                      - Behlertstr. nicht befahrbar da Einbahnstr.
+              131         49         27                                               - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+                                                                                         Sph-Beginn: 7.30 Uhr und 15.30 Uhr
+              207                                                                     SUMME Zufahrten: [FSp] :                 357 KFZ/h 8:00
+                                76
+                                                                                                                   (NSp):      408 KFZ/h 16:00
+                       SÜD                                                                                             6h :   1963 KFZ
+           F.-Ebert-Str.                                                              max. Sph /Zufahrt: NORD                   281 KFZ/h 8:00
+                                                                                                          SÜD                   213 KFZ/h 15:30
+                                                                                       DATUM :
+                                                                          357 KFZ/h 12.05.2016
+                                                       Kfz-Stromverteilung in der FSp 184                  F.-Ebert-Str. / Behlertstr.
+
+StromPlan (FSp)184kp5-16.xls                                     2
+SVP, 461                                                                                                                                      18.07.2016
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                      NORD                                                                 Zufahrt: NORD SÜD          SUMME %
+           F.-Ebert-Str.                                                              RAD         FSp        226       121                             347     49,3
+                                                                                                  NSp        115       197                             312     43,3
+                                                                                                  6h         822       870                            1692     46,3
+                    199
+                                      374                                             NFZ         FSp         34        16                              50     14,0
+
+                                                       Eisenhartstr.                              NSp         32        24                              56     13,7
+              113         86          175                                                         6h         181       154                             335     17,1
+                                                                                      SV          FSp         11         9                              20       5,6
+                                                                                                  NSp         11        10                              21       5,1
+                                                  95              120                             6h          62        54                             116       5,9
+                                                                                      KFZ    FSp            281         76                             357      100
+
+
+
+
+                                                                        Behlertstr.
+                                                                                             NSp            199        209                             408      100
+                                                                                             6h            1128        835                            1963      100
+                                                                                      FZ     FSp            507        197                             704      100
+                                            OST                   25                         NSp            314        406                             720      100
+                                                                                             6h            1950       1705                            3655      100
+                                                                                      Q DTVw: ###          4458       3608
+                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                      Bemerkungen :
+                                                                                      - Behlertstr. nicht befahrbar da Einbahnstr.
+              113         175         34                                              - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+                                                                                         Sph-Beginn: 7.30 Uhr und 15.30 Uhr
+              322                                                                     SUMME Zufahrten: [FSp] :                 357 KFZ/h 8:00
+                                209
+                                                                                                                   (NSp):      408 KFZ/h 16:00
+                       SÜD                                                                                             6h :   1963 KFZ
+           F.-Ebert-Str.                                                              max. Sph /Zufahrt: NORD                   281 KFZ/h 8:00
+                                                                                                          SÜD                   213 KFZ/h 15:30
+                                                                                       DATUM :
+                                                                          408 KFZ/h 12.05.2016
+                                                       Kfz-Stromverteilung in der NSp 184                  F.-Ebert-Str. / Behlertstr.
+
+StromPlan (NSp)184kp5-16.xls                                      3
+

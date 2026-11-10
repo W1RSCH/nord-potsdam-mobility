@@ -1,0 +1,163 @@
+        SVP, 461                                                                                                                                                                    06.07.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD OST                   SÜD WEST                SUMME %
+                                           NORD                                                                       RAD    FSp     46   136                  17   427                  626         14,4
+                                                                                                                             NSp     31   237                  10   214                  492         11,5
+                                    Schopenhauerstr.                                                                         6h     213 1088                    84 1406                 2791         11,7
+                                            1.500                                                                     NFZ    FSp     31  298                     4  257                 590          15,9
+                                                          2.712                                                              NSp     35  236                   11   247                 529          13,9
+                                                                                                                             6h     192 1338                   48 1349                 2927          13,9
+                                    883      162    455    1.212                                                      SV     FSp     11    87                    0   54                 152           4,1
+                                                                                                                             NSp      8    33                    0   47                   88          2,3
+                                                                                                                             6h      54   330                    2  342                  728          3,5
+                                                                                                                      KFZ FSp 194 1430                         47 2050                 3721          100
+                                                                                                                             NSp 322 1733                      46 1699                 3800          100
+                                                                                                                             6h    1500 9109                  250 10220               21079          100
+
+
+
+
+       Breite Str.                                                                                      Breite Str.
+                                                                                                                      FZ     FSp    240 1566                   64  2477                4347          100
+                     19.715 9.495                                                 604                                        NSp    353 1970                   56  1913                4292          100
+                                                                                         9.109
+                             578                                                 8.505            OST                        6h    1713 10197                 334 11626               23870          100
+
+WEST
+                     10.220 9.326                                                                                     Q DTVw: 2,5 6780 47508                 1820 49288
+                             316                                                 9.894   19.003                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 17ºC bewölkt, vereinzelt Regen;
+                                                                                                                       nachm. 25ºC stark bewölkt, trocken
+
+
+                                                                                                                          Sph-Beginn:      7.30    Uhr und   15.30 Uhr
+                                    478      107    30     113                                                        SUMME Zufahrten:               [FSp]: 3721 KFZ/h 8:00
+                                                                                                                                                   (NSp): 3800 KFZ/h 16:00
+                                    728                                                                                                                6h : 21079 KFZ
+                                                    250                                                               max. Sph /Zufahrt: NORD                 322 KFZ/h 16:00
+                                                    SÜD                                                                                   OST                1814 KFZ/h 16:30
+                                          Wall am Kiez                                                                  DATUM :                       SÜD        49 KFZ/h 15:30
+                                                                                                  6h Werte 02.06.2016                              WEST      2050 KFZ/h 8:00
+                                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 105                                   Breite Str./Schopenhauerstr.
+
+
+
+
+        StromPlan105kp6-16.xls                                         Seite 1
+        SVP, 461                                                                                                                                                                  06.07.2016
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST                   SÜD WEST                SUMME %
+                                              NORD                                                                  RAD    FSp     46   136                  17   427                  626         14,4
+                                                                                                                           NSp     31   237                  10   214                  492         11,5
+                                       Schopenhauerstr.                                                                    6h     213 1088                    84 1406                 2791         11,7
+                                               194                                                                  NFZ    FSp     31  298                     4  257                 590          15,9
+                                                            395                                                            NSp     35  236                   11   247                 529          13,9
+                                                                                                                           6h     192 1338                   48 1349                 2927          13,9
+                                       90      28    76     201                                                     SV     FSp     11    87                    0   54                 152           4,1
+                                                                                                                           NSp      8    33                    0   47                   88          2,3
+                                                                                                                           6h      54   330                    2  342                  728          3,5
+                                                                                                                    KFZ FSp 194 1430                         47 2050                 3721          100
+                                                                                                                           NSp 322 1733                      46 1699                 3800          100
+                                                                                                                           6h    1500 9109                  250 10220               21079          100
+
+
+
+
+       Breite Str.                                                                                    Breite Str.
+                                                                                                                    FZ     FSp    240 1566                   64  2477                4347          100
+                     3.484   1.434                                               102                                       NSp    353 1970                   56  1913                4292          100
+                                                                                        1.430
+                              96                                                1.328           OST                        6h    1713 10197                 334 11626               23870          100
+
+WEST
+                     2.050   1.884                                                                                  Q DTVw: 2,5 6780 47508                 1820 49288
+                              70                                                1.988   3.418                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Wetter früh 17ºC bewölkt, vereinzelt Regen;
+                                                                                                                     nachm. 25ºC stark bewölkt, trocken
+
+
+                                                                                                                        Sph-Beginn:      7.30    Uhr und   15.30 Uhr
+                                       98      16    3      28                                                      SUMME Zufahrten:               [FSp]: 3721 KFZ/h 8:00
+                                                                                                                                                 (NSp): 3800 KFZ/h 16:00
+                                       145                                                                                                           6h : 21079 KFZ
+                                                      47                                                            max. Sph /Zufahrt: NORD                 322 KFZ/h 16:00
+                                                     SÜD                                                                                OST                1814 KFZ/h 16:30
+                                             Wall am Kiez                                                             DATUM :                       SÜD        49 KFZ/h 15:30
+                                                                                           3.721 KFZ/h 02.06.2016                                WEST      2050 KFZ/h 8:00
+                                                                  Kfz-Stromverteilung in der FSp 105                                     Breite Str./Schopenhauerstr.
+
+
+
+
+        StromPlan (FSp)105kp6-16.xls                                  Seite 2
+        SVP, 461                                                                                                                                                                  06.07.2016
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST                   SÜD WEST                SUMME %
+                                              NORD                                                                  RAD    FSp     46   136                  17   427                  626         14,4
+                                                                                                                           NSp     31   237                  10   214                  492         11,5
+                                       Schopenhauerstr.                                                                    6h     213 1088                    84 1406                 2791         11,7
+                                               322                                                                  NFZ    FSp     31  298                     4  257                 590          15,9
+                                                            535                                                            NSp     35  236                   11   247                 529          13,9
+                                                                                                                           6h     192 1338                   48 1349                 2927          13,9
+                                       197     40    85     213                                                     SV     FSp     11    87                    0   54                 152           4,1
+                                                                                                                           NSp      8    33                    0   47                   88          2,3
+                                                                                                                           6h      54   330                    2  342                  728          3,5
+                                                                                                                    KFZ FSp 194 1430                         47 2050                 3721          100
+                                                                                                                           NSp 322 1733                      46 1699                 3800          100
+                                                                                                                           6h    1500 9109                  250 10220               21079          100
+
+
+
+
+       Breite Str.                                                                                    Breite Str.
+                                                                                                                    FZ     FSp    240 1566                   64  2477                4347          100
+                     3.542   1.843                                               107                                       NSp    353 1970                   56  1913                4292          100
+                                                                                        1.733
+                              101                                               1.626           OST                        6h    1713 10197                 334 11626               23870          100
+
+WEST
+                     1.699   1.553                                                                                  Q DTVw: 2,5 6780 47508                 1820 49288
+                              45                                                1.659   3.392                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Wetter früh 17ºC bewölkt, vereinzelt Regen;
+                                                                                                                     nachm. 25ºC stark bewölkt, trocken
+
+
+                                                                                                                        Sph-Beginn:      7.30    Uhr und   15.30 Uhr
+                                       85      20    5      21                                                      SUMME Zufahrten:               [FSp]: 3721 KFZ/h 8:00
+                                                                                                                                                 (NSp): 3800 KFZ/h 16:00
+                                       131                                                                                                           6h : 21079 KFZ
+                                                      46                                                            max. Sph /Zufahrt: NORD                 322 KFZ/h 16:00
+                                                     SÜD                                                                                OST                1814 KFZ/h 16:30
+                                             Wall am Kiez                                                             DATUM :                       SÜD        49 KFZ/h 15:30
+                                                                                           3.800 KFZ/h 02.06.2016                                WEST      2050 KFZ/h 8:00
+                                                                  Kfz-Stromverteilung in der NSp 105                                     Breite Str./Schopenhauerstr.
+
+
+
+
+        StromPlan (NSp)105kp6-16.xls                                  Seite 3
+

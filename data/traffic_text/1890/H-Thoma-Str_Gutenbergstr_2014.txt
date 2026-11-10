@@ -1,0 +1,145 @@
+SVP, 461                                                                                                                                                22.01.2015
+
+
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                               NORD WEST                 OST                        SUMME %
+                                                                               RAD         FSp    72   66                154                         273             14,3
+                                                                                           NSp    57   99                  72                        224             12,2
+                                                                                           6h    331  399                 523                       1253             12,0
+                                                                               NFZ         FSp 153    25                                             178             10,9
+                                NORD                                                       NSp 172    33                                             205             12,7
+                                                                                           6h    964 158                                            1122             12,2
+                         H.-Thoma-Str.                                         SV          FSp    41    2                                             43              2,6
+                            7.841                                                          NSp    28    0                                             28              1,7
+                                                                                           6h    237   15                                            252              2,7
+
+                          167
+                                 7.674
+                                                                               KFZ         FSp 1356            283                                 1639              100
+                                                                                           NSp 1329            280                                 1609              100
+                                                                                           6h  7841           1384                                  9225             100
+                                                                               FZ          FSp 1428            349         154                      1912             100
+                                                                                           NSp 1386            379          72                      1833             100
+                                                                                           6h   8172          1783         523                     10478             100
+                                                                               Bemerkungen:
+
+           167                                                                 - Humboldtbrücke Baustelle; stadtausw. nur 2 Spuren
+
+                                                                               - beide Spuren auf Humboldtbrücke stadteinw. auf eine eingeengt
+
+       1.384                                                     9.058         *) In KP-Summe zusätzlich 523 Räder Zuf O mit enthalten - siehe Radtabelle!
+                                                                               - Wetter früh 12ºC bewölkt, trocken; nachmittags 18ºC bewölkt, trocken
+
+                                                                                    Sph-Beginn:     7.30    Uhr und     16.00 Uhr
+                                                                               SUMME Zufahrten: [FSp]: 1639 KFZ/h 8:00
+      WEST               Gutenbergstr.                          OST                               (NSp): 1609 KFZ/h 16:30
+                                                                                                    6h : 9225 KFZ
+                                                                               max. Sph /Zufahrt: NORD 1359 KFZ/h 7:30
+
+                                                                                 DATUM :                    WEST           283 KFZ/h 8:00
+                                                                      6h Werte 25.09.2014
+                                    von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 189                            H.-Thoma-Str./Gutenbergstr.
+
+
+
+
+StromPlan189kp9-14.xls                                      Seite 1
+SVP, 461                                                                                                                                              22.01.2015
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                             NORD WEST                 OST                        SUMME %
+                                                                             RAD         FSp    72   66                154                         273             14,3
+                                                                                         NSp    57   99                  72                        224             12,2
+                                                                                         6h    331  399                 523                       1253             12,0
+                                                                             NFZ         FSp 153    25                                             178             10,9
+                                     NORD                                                NSp 172    33                                             205             12,7
+                                                                                         6h    964 158                                            1122             12,2
+                               H.-Thoma-Str.                                 SV          FSp    41    2                                             43              2,6
+                                 1.356                                                   NSp    28    0                                             28              1,7
+                                                                                         6h    237   15                                            252              2,7
+
+                                22
+                                      1.334
+                                                                             KFZ         FSp 1356            283                                 1639              100
+                                                                                         NSp 1329            280                                 1609              100
+                                                                                         6h  7841           1384                                  9225             100
+                                                                             FZ          FSp 1428            349         154                      1912             100
+                                                                                         NSp 1386            379          72                      1833             100
+                                                                                         6h   8172          1783         523                     10478             100
+                                                                             Bemerkungen:
+
+            22                                                               - Humboldtbrücke Baustelle; stadtausw. nur 2 Spuren
+
+                                                                             - beide Spuren auf Humboldtbrücke stadteinw. auf eine eingeengt
+
+           283                                                   1.617       *) In KP-Summe zusätzlich 523 Räder Zuf O mit enthalten - siehe Radtabelle!
+                                                                             - Wetter früh 12ºC bewölkt, trocken; nachmittags 18ºC bewölkt, trocken
+
+                                                                                  Sph-Beginn:     7.30    Uhr und     16.00 Uhr
+                                                                             SUMME Zufahrten: [FSp]: 1639 KFZ/h 8:00
+       WEST                    Gutenbergstr.                    OST                             (NSp): 1609 KFZ/h 16:30
+                                                                                                  6h : 9225 KFZ
+                                                                             max. Sph /Zufahrt: NORD 1359 KFZ/h 7:30
+
+                                                                               DATUM :                    WEST           283 KFZ/h 8:00
+                                                                 1.639 KFZ/h 25.09.2014
+                                              Kfz-Stromverteilung in der FSp 189                           H.-Thoma-Str./Gutenbergstr.
+
+
+
+
+StromPlan (FSp)189kp9-14.xls                                Seite 2
+SVP, 461                                                                                                                                              22.01.2015
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                             NORD WEST                 OST                        SUMME %
+                                                                             RAD         FSp    72   66                154                         273             14,3
+                                                                                         NSp    57   99                  72                        224             12,2
+                                                                                         6h    331  399                 523                       1253             12,0
+                                                                             NFZ         FSp 153    25                                             178             10,9
+                                     NORD                                                NSp 172    33                                             205             12,7
+                                                                                         6h    964 158                                            1122             12,2
+                               H.-Thoma-Str.                                 SV          FSp    41    2                                             43              2,6
+                                 1.329                                                   NSp    28    0                                             28              1,7
+                                                                                         6h    237   15                                            252              2,7
+
+                                23
+                                      1.306
+                                                                             KFZ         FSp 1356            283                                 1639              100
+                                                                                         NSp 1329            280                                 1609              100
+                                                                                         6h  7841           1384                                  9225             100
+                                                                             FZ          FSp 1428            349         154                      1912             100
+                                                                                         NSp 1386            379          72                      1833             100
+                                                                                         6h   8172          1783         523                     10478             100
+                                                                             Bemerkungen:
+
+            23                                                               - Humboldtbrücke Baustelle; stadtausw. nur 2 Spuren
+
+                                                                             - beide Spuren auf Humboldtbrücke stadteinw. auf eine eingeengt
+
+           280                                                   1.586       *) In KP-Summe zusätzlich 523 Räder Zuf O mit enthalten - siehe Radtabelle!
+                                                                             - Wetter früh 12ºC bewölkt, trocken; nachmittags 18ºC bewölkt, trocken
+
+                                                                                  Sph-Beginn:     7.30    Uhr und     16.00 Uhr
+                                                                             SUMME Zufahrten: [FSp]: 1639 KFZ/h 8:00
+      WEST                     Gutenbergstr.                    OST                             (NSp): 1609 KFZ/h 16:30
+                                                                                                  6h : 9225 KFZ
+                                                                             max. Sph /Zufahrt: NORD 1359 KFZ/h 7:30
+
+                                                                               DATUM :                    WEST           283 KFZ/h 8:00
+                                                                 1.609 KFZ/h 25.09.2014
+                                              Kfz-Stromverteilung in der NSp 189                           H.-Thoma-Str./Gutenbergstr.
+
+
+
+
+StromPlan (NSp)189kp9-14.xls                                Seite 3
+

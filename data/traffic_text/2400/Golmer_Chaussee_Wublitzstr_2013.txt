@@ -1,0 +1,134 @@
+                                                                                                            14.06.2016
+
+
+
+
+                                                                            FAHRZEUG-VERTEILUNG
+                                                                            NORD OST WEST     SUMME %
+                                                         RAD        FSp         4         5       2                11      1,7
+                                                                    NSp         1         3     11                 15      2,2
+                                                                    6h         10        31      35                 76     2,2
+                                                         NFZ        FSp       22        28      28                 78     12,2
+                         NORD                                       NSp       15        46      31                 92     13,6
+                                                                    6h       102       206     138                446     13,3
+                   Wublitzstr.                           SV         FSp         4         4     11                 19      3,0
+                                                                    NSp         3         9       7                19      2,8
+                     1.090      2.294                               6h        25        46      43                114      3,4
+
+                   406    684
+                                 1.204
+                                                         KFZ        FSp 309           199     133                641      100
+                                                                    NSp 154           266     258                678      100
+                                                                    6h  1090         1270      987              3347      100
+                                                         FZ         FSp  313          204      135               652      100
+                                                                    NSp  155          269      269               693      100
+                                                                    6h  1100         1301     1022              3423      100
+                                                         Bemerkungen :
+1.951        964                           712
+                                                 1.270
+             492                           558
+  987
+             495                         1.179   2.449
+
+                                                              Sph-Beginn:    7:00 Uhr und     16:00 Uhr
+                                                         SUMME Zufahrten: [FSp]:               641 KFZ/h 7:30
+        WEST       Golmer Ch.            OST                                        (NSp):     678 KFZ/h 16:30
+                                                                              6h :            3347 KFZ
+                                                         max. Sph /Zufahrt: NORD               309 KFZ/h 7:30
+                                                                             OST               266 KFZ/h 16:30
+                                                          DATUM :           WEST               258 KFZ/h 16:30
+                                                         18.04.2013
+                                                          240               Golmer Chaussee/ Wublitzstr.
+
+
+
+  SVP, 461                                                                                       StromPlan240kp4-13.xls
+                                                                                                                              14.06.2016
+
+
+
+
+                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                             NORD OST WEST     SUMME %
+                                                                          RAD        FSp         4         5       2                 11      1,7
+                                                                                     NSp         1         3     11                  15      2,2
+                                                                                     6h         10        31      35                  76     2,2
+                                                                          NFZ        FSp       22        28      28                  78     12,2
+                          NORD                                                       NSp       15        46      31                  92     13,6
+                                                                                     6h       102       206     138                 446     13,3
+                  Wublitzstr.                                             SV         FSp         4         4     11                  19      3,0
+                                                                                     NSp         3         9       7                 19      2,8
+                        309         446                                              6h        25        46      43                 114      3,4
+
+                  151         158   137
+                                                                          KFZ        FSp 309           199      133                641      100
+                                                                                     NSp 154           266      258                678      100
+                                                                                     6h  1090         1270       987              3347      100
+                                                                          FZ         FSp  313          204       135               652      100
+                                                                                     NSp  155          269       269               693      100
+                                                                                     6h  1100         1301      1022              3423      100
+                                                                          Bemerkungen :
+409         276                                             74
+                                                                    199
+             63                                            125
+ 133
+             70                                            228      427
+
+                                                                               Sph-Beginn:    7:00 Uhr und     16:00 Uhr
+                                                                          SUMME Zufahrten: [FSp]:               641 KFZ/h 7:30
+       WEST       Golmer Ch.                             OST                                         (NSp):     678 KFZ/h 16:30
+                                                                                               6h :            3347 KFZ
+                                                                          max. Sph /Zufahrt: NORD               309 KFZ/h 7:30
+                                                                                              OST               266 KFZ/h 16:30
+                                                                           DATUM :           WEST               258 KFZ/h 16:30
+                                                   641 KFZ/h             18.04.2013
+                                          Kfz-Stromverteilung in der FSp 240        Golmer Chaussee/ Wublitzstr.
+
+
+
+ SVP, 461                                                                                                      StromPlan FSp240kp4-13.xls
+                                                                                                                              14.06.2016
+
+
+
+
+                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                            NORD OST WEST     SUMME %
+                                                                         RAD        FSp         4         5        2                11      1,7
+                                                                                    NSp         1         3      11                 15      2,2
+                                                                                    6h         10        31       35                 76     2,2
+                                                                         NFZ        FSp       22        28       28                 78     12,2
+                         NORD                                                       NSp       15        46       31                 92     13,6
+                                                                                    6h       102       206      138                446     13,3
+                  Wublitzstr.                                            SV         FSp         4         4      11                 19      3,0
+                                                                                    NSp         3         9        7                19      2,8
+                       154         471                                              6h        25        46       43                114      3,4
+
+                  48         106   317
+                                                                         KFZ        FSp 309           199      133                641      100
+                                                                                    NSp 154           266      258                678      100
+                                                                                    6h  1090         1270       987              3347      100
+                                                                         FZ         FSp  313          204       135               652      100
+                                                                                    NSp  155          269       269               693      100
+                                                                                    6h  1100         1301      1022              3423      100
+                                                                         Bemerkungen :
+395         137                                            177
+                                                                   266
+            140                                             89
+ 258
+            118                                            224     490
+
+                                                                              Sph-Beginn:    7:00 Uhr und     16:00 Uhr
+                                                                         SUMME Zufahrten: [FSp]:               641 KFZ/h 7:30
+       WEST       Golmer Ch.                            OST                                         (NSp):     678 KFZ/h 16:30
+                                                                                              6h :            3347 KFZ
+                                                                         max. Sph /Zufahrt: NORD               309 KFZ/h 7:30
+                                                                                             OST               266 KFZ/h 16:30
+                                                                          DATUM :           WEST               258 KFZ/h 16:30
+                                                  678 KFZ/h             18.04.2013
+                                         Kfz-Stromverteilung in der NSp 240        Golmer Chaussee/ Wublitzstr.
+
+
+
+ SVP, 461                                                                                                     StromPlan NSp240kp4-13.xls
+

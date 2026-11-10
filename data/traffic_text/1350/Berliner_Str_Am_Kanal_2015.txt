@@ -1,0 +1,172 @@
+         SVP, 461                                                                                                                                                       11.04.2016
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                                RAD    FSp    103                  13    31                      147     10,7
+                                                                                                                       NSp    123                   6    60                      189     12,5
+                                                                                                                       6h     520                  57   217                      794     10,2
+                                                                                                                NFZ    FSp     71                 10    55                      136      11,0
+                                                                                                                       NSp     44                 10    58                      112       8,5
+                                                                                                                       6h     369                  51  287                       707     10,1
+                                                                                                                SV     FSp     18                   2   16                        36      2,9
+                                                                                                                       NSp      7                   1   11                        19      1,4
+                                                                                                                       6h      78                   5    75                      158      2,3
+                                                                                                                KFZ FSp 560                       78   594                     1232      100
+                                                                                                                       NSp 737                   101   484                     1322      100
+
+
+
+
+                                                                                                Berliner Str.
+                                                                                                                       6h    3808                424 2769                      7001
+
+
+
+
+       Am Kanal
+                                                                                                                                                                                         100
+                  6.276   3.507                                                                                 FZ     FSp    663                  91  625                     1379      100
+                                                                          3.433           OST                          NSp    860                107   544                     1511      100
+
+WEST
+                                                                                  3.808
+                          2.492                                            375                                         6h    4328                 481 2986                      7795     100
+                  2.769
+                           277                                            2.842   6.650                         Q DTVw: 2,5 16625               2690 15690
+                                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                Bemerkungen :
+
+                                                                                                                - ÖPNV-Streik
+                                                                                                                - Wetter früh 7°C bewölkt, trocken; nachmittag 17°C bewölkt,
+                                                                                                                  zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+                                   652      74         350                                                          Sph-Beginn: 7:30 Uhr und 15:30 Uhr
+                                                                                                                SUMME Zufahrten: [FSp]: 1232 KFZ/h 8:00
+                                  1.076                                                                                            (NSp): 1322 KFZ/h 16:00
+                                                 424                                                                                  6h : 7001 KFZ
+                                                       SÜD                                                      max. Sph /Zufahrt:   OST    761 KFZ/h 17:30
+                                         Burgstr.                                                                                                SÜD     101 KFZ/h 16:00
+                                                                                                                  DATUM :                     WEST       594 KFZ/h 8:00
+                                                                                        6h Werte 30.04.2015
+                                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 135                                      Berliner Str. / Am Kanal
+
+
+         StromPlan135kp4-15.xls                                       Seite 1
+         SVP, 461                                                                                                                                                      11.04.2016
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                               RAD    FSp    103                  13    31                      147     10,7
+                                                                                                                      NSp    123                   6    60                      189     12,5
+                                                                                                                      6h     520                  57   217                      794     10,2
+                                                                                                               NFZ    FSp     71                 10    55                      136      11,0
+                                                                                                                      NSp     44                 10    58                      112       8,5
+                                                                                                                      6h     369                  51  287                       707     10,1
+                                                                                                               SV     FSp     18                   2   16                        36      2,9
+                                                                                                                      NSp      7                   1   11                        19      1,4
+                                                                                                                      6h      78                   5    75                      158      2,3
+                                                                                                               KFZ FSp 560                       78   594                     1232      100
+                                                                                                                      NSp 737                   101   484                     1322      100
+
+
+
+
+                                                                                               Berliner Str.
+                                                                                                                      6h    3808                424 2769                      7001
+
+
+
+
+       Am Kanal
+                                                                                                                                                                                        100
+                  1.082    488                                                                                 FZ     FSp    663                  91  625                     1379      100
+                                                                           474           OST                          NSp    860                107   544                     1511      100
+
+WEST
+                                                                                 560
+                           509                                             86                                         6h    4328                 481 2986                      7795     100
+                    594
+                            85                                             573   1.133                         Q DTVw: 2,5 16625               2690 15690
+                                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                               Bemerkungen :
+
+                                                                                                               - ÖPNV-Streik
+                                                                                                               - Wetter früh 7°C bewölkt, trocken; nachmittag 17°C bewölkt,
+                                                                                                                 zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+                                        171      14        64                                                      Sph-Beginn: 7:30 Uhr und 15:30 Uhr
+                                                                                                               SUMME Zufahrten: [FSp]: 1232 KFZ/h 8:00
+                                        249                                                                                       (NSp): 1322 KFZ/h 16:00
+                                                      78                                                                             6h : 7001 KFZ
+                                                           SÜD                                                 max. Sph /Zufahrt:   OST    761 KFZ/h 17:30
+                                              Burgstr.                                                                                          SÜD     101 KFZ/h 16:00
+                                                                                                                 DATUM :                     WEST       594 KFZ/h 8:00
+                                                                                   1.232 KFZ/h 30.04.2015
+                                                                 Kfz-Stromverteilung in der FSp 135                                      Berliner Str. / Am Kanal
+
+
+         StromPlan (FSp)135kp4-15.xls                                 Seite 2
+         SVP, 461                                                                                                                                                        11.04.2016
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                                 RAD    FSp    103                  13    31                      147     10,7
+                                                                                                                        NSp    123                   6    60                      189     12,5
+                                                                                                                        6h     520                  57   217                      794     10,2
+                                                                                                                 NFZ    FSp     71                 10    55                      136      11,0
+                                                                                                                        NSp     44                 10    58                      112       8,5
+                                                                                                                        6h     369                  51  287                       707     10,1
+                                                                                                                 SV     FSp     18                   2   16                        36      2,9
+                                                                                                                        NSp      7                   1   11                        19      1,4
+                                                                                                                        6h      78                   5    75                      158      2,3
+                                                                                                                 KFZ FSp 560                       78   594                     1232      100
+                                                                                                                        NSp 737                   101   484                     1322      100
+
+
+
+
+                                                                                                 Berliner Str.
+                                                                                                                        6h    3808                424 2769                      7001
+
+
+
+
+       Am Kanal
+                                                                                                                                                                                          100
+                  1.167    683                                                                                   FZ     FSp    663                  91  625                     1379      100
+                                                                             668           OST                          NSp    860                107   544                     1511      100
+
+WEST
+                                                                                   737
+                           443                                               69                                         6h    4328                 481 2986                      7795     100
+                    484
+                            41                                               529   1.266                         Q DTVw: 2,5 16625               2690 15690
+                                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                 Bemerkungen :
+
+                                                                                                                 - ÖPNV-Streik
+                                                                                                                 - Wetter früh 7°C bewölkt, trocken; nachmittag 17°C bewölkt,
+                                                                                                                   zw. 17.30 und 18.00 Uhr vereinzelt leichter Regen
+                                        110      15         86                                                       Sph-Beginn: 7:30 Uhr und 15:30 Uhr
+                                                                                                                 SUMME Zufahrten: [FSp]: 1232 KFZ/h 8:00
+                                        211                                                                                         (NSp): 1322 KFZ/h 16:00
+                                                      101                                                                              6h : 7001 KFZ
+                                                            SÜD                                                  max. Sph /Zufahrt:   OST    761 KFZ/h 17:30
+                                              Burgstr.                                                                                            SÜD     101 KFZ/h 16:00
+                                                                                                                   DATUM :                     WEST       594 KFZ/h 8:00
+                                                                                    1.322 KFZ/h 30.04.2015
+                                                                  Kfz-Stromverteilung in der NSp 135                                       Berliner Str. / Am Kanal
+
+
+         StromPlan (NSp)135kp4-15.xls                                   Seite 3
+

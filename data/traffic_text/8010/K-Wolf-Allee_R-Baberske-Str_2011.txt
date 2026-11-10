@@ -1,0 +1,167 @@
+                                                                                                                                                               24.11.2011
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                            NORD OST SÜD WEST SUMME %
+                                                NORD                                                       RAD       FSp         13       12         17       20           62   11,2
+
+                                         K.-Wolf-Allee                                                               NSp         12       14         10       15           51    6,9
+
+                                                                                                                     6h     48             97         64      66        275      8,1
+                                                1.115           2.063                                      NFZ       FSp   21               8        44        8        81      16,4
+                                                                                                                     NSp   29               8        30        7        74      10,8
+                                                                                                                     6h   133             47        193      31        404      13,0
+                                        82       896     137     948                                       SV        FSp     6              1        12        1        20       4,0
+                                                                                                                     NSp     7              1          7       1        16       2,3
+                                                                                                                     6h    41               5        56        3       105       3,4
+                                                                                                           KFZ       FSp 149              65        241      39        494      100
+                                                                                                                     NSp 254              83        296      50        683      100
+
+
+
+
+        R.-Baberske-Str.
+                                                                                                                     6h  1115            400       1401     203       3119      100
+
+
+
+
+                                                                                           S.-Dudow-Str.
+                                                                                                           FZ        FSp  162             77        258      59        556      100
+                           436   233                                     66                                          NSp  266             97        306      65        734      100
+                                 66                                      13    400   OST                             6h  1163            497       1465     269       3394      100
+
+WEST                       203   16                                     321                                Bemerkungen :
+                                 121                                    600 1.000                          - Wetter: früh 15º C sonnig, trocken;
+
+                                                                                                           nachmittag 27°C bewölkt, trocken (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                              Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+                                                                                                           SUMME Zufahrten: FSp :                   494 KFZ/h      8:00
+                                        1.338    138     816     447                                                           NSp :                683 KFZ/h      16:30
+                                                                                                                                6h :               3119 KFZ
+                                       2.739                                                               max. Sph /Zufahrt: NORD :                254 KFZ/h      16:30
+                                                        1.401                                                                  OST :                112 KFZ/h      16:00
+                                                        SÜD                                                 DATUM :            SÜD :                296 KFZ/h      16:30
+                                                K.-Wolf-Allee                                              19.05.2011              WEST :            50 KFZ/h 16:30
+                                                                                                            801          K.-Wolf-Allee/R.-Baberske-Str.
+
+
+
+       SVP, 461                                                                                                                                     StromPlan801kp5-11.xls
+                                                                                                                                                             24.11.2011
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                           NORD     OST SÜD WEST SUMME %
+                                            NORD                                                            RAD        FSp   13            12         17      20            62   11,2
+
+                                       K.-Wolf-Allee                                                                   NSp        12       14         10      15            51    6,9
+
+                                                                                                                       6h         48        97         64      66        275      8,1
+                                             149         305                                                NFZ        FSp       21         8         44       8         81      16,4
+                                                                                                                       NSp       29         8         30       7         74      10,8
+                                                                                                                       6h       133        47        193      31        404      13,0
+                                      20     108   21    156                                                SV         FSp         6        1         12       1         20       4,0
+                                                                                                                       NSp        7         1          7       1         16       2,3
+                                                                                                                       6h        41          5        56        3       105       3,4
+                                                                                                            KFZ        FSp      149        65        241      39        494      100
+                                                                                                                       NSp      254        83        296      50        683
+
+
+
+
+       R.-Baberske-Str.
+                                                                                                                                                                                 100
+
+
+
+
+                                                                                            S.-Dudow-Str.
+                                                                                                                       6h      1115       400       1401     203       3119      100
+                                                                                                            FZ         FSp      162        77        258      59        556      100
+                          224   185                                        8                                           NSp       266       97        306      65        734      100
+
+                                12                                         2     65   OST                              6h       1163       497      1465     269       3394      100
+
+WEST                      39    5                                         55                                Bemerkungen :
+                                22                                       108   173                          - Wetter: früh 15º C sonnig, trocken;
+                                                                                                            nachmittag 27°C bewölkt, trocken (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                                 Sph-Beginn:        7.30 Uhr und 16.00 Uhr
+                                                                                                            SUMME Zufahrten: FSp :                   494 KFZ/h      8:00
+                                      45     23    136   82                                                                     NSp :                683 KFZ/h      16:30
+                                                                                                                                 6h :               3119 KFZ
+                                      286                                                                   max. Sph /Zufahrt: NORD :                254 KFZ/h      16:30
+                                                   241                                                                          OST :                112 KFZ/h      16:00
+                                                   SÜD                                                       DATUM :            SÜD :                296 KFZ/h      16:30
+                                            K.-Wolf-Allee                      494 KFZ/h                    19.05.2011               WEST :           50 KFZ/h 16:30
+                                                               Kfz-Stromverteilung in der FSp 801                           K.-Wolf-Allee/R.-Baberske-Str.
+
+
+       SVP, 461                                                                                                                        StromPlan FSp801kp5-11.xls
+                                                                                                                                                            24.11.2011
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                          NORD     OST SÜD WEST SUMME %
+                                           NORD                                                            RAD        FSp   13            12         17      20            62   11,2
+
+                                      K.-Wolf-Allee                                                                   NSp        12       14         10      15            51    6,9
+
+                                                                                                                      6h         48        97         64      66        275      8,1
+                                            254         445                                                NFZ        FSp       21         8         44       8         81      16,4
+                                                                                                                      NSp       29         8         30       7         74      10,8
+                                                                                                                      6h       133        47        193      31        404      13,0
+                                     12     210   32    191                                                SV         FSp         6        1         12       1         20       4,0
+                                                                                                                      NSp        7         1          7       1         16       2,3
+                                                                                                                      6h        41          5        56        3       105       3,4
+                                                                                                           KFZ        FSp      149        65        241      39        494      100
+                                                                                                                      NSp      254        83        296      50        683
+
+
+
+
+       R.-Baberske-Str.
+                                                                                                                                                                                100
+
+
+
+
+                                                                                           S.-Dudow-Str.
+                                                                                                                      6h      1115       400       1401     203       3119      100
+                                                                                                           FZ         FSp      162        77        258      59        556      100
+                          107   57                                       13                                           NSp       266       97        306      65        734      100
+
+                                15                                        4     83   OST                              6h       1163       497      1465     269       3394      100
+
+WEST                      50    7                                        66                                Bemerkungen :
+                                28                                      131   214                          - Wetter: früh 15º C sonnig, trocken;
+                                                                                                           nachmittag 27°C bewölkt, trocken (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                                Sph-Beginn:        7.30 Uhr und 16.00 Uhr
+                                                                                                           SUMME Zufahrten: FSp :                   494 KFZ/h      8:00
+                                     304    41    163   92                                                                     NSp :                683 KFZ/h      16:30
+                                                                                                                                6h :               3119 KFZ
+                                     600                                                                   max. Sph /Zufahrt: NORD :                254 KFZ/h      16:30
+                                                  296                                                                          OST :                112 KFZ/h      16:00
+                                                  SÜD                                                       DATUM :            SÜD :                296 KFZ/h      16:30
+                                           K.-Wolf-Allee                      683 KFZ/h                    19.05.2011               WEST :           50 KFZ/h 16:30
+                                                              Kfz-Stromverteilung in der NSp 801                           K.-Wolf-Allee/R.-Baberske-Str.
+
+
+       SVP, 461                                                                                                                       StromPlan SSp801kp5-11.xls
+

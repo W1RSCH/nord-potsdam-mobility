@@ -1,0 +1,161 @@
+       Landeshauptstadt Potsdam                                                                                                                                                       15.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                                    NORD                                                                        RAD    FSp    14     23                   15   143             195  8,9
+                                                                                                                                       NSp    17   104                    16     41            178  7,3
+                                                  Amundsenstr.                                                                         6h      82   375                    90   375             922 7,2
+                                                    1.376                                                                       NFZ    FSp    43   118                    50   176             387 19,4
+                                                                    2.422                                                              NSp    32   125                    23    99             279 12,3
+                                                                                                                                       6h    178   693                   187   750            1808 15,2
+                                          330        642     404     1.046                                                      SV     FSp      7   55                    19    60             141  7,1
+                                                                                                                                       NSp      6   47                      5   42             100  4,4
+                                                                                                                                       6h     39   303                    60   282             684 5,7
+                                                                                                                                KFZ FSp 245        650                   282   816            1993 100
+                                                                                                                                       NSp 237     898                   369   772            2276 100
+
+
+
+
+        Potsdamer Str.                                                                                         Potsdamer Str.
+                                                                                                                                       6h   1376 4451                   1804 4272            11903 100
+                                                                                                                                FZ     FSp   259   673                   297   959            2188 100
+                         9.032   4.760                                                    188                                          NSp   254  1002                   385   813            2454 100
+                                  179                                                    3.774   4.451   OST                           6h   1458  4826                  1894  4647           12825 100
+
+WEST
+                         4.272   3.634                                                    489                                   Q DTVw: 2,4 5692 21051                  7976 21225
+                                  459                                                    4.507   8.958                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                Bemerkungen :
+                                                                                                                                - Wetter früh 14ºC leicht bewölkt, trocken;
+                                                                                                                                 nachmittag 22ºC sonnig bis bewölkt, trocken
+
+
+                                                                                                                                    Sph-Beginn:      7.00     Uhr und   15.00 Uhr
+
+                                          1.590      656     679     469                                                        SUMME Zufahrten: [FSp] :                1993 KFZ/h 7:30
+                                                                                                                                                             (NSp):     2276 KFZ/h 15:30
+                                         3.394                                                                                                                    6h : 11903 KFZ
+                                                            1.804                                                               max. Sph /Zufahrt: NORD :                 266 KFZ/h 16:30
+                                                            SÜD                                                                                     OST :                 898 KFZ/h 15:30
+                                                  Amundsenstr.                                                                    DATUM :                      SÜD :      384 KFZ/h 16:00
+                                                                                                         6h Werte 19.09.2019                                 WEST :       816 KFZ/h 7:30
+                                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 210                             Potsdamer Str. / Amundsenstr.
+
+
+
+       StromPlan210kp9-19.xls                                                  Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                         15.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                               RAD    FSp    14     23                   15   143             195  8,9
+                                                                                                                         NSp    17   104                    16     41            178  7,3
+                                             Amundsenstr.                                                                6h      82   375                    90   375             922 7,2
+                                               245                                                                NFZ    FSp    43   118                    50   176             387 19,4
+                                                            411                                                          NSp    32   125                    23    99             279 12,3
+                                                                                                                         6h    178   693                   187   750            1808 15,2
+                                       49       124   72    166                                                   SV     FSp      7   55                    19    60             141  7,1
+                                                                                                                         NSp      6   47                      5   42             100  4,4
+                                                                                                                         6h     39   303                    60   282             684 5,7
+                                                                                                                  KFZ FSp 245        650                   282   816            1993 100
+                                                                                                                         NSp 237     898                   369   772            2276 100
+
+
+
+
+        Potsdamer Str.                                                                           Potsdamer Str.
+                                                                                                                         6h   1376 4451                   1804 4272            11903 100
+                                                                                                                  FZ     FSp   259   673                   297   959            2188 100
+                         1.484   668                                         36                                          NSp   254  1002                   385   813            2454 100
+                                 19                                          531   650     OST                           6h   1458  4826                  1894  4647           12825 100
+
+WEST
+                         816     700                                          83                                  Q DTVw: 2,4 5692 21051                  7976 21225
+                                 97                                          855   1.505                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - Wetter früh 14ºC leicht bewölkt, trocken;
+                                                                                                                   nachmittag 22ºC sonnig bis bewölkt, trocken
+
+
+                                                                                                                      Sph-Beginn:      7.00     Uhr und   15.00 Uhr
+                                       304      88    111   83                                                    SUMME Zufahrten: [FSp] :                1993 KFZ/h 7:30
+                                                                                                                                               (NSp):     2276 KFZ/h 15:30
+                                       586                                                                                                          6h : 11903 KFZ
+                                                      282                                                         max. Sph /Zufahrt: NORD :                 266 KFZ/h 16:30
+                                                      SÜD                                                                             OST :                 898 KFZ/h 15:30
+                                             Amundsenstr.                                                           DATUM :                      SÜD :      384 KFZ/h 16:00
+                                                                                      1.993 KFZ/h 19.09.2019                                   WEST :       816 KFZ/h 7:30
+                                                                  Kfz-Stromverteilung in der FSp 210                             Potsdamer Str. / Amundsenstr.
+
+
+
+       StromPlan (FSp)210kp9-19.xls                                Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                          15.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                                RAD    FSp    14     23                   15   143             195  8,9
+                                                                                                                          NSp    17   104                    16     41            178  7,3
+                                             Amundsenstr.                                                                 6h      82   375                    90   375             922 7,2
+                                               237                                                                 NFZ    FSp    43   118                    50   176             387 19,4
+                                                            453                                                           NSp    32   125                    23    99             279 12,3
+                                                                                                                          6h    178   693                   187   750            1808 15,2
+                                       54       100   83    216                                                    SV     FSp      7   55                    19    60             141  7,1
+                                                                                                                          NSp      6   47                      5   42             100  4,4
+                                                                                                                          6h     39   303                    60   282             684 5,7
+                                                                                                                   KFZ FSp 245        650                   282   816            1993 100
+                                                                                                                          NSp 237     898                   369   772            2276 100
+
+
+
+
+        Potsdamer Str.                                                                            Potsdamer Str.
+                                                                                                                          6h   1376 4451                   1804 4272            11903 100
+                                                                                                                   FZ     FSp   259   673                   297   959            2188 100
+                         1.738   966                                          38                                          NSp   254  1002                   385   813            2454 100
+                                 37                                           776   898     OST                           6h   1458  4826                  1894  4647           12825 100
+
+WEST
+                         772     657                                           84                                  Q DTVw: 2,4 5692 21051                  7976 21225
+                                 78                                           832   1.730                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                   Bemerkungen :
+                                                                                                                   - Wetter früh 14ºC leicht bewölkt, trocken;
+                                                                                                                    nachmittag 22ºC sonnig bis bewölkt, trocken
+
+
+                                                                                                                       Sph-Beginn:      7.00     Uhr und   15.00 Uhr
+                                       262      136   141   92                                                     SUMME Zufahrten: [FSp] :                1993 KFZ/h 7:30
+                                                                                                                                                (NSp):     2276 KFZ/h 15:30
+                                       631                                                                                                           6h : 11903 KFZ
+                                                      369                                                          max. Sph /Zufahrt: NORD :                 266 KFZ/h 16:30
+                                                      SÜD                                                                              OST :                 898 KFZ/h 15:30
+                                             Amundsenstr.                                                            DATUM :                      SÜD :      384 KFZ/h 16:00
+                                                                                       2.276 KFZ/h 19.09.2019                                   WEST :       816 KFZ/h 7:30
+                                                                  Kfz-Stromverteilung in der NSp 210                              Potsdamer Str. / Amundsenstr.
+
+
+
+       StromPlan (NSp)210kp9-19.xls                                 Seite 3
+

@@ -1,0 +1,170 @@
+                                                                                                                                                                                                         16.07.2015
+
+
+
+
+                                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                             NORD                                                                                              NORD OST SÜD WEST SUMME %
+                                                                                                                                             RAD        FSp       209       136      126            72         543          14,8
+                                                     Lange Brücke                                                                                       NSp       128         73       93         159          453          11,6
+                                                             7.975               14.796                                                                 6h        781        471      574          516        2342          11,2
+                                                                                                                                             NFZ        FSp      173        131      126           81         511           16,4
+                                                                                                                                                        NSp      217        117       64           63         461           13,3
+                                                98   3.439    2.271   2.167           6.821                                                             6h      1025        651      559          407        2642           14,2
+                                                                                                                                             SV         FSp        71        82       47           31         231            7,4
+                                                                                                                                                        NSp        41        59       16           18         134            3,9
+                                                                                                                                                        6h        333       383      178          138        1032            5,6
+                                                                                                                                             KFZ        FSp     1174        546      577          828        3125           100
+
+
+
+
+        Leipziger Str.                                                                                                      F.-Engels-Str.
+                                                                                                                                                        NSp     1712        732      426          596        3466           100
+                                                                                                                                                        6h      7975       3646     3019         3921       18561           100
+                         4.045    124                                                                   1.874                                FZ         FSp     1383        682      703          900        3668           100
+                                 2.394                                                                     26         OST                               NSp     1840        805      519          755        3919           100
+
+WEST
+                                                                                                              3.646
+                                 1.200                                                                  1.589                                           6h       8756      4117     3593         4437       20903           100
+                         3.921
+                                  198                                                                     157                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                  129                                                                   3.708 7.354                          Bemerkungen :
+                                                                                                                                             - F.-Ebert-Str. seit März 2008 gesperrt
+                                                                                                                                             - Zählung beinhaltet Busse zum Bahnhofsvorplatz (NL und WG)
+                                                                                                                                             (nicht in Abf.OST enth., da nur bis Bhf.Vorpl. fahren!)
+                                                                                                                                             - gez. Busse SR (zum Bhf.Vorpl.) nicht in Abfahrt NORD enth.,
+                                                                                                                                               sind in SG enth. (berechn.), werden von dieser Richtung subtrahiert.
+                                                                                                                                              -> SUMME Zufahrten u. SUMME Abfahrten mit Differenz von 68 Bussen
+
+                                           7         2.626            2.567           452                                                    - linksabbiegen von Lange Brücke in Babelsberger Straße
+                                         51                                                                                                   seit dem 30.05.2011 erlaubt
+                                            5
+                                                5.645                                                                                        - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                              3.019                                                                     Sph-Beginn:        7:30    Uhr und     15:30     Uhr
+                                                                      SÜD                                                                    SUMME Zufahrten: [FSp]:                3125 KFZ/h           8:00
+                                                     H.-Mann-Allee                                                                                 (NSp): 3466 KFZ/h                                     16:00
+                                                                                                                                                     6h : 18561 KFZ
+                                                                                                                               max. Sph /Zufahrt: NORD : 1712 KFZ/h                                      16:00
+                                                                                                                                                    OST :   803 KFZ/h                                    16:30
+                                                                                                                                DATUM :             SÜD :   661 KFZ/h                                    17:30
+                                                                                                                      6h Werte 05.06.2014         WEST :    839 KFZ/h                                    7:30
+                                                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 410                                       Leipziger Dreieck
+
+
+       SVP, 461                                                                                                                                                                           StromPlan410kp6-14.xls
+                                                                                                                                                                                            16.07.2015
+
+
+
+
+                                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                       NORD                                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                                RAD        FSp       209       136      126            72         543          14,8
+                                                 Lange Brücke                                                                              NSp       128         73       93         159          453          11,6
+                                                       1.174           2.480                                                               6h        781        471      574          516        2342          11,2
+                                                                                                                                NFZ        FSp      173        131      126           81         511           16,4
+                                                                                                                                           NSp      217        117       64           63         461           13,3
+                                            19   386    365    404         1.306                                                           6h      1025        651      559          407        2642           14,2
+                                                                                                                                SV         FSp        71        82       47           31         231            7,4
+                                                                                                                                           NSp        41        59       16           18         134            3,9
+                                                                                                                                           6h        333       383      178          138        1032            5,6
+                                                                                                                                KFZ        FSp     1174        546      577          828        3125           100
+
+
+
+
+        Leipziger Str.                                                                                         F.-Engels-Str.
+                                                                                                                                           NSp     1712        732      426          596        3466           100
+                                                                                                                                           6h      7975       3646     3019         3921       18561           100
+                         853   25                                                            275                                FZ         FSp     1383        682      703          900        3668           100
+                               533                                                             6         OST                               NSp     1840        805      519          755        3919           100
+
+WEST
+                                                                                                  546
+                               241                                                           225                                           6h       8756      4117     3593         4437       20903           100
+                         828
+                               37                                                             40                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                               17                                                            701 1.247                          Bemerkungen :
+                                                                                                                                - F.-Ebert-Str. seit März 2008 gesperrt
+                                                                                                                                - Zählung beinhaltet Busse zum Bahnhofsvorplatz (NL und WG)
+                                                                                                                                (nicht in Abf.OST enth., da nur bis Bhf.Vorpl. fahren!)
+                                                                                                                                - gez. Busse SR (zum Bhf.Vorpl.) nicht in Abfahrt NORD enth.,
+                                                                                                                                  sind in SG enth. (berechn.), werden von dieser Richtung subtrahiert.
+                                                                                                                                 -> SUMME Zufahrten u. SUMME Abfahrten mit Differenz von 68 Bussen
+                                                 442           501         76                                                   - linksabbiegen von Lange Brücke in Babelsberger Straße
+                                     62                                                                                          seit dem 30.05.2011 erlaubt
+                                        8
+                                            1.019                                                                               - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                     577                                                                   Sph-Beginn:        7:30    Uhr und     15:30     Uhr
+                                                               SÜD                                                              SUMME Zufahrten: [FSp]:                3125 KFZ/h           8:00
+                                                 H.-Mann-Allee                                                                       (NSp): 3466 KFZ/h                                      16:00
+                                                                                                                                       6h : 18561 KFZ
+                                                                                                                 max. Sph /Zufahrt: NORD : 1712 KFZ/h                                       16:00
+                                                                                                                                      OST :   803 KFZ/h                                     16:30
+                                                                                                                  DATUM :             SÜD :   661 KFZ/h                                     17:30
+                                                                                                     3.125 KFZ/h 05.06.2014         WEST :    839 KFZ/h                                     7:30
+                                                                                   Kfz-Stromverteilung in der FSp 410                                        Leipziger Dreieck
+
+
+       SVP, 461                                                                                                                                                         StromPlanFSP410kp6-14.xls
+                                                                                                                                                                                            16.07.2015
+
+
+
+
+                                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                       NORD                                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                                RAD        FSp       209       136      126            72         543          14,8
+                                                 Lange Brücke                                                                              NSp       128         73       93         159          453          11,6
+                                                       1.712           2.724                                                               6h        781        471      574          516        2342          11,2
+                                                                                                                                NFZ        FSp      173        131      126           81         511           16,4
+                                                                                                                                           NSp      217        117       64           63         461           13,3
+                                            19   887    411    395         1.012                                                           6h      1025        651      559          407        2642           14,2
+                                                                                                                                SV         FSp        71        82       47           31         231            7,4
+                                                                                                                                           NSp        41        59       16           18         134            3,9
+                                                                                                                                           6h        333       383      178          138        1032            5,6
+                                                                                                                                KFZ        FSp     1174        546      577          828        3125           100
+
+
+
+
+        Leipziger Str.                                                                                         F.-Engels-Str.
+                                                                                                                                           NSp     1712        732      426          596        3466           100
+                                                                                                                                           6h      7975       3646     3019         3921       18561           100
+                         617   21                                                            353                                FZ         FSp     1383        682      703          900        3668           100
+                               308                                                             2         OST                               NSp     1840        805      519          755        3919           100
+
+WEST
+                                                                                                  732
+                               212                                                           361                                           6h       8756      4117     3593         4437       20903           100
+                         596
+                               40                                                             16                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                               36                                                            665 1.397                          Bemerkungen :
+                                                                                                                                - F.-Ebert-Str. seit März 2008 gesperrt
+                                                                                                                                - Zählung beinhaltet Busse zum Bahnhofsvorplatz (NL und WG)
+                                                                                                                                (nicht in Abf.OST enth., da nur bis Bhf.Vorpl. fahren!)
+                                                                                                                                - gez. Busse SR (zum Bhf.Vorpl.) nicht in Abfahrt NORD enth.,
+                                                                                                                                  sind in SG enth. (berechn.), werden von dieser Richtung subtrahiert.
+                                                                                                                                 -> SUMME Zufahrten u. SUMME Abfahrten mit Differenz von 68 Bussen
+                                                 467           352         74                                                   - linksabbiegen von Lange Brücke in Babelsberger Straße
+                                       4                                                                                         seit dem 30.05.2011 erlaubt
+                                     12 8
+                                             893                                                                                - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                     426                                                                   Sph-Beginn:        7:30    Uhr und     15:30     Uhr
+                                                               SÜD                                                              SUMME Zufahrten: [FSp]:                3125 KFZ/h           8:00
+                                                 H.-Mann-Allee                                                                       (NSp): 3466 KFZ/h                                      16:00
+                                                                                                                                       6h : 18561 KFZ
+                                                                                                                 max. Sph /Zufahrt: NORD : 1712 KFZ/h                                       16:00
+                                                                                                                                      OST :   803 KFZ/h                                     16:30
+                                                                                                                  DATUM :             SÜD :   661 KFZ/h                                     17:30
+                                                                                                     3.466 KFZ/h 05.06.2014         WEST :    839 KFZ/h                                     7:30
+                                                                                   Kfz-Stromverteilung in der NSp 410                                        Leipziger Dreieck
+
+
+       SVP, 461                                                                                                                                                         StromPlanNSP410kp6-14.xls
+

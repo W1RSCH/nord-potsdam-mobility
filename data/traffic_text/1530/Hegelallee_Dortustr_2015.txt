@@ -1,0 +1,184 @@
+SVP, 461                                                                                                                                                 08.07.2015
+
+
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                              OST  SÜD WEST    SUMME %
+                                                                                         RAD         FSp  131                    1       224                       356   20,3
+                                                                                                     NSp  240                    0       241                       481   22,6
+                                                                                                     6h  1005                    3      1506                      2514   22,8
+                                                                                         NFZ         FSp   61                  22         99                       182   13,0
+
+                         Hegelallee                                                                  NSp
+                                                                                                     6h
+                                                                                                           99
+                                                                                                          392
+                                                                                                                                 8
+                                                                                                                                83
+                                                                                                                                          84
+                                                                                                                                         520
+                                                                                                                                                                   191
+                                                                                                                                                                   995
+                                                                                                                                                                         11,6
+                                                                                                                                                                         11,7
+                                                                                         SV          FSp   11                    4         9                        24    1,7
+                                                                                                     NSp   14                    2        18                        34    2,1
+                                                                                                     6h    46                    9        80                       135    1,6
+                                                                                         KFZ         FSp 437                   73        885                     1395    100
+                                                                                                     NSp 792                  109        747                     1648    100
+                                                                                                     6h  3247                 525       4723                      8495   100
+           7.945 3.222                                                                   FZ          FSp  568                   74      1109                      1751   100
+                                                                  2.867         OST                  NSp 1032                 109        988                      2129   100
+
+    WEST
+                                                                        3.247
+                 4.267                                              380                              6h  4252                  528      6229                     11009   100
+           4.723
+                 456                                              4.437 7.684            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                         Bemerkungen :
+
+                                                                                         - Wetter früh 12ºC sonnig; nachmittag 25ºC sonnig bis leicht bewölkt
+
+
+
+                                                                                                       8:00 Uhr und 15:30 Uhr
+                                                                                              Sph-Beginn:
+                                                                                         SUMME Zufahrten: FSp : 1395 KFZ/h 8:30
+                          836      355         170                                                           NSp : 1648 KFZ/h 16:00
+                                                                                                               6h : 8495 KFZ
+                         1.361                                                           max. Sph /Zufahrt:   OST    792 KFZ/h 16:00
+                                         525                                                                  SÜD    116 KFZ/h 17:30
+                                               SÜD                                        DATUM :            WEST    893 KFZ/h 7:30
+                                Dortustr.                                       6h Werte 11.06.2015
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 153                             Hegelallee/Dortustr.
+
+
+
+
+StromPlan153kp6-15.xls                                      Seite 1
+SVP, 461                                                                                                                                                 08.07.2015
+
+
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                              OST  SÜD WEST    SUMME %
+                                                                                         RAD         FSp  131                    1       224                       356   20,3
+                                                                                                     NSp  240                    0       241                       481   22,6
+                                                                                                     6h  1005                    3      1506                      2514   22,8
+                                                                                         NFZ         FSp   61                  22         99                       182   13,0
+
+                               Hegelallee                                                            NSp
+                                                                                                     6h
+                                                                                                           99
+                                                                                                          392
+                                                                                                                                 8
+                                                                                                                                83
+                                                                                                                                          84
+                                                                                                                                         520
+                                                                                                                                                                   191
+                                                                                                                                                                   995
+                                                                                                                                                                         11,6
+                                                                                                                                                                         11,7
+                                                                                         SV          FSp   11                    4         9                        24    1,7
+                                                                                                     NSp   14                    2        18                        34    2,1
+                                                                                                     6h    46                    9        80                       135    1,6
+                                                                                         KFZ         FSp 437                   73        885                     1395    100
+                                                                                                     NSp 792                  109        747                     1648    100
+                                                                                                     6h  3247                 525       4723                      8495   100
+           1.307 422                                                                     FZ          FSp  568                   74      1109                      1751   100
+                                                                      378         OST                NSp 1032                 109        988                      2129   100
+
+    WEST
+                                                                           437
+                  817                                                  59                            6h  4252                  528      6229                     11009   100
+           885
+                  68                                                  846 1.283          NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                         Bemerkungen :
+
+                                                                                         - Wetter früh 12ºC sonnig; nachmittag 25ºC sonnig bis leicht bewölkt
+
+
+
+                                                                                                       8:00 Uhr und 15:30 Uhr
+                                                                                              Sph-Beginn:
+                                                                                         SUMME Zufahrten: FSp : 1395 KFZ/h 8:30
+                               127      44        29                                                         NSp : 1648 KFZ/h 16:00
+                                                                                                               6h : 8495 KFZ
+                               200                                                       max. Sph /Zufahrt:   OST    792 KFZ/h 16:00
+                                             73                                                               SÜD    116 KFZ/h 17:30
+                                                  SÜD                                     DATUM :            WEST    893 KFZ/h 7:30
+                                     Dortustr.                               1.395 KFZ/h 11.06.2015
+                                                        Kfz-Stromverteilung in der FSp 153                               Hegelallee/Dortustr.
+
+
+
+
+StromPlan (FSp)153kp6-15.xls                                Seite 2
+SVP, 461                                                                                                                                                   08.07.2015
+
+
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                OST  SÜD WEST    SUMME %
+                                                                                           RAD         FSp  131                    1       224                       356   20,3
+                                                                                                       NSp  240                    0       241                       481   22,6
+                                                                                                       6h  1005                    3      1506                      2514   22,8
+                                                                                           NFZ         FSp   61                  22         99                       182   13,0
+
+                               Hegelallee                                                              NSp
+                                                                                                       6h
+                                                                                                             99
+                                                                                                            392
+                                                                                                                                   8
+                                                                                                                                  83
+                                                                                                                                            84
+                                                                                                                                           520
+                                                                                                                                                                     191
+                                                                                                                                                                     995
+                                                                                                                                                                           11,6
+                                                                                                                                                                           11,7
+                                                                                           SV          FSp   11                    4         9                        24    1,7
+                                                                                                       NSp   14                    2        18                        34    2,1
+                                                                                                       6h    46                    9        80                       135    1,6
+                                                                                           KFZ         FSp 437                   73        885                     1395    100
+                                                                                                       NSp 792                  109        747                     1648    100
+                                                                                                       6h  3247                 525       4723                      8495   100
+           1.536 789                                                                       FZ          FSp  568                   74      1109                      1751   100
+                                                                        717         OST                NSp 1032                 109        988                      2129   100
+
+    WEST
+                                                                             792
+                  665                                                    75                            6h  4252                  528      6229                     11009   100
+           747
+                  82                                                    702 1.494          NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                           Bemerkungen :
+
+                                                                                           - Wetter früh 12ºC sonnig; nachmittag 25ºC sonnig bis leicht bewölkt
+
+
+
+                                                                                                         8:00 Uhr und 15:30 Uhr
+                                                                                                Sph-Beginn:
+                                                                                           SUMME Zufahrten: FSp : 1395 KFZ/h 8:30
+                               157      72         37                                                          NSp : 1648 KFZ/h 16:00
+                                                                                                                 6h : 8495 KFZ
+                               266                                                         max. Sph /Zufahrt:   OST    792 KFZ/h 16:00
+                                             109                                                                SÜD    116 KFZ/h 17:30
+                                                   SÜD                                      DATUM :            WEST    893 KFZ/h 7:30
+                                     Dortustr.                                 1.648 KFZ/h 11.06.2015
+                                                         Kfz-Stromverteilung in der NSp 153                                Hegelallee/Dortustr.
+
+
+
+
+StromPlan (NSp)153kp6-15.xls                                  Seite 3
+

@@ -1,0 +1,157 @@
+       SVP, 461                                                                                                                                                        25.05.2018
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                                  RAD    FSp    44      2                    25    30             101 8,2
+                                                                                                                        NSp     9    19                     30    11              69 6,1
+                                          Kirschallee                                                                   6h    114     92                   158   100             464 7,1
+                                           964                                                                   NFZ    FSp    15    87                    10   102             214 19,0
+                                                        1.807                                                           NSp    20    68                      7   49             144 13,5
+                                                                                                                        6h    128   449                     45  436            1058 17,3
+                                    506     259   199    843                                                     SV     FSp    14    42                      2   27               85 7,6
+                                                                                                                        NSp    10    22                      0   19               51 4,8
+                                                                                                                        6h     71   162                      8  166              407 6,7
+                                                                                                                 KFZ FSp 205        371                    60   489            1125 100
+                                                                                                                        NSp 165     409                   126   369            1069 100
+                                                                                                                        6h    964 2224                    461 2464             6113 100
+
+
+
+
+       Schulplatz                                                                                  Pappelallee
+                                                                                                                 FZ     FSp   249   373                     85  519            1226 100
+                    4.993   2.529                                             98                                        NSp   174   428                   156   380            1138 100
+                             412                                             1.971   2.224   OST                        6h   1078  2316                    619 2564             6577 100
+
+WEST
+                    2.464   2.008                                             155                                Q DTVw: 2,4 4246 10591                  2160 11734
+                             44                                              2.283   4.507                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Nedlitzer Str. stadteinwärts gesperrt - Umleitung über
+                                                                                                                   Amundsenstraße      Potsdamer Str.    Pappelallee
+                                                                                                                 - Wetter früh 8ºC stark bewölkt, vereinzelt Regen;
+                                                                                                                   nachmittag 11ºC stark bewölkt, immer wieder Regen
+                                    458     52    333    76                                                          Sph-Beginn:      7.30     Uhr und   16.30 Uhr
+                                                                                                                 SUMME Zufahrten: [FSp] :                1125 KFZ/h 8:00
+                                    919                                                                                                       (NSp):     1069 KFZ/h 17:00
+                                                  461                                                                                 6h :               6113 KFZ
+                                                  SÜD                                                            max. Sph /Zufahrt: NORD :                205 KFZ/h 8:00
+                                          Kirschallee                                                                                           OST :      460 KFZ/h 17:30
+
+                                                                                                                   DATUM :                      SÜD :      128 KFZ/h 16:30
+                                                                                             6h Werte 04.05.2017                              WEST :       527 KFZ/h 7:30
+                                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 203                                  Pappelallee/Kirschallee
+
+
+       StromPlan203kp5-17.xlsx                                     Seite 1
+       SVP, 461                                                                                                                                                   25.05.2018
+
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                          RAD    FSp    44      2                    25    30             101 8,2
+                                                                                                                   NSp     9    19                     30    11              69 6,1
+                                             Kirschallee                                                           6h    114     92                   158   100             464 7,1
+                                              205                                                           NFZ    FSp    15    87                    10   102             214 19,0
+                                                           348                                                     NSp    20    68                      7   49             144 13,5
+                                                                                                                   6h    128   449                     45  436            1058 17,3
+                                       117     37    51    143                                              SV     FSp    14    42                      2   27               85 7,6
+                                                                                                                   NSp    10    22                      0   19               51 4,8
+                                                                                                                   6h     71   162                      8  166              407 6,7
+                                                                                                            KFZ FSp 205        371                    60   489            1125 100
+                                                                                                                   NSp 165     409                   126   369            1069 100
+                                                                                                                   6h    964 2224                    461 2464             6113 100
+
+
+
+
+       Schulplatz                                                                             Pappelallee
+                                                                                                            FZ     FSp   249   373                     85  519            1226 100
+                    935    446                                              13                                     NSp   174   428                   156   380            1138 100
+                           85                                               326   371   OST                        6h   1078  2316                    619 2564             6577 100
+
+WEST
+                    489    397                                               32                             Q DTVw: 2,4 4246 10591                  2160 11734
+                            7                                               460   831                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+                                                                                                            - Nedlitzer Str. stadteinwärts gesperrt - Umleitung über
+                                                                                                              Amundsenstraße      Potsdamer Str.    Pappelallee
+                                                                                                            - Wetter früh 8ºC stark bewölkt, vereinzelt Regen;
+                                                                                                              nachmittag 11ºC stark bewölkt, immer wieder Regen
+                                       76      3     45    12                                                   Sph-Beginn:      7.30     Uhr und   16.30 Uhr
+                                                                                                            SUMME Zufahrten: [FSp] :                1125 KFZ/h 8:00
+                                       136                                                                                               (NSp):     1069 KFZ/h 17:00
+                                                      60                                                                         6h :               6113 KFZ
+                                                     SÜD                                                    max. Sph /Zufahrt: NORD :                205 KFZ/h 8:00
+                                             Kirschallee                                                                                   OST :      460 KFZ/h 17:30
+
+                                                                                                              DATUM :                      SÜD :      128 KFZ/h 16:30
+                                                                                    1.125 KFZ/h 04.05.2017                               WEST :       527 KFZ/h 7:30
+                                                                 Kfz-Stromverteilung in der FSp 203                                Pappelallee/Kirschallee
+
+
+       StromPlan (FSp)203kp5-17.xlsx                              Seite 2
+       SVP, 461                                                                                                                                                    25.05.2018
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                           RAD    FSp    44      2                    25    30             101 8,2
+                                                                                                                    NSp     9    19                     30    11              69 6,1
+                                             Kirschallee                                                            6h    114     92                   158   100             464 7,1
+                                              165                                                            NFZ    FSp    15    87                    10   102             214 19,0
+                                                           340                                                      NSp    20    68                      7   49             144 13,5
+                                                                                                                    6h    128   449                     45  436            1058 17,3
+                                       91      49    25    175                                               SV     FSp    14    42                      2   27               85 7,6
+                                                                                                                    NSp    10    22                      0   19               51 4,8
+                                                                                                                    6h     71   162                      8  166              407 6,7
+                                                                                                             KFZ FSp 205        371                    60   489            1125 100
+                                                                                                                    NSp 165     409                   126   369            1069 100
+                                                                                                                    6h    964 2224                    461 2464             6113 100
+
+
+
+
+       Schulplatz                                                                              Pappelallee
+                                                                                                             FZ     FSp   249   373                     85  519            1226 100
+                    841    472                                               18                                     NSp   174   428                   156   380            1138 100
+                           63                                                367   409   OST                        6h   1078  2316                    619 2564             6577 100
+
+WEST
+                    369    301                                                24                             Q DTVw: 2,4 4246 10591                  2160 11734
+                            5                                                344   753                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                             Bemerkungen :
+                                                                                                             - Nedlitzer Str. stadteinwärts gesperrt - Umleitung über
+                                                                                                               Amundsenstraße      Potsdamer Str.    Pappelallee
+                                                                                                             - Wetter früh 8ºC stark bewölkt, vereinzelt Regen;
+                                                                                                               nachmittag 11ºC stark bewölkt, immer wieder Regen
+                                       78      14    94    18                                                    Sph-Beginn:      7.30     Uhr und   16.30 Uhr
+                                                                                                             SUMME Zufahrten: [FSp] :                1125 KFZ/h 8:00
+                                       204                                                                                                (NSp):     1069 KFZ/h 17:00
+                                                     126                                                                          6h :               6113 KFZ
+                                                     SÜD                                                     max. Sph /Zufahrt: NORD :                205 KFZ/h 8:00
+                                             Kirschallee                                                                                    OST :      460 KFZ/h 17:30
+
+                                                                                                               DATUM :                      SÜD :      128 KFZ/h 16:30
+                                                                                     1.069 KFZ/h 04.05.2017                               WEST :       527 KFZ/h 7:30
+                                                                 Kfz-Stromverteilung in der NSp 203                                 Pappelallee/Kirschallee
+
+
+       StromPlan (NSp)203kp5-17.xlsx                               Seite 3
+

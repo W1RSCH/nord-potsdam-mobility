@@ -1,0 +1,107 @@
+Landeshauptstadt Potsdam                                                                                                                                    20.10.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                 NORD                                         Zufahrt: NORD               SÜD        WEST                   SUMME %
+                                        Am Wiesenrand                                    RAD    FSp               0              0        3                     3         2,5
+                                                                                                NSp               2              0        0                     2         1,5
+                                                                                                6h                2              0        6                     8         1,2
+                                                29
+                                                                53                       NFZ    FSp               3              1        3                     7         6,0
+                                                                                                NSp               5              4        7                   16         11,9
+                                           29        0          24                              6h               16             15       24                    55         8,3
+                                                                                         SV     FSp               0              0        2                     2         1,7
+                                                                                                NSp               3              0        1                     4         3,0
+                                                                                                6h                3              5        6                    14         2,1
+                                                                                         KFZ FSp                 29             16       72                  117         100
+
+
+
+
+              Am Kirchberg
+                                                                                                NSp              43             58       34                  135         100
+                                                                                                6h              168            202      291                  661         100
+                             117   45                                                    FZ     FSp              29             16       75                  120         100
+                                   24                                                           NSp              45             58       34                  137         100
+
+       WEST
+                             72                                                                 6h              170            202      297                   669        100
+                                   48
+                                                                                         Q DTVw: 2,2            647            807     1454
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                         Bemerkungen :
+                                                                                         - Zuf NG+SG nicht gezählt
+                                                                                         - Wetter früh 5ºC bewölkt, leichter Regen;
+                                           48        16         0                          nachmittag 12ºC leicht bewölkt, trocken
+                                                                                             Sph-Beginn:      7.30     Uhr und       15.00     Uhr
+                                          64                                             SUMME Zufahrten: FSp :                         117 KFZ/h        8:00
+                                                           16
+                                                                                                          NSp :                         135 KFZ/h        15:30
+                                                     SÜD                                                   6h :                         661 KFZ
+                                        Am Wiesenrand                                    max. Sph /Zufahrt:             NORD                 43 KFZ/h    15:30
+                                                                                                                          SÜD                58 KFZ/h    15:30
+
+                                                                                           DATUM :                      WEST                 72 KFZ/h    8:00
+                                                                               117 KFZ/h 24.10.2019
+                                                      Kfz-Stromverteilung in der FSp 2802                   Am Wiesenrand / Am Kirchberg
+
+
+StromPlan (FSp)2802kp10-19.xls                                       Seite 2
+Landeshauptstadt Potsdam                                                                                                                                     20.10.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                                                  NORD                                         Zufahrt: NORD               SÜD        WEST                   SUMME %
+                                         Am Wiesenrand                                    RAD    FSp               0              0        3                     3         2,5
+                                                                                                 NSp               2              0        0                     2         1,5
+                                                                                                 6h                2              0        6                     8         1,2
+                                                 43
+                                                                 57                       NFZ    FSp               3              1        3                     7         6,0
+                                                                                                 NSp               5              4        7                   16         11,9
+                                            43        0          14                              6h               16             15       24                    55         8,3
+                                                                                          SV     FSp               0              0        2                     2         1,7
+                                                                                                 NSp               3              0        1                     4         3,0
+                                                                                                 6h                3              5        6                    14         2,1
+                                                                                          KFZ FSp                 29             16       72                  117         100
+
+
+
+
+              Am Kirchberg
+                                                                                                 NSp              43             58       34                  135         100
+                                                                                                 6h              168            202      291                  661         100
+                             135   101                                                    FZ     FSp              29             16       75                  120         100
+                                   14                                                            NSp              45             58       34                  137         100
+
+       WEST
+                             34                                                                  6h              170            202      297                   669        100
+                                   20
+                                                                                          Q DTVw: 2,2            647            807     1454
+                                                                                          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                          Bemerkungen :
+                                                                                          - Zuf NG+SG nicht gezählt
+                                                                                          - Wetter früh 5ºC bewölkt, leichter Regen;
+                                            20        58         0                          nachmittag 12ºC leicht bewölkt, trocken
+                                                                                              Sph-Beginn:      7.30     Uhr und       15.00     Uhr
+                                           78                                             SUMME Zufahrten: FSp :                         117 KFZ/h        8:00
+                                                            58
+                                                                                                           NSp :                         135 KFZ/h        15:30
+                                                      SÜD                                                   6h :                         661 KFZ
+                                         Am Wiesenrand                                    max. Sph /Zufahrt:             NORD                 43 KFZ/h    15:30
+                                                                                                                           SÜD                58 KFZ/h    15:30
+
+                                                                                            DATUM :                      WEST                 72 KFZ/h    8:00
+                                                                                135 KFZ/h 24.10.2019
+                                                       Kfz-Stromverteilung in der NSp 2802                   Am Wiesenrand / Am Kirchberg
+
+
+StromPlan (NSp)2802kp10-19.xls                                        Seite 3
+

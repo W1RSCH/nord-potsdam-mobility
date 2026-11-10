@@ -1,0 +1,154 @@
+Landeshauptstadt Potsdam                                                                                                                                                               05.12.2019
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                        RAD         FSp                1       11       7                     19         17,8
+                                      NORD                                                                          NSp                0        7      11                     18         16,5
+
+                              Am Wiesenrand                                                                         6h                 4        46      38                     88        17,5
+                                                                                                        NFZ         FSp                3         6       4                    13         14,8
+                                     46                                                                             NSp                2         2       4                      8         8,8
+                                                   102                                                              6h                 9       26      16                     51         12,3
+                                                                                                        SV          FSp                0         0       1                      1         1,1
+                              n.g.        46       56                                                               NSp                0         0       1                      1         1,1
+                                                                                                                    6h                 0         2       5                      7         1,7
+                                                                                                        KFZ         FSp              10        39      39                     88          100
+                                                                                                                    NSp                8       47      36                     91          100
+                                                                                                                    6h               46       197     172                    415          100
+
+
+
+
+                                                                                         Am Stinthorn
+                                                                                                        FZ          FSp              11        50      46                    107          100
+                                                                                                                    NSp                8       54      47                    109          100
+                                                                     56                                             6h                50      243     210                    503          100
+                                                                             197
+                                                                     141           OST                  Q DTVw:           2,2       224       913     689
+                                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                     218     415                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                        Bemerkungen :
+                                                                                                        - Zuf NG+SG nicht gezählt
+                                                                                                        - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                          nachmittag 12ºC leicht bewölkt, trocken
+                              141         n.g.     172
+                                                                                                        Sph-Beginn:               7.30     Uhr und   15.00 Uhr
+                              313                                                                       SUMME Zufahrten:                   FSp :       88 KFZ/h       8:00
+                                             172                                                                                           NSp :       91 KFZ/h       15:30
+                                          SÜD                                                                                                6h :     415 KFZ
+                              Am Wiesenrand                                                             max. Sph /Zufahrt:                 NORD        10 KFZ/h       7:30
+                                                                                                                                            OST        47 KFZ/h       7:30
+                                                                                                             DATUM :                        SÜD        39 KFZ/h       8:00
+                                                                                   6h Werte               24.10.2019
+                                                    von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr                0             Am Wiesenrand / Am Stinthorn
+
+
+StromPlanAm Wiesenrand-Am Stinthorn_kp10-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                           05.12.2019
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                             Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                    RAD         FSp                1       11       7                     19         17,8
+                                      NORD                                                                      NSp                0        7      11                     18         16,5
+
+                              Am Wiesenrand                                                                     6h                 4        46      38                     88        17,5
+                                                                                                    NFZ         FSp                3         6       4                    13         14,8
+                                     10                                                                         NSp                2         2       4                      8         8,8
+                                                      14                                                        6h                 9       26      16                     51         12,3
+                                                                                                    SV          FSp                0         0       1                      1         1,1
+                              n.g.        10          4                                                         NSp                0         0       1                      1         1,1
+                                                                                                                6h                 0         2       5                      7         1,7
+                                                                                                    KFZ         FSp              10        39      39                     88          100
+                                                                                                                NSp                8       47      36                     91          100
+                                                                                                                6h               46       197     172                    415          100
+
+
+
+
+                                                                                     Am Stinthorn
+                                                                                                    FZ          FSp              11        50      46                    107          100
+                                                                                                                NSp                8       54      47                    109          100
+                                                                   4                                            6h                50      243     210                    503          100
+                                                                          39
+                                                                   35          OST                  Q DTVw:           2,2       224       913     689
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                   49     88                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - Zuf NG+SG nicht gezählt
+                                                                                                    - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                      nachmittag 12ºC leicht bewölkt, trocken
+                              35          n.g.        39
+                                                                                                    Sph-Beginn:               7.30     Uhr und   15.00 Uhr
+                              74                                                                    SUMME Zufahrten:                   FSp :       88 KFZ/h       8:00
+                                                 39                                                                                    NSp :       91 KFZ/h       15:30
+                                          SÜD                                                                                            6h :     415 KFZ
+                              Am Wiesenrand                                                         max. Sph /Zufahrt:                 NORD        10 KFZ/h       7:30
+                                                                                                                                        OST        47 KFZ/h       7:30
+                                                                                                         DATUM :                        SÜD        39 KFZ/h       8:00
+                                                                               88 KFZ/h               24.10.2019
+                                                           Kfz-Stromverteilung in der FSp                0             Am Wiesenrand / Am Stinthorn
+
+
+StromPlan (FSp)Am Wiesenrand-Am Stinthorn_kp10-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                           05.12.2019
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                             Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                    RAD         FSp                1       11       7                     19         17,8
+                                         NORD                                                                   NSp                0        7      11                     18         16,5
+
+                              Am Wiesenrand                                                                     6h                 4        46      38                     88        17,5
+                                                                                                    NFZ         FSp                3         6       4                    13         14,8
+                                     8                                                                          NSp                2         2       4                      8         8,8
+                                                      22                                                        6h                 9       26      16                     51         12,3
+                                                                                                    SV          FSp                0         0       1                      1         1,1
+                              n.g.        8           14                                                        NSp                0         0       1                      1         1,1
+                                                                                                                6h                 0         2       5                      7         1,7
+                                                                                                    KFZ         FSp              10        39      39                     88          100
+                                                                                                                NSp                8       47      36                     91          100
+                                                                                                                6h               46       197     172                    415          100
+
+
+
+
+                                                                                     Am Stinthorn
+                                                                                                    FZ          FSp              11        50      46                    107          100
+                                                                                                                NSp                8       54      47                    109          100
+                                                                    14                                          6h                50      243     210                    503          100
+                                                                          47
+                                                                    33         OST                  Q DTVw:           2,2       224       913     689
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                    44    91                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - Zuf NG+SG nicht gezählt
+                                                                                                    - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                      nachmittag 12ºC leicht bewölkt, trocken
+                              33          n.g.        36
+                                                                                                    Sph-Beginn:               7.30     Uhr und   15.00 Uhr
+                              69                                                                    SUMME Zufahrten:                   FSp :       88 KFZ/h       8:00
+                                                 36                                                                                    NSp :       91 KFZ/h       15:30
+                                         SÜD                                                                                             6h :     415 KFZ
+                              Am Wiesenrand                                                         max. Sph /Zufahrt:                 NORD        10 KFZ/h       7:30
+                                                                                                                                        OST        47 KFZ/h       7:30
+                                                                                                         DATUM :                        SÜD        39 KFZ/h       8:00
+                                                                               91 KFZ/h               24.10.2019
+                                                           Kfz-Stromverteilung in der NSp                0             Am Wiesenrand / Am Stinthorn
+
+
+StromPlan (NSp)Am Wiesenrand-Am Stinthorn_kp10-19.xls
+

@@ -1,0 +1,130 @@
+ Landeshauptstadt Potsdam                                                                                                                                  11.12.2018
+ Bereich Verkehrsentwicklung
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                         Zufahrt: NORD                  OST WEST                       SUMME %
+                                                                                      RAD    FSp     1                   107 133                          241           20,6
+                                                                                             NSp     2                   171 129                          302           20,5
+                                                                                             6h      7                   855  815                        1677           22,5
+                                                                                      NFZ    FSp     1                    99  85                         185            20,0
+                                     NORD                                                    NSp     0                    77  65                         142            12,1
+                                                                                             6h      1                  444  447                          892           15,4
+                               M.-Dietrich-Allee                                      SV     FSp     0                    20  17                           37            4,0
+                                                                                             NSp     0                    11  10                           21            1,8
+                                    15          62                                                6h               0     101      116                     217            3,8
+
+                                                                                      KFZ    FSp               4   492   431                             927            100
+                               11        4      47                                           NSp               4   589   581                            1174            100
+                                                                                             6h               15 2891 2870                              5776            100
+                                                                                      FZ     FSp               5   599   564                            1168            100
+                                                                                             NSp               6   760   710                            1476            100
+                                                                                             6h               22 3746 3685                               7453           100
+                                                                                      Q DTVw: ###            146 13513 13489
+5.740 2.870                                                         32                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                              2.891
+          15                                                      2.859               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+2.870
+         2.855                                                    2.859       5.750 Bemerkungen :
+                                                                                      - Baustelle Nuthestraße in beiden Richtungen
+                                                                                      - Teilzählung - Zuf. OG & Zuf. WG durch KP612 errechnet
+                                                                                      - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+
+         WEST                  Großbeerenstr.                      OST                    Sph-Beginn:       8.00       Uhr und   16.00   Uhr
+                                                                                      SUMME Zufahrten: [FSp]: 927 KFZ/h 8:30
+                                                                                                         (NSp): 1174 KFZ/h 16:30
+                                                                                                           6h : 5776 KFZ
+                                                                                      max. Sph /Zufahrt: NORD      4 KFZ/h 8:30
+                                                                                                                        OST       589 KFZ/h 16:30
+                                                                                     DATUM :                           WEST       596 KFZ/h 16:00
+                                                                           6h Werte 19.04.2018
+                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 615                  Großbeerenstr. / M.-Dietrich-Allee
+
+ StromPlan615kp4-18.xls                                          Seite 1
+Landeshauptstadt Potsdam                                                                                                                             11.12.2018
+Bereich Verkehrsentwicklung
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                   Zufahrt: NORD                  OST WEST                       SUMME %
+                                                                                RAD    FSp     1                   107 133                          241           20,6
+                                                                                       NSp     2                   171 129                          302           20,5
+                                                                                       6h      7                   855  815                        1677           22,5
+                                                                                NFZ    FSp     1                    99  85                         185            20,0
+                                       NORD                                            NSp     0                    77  65                         142            12,1
+                                                                                       6h      1                  444  447                          892           15,4
+                               M.-Dietrich-Allee                                SV     FSp     0                    20  17                           37            4,0
+                                                                                       NSp     0                    11  10                           21            1,8
+                                   4          16                                            6h               0     101      116                     217            3,8
+
+                                                                                KFZ    FSp               4   492   431                             927            100
+                               3        1     12                                       NSp               4   589   581                            1174            100
+                                                                                       6h               15 2891 2870                              5776            100
+                                                                                FZ     FSp               5   599   564                            1168            100
+                                                                                       NSp               6   760   710                            1476            100
+                                                                                       6h               22 3746 3685                               7453           100
+                                                                                Q DTVw: ###            146 13513 13489
+ 915     484                                                     11             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                          492
+          1                                                      481            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+431
+         430                                                     431      923 Bemerkungen :
+                                                                                - Baustelle Nuthestraße in beiden Richtungen
+                                                                                - Teilzählung - Zuf. OG & Zuf. WG durch KP612 errechnet
+                                                                                - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+
+        WEST                   Großbeerenstr.                   OST                 Sph-Beginn:       8.00       Uhr und   16.00   Uhr
+                                                                                SUMME Zufahrten: [FSp]: 927 KFZ/h 8:30
+                                                                                                   (NSp): 1174 KFZ/h 16:30
+                                                                                                     6h : 5776 KFZ
+                                                                                max. Sph /Zufahrt: NORD      4 KFZ/h 8:30
+                                                                                                                  OST       589 KFZ/h 16:30
+                                                                               DATUM :                           WEST       596 KFZ/h 16:00
+                                                                    927 KFZ/h 19.04.2018
+                                               Kfz-Stromverteilung in der FSp 615                 Großbeerenstr. / M.-Dietrich-Allee
+
+StromPlan (FSp)615kp4-18.xls                                  Seite 2
+ Landeshauptstadt Potsdam                                                                                                                            11.12.2018
+ Bereich Verkehrsentwicklung
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                   Zufahrt: NORD                  OST WEST                       SUMME %
+                                                                                RAD    FSp     1                   107 133                          241           20,6
+                                                                                       NSp     2                   171 129                          302           20,5
+                                                                                       6h      7                   855  815                        1677           22,5
+                                                                                NFZ    FSp     1                    99  85                         185            20,0
+                                        NORD                                           NSp     0                    77  65                         142            12,1
+                                                                                       6h      1                  444  447                          892           15,4
+                                M.-Dietrich-Allee                               SV     FSp     0                    20  17                           37            4,0
+                                                                                       NSp     0                    11  10                           21            1,8
+                                    4          6                                            6h               0     101      116                     217            3,8
+
+                                                                                KFZ    FSp               4   492   431                             927            100
+                                3        1     2                                       NSp               4   589   581                            1174            100
+                                                                                       6h               15 2891 2870                              5776            100
+                                                                                FZ     FSp               5   599   564                            1168            100
+                                                                                       NSp               6   760   710                            1476            100
+                                                                                       6h               22 3746 3685                               7453           100
+                                                                                Q DTVw: ###            146 13513 13489
+1.172     591                                                     1             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                          589
+           1                                                     588            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+581
+          580                                                    581    1.170 Bemerkungen :
+                                                                                - Baustelle Nuthestraße in beiden Richtungen
+                                                                                - Teilzählung - Zuf. OG & Zuf. WG durch KP612 errechnet
+                                                                                - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+
+         WEST                   Großbeerenstr.                  OST                 Sph-Beginn:       8.00       Uhr und   16.00   Uhr
+                                                                                SUMME Zufahrten: [FSp]: 927 KFZ/h 8:30
+                                                                                                   (NSp): 1174 KFZ/h 16:30
+                                                                                                     6h : 5776 KFZ
+                                                                                max. Sph /Zufahrt: NORD      4 KFZ/h 8:30
+                                                                                                                  OST       589 KFZ/h 16:30
+                                                                              DATUM :                            WEST       596 KFZ/h 16:00
+                                                                 1.174 KFZ/h 19.04.2018
+                                               Kfz-Stromverteilung in der NSp 615                 Großbeerenstr. / M.-Dietrich-Allee
+
+ StromPlan (NSp)615kp4-18.xls                                 Seite 3
+

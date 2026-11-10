@@ -1,0 +1,137 @@
+SVP, 461                                                                                                                                  30.03.2015
+
+
+
+
+                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                             NORD OST  SÜD WEST SUMME %
+                                                                             RAD       FSp       48         20         57       28        153  6,7
+                                                                                       NSp       45         47         62       33        187  7,3
+                                                                                       6h       285         23        346      185        839 6,1
+                                                                             NFZ       FSp      128         70                 112        310 14,5
+                                 NORD                                                  NSp        95        73                  90        258 10,8
+                                                                                       6h        588       434                 548       1570 12,3
+                           Jägerallee                                        SV        FSp        40        29                  45        114  5,3
+                             4.440                                                     NSp        25        19                  32         76  3,2
+                                         7.625                                         6h   196           138                  216        550      4,3
+                                                                             KFZ                                               756
+                         2.042   2.398    3.185
+                                                                                       FSp 842            540                            2138      100
+                                                                                       NSp 768            901                  719       2388      100
+                                                                                       6h  4440          4172                 4149      12761      100
+                                                                             FZ        FSp 890            560          57      784       2291      100
+                                                                                       NSp 813            948          62      752       2575      100
+
+                                                                                       6h      4725      4388         346     4334      13793      100
+                                                                             Bemerkungen :
+  8.750       4.601                                         1.613            Wetter: früh 14ºC bewölkt, teilweise Regen;
+                                                                    4.172
+              1.572                                         2.559            nachmittags 18ºC bewölkt, trocken
+   4.149
+              2.577                                         4.975   9.147 - durch Baustelle und Vollsperrung der F.-Ebert-Str. zw. Kurfüstenstr.
+                                                                             und Alleestr. ist Umleitungsverkehr auf Jägerallee und Hegelallee
+                                                                                       Sph-Beginn:       8:00 Uhr und 15:30 Uhr
+                                                                             SUMME Zufahrten:          FSp :    2138 KFZ/h   8:30
+              WEST         Hegelallee                       OST                                 NSp :              2388 KFZ/h 16:00
+                                                                                                6h :              12761 KFZ
+                                                                             max. Sph /Zufahrt: NORD                842 KFZ/h 8:30
+                                                                                                  OST               911 KFZ/h 16:30
+                                                                             DATUM :             WEST               761 KFZ/h 8:00
+
+                                                                             26.09.2013
+                                                                              152                      Hegelallee/Jägerallee
+
+
+
+StromPlan152kp9-13.xls                            Seite 1
+SVP, 461                                                                                                                                                 30.03.2015
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                            NORD OST  SÜD WEST SUMME %
+                                                                                            RAD       FSp       48        20         57        28        153  6,7
+                                                                                                      NSp       45        47         62        33        187  7,3
+                                                                                                      6h       285        23        346       185        839 6,1
+                                                                                            NFZ       FSp      128        70                  112        310 14,5
+                                     NORD                                                             NSp        95       73                   90        258 10,8
+                                                                                                      6h        588      434                  548       1570 12,3
+                              Jägerallee                                                    SV        FSp        40       29                   45        114  5,3
+                                                                                                      NSp        25       19                   32         76  3,2
+
+                                   842         1.352                                                  6h   196           138                 216        550       4,3
+                                                                                            KFZ       FSp 842            540                 756       2138       100
+                             344         498    510                                                   NSp 768            901                 719       2388       100
+                                                                                                      6h  4440          4172                4149      12761       100
+                                                                                            FZ        FSp 890            560         57      784       2291       100
+                                                                                                      NSp 813            948         62      752       2575       100
+
+                                                                                                      6h      4725      4388        346     4334      13793       100
+                                                                                            Bemerkungen :
+   1.406       650                                                          234             Wetter: früh 14ºC bewölkt, teilweise Regen;
+                                                                                   540
+               276                                                          306             nachmittags 18ºC bewölkt, trocken
+      756
+               480                                                          978    1.518 - durch Baustelle und Vollsperrung der F.-Ebert-Str. zw. Kurfüstenstr.
+                                                                                            und Alleestr. ist Umleitungsverkehr auf Jägerallee und Hegelallee
+                                                                                                      Sph-Beginn:       8:00 Uhr und 15:30 Uhr
+                                                                                            SUMME Zufahrten:          FSp :    2138 KFZ/h   8:30
+              WEST            Hegelallee                                    OST                                NSp :              2388 KFZ/h 16:00
+                                                                                                               6h :              12761 KFZ
+                                                                                            max. Sph /Zufahrt: NORD                842 KFZ/h 8:30
+                                                                                                                 OST               911 KFZ/h 16:30
+                                                                                            DATUM :            WEST                761 KFZ/h 8:00
+
+                                                                            2.138 KFZ/h     26.09.2013
+                                                      Kfz-Stromverteilung in der FSp         152                      Hegelallee/Jägerallee
+
+
+
+StromPlan FSp152kp9-13.xls                                        Seite 2
+SVP, 461                                                                                                                                                 30.03.2015
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                            NORD OST  SÜD WEST SUMME %
+                                                                                            RAD       FSp       48        20         57        28        153  6,7
+                                                                                                      NSp       45        47         62        33        187  7,3
+                                                                                                      6h       285        23        346       185        839 6,1
+                                                                                            NFZ       FSp      128        70                  112        310 14,5
+                                     NORD                                                             NSp        95       73                   90        258 10,8
+                                                                                                      6h        588      434                  548       1570 12,3
+                              Jägerallee                                                    SV        FSp        40       29                   45        114  5,3
+                                                                                                      NSp        25       19                   32         76  3,2
+
+                                   768         1.362                                                  6h   196           138                 216        550       4,3
+                                                                                            KFZ       FSp 842            540                 756       2138       100
+                             434         334    594                                                   NSp 768            901                 719       2388       100
+                                                                                                      6h  4440          4172                4149      12761       100
+                                                                                            FZ        FSp 890            560         57      784       2291       100
+                                                                                                      NSp 813            948         62      752       2575       100
+
+                                                                                                      6h      4725      4388        346     4334      13793       100
+                                                                                            Bemerkungen :
+   1.722  1.003                                                             332             Wetter: früh 14ºC bewölkt, teilweise Regen;
+                                                                                   901
+           262                                                              569             nachmittags 18ºC bewölkt, trocken
+      719
+           457                                                              791    1.692 - durch Baustelle und Vollsperrung der F.-Ebert-Str. zw. Kurfüstenstr.
+                                                                                            und Alleestr. ist Umleitungsverkehr auf Jägerallee und Hegelallee
+                                                                                                      Sph-Beginn:       8:00 Uhr und 15:30 Uhr
+                                                                                            SUMME Zufahrten:          FSp :    2138 KFZ/h   8:30
+             WEST             Hegelallee                                    OST                                NSp :              2388 KFZ/h 16:00
+                                                                                                               6h :              12761 KFZ
+                                                                                            max. Sph /Zufahrt: NORD                842 KFZ/h 8:30
+                                                                                                                 OST               911 KFZ/h 16:30
+                                                                                            DATUM :            WEST                761 KFZ/h 8:00
+
+                                                                            2.388 KFZ/h     26.09.2013
+                                                      Kfz-Stromverteilung in der NSp         152                      Hegelallee/Jägerallee
+
+
+
+StromPlan NSp152kp9-13.xls                                        Seite 3
+

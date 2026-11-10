@@ -1,0 +1,156 @@
+SVP, 461                                                                                                                                                     27.07.2017
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                  NORD                                                 NORD SÜD WEST     SUMME %
+                                                 Potsdamer Ch. (B2)                                  RAD         FSp         10       11          15                  36      3,9
+
+                                                                                                            NSp     32                10        4                     46      4,5
+                                                               2.173                                        6h      87                40       45                    172      3,3
+                                                                               4.861                 NFZ    FSp     45               15       73                    133      15,1
+                                                                                                            NSp     64               20       48                    132      13,6
+                                                       1.742           431         2.688                    6h     268                91     297                    656      13,2
+                                                                                                     SV     FSp     19                 3      23                     45       5,1
+                                                                                                            NSp     21                 3      13                     37       3,8
+                                                                                                            6h     107                32      91                    230
+
+
+
+
+            Potsdamer Ch. (B2)
+                                                                                                                                                                              4,6
+                                                                                                     KFZ FSp 241                    152      489                    882       100
+                                                                                                            NSp 521                 112      341                    974      100
+                                                                                                            6h    2173              666     2146                   4985      100
+                                 3.998   1.852                                                       FZ     FSp    251              163      504                    918      100
+                                         2.132                                                              NSp    553              122      345                   1020      100
+
+     WEST
+                                 2.146                                                                      6h    2260               706    2191                   5157      100
+                                          14
+                                                                                                     Q DTVw: 2,2 10694             2444     8796
+                                                                                                     Q DTVw=Q Kfz 24h werktags              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge);
+                                                                                                     Bemerkungen :                          SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Wetter: früh 12ºC leicht bewölkt, trocken;
+                                                                                                     nachmittags 22ºC leicht bewölkt, trocken
+                                                                                                         Sph-Beginn:      7.00    Uhr und   15.30 Uhr
+                                                       445             110         556               SUMME Zufahrten: [FSp] : 882 KFZ/h 7:30
+                                                                                                                        (NSp) : 974 KFZ/h 16:00
+                                                      1.111                                                               6h : 4985 KFZ
+                                                                             666                     max. Sph /Zufahrt: NORD    521 KFZ/h 16:00
+                                                                   SÜD                                                    SÜD   152 KFZ/h 7:30
+                                                      Dorfstr.                                         DATUM :                    WEST        489 KFZ/h 7:30
+                                                                                                     23.09.2010
+                                                                                                      295 Potsdamer Ch./Dorfstr. (OT Gr. Glienicke)
+
+
+
+StromPlan295kp9-10.xls                                                                     Seite 1
+SVP, 461                                                                                                                                               27.07.2017
+
+
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                            NORD                                                  NORD SÜD WEST     SUMME %
+                                              Potsdamer Ch. (B2)                                RAD        FSp         10       11           15                 36      3,9
+
+                                                                                                       NSp     32               10         4                    46      4,5
+                                                          241                                          6h      87               40        45                   172      3,3
+                                                                            867                 NFZ    FSp     45              15        73                   133      15,1
+                                                                                                       NSp     64              20        48                   132      13,6
+                                                    211         30          626                        6h     268               91      297                   656      13,2
+                                                                                                SV     FSp     19                3       23                    45       5,1
+                                                                                                       NSp     21                3       13                    37       3,8
+                                                                                                       6h     107               32       91                   230
+
+
+
+
+             Potsdamer Ch. (B2)
+                                                                                                                                                                        4,6
+                                                                                                KFZ FSp 241                   152       489                   882       100
+                                                                                                       NSp 521                112       341                   974      100
+                                                                                                       6h    2173             666      2146                  4985      100
+                                  711   222                                                     FZ     FSp    251             163       504                   918      100
+                                        485                                                            NSp    553             122       345                  1020      100
+
+      WEST
+                                  489                                                                  6h    2260              706     2191                  5157      100
+                                         4
+                                                                                                Q DTVw: 2,2 10694            2444      8796
+                                                                                                Q DTVw=Q Kfz 24h werktags             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge);
+                                                                                                Bemerkungen :                         SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Wetter: früh 12ºC leicht bewölkt, trocken;
+                                                                                                nachmittags 22ºC leicht bewölkt, trocken
+                                                                                                    Sph-Beginn:     7.00    Uhr und   15.30 Uhr
+                                                    34          11          141                 SUMME Zufahrten: [FSp] : 882 KFZ/h 7:30
+                                                                                                                   (NSp) : 974 KFZ/h 16:00
+                                                   186                                                               6h : 4985 KFZ
+                                                                      152                       max. Sph /Zufahrt: NORD    521 KFZ/h 16:00
+                                                                SÜD                                                  SÜD   152 KFZ/h 7:30
+                                                   Dorfstr.                                       DATUM :                   WEST        489 KFZ/h 7:30
+                                                                                     882 KFZ/h 23.09.2010
+                                                                 Kfz-Stromverteilung in der FSp 295 Potsdamer Ch./Dorfstr. (OT Gr. Glienicke)
+
+
+
+
+StromPlan (FSp)295kp9-10.xls                                                      Seite 2
+SVP, 461                                                                                                                                              27.07.2017
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                           NORD                                                  NORD SÜD WEST     SUMME %
+                                             Potsdamer Ch. (B2)                                RAD        FSp         10       11           15                 36      3,9
+
+                                                                                                      NSp     32               10         4                    46      4,5
+                                                         521                                          6h      87               40        45                   172      3,3
+                                                                           943                 NFZ    FSp     45              15        73                   133      15,1
+                                                                                                      NSp     64              20        48                   132      13,6
+                                                   411         110         422                        6h     268               91      297                   656      13,2
+                                                                                               SV     FSp     19                3       23                    45       5,1
+                                                                                                      NSp     21                3       13                    37       3,8
+                                                                                                      6h     107               32       91                   230
+
+
+
+
+            Potsdamer Ch. (B2)
+                                                                                                                                                                       4,6
+                                                                                               KFZ FSp 241                   152       489                   882       100
+                                                                                                      NSp 521                112       341                   974      100
+                                                                                                      6h    2173             666      2146                  4985      100
+                                 780   439                                                     FZ     FSp    251             163       504                   918      100
+                                       338                                                            NSp    553             122       345                  1020      100
+
+     WEST
+                                 341                                                                  6h    2260              706     2191                  5157      100
+                                        3
+                                                                                               Q DTVw: 2,2 10694            2444      8796
+                                                                                               Q DTVw=Q Kfz 24h werktags             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge);
+                                                                                               Bemerkungen :                         SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Wetter: früh 12ºC leicht bewölkt, trocken;
+                                                                                               nachmittags 22ºC leicht bewölkt, trocken
+                                                                                                   Sph-Beginn:     7.00    Uhr und   15.30 Uhr
+                                                   113         28          84                  SUMME Zufahrten: [FSp] : 882 KFZ/h 7:30
+                                                                                                                  (NSp) : 974 KFZ/h 16:00
+                                                  225                                                               6h : 4985 KFZ
+                                                                     112                       max. Sph /Zufahrt: NORD    521 KFZ/h 16:00
+                                                               SÜD                                                  SÜD   152 KFZ/h 7:30
+                                                  Dorfstr.                                       DATUM :                   WEST        489 KFZ/h 7:30
+                                                                                    974 KFZ/h 23.09.2010
+                                                                Kfz-Stromverteilung in der NSp 295 Potsdamer Ch./Dorfstr. (OT Gr. Glienicke)
+
+
+
+
+StromPlan (NSp)295kp9-10.xls                                                     Seite 3
+

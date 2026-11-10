@@ -1,0 +1,150 @@
+                                                                                                                                     18.08.2014
+
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                                  NORD                                     NORD      SÜD WEST                     SUMME %
+                                     Am Schragen                        RAD        FSp        38       32        27                    97          4,2
+
+                                                                                   NSp     9   19               15                     43          1,8
+                                               3.832                               6h     94  104                96                   294          2,3
+                                                               7.084    NFZ        FSp 121   177                67                   365          16,3
+                                                                                   NSp 112   166                59                   337          14,5
+                                       86              3.746    3.252              6h   673  988               371                  2032          16,1
+                                                                        SV         FSp   44   74                27                   145           6,5
+                                                                                   NSp   30   47                12                    89           3,8
+                                                                                   6h   207  353               120                   680           5,4
+                                                                        KFZ        FSp 932   708               595                 2235           100
+                                                                                   NSp 595 1294                438                 2327           100
+
+
+
+
+       Pappelallee
+                                                                                   6h  3832 5970              2807                12609           100
+                     5.799   2.992                                      FZ         FSp  970  740               622                  2332          100
+                              188                                                  NSp  604 1313               453                  2370          100
+
+WEST
+                     2.807                                                         6h  3926 6074              2903                 12903          100
+                             2.619
+                                                                        Bemerkungen:
+                                                                        - Wetter früh 7 º C bewölkt, teilweise Regen;
+                                                                        nachmittags 11 º C bewölkt, Regen
+
+
+
+                                                                             Sph-Beginn:   7.00 Uhr und 15.30 Uhr
+
+                                       6.365           2.906    3.064   SUMME Zufahrten: [FSp]: 2235 KFZ/h                   7:30
+                                                                                           (NSp): 2327 KFZ/h                 16:00
+                                     12.335                                                   6h : 12609 KFZ
+                                                      5.970             max. Sph /Zufahrt: NORD      932 KFZ/h               7:30
+                                                   SÜD                                       SÜD 1297 KFZ/h                  16:30
+                                      Jägerallee                          DATUM :                  WEST        595 KFZ/h 7:30
+                                                                         06.05.2010
+                                                                         171                       Jägerallee/Pappelallee
+
+
+SVP, 461                                                                                                                StromPlan171kp8-10.xls
+                                                                                                                                               18.08.2014
+
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                             NORD                                                  NORD      SÜD WEST                       SUMME %
+                                 Am Schragen                                    RAD        FSp        38       32        27                      97          4,2
+
+                                                                                           NSp     9   19               15                       43          1,8
+                                           932                                             6h     94  104                96                     294          2,3
+                                                         1.334                  NFZ        FSp 121   177                67                     365          16,3
+                                                                                           NSp 112   166                59                     337          14,5
+                                   11            921         402                           6h   673  988               371                    2032          16,1
+                                                                                SV         FSp   44   74                27                     145           6,5
+                                                                                           NSp   30   47                12                      89           3,8
+                                                                                           6h   207  353               120                     680           5,4
+                                                                                KFZ        FSp 932   708               595                   2235           100
+                                                                                           NSp 595 1294                438                   2327           100
+
+
+
+
+       Pappelallee
+                                                                                           6h  3832 5970              2807                  12609           100
+                     936   341                                                  FZ         FSp  970  740               622                    2332          100
+                            24                                                             NSp  604 1313               453                    2370          100
+
+WEST
+                     595                                                                   6h  3926 6074              2903                   12903          100
+                           571
+                                                                                Bemerkungen:
+                                                                                - Wetter früh 7 º C bewölkt, teilweise Regen;
+                                                                                nachmittags 11 º C bewölkt, Regen
+
+
+
+                                                                                     Sph-Beginn:   7.00 Uhr und 15.30 Uhr
+
+                                   1.492         330         378                SUMME Zufahrten: [FSp]: 2235 KFZ/h                     7:30
+                                                                                                   (NSp): 2327 KFZ/h                   16:00
+                                  2.200                                                               6h : 12609 KFZ
+                                                       708                      max. Sph /Zufahrt: NORD      932 KFZ/h                 7:30
+                                                 SÜD                                                 SÜD 1297 KFZ/h                    16:30
+                                  Jägerallee                                      DATUM :                  WEST        595 KFZ/h 7:30
+                                                                   2235 KFZ/h    06.05.2010
+                                            Kfz-Stromverteilung in der FSp 171                             Jägerallee/Pappelallee
+
+
+SVP, 461                                                                                                                    StromPlan (FSP)171kp8-10.xls
+                                                                                                                                               18.08.2014
+
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                             NORD                                                  NORD      SÜD WEST                       SUMME %
+                                   Am Schragen                                  RAD        FSp        38       32        27                      97          4,2
+
+                                                                                           NSp     9   19               15                       43          1,8
+                                           595                                             6h     94  104                96                     294          2,3
+                                                        1.334                   NFZ        FSp 121   177                67                     365          16,3
+                                                                                           NSp 112   166                59                     337          14,5
+                                     20           575       739                            6h   673  988               371                    2032          16,1
+                                                                                SV         FSp   44   74                27                     145           6,5
+                                                                                           NSp   30   47                12                      89           3,8
+                                                                                           6h   207  353               120                     680           5,4
+                                                                                KFZ        FSp 932   708               595                   2235           100
+                                                                                           NSp 595 1294                438                   2327           100
+
+
+
+
+       Pappelallee
+                                                                                           6h  3832 5970              2807                  12609           100
+                     1.052   614                                                FZ         FSp  970  740               622                    2332          100
+                              39                                                           NSp  604 1313               453                    2370          100
+
+WEST
+                     438                                                                   6h  3926 6074              2903                   12903          100
+                             399
+                                                                                Bemerkungen:
+                                                                                - Wetter früh 7 º C bewölkt, teilweise Regen;
+                                                                                nachmittags 11 º C bewölkt, Regen
+
+
+
+                                                                                     Sph-Beginn:   7.00 Uhr und 15.30 Uhr
+                                     974          594       700                 SUMME Zufahrten: [FSp]: 2235 KFZ/h                     7:30
+                                                                                                   (NSp): 2327 KFZ/h                   16:00
+                                    2.268                                                             6h : 12609 KFZ
+                                                    1.294                       max. Sph /Zufahrt: NORD      932 KFZ/h                 7:30
+                                                 SÜD                                                 SÜD 1297 KFZ/h                    16:30
+                                    Jägerallee                                    DATUM :                  WEST        595 KFZ/h 7:30
+                                                                  2.327 KFZ/h    06.05.2010
+                                            Kfz-Stromverteilung in der NSp 171                             Jägerallee/Pappelallee
+
+
+SVP, 461                                                                                                                    StromPlan (NSP)171kp8-10.xls
+

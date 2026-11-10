@@ -1,0 +1,161 @@
+                                                                                                                                     14.11.2013
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                NORD OST SÜD WEST SUMME %
+                                                                               RAD        FSp        39       65          0      23         127    7,6
+                                                                                          NSp        37      102          0      37         176    8,9
+                                    NORD                                       NFZ        FSp        33       48          9     103         193   12,5
+                                                                                          NSp        48       48          9      82         187   10,4
+                            F.-Ebert-Str.                                                 6h        215      280         47     460        1002   10,7
+                                                                               SV         FSp        11       16          9      32          68    4,4
+                                  1781       2.913                                        NSp   18            15          9      18          60    3,3
+
+
+
+
+                                                              Kurfürstenstr.
+                                                                                          6h    79            79         47     121         326    3,5
+
+
+
+
+Hegelallee
+                                                                               KFZ        FSp 322            522          9     696       1549    100
+
+                            379
+                                     1.361    1.132
+                                                                                          NSp 335            762          9     689       1795    100
+                                                                                          6h  1781          3651         47    3892        9371   100
+                                                                               FZ         FSp  361           587          9     719        1676   100
+                                                                                          NSp  372           864          9     726        1971   100
+                                                                                          6h  1987          4083         47    4068       10185   100
+                                                                               Bemerkungen :
+                                                                               - Wetter früh 14 º C sonnig, trocken;
+7.120        3.228                                      802                    nachmittags 29 º C, bewölkt, trocken
+                                                               3.651
+               283                                    2.849
+3.892
+             3.609                                    4.970    8.621
+
+                                                                                      Sph-Beginn:           8.00 Uhr und 15.00 Uhr
+                                                                               SUMME Zufahrten: [FSp] :                1549 KFZ/h 8:30
+             WEST                                     OST                                                 (NSp):       1795 KFZ/h 15:30
+                     Bus:   41                47                                                    6h :               9371 KFZ
+                                                                               max. Sph /Zufahrt: NORD :                363 KFZ/h 16:00
+                                                                                                   OST :                768 KFZ/h 16:00
+                            Nauener Tor                                          DATUM :                  SÜD :           9 KFZ/h 7:30
+                                                                               26.05.2011               WEST :          715 KFZ/h 8:00
+                                                                                155                           Nauener Tor
+
+
+ SVP, 461                                                                                                               StromPlan155kp5-11.xls
+                                                                                                                                                   14.11.2013
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                              NORD OST SÜD WEST SUMME %
+                                                                                             RAD        FSp        39       65          0       23        127    7,6
+                                                                                                        NSp        37      102          0       37        176    8,9
+                                  NORD                                                       NFZ        FSp        33       48          9      103        193   12,5
+                                                                                                        NSp        48       48          9       82        187   10,4
+                           F.-Ebert-Str.                                                                6h        215      280         47      460       1002   10,7
+                                                                                             SV         FSp        11       16          9       32         68    4,4
+                                322         489                                                         NSp   18            15          9       18         60    3,3
+
+
+
+
+                                                                            Kurfürstenstr.
+                                                                                                        6h    79            79         47      121        326    3,5
+
+
+
+
+Hegelallee
+                                                                                             KFZ        FSp 322            522          9      696      1549    100
+
+                           63         254   167
+                                                                                                        NSp 335            762          9      689      1795    100
+                                                                                                        6h  1781          3651         47     3892       9371   100
+                                                                                             FZ         FSp  361           587          9      719       1676   100
+                                                                                                        NSp  372           864          9      726       1971   100
+                                                                                                        6h  1987          4083         47     4068      10185   100
+                                                                                             Bemerkungen :
+                                                                                             - Wetter früh 14 º C sonnig, trocken;
+1.176         480                                                    105                     nachmittags 29 º C, bewölkt, trocken
+                                                                                     522
+               53                                                    417
+     696
+              643                                                    897     1.419
+
+                                                                                                    Sph-Beginn:           8.00 Uhr und 15.00 Uhr
+                                                                                             SUMME Zufahrten: [FSp] :                1549 KFZ/h 8:30
+             WEST                                                  OST                                                  (NSp):       1795 KFZ/h 15:30
+                    Bus:   5                 9                                                                    6h :               9371 KFZ
+                                                                                             max. Sph /Zufahrt: NORD :                363 KFZ/h 16:00
+                                                                                                                 OST :                768 KFZ/h 16:00
+                           Nauener Tor                                                         DATUM :                  SÜD :            9 KFZ/h 7:30
+                                                                    1.549 KFZ/h              26.05.2011               WEST :          715 KFZ/h 8:00
+                                                  Kfz-Stromverteilung in der FSp              155                           Nauener Tor
+
+
+ SVP, 461                                                                                                                            StrPlan FSp155kp5-11.xls
+                                                                                                                                                   14.11.2013
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                              NORD OST SÜD WEST SUMME %
+                                                                                             RAD        FSp        39       65           0      23        127    7,6
+                                                                                                        NSp        37      102           0      37        176    8,9
+                                  NORD                                                       NFZ        FSp        33       48           9     103        193   12,5
+                                                                                                        NSp        48       48           9      82        187   10,4
+                           F.-Ebert-Str.                                                                6h        215      280          47     460       1002   10,7
+                                                                                             SV         FSp        11       16           9      32         68    4,4
+                                335         557                                                         NSp   18            15           9      18         60    3,3
+
+
+
+
+                                                                            Kurfürstenstr.
+                                                                                                        6h    79            79          47     121        326    3,5
+
+
+
+
+Hegelallee
+                                                                                             KFZ        FSp 322            522           9     696      1549    100
+
+                           77         250   222
+                                                                                                        NSp 335            762           9     689      1795    100
+                                                                                                        6h  1781          3651          47    3892       9371   100
+                                                                                             FZ         FSp  361           587           9     719       1676   100
+                                                                                                        NSp  372           864           9     726       1971   100
+                                                                                                        6h  1987          4083          47    4068      10185   100
+                                                                                             Bemerkungen :
+                                                                                             - Wetter früh 14 º C sonnig, trocken;
+1.355         666                                                    173                     nachmittags 29 º C, bewölkt, trocken
+                                                                                     762
+               40                                                    589
+     689
+              649                                                    899     1.661
+
+                                                                                                    Sph-Beginn:           8.00 Uhr und 15.00 Uhr
+                                                                                             SUMME Zufahrten: [FSp] :                1549 KFZ/h 8:30
+             WEST                                                  OST                                                  (NSp):       1795 KFZ/h 15:30
+                    Bus:   8                 9                                                                    6h :               9371 KFZ
+                                                                                             max. Sph /Zufahrt: NORD :                363 KFZ/h 16:00
+                                                                                                                 OST :                768 KFZ/h 16:00
+                           Nauener Tor                                                         DATUM :                  SÜD :            9 KFZ/h 7:30
+                                                                    1.795 KFZ/h              26.05.2011               WEST :          715 KFZ/h 8:00
+                                                  Kfz-Stromverteilung in der NSp              155                           Nauener Tor
+
+
+ SVP, 461                                                                                                                            StrPlan NSp155kp5-11.xls
+

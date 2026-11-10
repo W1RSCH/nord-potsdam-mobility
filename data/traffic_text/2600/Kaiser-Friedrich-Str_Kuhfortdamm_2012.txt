@@ -1,0 +1,164 @@
+       SVP, 461                                                                                                                                         10.11.2014
+
+
+
+
+                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                    NORD OST SÜD WEST SUMME %
+                                                     NORD                                        RAD        FSp         0       13       23        30         66      8,8
+                                                                                                            NSp         0       16       27        69        112     12,1
+                                      Ausfahrt Havellandkaserne                                             6h          0      101      140       226        467     10,9
+                                                                  167                            NFZ        FSp       12        23       20       49         104     15,2
+
+                                                                                                            NSp         3      29        30        34         96     11,9
+                                                     86           81                                        6h        23      155       129       197        504     13,2
+                                                                                                 SV         FSp         5      10         9        14         38      5,5
+                                                                                                            NSp         0      11         8         8         27      3,3
+                                                                                                            6h          7      55        40        58        160      4,2
+                                                                                                 KFZ        FSp       23      192      160        310        685     100
+
+
+
+
+       Reiherbergstr.
+                                                                                                            NSp       36      283      174        317        810     100
+                                                                                                            6h        86     1343       938      1457       3824     100
+                        2.802 1.345                                              897
+                                                                                                 FZ         FSp       23      205       183       340        751     100
+
+                                982
+                                                                                   1.343   OST              NSp       36      299       201       386        922     100
+
+WEST                    1.457                                                  446                          6h         86    1444      1078      1683       4291     100
+
+                                475                                          1.391 2.734         Bemerkungen :
+
+                                                                                                 - von / zur Havellandkaserne wurde nur die Verbindung
+                                                                                                  N ↔ S gezählt, weitere sind nicht relevant
+                                                                                                 - Wetter früh 12ºC bewölkt, vereinzelt Regen;
+                                                                                                  nachmittag 17ºC bewölkt, ab 17.00 Uhr Regen
+
+
+                                                                                                      Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+
+                                            1.007    448    81    409                            SUMME Zufahrten: [FSp] :              685 KFZ/h 7:30
+                                                                                                                  (NSp) :              810 KFZ/h 16:00
+                                           1.945                                                                              6h :    3824 KFZ
+                                                            938                                  max. Sph /Zufahrt: NORD                 36 KFZ/h 16:00
+                                                            SÜD                                                      OST                283 KFZ/h 16:00
+                                                    Kuhfortdamm                                    DATUM :                   SÜD        187 KFZ/h 16:30
+                                                                                                 31.05.2012                 WEST        317 KFZ/h 16:00
+                                                                                                  260               K.-Friedrich-Str./Kuhfortdamm
+
+
+
+       StromPlan260kp5-12.xls                                           Seite1
+       SVP, 461                                                                                                                                              10.11.2014
+
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                         NORD OST SÜD WEST SUMME %
+                                                   NORD                                               RAD        FSp         0       13       23        30         66      8,8
+                                                                                                                 NSp         0       16       27        69        112     12,1
+                                      Ausfahrt Havellandkaserne                                                  6h          0      101      140       226        467     10,9
+                                                                37                                    NFZ        FSp       12        23       20       49         104     15,2
+
+                                                                                                                 NSp         3      29        30        34         96     11,9
+                                                   23           14                                               6h        23      155       129       197        504     13,2
+                                                                                                      SV         FSp         5      10         9        14         38      5,5
+                                                                                                                 NSp         0      11         8         8         27      3,3
+                                                                                                                 6h          7      55        40        58        160      4,2
+                                                                                                      KFZ        FSp       23      192      160        310        685     100
+
+
+
+
+       Reiherbergstr.
+                                                                                                                 NSp       36      283      174        317        810     100
+                                                                                                                 6h        86     1343       938      1457       3824     100
+                        472   162                                                    98
+                                                                                                      FZ         FSp       23      205       183       340        751     100
+
+                              221
+                                                                                          192   OST              NSp       36      299       201       386        922     100
+
+WEST                    310                                                           94                         6h         86    1444      1078      1683       4291     100
+
+                              89                                                     303 495          Bemerkungen :
+
+                                                                                                      - von / zur Havellandkaserne wurde nur die Verbindung
+                                                                                                       N ↔ S gezählt, weitere sind nicht relevant
+                                                                                                      - Wetter früh 12ºC bewölkt, vereinzelt Regen;
+                                                                                                       nachmittag 17ºC bewölkt, ab 17.00 Uhr Regen
+
+
+                                                                                                           Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+                                            206    64     14    82                                    SUMME Zufahrten: [FSp] :              685 KFZ/h 7:30
+                                                                                                                       (NSp) :              810 KFZ/h 16:00
+                                            366                                                                                    6h :    3824 KFZ
+                                                          160                                         max. Sph /Zufahrt: NORD                 36 KFZ/h 16:00
+                                                          SÜD                                                             OST                283 KFZ/h 16:00
+                                                  Kuhfortdamm                                           DATUM :                   SÜD        187 KFZ/h 16:30
+                                                                                          685 KFZ/h   31.05.2012                 WEST        317 KFZ/h 16:00
+                                                                     Kfz-Stromverteilung in der FSp    260               K.-Friedrich-Str./Kuhfortdamm
+
+
+
+       StromPlan (FSp)260kp5-12.xls                                         Seite2
+       SVP, 461                                                                                                                                               10.11.2014
+
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                          NORD OST SÜD WEST SUMME %
+                                                   NORD                                                RAD        FSp         0       13       23        30         66      8,8
+                                                                                                                  NSp         0       16       27        69        112     12,1
+                                      Ausfahrt Havellandkaserne                                                   6h          0      101      140       226        467     10,9
+                                                                50                                     NFZ        FSp       12        23       20       49         104     15,2
+
+                                                                                                                  NSp         3      29        30        34         96     11,9
+                                                   36           14                                                6h        23      155       129       197        504     13,2
+                                                                                                       SV         FSp         5      10         9        14         38      5,5
+                                                                                                                  NSp         0      11         8         8         27      3,3
+                                                                                                                  6h          7      55        40        58        160      4,2
+                                                                                                       KFZ        FSp       23      192      160        310        685     100
+
+
+
+
+       Reiherbergstr.
+                                                                                                                  NSp       36      283      174        317        810     100
+                                                                                                                  6h        86     1343       938      1457       3824     100
+                        582   265                                                    183
+                                                                                                       FZ         FSp       23      205       183       340        751     100
+
+                              198
+                                                                                           283   OST              NSp       36      299       201       386        922     100
+
+WEST                    317                                                          100                          6h         86    1444      1078      1683       4291     100
+
+                              119                                                    276 559           Bemerkungen :
+
+                                                                                                       - von / zur Havellandkaserne wurde nur die Verbindung
+                                                                                                        N ↔ S gezählt, weitere sind nicht relevant
+                                                                                                       - Wetter früh 12ºC bewölkt, vereinzelt Regen;
+                                                                                                        nachmittag 17ºC bewölkt, ab 17.00 Uhr Regen
+
+
+                                                                                                            Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+                                            255    82     14    78                                     SUMME Zufahrten: [FSp] :              685 KFZ/h 7:30
+                                                                                                                        (NSp) :              810 KFZ/h 16:00
+                                            429                                                                                     6h :    3824 KFZ
+                                                          174                                          max. Sph /Zufahrt: NORD                 36 KFZ/h 16:00
+                                                          SÜD                                                              OST                283 KFZ/h 16:00
+                                                  Kuhfortdamm                                            DATUM :                   SÜD        187 KFZ/h 16:30
+                                                                                           810 KFZ/h   31.05.2012                 WEST        317 KFZ/h 16:00
+                                                                     Kfz-Stromverteilung in der NSp     260               K.-Friedrich-Str./Kuhfortdamm
+
+
+
+       StromPlan (NSp)260kp5-12.xls                                         Seite3
+

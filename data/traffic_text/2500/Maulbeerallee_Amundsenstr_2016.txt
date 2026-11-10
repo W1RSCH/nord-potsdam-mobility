@@ -1,0 +1,176 @@
+       SVP, 461                                                                                                                                                                        21.11.2016
+
+
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                                      NORD                                                                       RAD    FSp    47                    32      38    46            163     11,1
+                                                                                                                                        NSp    32                    40      77    31            180     11,7
+                                                    Amundsenstr.                                                                        6h    192                   159     323   186            860     10,5
+                                                      1.811                                                                      NFZ    FSp    66                   15      29    59            169      12,9
+                                                                      3.477                                                             NSp    34                   29      43    30            136      10,1
+                                                                                                                                        6h    204                  135     213   238             790     10,7
+                                            836        939     36      1.666                                                     SV     FSp    28                     3     17    25              73      5,6
+                                                                                                                                        NSp     5                   10      18    11              44      3,3
+                                                                                                                                        6h     69                    40    108     78            295      4,0
+                                                                                                                                 KFZ FSp 351                       190     190   581           1312       100
+                                                                                                                                        NSp 292                    294     369   397           1352
+
+
+
+
+       K.-Friedrich-Str.
+                                                                                                                                                                                                          100
+
+
+
+
+                                                                                                                 Maulbeerallee
+                                                                                                                                        6h   1811                 1453    1529 2572            7365       100
+                                                                                                                                 FZ     FSp   398                  222     228   627           1475       100
+                           5.042   2.470                                                    30                                          NSp   324                  334     446   428           1532       100
+                                    882                                                    1.134   1.453   OST                          6h   2003                 1612    1852  2758            8225      100
+
+WEST
+                           2.572   1.263                                                    289                                  Q DTVw: 2,4 8171                 7113    7482 11849
+                                    427                                                    1.574   3.027                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                 Bemerkungen :
+                                                                                                                                 - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                                     Sph-Beginn:      7.00     Uhr und    15.30 Uhr
+
+                                            1.655      500     754     275                                                       SUMME Zufahrten: [FSp] :               1312 KFZ/h 7:30
+                                                                                                                                                              (NSp):    1352 KFZ/h 16:00
+                                           3.184                                                                                                                   6h : 7365 KFZ
+                                                              1.529                                                              max. Sph /Zufahrt: NORD :                 357 KFZ/h 8:00
+                                                              SÜD                                                                                    OST :                 306 KFZ/h 15:30
+                                            Am Neuen Palais                                                                        DATUM :                      SÜD :      369 KFZ/h 16:00
+                                                                                                           6h Werte 23.06.2016                                WEST :       581 KFZ/h 7:30
+                                                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 250                              Maulbeerallee/Amundsenstr.
+
+
+
+       StromPlan250kp6-16.xls                                                    Seite 1
+       SVP, 461                                                                                                                                                      21.11.2016
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                            RAD    FSp    47                    32      38    46            163     11,1
+                                                                                                                      NSp    32                    40      77    31            180     11,7
+                                             Amundsenstr.                                                             6h    192                   159     323   186            860     10,5
+                                               351                                                             NFZ    FSp    66                   15      29    59            169      12,9
+                                                            565                                                       NSp    34                   29      43    30            136      10,1
+                                                                                                                      6h    204                  135     213   238             790     10,7
+                                       145      195   11    214                                                SV     FSp    28                     3     17    25              73      5,6
+                                                                                                                      NSp     5                   10      18    11              44      3,3
+                                                                                                                      6h     69                    40    108     78            295      4,0
+                                                                                                               KFZ FSp 351                       190     190   581           1312       100
+                                                                                                                      NSp 292                    294     369   397           1352
+
+
+
+
+       K.-Friedrich-Str.
+                                                                                                                                                                                        100
+
+
+
+
+                                                                                               Maulbeerallee
+                                                                                                                      6h   1811                 1453    1529 2572            7365       100
+                                                                                                               FZ     FSp   398                  222     228   627           1475       100
+                           921   340                                          2                                       NSp   324                  334     446   428           1532       100
+                                 131                                         150   190   OST                          6h   2003                 1612    1852  2758            8225      100
+
+WEST
+                           581   342                                          38                               Q DTVw: 2,4 8171                 7113    7482 11849
+                                 108                                         417   607                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                   Sph-Beginn:      7.00     Uhr und    15.30 Uhr
+                                       341      45    81    64                                                 SUMME Zufahrten: [FSp] :               1312 KFZ/h 7:30
+                                                                                                                                            (NSp):    1352 KFZ/h 16:00
+                                       531                                                                                                       6h : 7365 KFZ
+                                                      190                                                      max. Sph /Zufahrt: NORD :                 357 KFZ/h 8:00
+                                                      SÜD                                                                          OST :                 306 KFZ/h 15:30
+                                       Am Neuen Palais                                                           DATUM :                      SÜD :      369 KFZ/h 16:00
+                                                                                     1.312 KFZ/h 23.06.2016                                 WEST :       581 KFZ/h 7:30
+                                                                  Kfz-Stromverteilung in der FSp 250                            Maulbeerallee/Amundsenstr.
+
+
+
+       StromPlan (FSp)250kp6-16.xls                                Seite 2
+       SVP, 461                                                                                                                                                       21.11.2016
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                             RAD    FSp    47                    32      38    46            163     11,1
+                                                                                                                       NSp    32                    40      77    31            180     11,7
+                                             Amundsenstr.                                                              6h    192                   159     323   186            860     10,5
+                                               292                                                              NFZ    FSp    66                   15      29    59            169      12,9
+                                                            673                                                        NSp    34                   29      43    30            136      10,1
+                                                                                                                       6h    204                  135     213   238             790     10,7
+                                       141      149   2     381                                                 SV     FSp    28                     3     17    25              73      5,6
+                                                                                                                       NSp     5                   10      18    11              44      3,3
+                                                                                                                       6h     69                    40    108     78            295      4,0
+                                                                                                                KFZ FSp 351                       190     190   581           1312       100
+                                                                                                                       NSp 292                    294     369   397           1352
+
+
+
+
+       K.-Friedrich-Str.
+                                                                                                                                                                                         100
+
+
+
+
+                                                                                                Maulbeerallee
+                                                                                                                       6h   1811                 1453    1529 2572            7365       100
+                                                                                                                FZ     FSp   398                  222     228   627           1475       100
+                           890   493                                          10                                       NSp   324                  334     446   428           1532       100
+                                 171                                          231   294   OST                          6h   2003                 1612    1852  2758            8225      100
+
+WEST
+                           397   165                                           53                               Q DTVw: 2,4 8171                 7113    7482 11849
+                                 61                                           215   509                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                    Sph-Beginn:      7.00     Uhr und    15.30 Uhr
+                                       263      121   200   48                                                  SUMME Zufahrten: [FSp] :               1312 KFZ/h 7:30
+                                                                                                                                             (NSp):    1352 KFZ/h 16:00
+                                       632                                                                                                        6h : 7365 KFZ
+                                                      369                                                       max. Sph /Zufahrt: NORD :                 357 KFZ/h 8:00
+                                                      SÜD                                                                           OST :                 306 KFZ/h 15:30
+                                       Am Neuen Palais                                                            DATUM :                      SÜD :      369 KFZ/h 16:00
+                                                                                      1.352 KFZ/h 23.06.2016                                 WEST :       581 KFZ/h 7:30
+                                                                  Kfz-Stromverteilung in der NSp 250                             Maulbeerallee/Amundsenstr.
+
+
+
+       StromPlan (NSp)250kp6-16.xls                                 Seite 3
+

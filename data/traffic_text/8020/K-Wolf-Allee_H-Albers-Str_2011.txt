@@ -1,0 +1,148 @@
+                                                                                                                                                                 05.08.2011
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                              NORD OST SÜD WEST SUMME %
+                                               NORD                                                        RAD        FSp           0       7         0          10       17   2,0
+                                                                                                                      NSp           0      14         1          10       25   3,0
+                                      K.-Wolf-Allee                                                                   6h            0      49         1          58      108   2,4
+                                               2.172           3.753                                       NFZ        FSp   47               7     33         10         97 11,8
+                                                                                                                      NSp   28             20      20          7         75  9,3
+                                                                                                                      6h   226              63    145         43        477 10,9
+                                       721      572     879     1.581                                      SV         FSp   15               2     14          1         32  3,9
+                                                                                                                      NSp   10               3      9          1         20  2,5
+                                                                                                                      6h    73              12     56          6        147 3,4
+                                                                                                           KFZ        FSp 517              38     204         66        825 100
+                                                                                                                      NSp 332             243     162         73        810 100
+                                                                                                                      6h  2172            746    1067        384       4369 100
+
+
+
+
+       H.-Albers-Str.                                                                       F.-Lang-Str.
+                                                                                                           FZ         FSp  517              45    204         76        842 100
+                        1.249   865                                       582                                         NSp  332            257     163         83        835 100
+                                265                                        49 746     OST
+                                                                                                                      6h  2172             795   1068        442       4477 100
+
+WEST                    384      41                                       115                              Bemerkungen : Wetter, früh, 15°C sonnig, trocken
+
+                                 78                                     1.158 1.904                                           nachmittags 27 º C bewölkt, trocken
+                                                                                                                              (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                                Sph-Beginn:         7.30 Uhr und 15.00 Uhr
+                                       765      95      734     238                                        SUMME Zufahrten: [FSp] :               825 KFZ/h 8:00
+                                                                                                                                        (NSp):    810 KFZ/h 15:30
+                                      1.832                                                                                               6h :   4369 KFZ
+                                                       1.067                                               max. Sph /Zufahrt: NORD :               517 KFZ/h 8:00
+                                                       SÜD                                                                              OST :      243 KFZ/h 15:30
+                                              K.-Wolf-Allee                                                  DATUM :                  SÜD :        213 KFZ/h 7:30
+                                                                                                           19.05.2011                WEST :         78 KFZ/h 17:00
+                                                                                                            802               K.-Wolf-Allee/H.-Albers-Str.
+
+
+       SVP, 461                                                                                                                                   StromPlan802kp5-11.xls
+                                                                                                                                                              05.08.2011
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                           NORD OST SÜD WEST SUMME %
+                                           NORD                                                         RAD        FSp           0       7          0         10       17   2,0
+                                                                                                                   NSp           0      14          1         10       25   3,0
+                                    K.-Wolf-Allee                                                                  6h            0      49          1         58      108   2,4
+                                           517          740                                             NFZ        FSp   47               7       33       10         97 11,8
+                                                                                                                   NSp   28             20        20        7         75  9,3
+                                                                                                                   6h   226              63      145       43        477 10,9
+                                    237     94    186   223                                             SV         FSp   15               2       14        1         32  3,9
+                                                                                                                   NSp   10               3        9        1         20  2,5
+                                                                                                                   6h    73              12       56        6        147 3,4
+                                                                                                        KFZ        FSp 517              38       204       66        825 100
+                                                                                                                   NSp 332             243       162       73        810 100
+                                                                                                                   6h  2172            746      1067      384       4369 100
+
+
+
+
+       H.-Albers-Str.                                                                    F.-Lang-Str.
+                                                                                                        FZ         FSp  517              45      204       76        842 100
+                        329   263                                        18                                        NSp  332            257       163       83        835 100
+                               50                                         9   38   OST
+                                                                                                                   6h  2172             795     1068      442       4477 100
+
+WEST                    66      4                                        11                             Bemerkungen : Wetter, früh, 15°C sonnig, trocken
+
+                               12                                       222 260                                            nachmittags 27 º C bewölkt, trocken
+                                                                                                                           (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                             Sph-Beginn:         7.30 Uhr und 15.00 Uhr
+                                    117     17    155   32                                              SUMME Zufahrten: [FSp] :                 825 KFZ/h 8:00
+                                                                                                                                     (NSp):      810 KFZ/h 15:30
+                                    321                                                                                                6h :     4369 KFZ
+                                                  204                                                   max. Sph /Zufahrt: NORD :                 517 KFZ/h 8:00
+                                                  SÜD                                                                                OST :        243 KFZ/h 15:30
+                                          K.-Wolf-Allee                                                   DATUM :                  SÜD :          213 KFZ/h 7:30
+                                                                              825 KFZ/h                 19.05.2011                WEST :           78 KFZ/h 17:00
+                                                          Kfz-Stromverteilung in der FSp                 802               K.-Wolf-Allee/H.-Albers-Str.
+
+
+       SVP, 461                                                                                                                               StromPlanFSP802kp5-11.xls
+                                                                                                                                                               05.08.2011
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                            NORD OST SÜD WEST SUMME %
+                                          NORD                                                           RAD        FSp           0       7          0         10       17   2,0
+                                                                                                                    NSp           0      14          1         10       25   3,0
+                                   K.-Wolf-Allee                                                                    6h            0      49          1         58      108   2,4
+                                          332          701                                               NFZ        FSp   47               7        33       10        97 11,8
+                                                                                                                    NSp   28             20         20        7        75  9,3
+                                                                                                                    6h   226              63       145       43       477 10,9
+                                   41      114   177   369                                               SV         FSp   15               2        14        1        32  3,9
+                                                                                                                    NSp   10               3         9        1        20  2,5
+                                                                                                                    6h    73              12        56        6       147 3,4
+                                                                                                         KFZ        FSp 517              38        204       66       825 100
+                                                                                                                    NSp 332             243        162       73       810 100
+                                                                                                                    6h  2172            746       1067      384      4369 100
+
+
+
+
+       H.-Albers-Str.                                                                     F.-Lang-Str.
+                                                                                                         FZ         FSp  517              45       204       76       842 100
+                        134   61                                        225                                         NSp  332            257        163       83       835 100
+                              45                                          8 243    OST
+                                                                                                                    6h  2172             795      1068      442      4477 100
+
+WEST                    73    11                                         10                              Bemerkungen : Wetter, früh, 15°C sonnig, trocken
+
+                              17                                        239 482                                             nachmittags 27 º C bewölkt, trocken
+                                                                                                                            (17.50 Uhr kurzer starker Regen)
+
+
+
+
+                                                                                                              Sph-Beginn:         7.30 Uhr und 15.00 Uhr
+                                   141     12    99    51                                                SUMME Zufahrten: [FSp] :                  825 KFZ/h 8:00
+                                                                                                                                      (NSp):       810 KFZ/h 15:30
+                                   303                                                                                                  6h :      4369 KFZ
+                                                 162                                                     max. Sph /Zufahrt: NORD :                 517 KFZ/h 8:00
+                                                 SÜD                                                                                  OST :        243 KFZ/h 15:30
+                                         K.-Wolf-Allee                                                     DATUM :                  SÜD :          213 KFZ/h 7:30
+                                                                              810 KFZ/h                  19.05.2011                WEST :           78 KFZ/h 17:00
+                                                         Kfz-Stromverteilung in der NSp                   802               K.-Wolf-Allee/H.-Albers-Str.
+
+
+       SVP, 461                                                                                                                                StromPlanNSP802kp5-11.xls
+

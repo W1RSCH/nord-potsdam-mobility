@@ -1,0 +1,166 @@
+SVP, 461                                                                                                                                                             28.02.2018
+
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                  NORD                                                 Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                     Zeppelinstr.                                                 RAD    FSp     33     41                       17                     91         5,5
+                                                                                                         NSp     56     45                       14                   115          5,8
+                                                                                                         6h     293    246                      107                    646         6,1
+                                               4.677
+                                                                   9.803                          NFZ    FSp     77   104                         5                   186         12,0
+                                                                                                         NSp     73    58                         6                   137          7,3
+                                       201             4.476           5.126                             6h     434   502                        37                   973          9,7
+                                                                                                  SV     FSp     37    59                         1                    97          6,3
+                                                                                                         NSp     16    15                         0                    31          1,7
+                                                                                                         6h     144   216                         3                   363          3,6
+                                                                                                  KFZ FSp 678         793                        78                  1549         100
+                                                                                                         NSp 1001     807                        66                  1874         100
+                                                                                                         6h    4677 4782                        552                 10011
+
+
+
+
+             Im Bogen
+                                                                                                                                                                                  100
+                         821   269                                                                FZ     FSp    711   834                        95                  1640         100
+                               412                                                                       NSp 1057     852                        80                  1989         100
+
+      WEST
+                         552
+                               140                                                                       6h    4970  5028                       659                 10657         100
+                                                                                                  Q DTVw: 2,4 23037 22085                      1929
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                  Bemerkungen :
+                                                                                                  - Wetter früh 3ºC sonnig, trocken; nachmittag 15ºC leicht bewölkt, sonst sonnig
+
+
+                                       4.616           68              4.714                          Sph-Beginn:      9.00     Uhr und     16.30     Uhr
+                                                                                                  SUMME Zufahrten: FSp :                      1549 KFZ/h          9:30
+                                      9.398                                                                          NSp :                    1874 KFZ/h          17:00
+                                                               4.782
+                                                                                                                       6h :                  10011 KFZ
+                                                   SÜD                                            max. Sph /Zufahrt: NORD                     1016 KFZ/h          17:30
+                                     Zeppelinstr.                                                                                  SÜD          852 KFZ/h         7:30
+
+                                                                                                    DATUM :                      WEST           139 KFZ/h         7:30
+                                                                                         6h Werte 27.04.2017
+                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 312                                              Zeppelinstr./Im Bogen
+
+
+
+
+StromPlan312kp4-17.xls                                                         Seite 1
+SVP, 461                                                                                                                                                     28.02.2018
+
+
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                                              NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                    Zeppelinstr.                                          RAD    FSp     33     41                       17                     91         5,5
+                                                                                                 NSp     56     45                       14                   115          5,8
+                                                                                                 6h     293    246                      107                    646         6,1
+                                            678
+                                                          1.521                           NFZ    FSp     77   104                         5                   186         12,0
+                                                                                                 NSp     73    58                         6                   137          7,3
+                                      18          660         843                                6h     434   502                        37                   973          9,7
+                                                                                          SV     FSp     37    59                         1                    97          6,3
+                                                                                                 NSp     16    15                         0                    31          1,7
+                                                                                                 6h     144   216                         3                   363          3,6
+                                                                                          KFZ FSp 678         793                        78                  1549         100
+                                                                                                 NSp 1001     807                        66                  1874         100
+                                                                                                 6h    4677 4782                        552                 10011
+
+
+
+
+             Im Bogen
+                                                                                                                                                                          100
+                        100    22                                                         FZ     FSp    711   834                        95                  1640         100
+                               54                                                                NSp 1057     852                        80                  1989         100
+
+      WEST
+                        78
+                               24                                                                6h    4970  5028                       659                 10657         100
+                                                                                          Q DTVw: 2,4 23037 22085                      1929
+                                                                                          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                          Bemerkungen :
+                                                                                          - Wetter früh 3ºC sonnig, trocken; nachmittag 15ºC leicht bewölkt, sonst sonnig
+
+
+                                      684         4           789                             Sph-Beginn:      9.00     Uhr und     16.30     Uhr
+                                                                                          SUMME Zufahrten: FSp :                      1549 KFZ/h          9:30
+                                     1.477                                                                   NSp :                    1874 KFZ/h          17:00
+                                                        793
+                                                                                                               6h :                  10011 KFZ
+                                                  SÜD                                     max. Sph /Zufahrt: NORD                     1016 KFZ/h          17:30
+                                    Zeppelinstr.                                                                           SÜD          852 KFZ/h         7:30
+
+                                                                                            DATUM :                      WEST           139 KFZ/h         7:30
+                                                                              1.549 KFZ/h 27.04.2017
+                                                    Kfz-Stromverteilung in der FSp 312                                    Zeppelinstr./Im Bogen
+
+
+
+
+StromPlan (FSp)312kp4-17.xls                                        Seite 2
+SVP, 461                                                                                                                                                       28.02.2018
+
+
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                               NORD                                              Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                    Zeppelinstr.                                            RAD    FSp     33     41                       17                     91         5,5
+                                                                                                   NSp     56     45                       14                   115          5,8
+                                                                                                   6h     293    246                      107                    646         6,1
+                                            1.001
+                                                            1.829                           NFZ    FSp     77   104                         5                   186         12,0
+                                                                                                   NSp     73    58                         6                   137          7,3
+                                      53            948         828                                6h     434   502                        37                   973          9,7
+                                                                                            SV     FSp     37    59                         1                    97          6,3
+                                                                                                   NSp     16    15                         0                    31          1,7
+                                                                                                   6h     144   216                         3                   363          3,6
+                                                                                            KFZ FSp 678         793                        78                  1549         100
+                                                                                                   NSp 1001     807                        66                  1874         100
+                                                                                                   6h    4677 4782                        552                 10011
+
+
+
+
+             Im Bogen
+                                                                                                                                                                            100
+                        142    76                                                           FZ     FSp    711   834                        95                  1640         100
+                               44                                                                  NSp 1057     852                        80                  1989         100
+
+      WEST
+                        66
+                               22                                                                  6h    4970  5028                       659                 10657         100
+                                                                                            Q DTVw: 2,4 23037 22085                      1929
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                            Bemerkungen :
+                                                                                            - Wetter früh 3ºC sonnig, trocken; nachmittag 15ºC leicht bewölkt, sonst sonnig
+
+
+                                      970           23          784                             Sph-Beginn:      9.00     Uhr und     16.30     Uhr
+                                                                                            SUMME Zufahrten: FSp :                      1549 KFZ/h          9:30
+                                     1.777                                                                     NSp :                    1874 KFZ/h          17:00
+                                                          807
+                                                                                                                 6h :                  10011 KFZ
+                                                SÜD                                         max. Sph /Zufahrt: NORD                     1016 KFZ/h          17:30
+                                    Zeppelinstr.                                                                             SÜD          852 KFZ/h         7:30
+
+                                                                                              DATUM :                      WEST           139 KFZ/h         7:30
+                                                                                1.874 KFZ/h 27.04.2017
+                                                     Kfz-Stromverteilung in der NSp 312                                     Zeppelinstr./Im Bogen
+
+
+
+
+StromPlan (NSp)312kp4-17.xls                                          Seite 3
+

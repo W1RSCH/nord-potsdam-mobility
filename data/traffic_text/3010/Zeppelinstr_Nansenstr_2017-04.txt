@@ -1,0 +1,162 @@
+SVP, 461                                                                                                                                                                 01.08.2017
+
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                      NORD                                                 Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                          Zeppelinstr.                                                RAD    FSp    107   199                       107                    413        15,2
+                                                                                                             NSp    152   126                         64                   342        11,7
+                                                                                                             6h     671    832                       423                  1926        12,0
+                                                   5.961
+                                                                      13.711                          NFZ    FSp 119      183                        29                   331         14,3
+                                                                                                             NSp 142      172                        17                   331         12,9
+                                           76              5.885           7.750                             6h     813   974                       125                  1912         13,5
+                                                                                                      SV     FSp     37    54                          7                    98         4,2
+                                                                                                             NSp     18    41                          0                    59         2,3
+                                                                                                             6h     175   296                         20                   491         3,5
+                                                                                                      KFZ FSp 745 1251                              314                  2310         100
+                                                                                                             NSp 1228 1087                          260                  2575         100
+
+
+
+
+             Nansenstr.
+                                                                                                             6h    5961 6613                       1562                 14136         100
+                          1.819    257                                                                FZ     FSp    852  1450                       421                  2723         100
+                                  1.318                                                                      NSp 1380    1213                       324                  2917         100
+
+      WEST
+                          1.562
+                                   244                                                                       6h    6632  7445                      1985                 16062         100
+                                                                                                      Q DTVw: 2,4 32221 29944                      4275
+                                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                      Bemerkungen :
+                                                                                                      - Teilzählung (Zuf. NG und SG durch KP300 errechnet)
+                                                                                                      - Wetter früh 3ºC sonnig, trocken; nachmittag 15ºC leicht bewölkt, sonst sonnig
+
+                                           6.129           181             6.432                          Sph-Beginn:      7.30     Uhr und     15.30      Uhr
+                                                                                                      SUMME Zufahrten: FSp :                      2310 KFZ/h          8:00
+                                          12.742                                                                         NSp :                    2575 KFZ/h          16:00
+                                                                   6.613
+                                                                                                                           6h :                  14136 KFZ
+                                                       SÜD                                            max. Sph /Zufahrt: NORD                     1244 KFZ/h          15:30
+                                          Zeppelinstr.                                                                                 SÜD         1251 KFZ/h         8:00
+
+                                                                                                        DATUM :                      WEST           327 KFZ/h         7:30
+                                                                                             6h Werte 27.04.2017
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 301                                             Zeppelinstr./Nansenstr.
+
+
+
+
+StromPlan301kp4-17.xls                                                             Seite 1
+SVP, 461                                                                                                                                                           01.08.2017
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                NORD                                                 Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                      Zeppelinstr.                                              RAD    FSp    107   199                       107                    413        15,2
+                                                                                                       NSp    152   126                         64                   342        11,7
+                                                                                                       6h     671    832                       423                  1926        12,0
+                                              745
+                                                              2.239                             NFZ    FSp 119      183                        29                   331         14,3
+                                                                                                       NSp 142      172                        17                   331         12,9
+                                        13          732           1.494                                6h     813   974                       125                  1912         13,5
+                                                                                                SV     FSp     37    54                          7                    98         4,2
+                                                                                                       NSp     18    41                          0                    59         2,3
+                                                                                                       6h     175   296                         20                   491         3,5
+                                                                                                KFZ FSp 745 1251                              314                  2310         100
+                                                                                                       NSp 1228 1087                          260                  2575         100
+
+
+
+
+             Nansenstr.
+                                                                                                       6h    5961 6613                       1562                 14136         100
+                          356   42                                                              FZ     FSp    852  1450                       421                  2723         100
+                                272                                                                    NSp 1380    1213                       324                  2917         100
+
+      WEST
+                          314
+                                42                                                                     6h    6632  7445                      1985                 16062         100
+                                                                                                Q DTVw: 2,4 32221 29944                      4275
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                Bemerkungen :
+                                                                                                - Teilzählung (Zuf. NG und SG durch KP300 errechnet)
+                                                                                                - Wetter früh 3ºC sonnig, trocken; nachmittag 15ºC leicht bewölkt, sonst sonnig
+                                        774         29            1.222                             Sph-Beginn:      7.30     Uhr und     15.30      Uhr
+                                                                                                SUMME Zufahrten: FSp :                      2310 KFZ/h          8:00
+                                       2.025                                                                       NSp :                    2575 KFZ/h          16:00
+                                                          1.251
+                                                                                                                     6h :                  14136 KFZ
+                                                    SÜD                                         max. Sph /Zufahrt: NORD                     1244 KFZ/h          15:30
+                                      Zeppelinstr.                                                                               SÜD         1251 KFZ/h         8:00
+
+                                                                                                  DATUM :                      WEST           327 KFZ/h         7:30
+                                                                                    2.310 KFZ/h 27.04.2017
+                                                      Kfz-Stromverteilung in der FSp 301                                       Zeppelinstr./Nansenstr.
+
+
+
+
+StromPlan (FSp)301kp4-17.xls                                              Seite 2
+SVP, 461                                                                                                                                                                 01.08.2017
+
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                   NORD                                                    Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                      Zeppelinstr.                                                    RAD    FSp    107   199                       107                    413        15,2
+                                                                                                             NSp    152   126                         64                   342        11,7
+                                                                                                             6h     671    832                       423                  1926        12,0
+                                                1.228
+                                                                    2.500                             NFZ    FSp 119      183                        29                   331         14,3
+                                                                                                             NSp 142      172                        17                   331         12,9
+                                        13              1.215           1.272                                6h     813   974                       125                  1912         13,5
+                                                                                                      SV     FSp     37    54                          7                    98         4,2
+                                                                                                             NSp     18    41                          0                    59         2,3
+                                                                                                             6h     175   296                         20                   491         3,5
+                                                                                                      KFZ FSp 745 1251                              314                  2310         100
+                                                                                                             NSp 1228 1087                          260                  2575         100
+
+
+
+
+             Nansenstr.
+                                                                                                             6h    5961 6613                       1562                 14136         100
+                          299   39                                                                    FZ     FSp    852  1450                       421                  2723         100
+                                211                                                                          NSp 1380    1213                       324                  2917         100
+
+      WEST
+                          260
+                                49                                                                           6h    6632  7445                      1985                 16062         100
+                                                                                                      Q DTVw: 2,4 32221 29944                      4275
+                                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                      Bemerkungen :
+                                                                                                      - Teilzählung (Zuf. NG und SG durch KP300 errechnet)
+                                                                                                      - Wetter früh 3ºC sonnig, trocken; nachmittag 15ºC leicht bewölkt, sonst sonnig
+
+                                        1.264           26              1.061                             Sph-Beginn:      7.30     Uhr und     15.30      Uhr
+                                                                                                      SUMME Zufahrten: FSp :                      2310 KFZ/h          8:00
+                                       2.351                                                                             NSp :                    2575 KFZ/h          16:00
+                                                                1.087
+                                                                                                                           6h :                  14136 KFZ
+                                                    SÜD                                               max. Sph /Zufahrt: NORD                     1244 KFZ/h          15:30
+                                      Zeppelinstr.                                                                                     SÜD         1251 KFZ/h         8:00
+
+                                                                                                        DATUM :                      WEST           327 KFZ/h         7:30
+                                                                                          2.575 KFZ/h 27.04.2017
+                                                           Kfz-Stromverteilung in der NSp 301                                        Zeppelinstr./Nansenstr.
+
+
+
+
+StromPlan (NSp)301kp4-17.xls                                                    Seite 3
+

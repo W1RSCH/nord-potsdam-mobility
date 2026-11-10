@@ -1,0 +1,140 @@
+Landeshauptstadt Potsdam                                                                                                                                          28.04.2020
+Bereich Verkehrsentwicklung
+
+
+                                                (7:00 bis 10:00 u. 15:00 bis 18:00)                              FAHRZEUG-VERTEILUNG
+                                                                                                         Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                    RAD         FSp        133             1     207                 341     19,5
+                                                                                                                NSp        335            21     263                 619     28,5
+                                                                                                                6h        1530            51    1639                3220     27,4
+
+Hegelallee                                                                       Hegelallee NFZ                 FSp        110         21        85                 216      15,3
+                                                                                                                NSp         81         13        62                 156      10,1
+                                                                                                                6h         467         84       442                 993      11,6
+                          WEST                                       OST                            SV          FSp         22          4        45                  71        5,0
+                                                                                                                NSp         14          3        23                  40        2,6
+                                                                                                                6h          80         11       171                 262        3,1
+                                                                                                    KFZ         FSp        518        108       784                1410       100
+
+ 7.834       3.184                                                               2.862                          NSp        699        125       726                1550       100
+                                                                                            3.304
+                                                                                  442                           6h        3304        572      4650                8526       100
+
+             4.089                                                                                  FZ          FSp         651       109       991                1751       100
+ 4.650
+              561                                                                4.339      7.643          NSp 1034                   146   989                    2169       100
+                                                                                                           6h    4834                 623 6289                    11746       100
+                                                                                                    Q DTVw: 2,5 19108                3938 19585
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+
+                                  1.003    322     250                                              - Wetter früh 15°C bewölkt, trocken;
+                                                                                                     nachm. 23°C leicht bewölkt, trocken
+                                 1.575                                                                   Sph-Beginn:        9.00 Uhr und       15.00   Uhr
+                                                572                                                 SUMME Zufahrten: [FSp]:                    1410 KFZ/h 9:30
+                                  Dortustr.                                                                            (NSp): 1550 KFZ/h                      15:30
+                                                                                                                          6h : 8526 KFZ
+                                          SÜD                                                       max. Sph /Zufahrt:   OST    699 KFZ/h                     15:30
+                                                                                                                         SÜD    125 KFZ/h                     15:30
+                                                                                                     DATUM :            WEST    903 KFZ/h                     7:30
+                                                                                         6h Werte 15.08.2019
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 153                                             Hegelallee/Dortustr.
+
+
+
+StromPlan153kp8-19.xlsx                                                Seite 1
+Landeshauptstadt Potsdam                                                                                                                                  28.04.2020
+Bereich Verkehrsentwicklung
+
+
+                                            (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD         FSp        133             1     207                 341     19,5
+                                                                                                        NSp        335            21     263                 619     28,5
+                                                                                                        6h        1530            51    1639                3220     27,4
+
+Hegelallee                                                                   Hegelallee NFZ             FSp        110         21        85                 216      15,3
+                                                                                                        NSp         81         13        62                 156      10,1
+                                                                                                        6h         467         84       442                 993      11,6
+                        WEST                                     OST                        SV          FSp         22          4        45                  71        5,0
+                                                                                                        NSp         14          3        23                  40        2,6
+                                                                                                        6h          80         11       171                 262        3,1
+                                                                                            KFZ         FSp        518        108       784                1410       100
+
+ 1.279        495                                                            430                        NSp        699        125       726                1550       100
+                                                                                     518
+                                                                             88                         6h        3304        572      4650                8526       100
+
+              700                                                                           FZ          FSp         651       109       991                1751       100
+  784
+              84                                                             743    1.261          NSp 1034                   146   989                    2169       100
+                                                                                                   6h    4834                 623 6289                    11746       100
+                                                                                            Q DTVw: 2,5 19108                3938 19585
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                            Bemerkungen :
+                                172    65      43                                           - Wetter früh 15°C bewölkt, trocken;
+                                                                                             nachm. 23°C leicht bewölkt, trocken
+                                280                                                              Sph-Beginn:        9.00 Uhr und       15.00   Uhr
+                                            108                                             SUMME Zufahrten: [FSp]:                    1410 KFZ/h 9:30
+                                Dortustr.                                                                      (NSp): 1550 KFZ/h                      15:30
+                                                                                                                  6h : 8526 KFZ
+                                      SÜD                                                   max. Sph /Zufahrt:   OST    699 KFZ/h                     15:30
+                                                                                                                 SÜD    125 KFZ/h                     15:30
+                                                                                             DATUM :            WEST    903 KFZ/h                     7:30
+                                                                              1.410 KFZ/h 15.08.2019
+                                                    Kfz-Stromverteilung in der FSp 153                                       Hegelallee/Dortustr.
+
+
+
+StromPlan (FSp)153kp8-19.xlsx                                      Seite 2
+Landeshauptstadt Potsdam                                                                                                                                  28.04.2020
+Bereich Verkehrsentwicklung
+
+
+                                            (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD         FSp        133             1     207                 341     19,5
+                                                                                                        NSp        335            21     263                 619     28,5
+                                                                                                        6h        1530            51    1639                3220     27,4
+
+Hegelallee                                                                   Hegelallee NFZ             FSp        110         21        85                 216      15,3
+                                                                                                        NSp         81         13        62                 156      10,1
+                                                                                                        6h         467         84       442                 993      11,6
+                        WEST                                     OST                        SV          FSp         22          4        45                  71        5,0
+                                                                                                        NSp         14          3        23                  40        2,6
+                                                                                                        6h          80         11       171                 262        3,1
+                                                                                            KFZ         FSp        518        108       784                1410       100
+
+ 1.438        712                                                            627                        NSp        699        125       726                1550       100
+                                                                                     699
+                                                                             72                         6h        3304        572      4650                8526       100
+
+              637                                                                           FZ          FSp         651       109       991                1751       100
+  726
+              89                                                             677    1.376          NSp 1034                   146   989                    2169       100
+                                                                                                   6h    4834                 623 6289                    11746       100
+                                                                                            Q DTVw: 2,5 19108                3938 19585
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                            Bemerkungen :
+                                161    85      40                                           - Wetter früh 15°C bewölkt, trocken;
+                                                                                             nachm. 23°C leicht bewölkt, trocken
+                                286                                                              Sph-Beginn:        9.00 Uhr und       15.00   Uhr
+                                            125                                             SUMME Zufahrten: [FSp]:                    1410 KFZ/h 9:30
+                                Dortustr.                                                                      (NSp): 1550 KFZ/h                      15:30
+                                                                                                                  6h : 8526 KFZ
+                                      SÜD                                                   max. Sph /Zufahrt:   OST    699 KFZ/h                     15:30
+                                                                                                                 SÜD    125 KFZ/h                     15:30
+                                                                                             DATUM :            WEST    903 KFZ/h                     7:30
+                                                                              1.550 KFZ/h 15.08.2019
+                                                    Kfz-Stromverteilung in der NSp 153                                       Hegelallee/Dortustr.
+
+
+
+StromPlan (NSp)153kp8-19.xlsx                                      Seite 3
+

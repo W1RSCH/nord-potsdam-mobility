@@ -1,0 +1,134 @@
+                                                                                                                           15.07.2015
+
+
+
+
+                                                                               FAHRZEUG-VERTEILUNG
+                                                                               NORD OST SÜD      SUMME %
+                                                              RAD        FSp        3        0        39                   42  3,7
+                                                                         NSp       17        2         8                   27  2,0
+                                                                         6h        65       12       124                  201 2,9
+                                                              NFZ        FSp        8       59        79                  146 13,4
+                              OST                                        NSp        7       75        32                  114  8,6
+                                                                         6h        53      347       310                  710 10,6
+                     Brauhausberg                             SV         FSp        5       17        34                   56  5,1
+                                                                         NSp        5       12        15                   32  2,4
+                          3.568       4.410                              6h        32       95       140                  267       4,0
+
+
+                      1.416   2.152
+                                       842
+                                                              KFZ        FSp       40      375       674                 1089       100
+                                                                         NSp       39      898       387                 1324       100
+                                                                         6h       229     3568      2899                 6696       100
+                                                              FZ         FSp       43      375       713                 1131       100
+                                                                         NSp       56      900       395                 1351       100
+                                                                         6h       294     3580      3023                 6897       100
+                                                              Bemerkungen :
+   3.771    3.542                               773           - Wetter
+                                                      2.899
+               69                             2.126
+      229
+              160                             2.312   5.211
+                                                              - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                         Sph-Beginn:     7.00 Uhr und       16.00 Uhr
+                                                              SUMME Zufahrten:          [FSp] : 1089 KFZ/h             7:30
+            NORD    Michendorfer Ch.          SÜD                                       [NSp] : 1324 KFZ/h            16:30
+                                                                                  6h : 6696 KFZ
+                                                              max. Sph /Zufahrt: NORD     65 KFZ/h 15:30
+                                                                                  OST    898 KFZ/h 16:30
+                                                               DATUM :            SÜD    674 KFZ/h 7:30
+                                                              13.06.2013
+                                                               470             Michendorf. Ch.(B2)/Brauh.berg
+
+
+
+
+SVP, 461                                                                                                      StromPlan470kp6-13.xls
+                                                                                                                                           15.07.2015
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                             NORD   OST  SÜD     SUMME %
+                                                                              RAD        FSp    3            0        39                    42  3,7
+                                                                                         NSp   17            2         8                    27  2,0
+                                                                                         6h    65           12       124                   201 2,9
+                                                                              NFZ        FSp    8           59        79                   146 13,4
+                                 OST                                                     NSp        7       75        32                   114  8,6
+                                                                                         6h        53      347       310                   710 10,6
+                        Brauhausberg                                          SV         FSp        5       17        34                    56  5,1
+                                                                                         NSp        5       12        15                    32  2,4
+                               375         590                                           6h        32       95       140                  267       4,0
+                                                                              KFZ        FSp       40      375       674                 1089       100
+                         157         218   215                                           NSp       39      898       387                 1324       100
+                                                                                         6h       229     3568      2899                 6696       100
+                                                                              FZ         FSp       43      375       713                 1131       100
+                                                                                         NSp       56      900       395                 1351       100
+                                                                                         6h       294     3580      3023                  6897      100
+                                                                              Bemerkungen :
+    675          635                                            196           - Wetter
+                                                                        674
+                  19                                            478
+           40
+                  21                                            239     913
+                                                                              - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                         Sph-Beginn:     7.00 Uhr und        16.00 Uhr
+                                                                              SUMME Zufahrten:          [FSp] :    1089 KFZ/h           7:30
+                NORD   Michendorfer Ch.                       SÜD                                       [NSp] : 1324 KFZ/h             16:30
+                                                                                                  6h : 6696 KFZ
+                                                                              max. Sph /Zufahrt: NORD     65 KFZ/h 15:30
+                                                                                                  OST    898 KFZ/h 16:30
+                                                                               DATUM :            SÜD    674 KFZ/h 7:30
+                                                               1.089 KFZ/h    13.06.2013
+                                            Kfz-Stromverteilung in der FSp     470             Michendorf. Ch.(B2)/Brauh.berg
+
+
+
+
+SVP, 461                                                                                                                  StromPlanFSP470kp6-13.xls
+                                                                                                                                           15.07.2015
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                             NORD   OST  SÜD     SUMME %
+                                                                              RAD        FSp    3            0        39                    42  3,7
+                                                                                         NSp   17            2         8                    27  2,0
+                                                                                         6h    65           12       124                   201 2,9
+                                                                              NFZ        FSp    8           59        79                   146 13,4
+                                 OST                                                     NSp        7       75        32                   114  8,6
+                                                                                         6h        53      347       310                   710 10,6
+                        Brauhausberg                                          SV         FSp        5       17        34                    56  5,1
+                                                                                         NSp        5       12        15                    32  2,4
+                               898         990                                           6h        32       95       140                  267       4,0
+                                                                              KFZ        FSp       40      375       674                 1089       100
+                         336         562   92                                            NSp       39      898       387                 1324       100
+                                                                                         6h       229     3568      2899                 6696       100
+                                                                              FZ         FSp       43      375       713                 1131       100
+                                                                                         NSp       56      900       395                 1351       100
+                                                                                         6h       294     3580      3023                  6897      100
+                                                                              Bemerkungen :
+    676          637                                             86           - Wetter
+                                                                        387
+                   6                                            301
+           39
+                  33                                            595     982
+                                                                              - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                         Sph-Beginn:     7.00 Uhr und        16.00 Uhr
+                                                                              SUMME Zufahrten:          [FSp] :    1089 KFZ/h           7:30
+                NORD   Michendorfer Ch.                       SÜD                                       [NSp] : 1324 KFZ/h             16:30
+                                                                                                  6h : 6696 KFZ
+                                                                              max. Sph /Zufahrt: NORD     65 KFZ/h 15:30
+                                                                                                  OST    898 KFZ/h 16:30
+                                                                               DATUM :            SÜD    674 KFZ/h 7:30
+                                                               1.324 KFZ/h    13.06.2013
+                                            Kfz-Stromverteilung in der NSp     470             Michendorf. Ch.(B2)/Brauh.berg
+
+
+
+
+SVP, 461                                                                                                                 StromPlanNSP470kp6-13.xls
+

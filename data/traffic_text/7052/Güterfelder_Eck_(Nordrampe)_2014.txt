@@ -1,0 +1,190 @@
+       SVP, 461                                                                                                                                                                                                                 21.10.2014
+
+
+
+
+                                    * = neuer dreigeteilter Knotenpunkt: 7051, 7052, 7053 (Kreisel)                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                                                          NORD              OST        SÜD                       SUMME %
+                                                               NORD                                                                                       RAD         FSp    2                0          3                           5        0,4
+
+                                            Potsdamer Str. L76 (von Stahnsdorf)                                                                                       NSp            8          0          3                       11         0,8
+                                                                                                                                                                      6h            28          0         26                       54         0,8
+
+                                                           3.382               6.463                                                                      NFZ         FSp          65         16         97                      178         13,2
+                                                                                                                                                                      NSp   73               14         51                      138          10,4
+                                                                                                                                                                      6h   371                62       414                       847         12,2
+
+                                                       2.603    779             3.081
+
+
+
+
+                                                                                                                           L40 - Rampe (von Großbeeren)
+                                                                                                                                                          SV          FSp   26                 4        27                        57
+
+
+
+
+       L40 - Rampe (nach Potsdam)
+                                                                                                                                                                                                                                              4,2
+                                                                                                                                                                      NSp   20                 5        14                        39          2,9
+                                                                                                                                                                      6h   137                19       132                       288          4,2
+                                                                                                                                                          KFZ         FSp 531               174        645                     1350          100
+                                                                                                                                                                      NSp 785                87        461                     1333          100
+                                                                                                                                                                      6h  3382              649       2892                     6923          100
+                                                                                                                                                          FZ          FSp  533              174        648                     1355          100
+                                                                                                                                                                      NSp  793                87       464                     1344          100
+
+                                                                                                                     OST
+                                                                                                    631                                                               6h  3410               649      2918                      6977         100
+
+WEST
+                                    3.045
+                                                                                                               649                                        NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                                     18                                                   Bemerkungen:
+                                                                                                                                                          - früh A115 Ri Berlin zw. AS Drewitz-AS Babelsbg. gesperrt wegen Unfall
+                                                                                                                                                          - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+                                                                                                                                                          #######
+                                                                                                                                                               Sph-Beginn:        7.30 Uhr und        15.30 Uhr
+                                                                                                                                                          SUMME Zufahrten: [FSp]: 1350 KFZ/h 8:00
+                                                       797      442    2.450                                                                                                 (NSp): 1333 KFZ/h 16:00
+                                                                                                                                                                               6h : 6923 KFZ
+                                                     3.689         2.892                                                                                  max. Sph /Zufahrt: NORD    785 KFZ/h 16:00
+                                                                                                                                                                               OST   174 KFZ/h 8:00
+                                                                       SÜD                                                                                 DATUM :             SÜD   645 KFZ/h 8:00
+                                            Potsdamer Straße L76 (von Güterfelde)                                       6h Werte 18.09.2014
+                                                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 7052      Güterfelder Eck * (Nordrampe)
+
+
+
+
+       StromPlan7052kp9-14.xls                                                                       Seite 1
+       SVP, 461                                                                                                                                                                                                              21.10.2014
+
+
+
+
+                                    * = neuer dreigeteilter Knotenpunkt: 7051, 7052, 7053 (Kreisel)                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                                                       NORD              OST        SÜD                       SUMME %
+                                                               NORD                                                                                    RAD         FSp    2                0          3                           5        0,4
+                                           Potsdamer Str. L76 (von Stahnsdorf)                                                                                     NSp            8          0          3                       11         0,8
+                                                                                                                                                                   6h            28          0         26                       54         0,8
+
+                                                             531                     1.203                                                             NFZ         FSp          65         16         97                      178         13,2
+                                                                                                                                                                   NSp   73               14         51                      138          10,4
+
+
+
+
+       L40 - Rampe (nach Potsdam)
+                                                                                                                                                                   6h   371                62       414                       847         12,2
+                                                       406         125                672
+
+
+
+
+                                                                                                                        L40 - Rampe (von Großbeeren)
+                                                                                                                                                       SV          FSp   26                 4        27                        57          4,2
+                                                                                                                                                                   NSp   20                 5        14                        39          2,9
+                                                                                                                                                                   6h   137                19       132                       288          4,2
+                                                                                                                                                       KFZ         FSp 531               174        645                     1350          100
+                                                                                                                                                                   NSp 785                87        461                     1333          100
+                                                                                                                                                                   6h  3382              649       2892                     6923          100
+                                                                                                                                                       FZ          FSp  533              174        648                     1355          100
+                                                                                                                                                                   NSp  793                87       464                     1344          100
+
+                                                                                                                  OST
+                                                                                                 171                                                               6h  3410               649      2918                      6977         100
+
+WEST
+                                     550
+                                                                                                            174                                        NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                                   3                                                   Bemerkungen:
+                                                                                                                                                       - früh A115 Ri Berlin zw. AS Drewitz-AS Babelsbg. gesperrt wegen Unfall
+                                                                                                                                                       - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+                                                                                                                                                       #######
+                                                                                                                                                            Sph-Beginn:        7.30 Uhr und        15.30 Uhr
+                                                                                                                                                       SUMME Zufahrten: [FSp]: 1350 KFZ/h 8:00
+                                                       128         144         501                                                                                        (NSp): 1333 KFZ/h 16:00
+                                                                                                                                                                            6h : 6923 KFZ
+                                                      773                645                                                                           max. Sph /Zufahrt: NORD    785 KFZ/h 16:00
+                                                                                                                                                                            OST   174 KFZ/h 8:00
+                                                                           SÜD                                                                          DATUM :             SÜD   645 KFZ/h 8:00
+                                           Potsdamer Straße L76 (von Güterfelde)                               1.350 KFZ/h 18.09.2014
+                                                                                             Kfz-Stromverteilung in der FSp 7052      Güterfelder Eck * (Nordrampe)
+
+
+
+
+       StromPlan FSp7052kp9-14.xls                                                                Seite 2
+       SVP, 461                                                                                                                                                                                                             21.10.2014
+
+
+
+
+                                    * = neuer dreigeteilter Knotenpunkt: 7051, 7052, 7053 (Kreisel)                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                                                                      NORD              OST        SÜD                       SUMME %
+                                                               NORD                                                                                   RAD         FSp    2                0          3                           5        0,4
+                                           Potsdamer Str. L76 (von Stahnsdorf)                                                                                    NSp            8          0          3                       11         0,8
+                                                                                                                                                                  6h            28          0         26                       54         0,8
+
+                                                             785                     1.298                                                            NFZ         FSp          65         16         97                      178         13,2
+                                                                                                                                                                  NSp   73               14         51                      138          10,4
+
+
+
+
+       L40 - Rampe (nach Potsdam)
+                                                                                                                                                                  6h   371                62       414                       847         12,2
+                                                       578         207                513
+
+
+
+
+                                                                                                                       L40 - Rampe (von Großbeeren)
+                                                                                                                                                      SV          FSp   26                 4        27                        57          4,2
+                                                                                                                                                                  NSp   20                 5        14                        39          2,9
+                                                                                                                                                                  6h   137                19       132                       288          4,2
+                                                                                                                                                      KFZ         FSp 531               174        645                     1350          100
+                                                                                                                                                                  NSp 785                87        461                     1333          100
+                                                                                                                                                                  6h  3382              649       2892                     6923          100
+                                                                                                                                                      FZ          FSp  533              174        648                     1355          100
+                                                                                                                                                                  NSp  793                87       464                     1344          100
+
+                                                                                                                 OST
+                                                                                                  82                                                              6h  3410               649      2918                      6977         100
+
+WEST
+                                     608
+                                                                                                            87                                        NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+
+                                                                                                   5                                                  Bemerkungen:
+                                                                                                                                                      - früh A115 Ri Berlin zw. AS Drewitz-AS Babelsbg. gesperrt wegen Unfall
+                                                                                                                                                      - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+                                                                                                                                                      #######
+                                                                                                                                                           Sph-Beginn:        7.30 Uhr und        15.30 Uhr
+                                                                                                                                                      SUMME Zufahrten: [FSp]: 1350 KFZ/h 8:00
+                                                       212         30          431                                                                                       (NSp): 1333 KFZ/h 16:00
+                                                                                                                                                                           6h : 6923 KFZ
+                                                      673                461                                                                          max. Sph /Zufahrt: NORD    785 KFZ/h 16:00
+                                                                                                                                                                           OST   174 KFZ/h 8:00
+                                                                           SÜD                                                                         DATUM :             SÜD   645 KFZ/h 8:00
+                                           Potsdamer Straße L76 (von Güterfelde)                               1.333 KFZ/h 18.09.2014
+                                                                                             Kfz-Stromverteilung in der FSp 7052      Güterfelder Eck * (Nordrampe)
+
+
+
+
+       StromPlan NSp7052kp9-14.xls                                                                Seite 3
+

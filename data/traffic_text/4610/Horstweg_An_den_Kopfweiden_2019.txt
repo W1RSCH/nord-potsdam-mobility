@@ -1,0 +1,164 @@
+Landeshauptstadt Potsdam                                                                                                                                                    13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                         NORD                                                 Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                             Horstweg                                                    RAD    FSp     75     36                       12                    123        10,6
+                                                                                                                NSp     25     43                       14                     82         6,4
+                                                                                                                6h     242    226                        59                   527         8,0
+                                                      2.916
+                                                                          5.879                          NFZ    FSp     68    64                          5                  137         13,1
+                                                                                                                NSp     53    39                        10                   102          8,5
+                                              218             2.698           2.963                             6h     291   342                        34                    667        10,9
+                                                                                                         SV     FSp     24    26                          4                    54         5,2
+                                                                                                                NSp     13    11                          5                    29         2,4
+                                                                                                                6h      98   120                        18                    236
+
+
+
+
+             An den Kopfweiden
+                                                                                                                                                                                          3,9
+                                                                                                         KFZ FSp 524         470                        48                  1042         100
+                                                                                                                NSp 623      484                        89                  1196         100
+                                                                                                                6h    2916 2814                        365                  6095         100
+                                 681   316                                                               FZ     FSp    599   506                        60                  1165         100
+                                       247                                                                      NSp    648   527                       103                  1278         100
+
+      WEST
+                                 365
+                                       118                                                                      6h    3158  3040                       424                   6622        100
+                                                                                                         Q DTVw: 2,4 13816 13231                      1600
+                                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                         Bemerkungen :
+                                                                                                         - Wetter früh 8ºC bewölkt und leicht windig, trocken;
+                                                                                                         - nachmittag 12ºC bewölkt, trocken
+
+                                              2.816           98              2.716
+                                                                                                             Sph-Beginn:      7.30     Uhr und     15.00      Uhr
+                                             5.630                                                       SUMME Zufahrten: FSp :                      1042 KFZ/h          8:00
+                                                                      2.814
+                                                                                                                          NSp :                      1196 KFZ/h          15:30
+                                                          SÜD                                                              6h :                      6095 KFZ
+                                             Horstweg                                                    max. Sph /Zufahrt:             NORD           623 KFZ/h         15:30
+                                                                                                                                          SÜD          510 KFZ/h         16:30
+
+                                                                                                           DATUM :                      WEST               96 KFZ/h      16:00
+                                                                                                6h Werte 02.05.2019
+                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 461                                 Horstweg / An den Kopfweiden
+
+
+StromPlan461kp5-19.xlsx                                                               Seite 1
+Landeshauptstadt Potsdam                                                                                                                                           13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                    NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                            Horstweg                                            RAD    FSp     75     36                       12                    123        10,6
+                                                                                                       NSp     25     43                       14                     82         6,4
+                                                                                                       6h     242    226                        59                   527         8,0
+                                                  524
+                                                                1.001                           NFZ    FSp     68    64                          5                  137         13,1
+                                                                                                       NSp     53    39                        10                   102          8,5
+                                            60          464         477                                6h     291   342                        34                    667        10,9
+                                                                                                SV     FSp     24    26                          4                    54         5,2
+                                                                                                       NSp     13    11                          5                    29         2,4
+                                                                                                       6h      98   120                        18                    236
+
+
+
+
+             An den Kopfweiden
+                                                                                                                                                                                 3,9
+                                                                                                KFZ FSp 524         470                        48                  1042         100
+                                                                                                       NSp 623      484                        89                  1196         100
+                                                                                                       6h    2916 2814                        365                  6095         100
+                                 132   84                                                       FZ     FSp    599   506                        60                  1165         100
+                                       31                                                              NSp    648   527                       103                  1278         100
+
+      WEST
+                                 48
+                                       17                                                              6h    3158  3040                       424                   6622        100
+                                                                                                Q DTVw: 2,4 13816 13231                      1600
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                Bemerkungen :
+                                                                                                - Wetter früh 8ºC bewölkt und leicht windig, trocken;
+                                                                                                - nachmittag 12ºC bewölkt, trocken
+                                            481         24          446
+                                                                                                    Sph-Beginn:      7.30     Uhr und     15.00      Uhr
+                                            951                                                 SUMME Zufahrten: FSp :                      1042 KFZ/h          8:00
+                                                              470
+                                                                                                                 NSp :                      1196 KFZ/h          15:30
+                                                        SÜD                                                       6h :                      6095 KFZ
+                                            Horstweg                                            max. Sph /Zufahrt:             NORD           623 KFZ/h         15:30
+                                                                                                                                 SÜD          510 KFZ/h         16:30
+
+                                                                                                  DATUM :                      WEST               96 KFZ/h      16:00
+                                                                                    1.042 KFZ/h 02.05.2019
+                                                          Kfz-Stromverteilung in der FSp 461                       Horstweg / An den Kopfweiden
+
+
+StromPlan (FSp)461kp5-19.xlsx                                             Seite 2
+Landeshauptstadt Potsdam                                                                                                                                            13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                     NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                            Horstweg                                             RAD    FSp     75     36                       12                    123        10,6
+                                                                                                        NSp     25     43                       14                     82         6,4
+                                                                                                        6h     242    226                        59                   527         8,0
+                                                   623
+                                                                 1.155                           NFZ    FSp     68    64                          5                  137         13,1
+                                                                                                        NSp     53    39                        10                   102          8,5
+                                             23          600         532                                6h     291   342                        34                    667        10,9
+                                                                                                 SV     FSp     24    26                          4                    54         5,2
+                                                                                                        NSp     13    11                          5                    29         2,4
+                                                                                                        6h      98   120                        18                    236
+
+
+
+
+             An den Kopfweiden
+                                                                                                                                                                                  3,9
+                                                                                                 KFZ FSp 524         470                        48                  1042         100
+                                                                                                        NSp 623      484                        89                  1196         100
+                                                                                                        6h    2916 2814                        365                  6095         100
+                                 123   34                                                        FZ     FSp    599   506                        60                  1165         100
+                                       59                                                               NSp    648   527                       103                  1278         100
+
+      WEST
+                                 89
+                                       30                                                               6h    3158  3040                       424                   6622        100
+                                                                                                 Q DTVw: 2,4 13816 13231                      1600
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                 Bemerkungen :
+                                                                                                 - Wetter früh 8ºC bewölkt und leicht windig, trocken;
+                                                                                                 - nachmittag 12ºC bewölkt, trocken
+                                             630         11          473
+                                                                                                     Sph-Beginn:      7.30     Uhr und     15.00      Uhr
+                                            1.114                                                SUMME Zufahrten: FSp :                      1042 KFZ/h          8:00
+                                                               484
+                                                                                                                  NSp :                      1196 KFZ/h          15:30
+                                                         SÜD                                                       6h :                      6095 KFZ
+                                            Horstweg                                             max. Sph /Zufahrt:             NORD           623 KFZ/h         15:30
+                                                                                                                                  SÜD          510 KFZ/h         16:30
+
+                                                                                                   DATUM :                      WEST               96 KFZ/h      16:00
+                                                                                     1.196 KFZ/h 02.05.2019
+                                                          Kfz-Stromverteilung in der NSp 461                        Horstweg / An den Kopfweiden
+
+
+StromPlan (NSp)461kp5-19.xlsx                                              Seite 3
+

@@ -1,0 +1,158 @@
+       Landeshauptstadt Potsdam                                                                                                                                                           30.06.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                                     NORD                                                                         RAD    FSp                      70          65    73             208       12,5
+                                                                                                                                         NSp                    112           59    90             261       13,9
+                                                     Hebbelstr.                                                                          6h                      656         408   513            1577       15,4
+                                                                                                                                  NFZ    FSp                     52          52    95              199       13,7
+                                                                                                                                         NSp                     43          49    60              152           9,4
+                                                      398                                                                                6h                     292         293   452             1037       11,9
+                                                                                                                                  SV     FSp                       9           8   26               43           3,0
+                                                                                                                                         NSp                     10            5   15               30           1,9
+                                                                                                                                         6h                       75          45  122              242           2,8
+                                                                                                                                  KFZ FSp                       334         335   783            1452        100
+                                                                                                                                         NSp                    483         480   654            1617        100
+
+
+
+
+       Kurfürstenstr.                                                                                            Kurfürstenstr.
+                                                                                                                                         6h                    2428        2096 4158              8682       100
+                                                                                                                                  FZ     FSp                    404         400   856             1660       100
+                        7.834   3.676                                                       135                                          NSp                    595         539   744             1878       100
+                                 13                                                        1.995   2.428   OST                           6h                    3084        2504  4671            10259       100
+
+WEST                    4.158   2.829                                                       298                                   Q DTVw: 2,5             995 13555        9275 19585
+                                1.316                                                      2.994   5.422                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                  Bemerkungen :
+                                                                                                                                  - keine Corona-Einschränkungen
+                                                                                                                                  - Ukraine-Krieg
+                                                                                                                                  - Wetter früh 20ºC sonnig, leicht bewölkt, trocken;
+                                                                                                                                   nachmittag 31ºC sonnig, trocken; abends Gewitterwarnung
+
+                                             1.614    1.681    250    165                                                              Sph-Beginn:      8.00     Uhr und   16.30 Uhr
+                                                                                                                                  SUMME Zufahrten: [FSp] :                 1452 KFZ/h 8:30
+                                            3.710                                                                                                               (NSp):     1617 KFZ/h 17:00
+                                                              2.096                                                                                    6h :                8682 KFZ
+                                                              SÜD                                                                 max. Sph /Zufahrt: NORD :                     KFZ/h
+                                                     Hebbelstr.                                                                                                   OST :      483 KFZ/h 17:00
+
+                                                                                                                                     DATUM :                      SÜD :      498 KFZ/h 16:30
+                                                                                                           6h Werte 22.06.2023                                  WEST :       783 KFZ/h 8:30
+                                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1570                                    Kurfürstenstr./Hebbelstr.
+
+
+       StromPlan1570kp6-23_in Bearbeitung                                        Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                  30.06.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                               Zufahrt: NORD OST SÜD WEST SUMME %
+                                                        NORD                                                             RAD    FSp                      70          65    73             208       12,5
+                                                                                                                                NSp                    112           59    90             261       13,9
+                                                        Hebbelstr.                                                              6h                      656         408   513            1577       15,4
+                                                                                                                         NFZ    FSp                     52          52    95              199       13,7
+                                                                                                                                NSp                     43          49    60              152           9,4
+                                                         46                                                                     6h                     292         293   452             1037       11,9
+                                                                                                                         SV     FSp                       9           8   26               43           3,0
+                                                                                                                                NSp                     10            5   15               30           1,9
+                                                                                                                                6h                       75          45  122              242           2,8
+                                                                                                                         KFZ FSp                       334         335   783            1452        100
+                                                                                                                                NSp                    483         480   654            1617        100
+
+
+
+
+       Kurfürstenstr.                                                                                   Kurfürstenstr.
+                                                                                                                                6h                    2428        2096 4158              8682       100
+                                                                                                                         FZ     FSp                    404         400   856             1660       100
+                        1.335   552                                                   11                                        NSp                    595         539   744             1878       100
+                                 2                                                    276   334   OST                           6h                    3084        2504  4671            10259       100
+
+WEST                    783     554                                                    47                                Q DTVw: 2,5             995 13555        9275 19585
+                                227                                                   580   914                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - keine Corona-Einschränkungen
+                                                                                                                         - Ukraine-Krieg
+                                                                                                                         - Wetter früh 20ºC sonnig, leicht bewölkt, trocken;
+                                                                                                                          nachmittag 31ºC sonnig, trocken; abends Gewitterwarnung
+                                                  274    276   33    26                                                       Sph-Beginn:      8.00     Uhr und   16.30 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :                 1452 KFZ/h 8:30
+                                                  609                                                                                                  (NSp):     1617 KFZ/h 17:00
+                                                               335                                                                            6h :                8682 KFZ
+                                                               SÜD                                                       max. Sph /Zufahrt: NORD :                     KFZ/h
+                                                        Hebbelstr.                                                                                       OST :      483 KFZ/h 17:00
+
+                                                                                                                            DATUM :                      SÜD :      498 KFZ/h 16:30
+                                                                                              1.452 KFZ/h 22.06.2023                                   WEST :       783 KFZ/h 8:30
+                                                                          Kfz-Stromverteilung in der FSp 1570                                  Kurfürstenstr./Hebbelstr.
+
+
+       StromPlan (FSp)1570kp6-23_in Bearbeitung                             Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                  30.06.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                               Zufahrt: NORD OST SÜD WEST SUMME %
+                                                        NORD                                                             RAD    FSp                      70          65    73             208       12,5
+                                                                                                                                NSp                    112           59    90             261       13,9
+                                                        Hebbelstr.                                                              6h                      656         408   513            1577       15,4
+                                                                                                                         NFZ    FSp                     52          52    95              199       13,7
+                                                                                                                                NSp                     43          49    60              152           9,4
+                                                         90                                                                     6h                     292         293   452             1037       11,9
+                                                                                                                         SV     FSp                       9           8   26               43           3,0
+                                                                                                                                NSp                     10            5   15               30           1,9
+                                                                                                                                6h                       75          45  122              242           2,8
+                                                                                                                         KFZ FSp                       334         335   783            1452        100
+                                                                                                                                NSp                    483         480   654            1617        100
+
+
+
+
+       Kurfürstenstr.                                                                                   Kurfürstenstr.
+                                                                                                                                6h                    2428        2096 4158              8682       100
+                                                                                                                         FZ     FSp                    404         400   856             1660       100
+                        1.460   806                                                   28                                        NSp                    595         539   744             1878       100
+                                 3                                                    406   483   OST                           6h                    3084        2504  4671            10259       100
+
+WEST                    654     454                                                    49                                Q DTVw: 2,5             995 13555        9275 19585
+                                197                                                   475   958                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - keine Corona-Einschränkungen
+                                                                                                                         - Ukraine-Krieg
+                                                                                                                         - Wetter früh 20ºC sonnig, leicht bewölkt, trocken;
+                                                                                                                          nachmittag 31ºC sonnig, trocken; abends Gewitterwarnung
+                                                  246    400   59    21                                                       Sph-Beginn:      8.00     Uhr und   16.30 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :                 1452 KFZ/h 8:30
+                                                  726                                                                                                  (NSp):     1617 KFZ/h 17:00
+                                                               480                                                                            6h :                8682 KFZ
+                                                               SÜD                                                       max. Sph /Zufahrt: NORD :                     KFZ/h
+                                                        Hebbelstr.                                                                                       OST :      483 KFZ/h 17:00
+
+                                                                                                                            DATUM :                      SÜD :      498 KFZ/h 16:30
+                                                                                              1.617 KFZ/h 22.06.2023                                   WEST :       783 KFZ/h 8:30
+                                                                          Kfz-Stromverteilung in der NSp 1570                                  Kurfürstenstr./Hebbelstr.
+
+
+       StromPlan (NSp)1570kp6-23_in Bearbeitung                             Seite 3
+

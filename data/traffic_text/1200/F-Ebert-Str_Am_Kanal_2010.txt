@@ -1,0 +1,165 @@
+                                                                                                                                                 05.10.2010
+
+
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                               NORD OST SÜD WEST SUMME %
+                                        NORD                                                RAD        FSp         62        26        44        19            151   12,8
+                                                                                                       NSp          5        39        41        10             95    7,0
+                                  F.-Ebert-Str.                                                        6h         254       128       309         94           785   10,7
+                                        843          843                                    NFZ        FSp         35       51          1        70           157    15,3
+                                                                                                       NSp         48       41          1        63           153    12,0
+                                                                                                       6h         209      255          3       365            832   12,7
+                                  447    342   54    0                                      SV         FSp         29       16          1        18             64    6,2
+                                                                                                       NSp         27         4         0          6            37    2,9
+                                                                                                       6h         149        61         2        64            276    4,2
+                                                                                            KFZ        FSp         87      338          1       602          1028    100
+                                                                                                       NSp       226       497          1       547          1271    100
+                                                                                                       6h         843     2435          4      3277          6559    100
+
+
+
+
+                                                                                 Am Kanal
+                                                                                            FZ         FSp        149      364         45       621          1179    100
+
+
+
+
+       Yorkstr.
+                  6.159   2.882                                0                                       NSp        231      536         42       557          1366    100
+                            0                              2.435   2.435   OST                         6h        1097     2563        313      3371           7344   100
+
+WEST              3.277   3.277                                0                            Bemerkungen : - Abfahrt Süd (F.-Ebert-Str.) z.Z. EINBAHNstr.
+                           0                               3.335 5.770                                         - Zufahrt Süd (F.-Ebert-Str.) nicht gezählt
+                                                                                                               - Wetter früh 10 º C bewölkt, Regen;
+                                                                                                               - nachm. 13 º C bewölkt, vereinzelt Regen
+
+
+
+                                                                                                 Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+                                                                                            SUMME Zufahrten: [FSp] :                1028 KFZ/h         8:00
+                                  342    0     0     4                                                                  (NSp):      1271 KFZ/h         16:30
+                                                                                                                 6h :               6559 KFZ
+                                  346                                                       max. Sph /Zufahrt: NORD :                226 KFZ/h         16:30
+                                                4                                                               OST :                497 KFZ/h         16:30
+                                               SÜD                                           DATUM :            SÜD :                  1 KFZ/h         8:00
+                                        F.-Ebert-Str.                                       06.05.2010                 WEST :         602 KFZ/h 8:00
+                                                                                             120                   F.-Ebert-Str./Am Kanal
+
+
+
+
+       SVP, 461                                                                                                                    StromPlan120kp5-10.xls
+                                                                                                                                                         05.10.2010
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                       NORD OST SÜD WEST SUMME %
+                                   NORD                                                             RAD        FSp         62        26        44        19            151   12,8
+                                                                                                               NSp          5        39        41        10             95    7,0
+                              F.-Ebert-Str.                                                                    6h         254       128       309         94           785   10,7
+                                    87          87                                                  NFZ        FSp         35       51          1        70           157    15,3
+                                                                                                               NSp         48       41          1        63           153    12,0
+                                                                                                               6h         209      255          3       365            832   12,7
+                              45    38    4     0                                                   SV         FSp         29       16          1        18             64    6,2
+                                                                                                               NSp         27         4         0          6            37    2,9
+                                                                                                               6h         149        61         2        64            276    4,2
+                                                                                                    KFZ        FSp         87      338          1       602          1028    100
+                                                                                                               NSp       226       497          1       547          1271    100
+                                                                                                               6h         843     2435          4      3277          6559    100
+
+
+
+
+                                                                                         Am Kanal
+                                                                                                    FZ         FSp        149      364         45       621          1179    100
+
+
+
+
+       Yorkstr.
+                  985   383                                            0                                       NSp        231      536         42       557          1366    100
+                         0                                           338     338   OST                         6h        1097     2563        313      3371           7344   100
+
+WEST              602   602                                            0                            Bemerkungen : - Abfahrt Süd (F.-Ebert-Str.) z.Z. EINBAHNstr.
+                        0                                            607   945                                         - Zufahrt Süd (F.-Ebert-Str.) nicht gezählt
+                                                                                                                       - Wetter früh 10 º C bewölkt, Regen;
+                                                                                                                       - nachm. 13 º C bewölkt, vereinzelt Regen
+
+
+
+
+                                                                                                         Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+                              38    0     0     1                                                   SUMME Zufahrten: [FSp] :  1028 KFZ/h                       8:00
+                                                                                                                              1271 KFZ/h
+                                                                                                                                (NSp):                         16:30
+                              39                                                                                         6h : 6559 KFZ
+                                           1                                                        max. Sph /Zufahrt: NORD :  226 KFZ/h                       16:30
+                                          SÜD                                                                           OST :  497 KFZ/h                       16:30
+                                   F.-Ebert-Str.                                                      DATUM :                    SÜD :           1 KFZ/h 8:00
+                                                                           1.028 KFZ/h              06.05.2010                 WEST :         602 KFZ/h 8:00
+                                                   Kfz-Stromverteilung in der FSp                    120                   F.-Ebert-Str./Am Kanal
+
+
+
+       SVP, 461                                                                                                                        StromPlanFSP120kp5-10.xls
+                                                                                                                                                            05.10.2010
+
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                          NORD OST SÜD WEST SUMME %
+                                      NORD                                                             RAD        FSp         62        26        44        19            151   12,8
+                                                                                                                  NSp          5        39        41        10             95    7,0
+                                F.-Ebert-Str.                                                                     6h         254       128       309         94           785   10,7
+                                      226          226                                                 NFZ        FSp         35       51          1        70           157    15,3
+                                                                                                                  NSp         48       41          1        63           153    12,0
+                                                                                                                  6h         209      255          3       365            832   12,7
+                                97     102   27    0                                                   SV         FSp         29       16          1        18             64    6,2
+                                                                                                                  NSp         27         4         0          6            37    2,9
+                                                                                                                  6h         149        61         2        64            276    4,2
+                                                                                                       KFZ        FSp         87      338          1       602          1028    100
+                                                                                                                  NSp       226       497          1       547          1271    100
+                                                                                                                  6h         843     2435          4      3277          6559    100
+
+
+
+
+                                                                                            Am Kanal
+                                                                                                       FZ         FSp        149      364         45       621          1179    100
+
+
+
+
+       Yorkstr.
+                  1.141   594                                             0                                       NSp        231      536         42       557          1366    100
+                           0                                            497     497   OST                         6h        1097     2563        313      3371           7344   100
+
+WEST              547     547                                             0                            Bemerkungen : - Abfahrt Süd (F.-Ebert-Str.) z.Z. EINBAHNstr.
+                          0                                             607   575                                         - Zufahrt Süd (F.-Ebert-Str.) nicht gezählt
+                                                                                                                          - Wetter früh 10 º C bewölkt, Regen;
+                                                                                                                          - nachm. 13 º C bewölkt, vereinzelt Regen
+
+
+
+
+                                                                                                            Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+                                102    0     0     1                                                   SUMME Zufahrten: [FSp] :  1028 KFZ/h                       8:00
+                                                                                                                                 1271 KFZ/h
+                                                                                                                                   (NSp):                         16:30
+                                103                                                                                         6h : 6559 KFZ
+                                              1                                                        max. Sph /Zufahrt: NORD :  226 KFZ/h                       16:30
+                                             SÜD                                                                           OST :  497 KFZ/h                       16:30
+                                      F.-Ebert-Str.                                                      DATUM :                    SÜD :           1 KFZ/h 8:00
+                                                                              1.271 KFZ/h              06.05.2010                 WEST :         602 KFZ/h 8:00
+                                                      Kfz-Stromverteilung in der NSp                    120                   F.-Ebert-Str./Am Kanal
+
+
+
+       SVP, 461                                                                                                                          StromPlanNSP120kp5-10.xls
+

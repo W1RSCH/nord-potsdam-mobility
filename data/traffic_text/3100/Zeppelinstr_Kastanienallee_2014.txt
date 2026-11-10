@@ -1,0 +1,156 @@
+         SVP, 461                                                                                                                                                           11.08.2015
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                            NORD OST SÜD WEST SUMME %
+                                                 NORD                                                                    RAD        FSp        70          2       78      126         276    11,0
+
+                                             Zeppelinstr.                                                                           NSp       118          0       50      102         270    10,0
+
+                                                                                                                                    6h    453             5   357           521       1336     9,2
+                                                 6.039             12.565                                                NFZ        FSp 119               1  135            27        282     12,6
+                                                                                                                                    NSp 106               5   92            36        239          9,8
+                                                                                                                                    6h    615            29  618           163       1425     10,8
+                                         720      5.203    116      6.526                                                SV         FSp    42             0   45              9         96         4,3
+                                                                                                                                    NSp    21             1   23            11          56         2,3
+                                                                                                                                    6h    167             8  176             75        426         3,2
+                                                                                                                         KFZ        FSp 768              15 1061           386       2230      100
+                                                                                                                                    NSp 1299             30  797           309       2435      100
+
+
+
+
+       Kastanienallee                                                                                   Kastanienallee
+                                                                                                                                    6h  6039            189 5144          1849      13221      100
+                                                                                                                         FZ         FSp   838            17 1139           512       2506      100
+                        2.819    970                                                  95                                            NSp 1417             30  847           411       2705      100
+                                1.556                                                 34    189   OST                               6h   6492           194 5501          2370      14557      100
+
+WEST
+                        1.849     28                                                  60                                 Bemerkungen : Wetter: früh 14ºC bewölkt, trocken;
+                                 265                                                 197   386                                                      nachmittag 22ºC leicht bewölkt, sonst sonnig
+
+
+
+
+                                                                                                                              Sph-Beginn:    7.30    Uhr und   15.00 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :   2230 KFZ/h                    8:00
+                                         5.528    216      4.875    53                                                                              2435 KFZ/h
+                                                                                                                                                     (NSp):                       15:30
+                                                                                                                                              6h : 13221 KFZ
+                                        10.672                                                                           max. Sph /Zufahrt: NORD : 1299 KFZ/h                     15:30
+                                                          5.144                                                                              OST :    56 KFZ/h                    16:30
+                                                          SÜD                                                             DATUM :            SÜD : 1061 KFZ/h                     8:00
+                                                 Zeppelinstr.                                                            08.05.2014                 WEST :       386 KFZ/h 8:00
+                                                                                                                          310               Zeppelinstr./Kastanienallee
+
+
+
+         StromPlan310kp5-14.xls                                             Seite1
+         SVP, 461                                                                                                                                                            11.08.2015
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD OST SÜD WEST SUMME %
+                                                NORD                                                                      RAD        FSp        70          2       78      126         276    11,0
+
+                                           Zeppelinstr.                                                                              NSp       118          0       50      102         270    10,0
+
+                                                                                                                                     6h    453             5   357           521       1336     9,2
+                                                768             2.128                                                     NFZ        FSp 119               1  135            27        282     12,6
+                                                                                                                                     NSp 106               5   92            36        239          9,8
+                                                                                                                                     6h    615            29  618           163       1425     10,8
+                                         94      661    13       1.360                                                    SV         FSp    42             0   45              9         96         4,3
+                                                                                                                                     NSp    21             1   23            11          56         2,3
+                                                                                                                                     6h    167             8  176             75        426         3,2
+                                                                                                                          KFZ        FSp 768              15 1061           386       2230      100
+                                                                                                                                     NSp 1299             30  797           309       2435      100
+
+
+
+
+       Kastanienallee                                                                                    Kastanienallee
+                                                                                                                                     6h  6039            189 5144          1849      13221      100
+                                                                                                                          FZ         FSp   838            17 1139           512       2506      100
+                        509   123                                                    8                                               NSp 1417             30  847           411       2705      100
+                              324                                                    3        15   OST                               6h   6492           194 5501          2370      14557      100
+
+WEST
+                        386    5                                                     4                                    Bemerkungen : Wetter: früh 14ºC bewölkt, trocken;
+                               57                                                   25   40                                                          nachmittag 22ºC leicht bewölkt, sonst sonnig
+
+
+
+
+                                                                                                                               Sph-Beginn:    7.30    Uhr und   15.00 Uhr
+                                                                                                                          SUMME Zufahrten: [FSp] :   2230 KFZ/h                    8:00
+                                         722     26     1.028                                                                                        2435 KFZ/h
+                                                                                                                                                      (NSp):                       15:30
+                                                                 7
+                                                                                                                                               6h : 13221 KFZ
+                                        1.783                                                                             max. Sph /Zufahrt: NORD : 1299 KFZ/h                     15:30
+                                                       1.061                                                                                  OST :    56 KFZ/h                    16:30
+                                                       SÜD                                                                 DATUM :            SÜD : 1061 KFZ/h                     8:00
+                                                Zeppelinstr.                                  2.230 KFZ/h 08.05.2014                                 WEST :       386 KFZ/h 8:00
+                                                                         Kfz-Stromverteilung in der FSp 310                                  Zeppelinstr./Kastanienallee
+
+
+
+         StromPlan (FSp)310kp5-14.xls                                     Seite2
+         SVP, 461                                                                                                                                                            11.08.2015
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD OST SÜD WEST SUMME %
+                                                 NORD                                                                     RAD        FSp        70          2       78      126         276    11,0
+
+                                             Zeppelinstr.                                                                            NSp       118          0       50      102         270    10,0
+
+                                                                                                                                     6h    453             5   357           521       1336     9,2
+                                                 1.299          2.307                                                     NFZ        FSp 119               1  135            27        282     12,6
+                                                                                                                                     NSp 106               5   92            36        239          9,8
+                                                                                                                                     6h    615            29  618           163       1425     10,8
+                                         127      1.151   10     1.008                                                    SV         FSp    42             0   45              9         96         4,3
+                                                                                                                                     NSp    21             1   23            11          56         2,3
+                                                                                                                                     6h    167             8  176             75        426         3,2
+                                                                                                                          KFZ        FSp 768              15 1061           386       2230      100
+                                                                                                                                     NSp 1299             30  797           309       2435      100
+
+
+
+
+       Kastanienallee                                                                                    Kastanienallee
+                                                                                                                                     6h  6039            189 5144          1849      13221      100
+                                                                                                                          FZ         FSp   838            17 1139           512       2506      100
+                        493   184                                                   17                                               NSp 1417             30  847           411       2705      100
+                              253                                                    6        30   OST                               6h   6492           194 5501          2370      14557      100
+
+WEST
+                        309    9                                                     7                                    Bemerkungen : Wetter: früh 14ºC bewölkt, trocken;
+                               47                                                   38   68                                                          nachmittag 22ºC leicht bewölkt, sonst sonnig
+
+
+
+
+                                                                                                                               Sph-Beginn:    7.30    Uhr und   15.00 Uhr
+                                                                                                                          SUMME Zufahrten: [FSp] :   2230 KFZ/h                    8:00
+                                         1.205    51      738                                                                                        2435 KFZ/h
+                                                                                                                                                      (NSp):                       15:30
+                                                                 8
+                                                                                                                                               6h : 13221 KFZ
+                                        2.002                                                                             max. Sph /Zufahrt: NORD : 1299 KFZ/h                     15:30
+                                                          797                                                                                 OST :    56 KFZ/h                    16:30
+                                                          SÜD                                                              DATUM :            SÜD : 1061 KFZ/h                     8:00
+                                                 Zeppelinstr.                                 2.435 KFZ/h 08.05.2014                                 WEST :       386 KFZ/h 8:00
+                                                                         Kfz-Stromverteilung in der NSp 310                                  Zeppelinstr./Kastanienallee
+
+
+
+         StromPlan (NSp)310kp5-14.xls                                     Seite3
+

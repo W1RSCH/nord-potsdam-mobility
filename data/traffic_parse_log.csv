@@ -1,0 +1,480 @@
+﻿kpnr,station,pdf,status,detail
+1851,Alleestraße/Eisenhartstraße,Alleestr_Eisenhartstr_2013.pdf,ok,pdftotext
+1851,Alleestraße/Eisenhartstraße,Alleestr_Eisenhartstr_2014.pdf,ok,pdftotext
+1851,Alleestraße/Eisenhartstraße,Alleestr_Eisenhartstr_2018.pdf,ok,tesseract-deu+eng
+6630,Alt Nowawes/Grenzstraße,Alt_Nowawes_Grenzstr_2013.pdf,ok,pdftotext
+8250,Am Buchhorst/Arthur-Scheunert-Allee,Am_Buchhorst_A-Scheunert-Allee_2017.pdf,ok,pdftotext
+1300,Am Kanal/Französische Straße,Am_Kanal_Französische_Str_2011.pdf,ok,pdftotext
+1300,Am Kanal/Französische Straße,Am_Kanal_Französische_Str_2017.pdf,ok,pdftotext
+1240,Am Kanal/Platz der Einheit-Ost,Am_Kanal_Platz_der_Einheit-Ost_2010_6h.pdf,ok,pdftotext
+1240,Am Kanal/Platz der Einheit-Ost,Am_Kanal_Platz_der_Einheit-Ost_2013.pdf,ok,pdftotext
+1240,Am Kanal/Platz der Einheit-Ost,Am_Kanal_Platz_der_Einheit-Ost_2016.pdf,ok,pdftotext
+1850,Am Neuen Garten/Alleestraße,Am_Neuen_Garten_Alleestr_2013.pdf,ok,pdftotext
+1850,Am Neuen Garten/Alleestraße,Am_Neuen_Garten_Alleestr_2014.pdf,ok,pdftotext
+1850,Am Neuen Garten/Alleestraße,Am_Neuen_Garten_Alleestr_2018.pdf,ok,pdftotext
+1860,Am NeuenGarten/Große Weinmeisterstraße,Am_Neuen_Garten_Gr_Weinmeisterstr_2014.pdf,ok,pdftotext
+2802,Am Wiesenrand (B2)/Am Kirchberg,Am_Wiesenrand_Am_Kirchberg_2019.pdf,ok,pdftotext
+2805,Am Wiesenrand (B2)/Am Lehnitzsee,Am_Wiesenrand_Am_Lehnitzsee_2019.pdf,ok,pdftotext
+2804,Am Wiesenrand (B2)/Am Rehweg,Am_Wiesenrand_Am_Rehweg_2019.pdf,ok,pdftotext
+2801,Am Wiesenrand (B2)/Am Stinthorn,Am Wiesenrand_Am Stinthorn_2019.pdf,ok,pdftotext
+2800,Am Wiesenrand (B2)/Gellertstraße,Am_Wiesenrand(B2)_Gellertstr_2010.pdf,ok,pdftotext
+2800,Am Wiesenrand (B2)/Gellertstraße,Am_Wiesenrand(B2)_Gellertstr_2011_KordonZ.pdf,review_required,pdftotext
+2800,Am Wiesenrand (B2)/Gellertstraße,Am_Wiesenrand(B2)_Gellertstr_2011KordonZ.pdf,review_required,pdftotext
+2800,Am Wiesenrand (B2)/Gellertstraße,Am_Wiesenrand(B2)_Gellertstr_2013.pdf,ok,pdftotext
+2800,Am Wiesenrand (B2)/Gellertstraße,Am_Wiesenrand(B2)_Gellertstr_2018.pdf,ok,pdftotext
+2800,Am Wiesenrand (B2)/Gellertstraße,Am-Wiesenrand(B2)_Gellertstr_2023.pdf,ok,pdftotext
+2803,Am Wiesenrand (B2)/Heinrich-Heine-Weg,Am Wiesenrand_H-Heine-Weg_2019.pdf,ok,pdftotext
+2310,Amundsenstraße/Am Golfplatz,Amundsenstr_Am_Golfplatz_2017.pdf,ok,pdftotext
+2450,AS Leest/Potsdamer Straße (O),AS_Leest_Potsdamer_Str_(O)_2017.pdf,ok,pdftotext
+2460,AS Leest/Potsdamer Straße (W),AS_Leest_Potsdamer_Str_(W)_2017.pdf,ok,pdftotext
+6840,August-Bebel-Straße/Marlene-Dietrich-Allee,A-Bebel-Str_M-Dietrich-Allee_2013.pdf,ok,pdftotext
+6860,August-Bebel-Straße/Prof.-Dr.-Helmert-Straße,A-Bebel-Str_Prof-Dr-Helmert-Str_2010_6h.pdf,ok,pdftotext
+6860,August-Bebel-Straße/Prof.-Dr.-Helmert-Straße,A-Bebel-Str_Prof-Dr-Helmert-Str_2018.pdf,ok,pdftotext
+4050,Babelsberger Straße/Friedrich-List-Straße,Babelsberger_Str_F-List-Str_2011.pdf,ok,pdftotext
+4050,Babelsberger Straße/Friedrich-List-Straße,Babelsberger_Str_F-List-Str_2013.pdf,ok,pdftotext
+4050,Babelsberger Straße/Friedrich-List-Straße,Babelsberger_Str_F-List-Str_2015.pdf,ok,pdftotext
+4050,Babelsberger Straße/Friedrich-List-Straße,Babelsberger_Str_F-List-Str_2017.pdf,ok,pdftotext
+1820,Behlertstraße/Am Neuen Garten,Behlertstr_Am_Neuen_Garten_2010.pdf,ok,pdftotext
+1820,Behlertstraße/Am Neuen Garten,Behlertstr_Am_Neuen_Garten_2015.pdf,ok,pdftotext
+1840,Behlertstraße/Friedrich-Ebert-Straße,Behlertstr_F-Ebert-Str_2012.pdf,ok,pdftotext
+1840,Behlertstraße/Friedrich-Ebert-Straße,Behlertstr_F-Ebert-Str_2016.pdf,ok,pdftotext
+1810,Behlertstraße/Kurfürstenstraße,Behlertstr_Kurfürstenstr_2011.pdf,ok,pdftotext
+1810,Behlertstraße/Kurfürstenstraße,Behlertstr_Kurfürstenstr_2014.pdf,ok,pdftotext
+1810,Behlertstraße/Kurfürstenstraße,Behlertstr_Kurfürstenstr_2017.pdf,ok,pdftotext
+1810,Behlertstraße/Kurfürstenstraße,Behlertstr_Kurfürstenstr_2023.pdf,ok,pdftotext
+1350,Berliner Straße/Am Kanal,Berliner_Str_Am_Kanal_2010_6h.pdf,ok,pdftotext
+1350,Berliner Straße/Am Kanal,Berliner_Str_Am_Kanal_2015.pdf,ok,pdftotext
+1350,Berliner Straße/Am Kanal,Berliner_Str_Am_Kanal_2019.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2010.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2011.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2012.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2014.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2015.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2016.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2019.pdf,ok,pdftotext
+1800,Berliner Straße/Behlertstraße,Berliner_Str_Behlertstr_2023.pdf,ok,pdftotext
+1360,Berliner Straße/Charlottenstraße,Berliner_Str_Charlottenstr_2010_6h.pdf,ok,pdftotext
+1360,Berliner Straße/Charlottenstraße,Berliner_Str_Charlottenstr_2015.pdf,ok,pdftotext
+1360,Berliner Straße/Charlottenstraße,Berliner_Str_Charlottenstr_2019.pdf,ok,pdftotext
+1920,Berliner Straße/Mangerstraße,Berliner_Str_Mangerstr_2012.pdf,ok,pdftotext
+1920,Berliner Straße/Mangerstraße,Berliner_Str-Mangerstr_2023.pdf,ok,pdftotext
+1900,Berliner Straße/Otto-Nagel-Straße,Berliner_Str_O-Nagel-Str_2013.pdf,ok,pdftotext
+4120,Brauhausberg/Albert-Einstein-Straße,Brauhausberg_A-Einstein-Str_2010.pdf,ok,pdftotext
+4120,Brauhausberg/Albert-Einstein-Straße,Brauhausberg_A-Einstein-Str_2012.pdf,ok,pdftotext
+4120,Brauhausberg/Albert-Einstein-Straße,Brauhausberg_A-Einstein-Str_2014.pdf,ok,pdftotext
+4120,Brauhausberg/Albert-Einstein-Straße,Brauhausberg_A-Einstein-Str_2016.pdf,ok,pdftotext
+1030,Breite Straße/Dortustraße,Breite_Str_Dortustr_2010.pdf,ok,pdftotext
+1030,Breite Straße/Dortustraße,Breite_Str_Dortustr_2014.pdf,ok,pdftotext
+1030,Breite Straße/Dortustraße,Breite_Str_Dortustr_2018.pdf,ok,pdftotext
+1010,Breite Straße/Schloßstraße,Breite_Str_Schloßstr_2014.pdf,ok,pdftotext
+1010,Breite Straße/Schloßstraße,Breite_Str_Schloßstr_2018.pdf,ok,pdftotext
+1010,Breite Straße/Schloßstraße,Breite_Str_Schloßstr_2023.pdf,ok,pdftotext
+1050,Breite Straße/Schopenhauerstraße,Breite_Str_Schopenhauerstr_2016.pdf,ok,pdftotext
+1060,Breite Straße/Zeppelinstraße,Breite_Str_Zeppelinstr_2013.pdf,ok,pdftotext
+1060,Breite Straße/Zeppelinstraße,Breite_Str_Zeppelinstr_2015.pdf,ok,pdftotext
+1060,Breite Straße/Zeppelinstraße,Breite_Str_Zeppelinstr_2017.pdf,ok,pdftotext
+1060,Breite Straße/Zeppelinstraße,Breite_Str_Zeppelinstr_2019.pdf,ok,pdftotext
+1230,Charlottenstraße/Am Bassin,Charlottenstr_Am_Bassin_2010_6h.pdf,ok,pdftotext
+1150,Charlottenstraße/Dortustraße,Charlottenstr_Dortustr_2010_6h.pdf,ok,pdftotext
+1150,Charlottenstraße/Dortustraße,Charlottenstr_Dortustr_2014.pdf,ok,pdftotext
+1321,Charlottenstraße/Französische Straße,Charlottenstr_Französische_Str_2012.pdf,ok,pdftotext
+1320,Charlottenstraße/Hebbelstraße,Charlottenstr_Hebbelstr_2012.pdf,ok,pdftotext
+1170,Dortustraße/Yorckstraße,Dortustr_Yorckstr_2011.pdf,ok,pdftotext
+1170,Dortustraße/Yorckstraße,Dortustr_Yorckstr_2015.pdf,ok,pdftotext
+8200,Drewitzer Straße/Am Buchhorst,Drewitzer_Str_Am_Buchhorst_2010.pdf,ok,pdftotext
+8200,Drewitzer Straße/Am Buchhorst,Drewitzer_Str_Am_Buchhorst_2013.pdf,ok,pdftotext
+4400,Drewitzer Straße/An der Alten Zauche,Drewitzer_Str_An_der_Alten_Zauche_2013.pdf,ok,pdftotext
+4400,Drewitzer Straße/An der Alten Zauche,Drewitzer_Str_An_der_Alten_Zauche_2016.pdf,ok,pdftotext
+4400,Drewitzer Straße/An der Alten Zauche,Drewitzer_Str_An_der_Alten_Zauche_2019.pdf,ok,pdftotext
+4400,Drewitzer Straße/An der Alten Zauche,Drewitzer_Str_An_der_Alten_Zauche_2023.pdf,ok,pdftotext
+4460,Drewitzer Straße/Erich-Weinert-Straße,Drewitzer_Str_E-Weinert-Str_2010_6h.pdf,ok,pdftotext
+4460,Drewitzer Straße/Erich-Weinert-Straße,Drewitzer_Str_E-Weinert-Str_2019.pdf,ok,pdftotext
+3240,Feuerbachstraße/Sellostraße,Feuerbach_Sellostraße_2019.pdf,ok,pdftotext
+3240,Feuerbachstraße/Sellostraße,Feuerbach_Sellostraße_2019_Rad.pdf,review_required,pdftotext
+7350,Flotowstraße/Gluckstraße,Flotowstr_Gluckstr_2016.pdf,ok,pdftotext
+7360,Flotowstraße/Hubertusdamm,Flotowstr_Hubertusdamm_2016.pdf,ok,pdftotext
+7340,Flotowstraße/Patrizierweg,Flotowstr_Patrizierweg_2016.pdf,ok,pdftotext
+3330,Forststraße/Im Bogen,Forststr_Im_Bogen_2015.pdf,ok,pdftotext
+3300,Forststraße/Werderscher Damm,Forststr_Werderscher_Damm_2015.pdf,ok,pdftotext
+3300,Forststraße/Werderscher Damm,Forststr_Werderscher_Damm_2016.pdf,ok,pdftotext
+1200,Friedrich-Ebert-Straße/Am Kanal,F-Ebert-Str_Am_Kanal_2010.pdf,ok,pdftotext
+1200,Friedrich-Ebert-Straße/Am Kanal,F-Ebert-Str_Am_Kanal_2013.pdf,ok,pdftotext
+1200,Friedrich-Ebert-Straße/Am Kanal,F-Ebert-Str_Am_Kanal_2016.pdf,ok,pdftotext
+1200,Friedrich-Ebert-Straße/Am Kanal,F-Ebert-Str_Am_Kanal_2019.pdf,ok,pdftotext
+1290,Friedrich-Ebert-Straße/Brandenburger Straße,F-Ebert-Str_Brandenburger_Str_2013.pdf,ok,pdftotext
+1220,Friedrich-Ebert-Straße/Charlottenstraße,F-Ebert-Str_Charlottenstr_2010_6h.pdf,ok,pdftotext
+1220,Friedrich-Ebert-Straße/Charlottenstraße,F-Ebert-Str_Charlottenstr_2015.pdf,ok,pdftotext
+1220,Friedrich-Ebert-Straße/Charlottenstraße,F-Ebert-Str_Charlottenstr_2019.pdf,ok,pdftotext
+1220,Friedrich-Ebert-Straße/Charlottenstraße,F-Ebert-Str_Charlottenstr_2023.pdf,ok,pdftotext
+1731,Friedrich-Ebert-Straße/Puschkinallee,F-Ebert-Str_Puschkinallee_2015.pdf,ok,pdftotext
+1731,Friedrich-Ebert-Straße/Puschkinallee,F-Ebert-Str_Puschkinallee_2019.pdf,ok,pdftotext
+1730,Friedrich-Ebert-Straße/Reiterweg,F-Ebert-Str_Reiterweg_2015.pdf,ok,pdftotext
+1730,Friedrich-Ebert-Straße/Reiterweg,F-Ebert-Str_Reiterweg_2019.pdf,ok,pdftotext
+4150,Friedrich-Engels-Straße/Friedhofsgasse,F-Engels-Str_Friedhofsgasse_2013.pdf,ok,pdftotext
+4150,Friedrich-Engels-Straße/Friedhofsgasse,F-Engels-Str_Friedhofsgasse_2016.pdf,ok,pdftotext
+4160,Friedrich-Engels-Straße/Schlaatzstraße,F-Engels-Str_Schlaatzstr_2011.pdf,ok,pdftotext
+4160,Friedrich-Engels-Straße/Schlaatzstraße,F-Engels-Str_Schlaatzstr_2015.pdf,ok,pdftotext
+4160,Friedrich-Engels-Straße/Schlaatzstraße,F-Engels-Str_Schlaatzstr_2019.pdf,ok,pdftotext
+4170,Friedrich-Engels-Straße/Schlaatzweg,F-Engels-Str_Schlaatzweg_2011.pdf,ok,pdftotext
+4170,Friedrich-Engels-Straße/Schlaatzweg,F-Engels-Str_Schlaatzweg_2015.pdf,ok,pdftotext
+4170,Friedrich-Engels-Straße/Schlaatzweg,F-Engels-Str_Schlaatzweg_2019.pdf,ok,pdftotext
+7101,Gagarinstraße/Bahnhofstraße,Gagarinstr_Bahnhofstr_2019.pdf,ok,pdftotext
+7220,Galileistraße/Max-Born-Straße,Galileistr_M-Born-Str_2014.pdf,ok,pdftotext
+7220,Galileistraße/Max-Born-Straße,Galileistr_M-Born-Str_2019.pdf,ok,pdftotext
+7200,Galileistraße/Neuendorfer Straße,Galileistr_Neuendorfer_Str_2011.pdf,ok,pdftotext
+7200,Galileistraße/Neuendorfer Straße,Galileistr_Neuendorfer_Str_2015.pdf,ok,pdftotext
+7200,Galileistraße/Neuendorfer Straße,Galileistr_Neuendorfer_Str_2019.pdf,ok,pdftotext
+7210,Galileistraße/Newtonstraße,Galileistr_Newtonstr_2015.pdf,ok,pdftotext
+7210,Galileistraße/Newtonstraße,Galileistr_Newtonstr_2019.pdf,ok,pdftotext
+2680,Geiselbergstraße/Am Mühlenberg,Geiselbergstr_Am_Mühlenberg_2012.pdf,ok,pdftotext
+3250,Geschwister-Scholl-Straße/Am Neuen Palais,G-Scholl-Str_Am_Neuen_Palais_2010.pdf,ok,pdftotext
+3250,Geschwister-Scholl-Straße/Am Neuen Palais,G-Scholl-Str_Am_Neuen_Palais_2010_6h.pdf,ok,pdftotext
+3250,Geschwister-Scholl-Straße/Am Neuen Palais,G-Scholl-Str_Am_Neuen_Palais_2013.pdf,ok,pdftotext
+3250,Geschwister-Scholl-Straße/Am Neuen Palais,G-Scholl-Str_Am_Neuen_Palais_2016.pdf,ok,pdftotext
+3250,Geschwister-Scholl-Straße/Am Neuen Palais,G-Scholl-Str_Am_Neuen_Palais_2019.pdf,ok,pdftotext
+3070,Geschwister-Scholl-Straße/Hans-Sachs-Straße,G-Scholl-Str_H-Sachs-Str_2015.pdf,ok,pdftotext
+3070,Geschwister-Scholl-Straße/Hans-Sachs-Straße,G-Scholl-Str_H-Sachs-Str_2015_T.pdf,ok,pdftotext
+3070,Geschwister-Scholl-Straße/Hans-Sachs-Straße,G-Scholl-Str_H-Sachs-Str_2016.pdf,ok,pdftotext
+3080,Geschwister-Scholl-Straße/Kantstraße,G-Scholl-Str_Kantstr_2015.pdf,ok,pdftotext
+3200,Geschwister-Scholl-Straße/Kastanienallee,G-Scholl-Str_Kastanienallee_2011.pdf,ok,pdftotext
+3200,Geschwister-Scholl-Straße/Kastanienallee,G-Scholl-Str_Kastanienallee_2015.pdf,ok,pdftotext
+3200,Geschwister-Scholl-Straße/Kastanienallee,G-Scholl-Str_Kastanienallee_2016.pdf,ok,pdftotext
+3200,Geschwister-Scholl-Straße/Kastanienallee,G-Scholl-Str_Kastanienallee_2018.pdf,ok,pdftotext
+3200,Geschwister-Scholl-Straße/Kastanienallee,G-Scholl-Str_Kastanienallee_2019.pdf,ok,pdftotext
+3050,Geschwister-Scholl-Straße/Nansenstraße,G-Scholl-Str_Nansenstr_2015.pdf,ok,pdftotext
+3050,Geschwister-Scholl-Straße/Nansenstraße,G-Scholl-Str_Nansenstr_2017-04.pdf,ok,pdftotext
+3050,Geschwister-Scholl-Straße/Nansenstraße,G-Scholl-Str_Nansenstr_2017-07.pdf,ok,pdftotext
+3050,Geschwister-Scholl-Straße/Nansenstraße,G-Scholl-Str_Nansenstr_2018-04.pdf,ok,pdftotext
+3050,Geschwister-Scholl-Straße/Nansenstraße,G-Scholl-Str_Nansenstr_2019.pdf,ok,pdftotext
+2400,Golmer Chaussee/Wublitzstraße,Golmer_Chaussee_Wublitzstr_2010_6h.pdf,ok,pdftotext
+2400,Golmer Chaussee/Wublitzstraße,Golmer_Chaussee_Wublitzstr_2013.pdf,ok,pdftotext
+2400,Golmer Chaussee/Wublitzstraße,Golmer_Chaussee_Wublitzstr_2016.pdf,ok,pdftotext
+2690,Golmer Damm/Mühlendamm,Golmer_Damm_Mühlendamm_2015.pdf,ok,pdftotext
+6100,Großbeerenstraße/Findling,Großbeerenstr_Findling_2012.pdf,ok,pdftotext
+6100,Großbeerenstraße/Findling,Großbeerenstr_Findling_2016.pdf,ok,pdftotext
+6110,Großbeerenstraße/Fritz-Zubeil-Straße,Großbeerenstr_F-Zubeil-Str_2010.pdf,ok,pdftotext
+6110,Großbeerenstraße/Fritz-Zubeil-Straße,Großbeerenstr_F-Zubeil-Str_2014.pdf,ok,pdftotext
+7010,Großbeerenstraße/Grotrianstraße,Großbeerenstr_Grotrianstr_2016.pdf,ok,pdftotext
+6140,Großbeerenstraße/Heinrich-George-Straße,Großbeerenstr_H-George-Str_2018.pdf,ok,pdftotext
+6050,Großbeerenstraße/Horstweg,Großbeerenstr_Horstweg_2013_Qw.pdf,review_required,pdftotext
+6050,Großbeerenstraße/Horstweg,Großbeerenstr_Horstweg_2014.pdf,ok,pdftotext
+6050,Großbeerenstraße/Horstweg,Großbeerenstr_Horstweg_2015_Qw.pdf,ok,pdftotext
+6050,Großbeerenstraße/Horstweg,Großbeerenstr_Horstweg_2017.pdf,ok,pdftotext
+7020,Großbeerenstraße/Jagdhausstraße,Großbeerenstr_Jagdhausstr_2011.pdf,ok,pdftotext
+7020,Großbeerenstraße/Jagdhausstraße,Großbeerenstr_Jagdhausstr_2015.pdf,ok,pdftotext
+7020,Großbeerenstraße/Jagdhausstraße,Großbeerenstr_Jagdhausstr_2019.pdf,ok,pdftotext
+6130,Großbeerenstraße/Kleine Straße,Großbeerenstr_Kleine_Str_2018.pdf,ok,pdftotext
+6150,Großbeerenstraße/Marlene-Dietrich-Allee,Großbeerenstr_M-Dietrich-Allee_2018.pdf,ok,pdftotext
+7000,Großbeerenstraße/Neuendorfer Straße,Großbeerenstr_Neuendorfer_Str_2013.pdf,ok,pdftotext
+7000,Großbeerenstraße/Neuendorfer Straße,Großbeerenstr_Neuendorfer_Str_2014.pdf,ok,pdftotext
+7000,Großbeerenstraße/Neuendorfer Straße,Großbeerenstr_Neuendorfer_Str_2017.pdf,ok,pdftotext
+7000,Großbeerenstraße/Neuendorfer Straße,Großbeerenstr_Neuendorfer_Str_2019.pdf,ok,pdftotext
+6120,Großbeerenstraße/Weidendamm,Großbeerenstr_Weidendamm_2018.pdf,ok,pdftotext
+6800,Großbeerenstraße/Wetzlarer Straße,Großbeerenstr_Wetzlarer_Str_2013.pdf,ok,pdftotext
+6800,Großbeerenstraße/Wetzlarer Straße,Großbeerenstr_Wetzlarer_Str_2019.pdf,ok,pdftotext
+1861,Große Weinmeisterstraße/Beyerstraße,Gr_Weinmeisterstr_Beyerstr_2012.pdf,ok,pdftotext
+1430,Gutenbergstraße/Friedrich-Ebert-Straße,Gutenbergstr_F-Ebert-Str_2012.pdf,ok,pdftotext
+1430,Gutenbergstraße/Friedrich-Ebert-Straße,Gutenbergstr_F-Ebert-Str_2016.pdf,ok,pdftotext
+1400,Gutenbergstraße/Hebbelstraße,Gutenbergstr_Hebbelstr_2011.pdf,ok,pdftotext
+1400,Gutenbergstraße/Hebbelstraße,Gutenbergstr_Hebbelstr_2015.pdf,ok,pdftotext
+1400,Gutenbergstraße/Hebbelstraße,Gutenbergstr_Hebbelstr_2019.pdf,ok,pdftotext
+7050,Güterfelder Eck,Güterfelder_Eck_2011.pdf,ok,pdftotext
+7050,Güterfelder Eck,Güterfelder_Eck_2014.pdf,ok,pdftotext
+7050,Güterfelder Eck,Güterfelder_Eck_2014_Qbr.pdf,ok,pdftotext
+7050,Güterfelder Eck,Güterfelder_Eck_2014_Qw.pdf,ok,pdftotext
+7053,Güterfelder Eck/Kreisel,Güterfelder_Eck_Kreisel_2014.pdf,ok,pdftotext
+7052,Güterfelder Eck/Nordrampe,Güterfelder_Eck_(Nordrampe)_2014.pdf,ok,pdftotext
+7051,Güterfelder Eck/Südrampe,Güterfelder_Eck_(Südrampe)_2014.pdf,ok,pdftotext
+1890,Hans-Thoma-Straße/Gutenbergstraße,H-Thoma-Str_Gutenbergstr_2014.pdf,ok,pdftotext
+1870,Hans-Thoma-Straße/Kurfürstenstraße,H-Thoma-Str_Kurfürstenstr_2016.pdf,ok,pdftotext
+1531,Hegelallee Nebenfahrbahn/Dortustraße,Hegelallee_Nebenfahrb_Dortustr_2015.pdf,ok,pdftotext
+1531,Hegelallee Nebenfahrbahn/Dortustraße,Hegelallee_Nebenfahrb_Dortustr_2019.pdf,ok,pdftotext
+1530,Hegelallee/Dortustraße,Hegelallee_Dortustr_2010_6h.pdf,ok,pdftotext
+1530,Hegelallee/Dortustraße,Hegelallee_Dortustr_2015.pdf,ok,pdftotext
+1530,Hegelallee/Dortustraße,Hegelallee_Dortustr_2019.pdf,ok,pdftotext
+1520,Hegelallee/Jägerallee,Hegelallee_Jägerallee_2011.pdf,ok,pdftotext
+1520,Hegelallee/Jägerallee,Hegelallee_Jägerallee_2013.pdf,ok,pdftotext
+1520,Hegelallee/Jägerallee,Hegelallee_Jägerallee_2015-06.pdf,ok,pdftotext
+1520,Hegelallee/Jägerallee,Hegelallee_Jägerallee_2015-09.pdf,ok,pdftotext
+1500,Hegelallee/Schopenhauerstraße,Hegelallee_Schopenhauerstr_2011.pdf,ok,pdftotext
+1500,Hegelallee/Schopenhauerstraße,Hegelallee_Schopenhauerstr_2014.pdf,ok,pdftotext
+1500,Hegelallee/Schopenhauerstraße,Hegelallee_Schopenhauerstr_2019.pdf,ok,pdftotext
+1500,Hegelallee/Schopenhauerstraße,Hegelallee_Schopenhauerstr_2023.pdf,ok,pdftotext
+4300,Heinrich-Mann-Allee/An der Alten Zauche,H-Mann-Allee_An_der_Alten_Zauche_2013.pdf,ok,pdftotext
+4300,Heinrich-Mann-Allee/An der Alten Zauche,H-Mann-Allee_An_der_Alten_Zauche_2017.pdf,ok,pdftotext
+4000,Heinrich-Mann-Allee/Babelsberger Straße,H-Mann-Allee_Babelsberger_Str_2010_6h.pdf,ok,pdftotext
+4000,Heinrich-Mann-Allee/Babelsberger Straße,H-Mann-Allee_Babelsberger_Str_2012.pdf,ok,pdftotext
+4000,Heinrich-Mann-Allee/Babelsberger Straße,H-Mann-Allee_Babelsberger_Str_2014.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2010.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2011.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2012.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2014.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2015.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2016.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2017.pdf,ok,pdftotext
+4110,Heinrich-Mann-Allee/Brauhausberg,H-Mann-Allee_Brauhausberg_2019.pdf,ok,pdftotext
+4180,Heinrich-Mann-Allee/Drevesstraße,H-Mann-Allee_Drevesstr_2014.pdf,ok,pdftotext
+4180,Heinrich-Mann-Allee/Drevesstraße,H-Mann-Allee_Drevesstr_2018.pdf,ok,pdftotext
+4340,Heinrich-Mann-Allee/Erich-Weinert-Straße,H-Mann-Allee_E-Weinert-Str_2010.pdf,ok,pdftotext
+4340,Heinrich-Mann-Allee/Erich-Weinert-Straße,H-Mann-Allee_E-Weinert-Str_2014.pdf,ok,pdftotext
+4340,Heinrich-Mann-Allee/Erich-Weinert-Straße,H-Mann-Allee_E-Weinert-Str_2018.pdf,ok,pdftotext
+4140,Heinrich-Mann-Allee/Friedhöfe,H-Mann-Allee_Friedhöfe_2015.pdf,ok,pdftotext
+4130,Heinrich-Mann-Allee/Friedhofsgasse,H-Mann-Allee_Friedhofsgasse_2012.pdf,ok,pdftotext
+4130,Heinrich-Mann-Allee/Friedhofsgasse,H-Mann-Allee_Friedhofsgasse_2016.pdf,ok,pdftotext
+4330,Heinrich-Mann-Allee/Friedrich-Wolf-Straße,H-Mann-Allee_F-Wolf-Str_2016.pdf,ok,pdftotext
+4330,Heinrich-Mann-Allee/Friedrich-Wolf-Straße,H-Mann-Allee_F-Wolf-Str_2023.pdf,ok,pdftotext
+4181,Heinrich-Mann-Allee/Humboldt Gymnasium,H-Mann-Allee_Humboldt Gymnasium_2015.pdf,ok,pdftotext
+4320,Heinrich-Mann-Allee/Zum Kahleberg,H-Mann-Allee_Zum_Kahleberg_2015.pdf,ok,pdftotext
+4320,Heinrich-Mann-Allee/Zum Kahleberg,H-Mann-Allee_Zum_Kahleberg_2019.pdf,ok,pdftotext
+4350,Heinrich-Mann-Allee/Zum Teufelssee,H-Mann-Allee_Zum_Teufelssee_2015.pdf,ok,pdftotext
+4350,Heinrich-Mann-Allee/Zum Teufelssee,H-Mann-Allee_Zum_Teufelssee_2018.pdf,ok,pdftotext
+4610,Horstweg/An den Kopfweiden,Horstweg_An_den_Kopfweiden_2019.pdf,ok,pdftotext
+4600,Horstweg/An der Alten Zauche,Horstweg_An_der_Alten_Zauche_2015.pdf,ok,pdftotext
+4620,Horstweg/H.-Muthesius-Str.,Horstweg_H-Muthesius-Str_2023.pdf,ok,pdftotext
+4200,Horstweg/Heinrich-Mann-Allee,Horstweg_H-Mann-Allee_2014.pdf,ok,pdftotext
+4621,Horstweg/Lidl-Parkplatz,Horstweg_Lidl-Parkplatz_2023.pdf,ok,pdftotext
+4040,Humboldtring/Babelsberger Straße,Humboldtring_Babelsberger_Str_2010.pdf,ok,pdftotext
+4040,Humboldtring/Babelsberger Straße,Humboldtring_Babelsberger_Str_2013.pdf,ok,pdftotext
+4040,Humboldtring/Babelsberger Straße,Humboldtring_Babelsberger_Str_2015.pdf,ok,pdftotext
+4040,Humboldtring/Babelsberger Straße,Humboldtring_Babelsberger_Str_2016.pdf,ok,pdftotext
+2620,In der Feldmark/Am Mühlenberg,In_der_Feldmark_Am_Mühlenberg_2016.pdf,ok,pdftotext
+2620,In der Feldmark/Am Mühlenberg,In_der_Feldmark_Am_Mühlenberg_2018.pdf,ok,pdftotext
+1710,Jägerallee/Pappelallee,Jägerallee_Pappelallee_2010.pdf,ok,pdftotext
+1710,Jägerallee/Pappelallee,Jägerallee_Pappelallee_2014.pdf,ok,pdftotext
+1710,Jägerallee/Pappelallee,Jägerallee_Pappelallee_2018.pdf,ok,pdftotext
+1700,Jägerallee/Reiterweg,Jägerallee_Reiterweg_2012.pdf,ok,pdftotext
+1700,Jägerallee/Reiterweg,Jägerallee_Reiterweg_2015-05.pdf,ok,pdftotext
+1700,Jägerallee/Reiterweg,Jägerallee_Reiterweg_2015-09.pdf,ok,pdftotext
+1700,Jägerallee/Reiterweg,Jägerallee_Reiterweg_2018.pdf,ok,pdftotext
+2550,Kaiser-Friedrich-Straße/Am Alten Mörtelwerk,Kaiser-Friedrich-Str_Am_Alten_Mörtelwerk_2012.pdf,ok,pdftotext
+2550,Kaiser-Friedrich-Straße/Am Alten Mörtelwerk,Kaiser-Friedrich-Str_Am_Alten_Mörtelwerk_2017.pdf,ok,pdftotext
+2550,Kaiser-Friedrich-Straße/Am Alten Mörtelwerk,Kaiser-Friedrich-Str_Am_Alten_Mörtelwerk_2018.pdf,ok,pdftotext
+2600,Kaiser-Friedrich-Straße/Kuhfortdamm,Kaiser-Friedrich-Str_Kuhfortdamm_2012.pdf,ok,pdftotext
+2600,Kaiser-Friedrich-Straße/Kuhfortdamm,Kaiser-Friedrich-Str_Kuhfortdamm_2017.pdf,ok,pdftotext
+2600,Kaiser-Friedrich-Straße/Kuhfortdamm,Kaiser-Friedrich-Str_Kuhfortdamm_2018.pdf,ok,pdftotext
+6600,Karl-Liebknecht-Straße/Karl-Gruhl-Straße,K-Liebknecht-Str_K-Gruhl-Str_2011.pdf,ok,pdftotext
+6600,Karl-Liebknecht-Straße/Karl-Gruhl-Straße,K-Liebknecht-Str_K-Gruhl-Str_2016.pdf,ok,pdftotext
+2880,Ketziner Straße/Döberitzer Straße,Ketziner_Str_Döberitzer_Str_2018.pdf,ok,pdftotext
+2880,Ketziner Straße/Döberitzer Straße,Ketziner_Str_Döberitzer_Str_2019.pdf,ok,pdftotext
+2870,Ketziner Straße/Marquardter Straße,Ketziner_Str_Marquardter_Str_2013.pdf,ok,pdftotext
+2870,Ketziner Straße/Marquardter Straße,Ketziner_Str_Marquardter_Str_2016.pdf,ok,pdftotext
+2870,Ketziner Straße/Marquardter Straße,Ketziner_Str_Marquardter_Str_2019.pdf,ok,pdftotext
+2870,Ketziner Straße/Marquardter Straße,Ketziner_Str_Marquardter_Str_2023.pdf,ok,pdftotext
+2860,Ketziner Straße/Von-Stechow-Straße,Ketziner_Str_Von-Stechow-Str_2010.pdf,ok,pdftotext
+2860,Ketziner Straße/Von-Stechow-Straße,Ketziner_Str_Von-Stechow-Str_2013.pdf,ok,pdftotext
+2860,Ketziner Straße/Von-Stechow-Straße,Ketziner_Str_Von-Stechow-Str_2016.pdf,ok,pdftotext
+2860,Ketziner Straße/Von-Stechow-Straße,Ketziner_Str_Von-Stechow-Str_2018.pdf,ok,pdftotext
+2860,Ketziner Straße/Von-Stechow-Straße,Ketziner_Str_Von-Stechow-Str_2023.pdf,ok,pdftotext
+2890,Ketziner Straße/Zum Bahnhof,Ketziner_Str_Zum_Bahnhof_2012.pdf,ok,pdftotext
+2890,Ketziner Straße/Zum Bahnhof,Ketziner_Str_Zum_Bahnhof_2016.pdf,ok,pdftotext
+2890,Ketziner Straße/Zum Bahnhof,Ketziner_Str_Zum_Bahnhof_2018-04.pdf,ok,pdftotext
+2890,Ketziner Straße/Zum Bahnhof,Ketziner_Str_Zum_Bahnhof_2018-09.pdf,ok,pdftotext
+2350,Kiepenheuerallee/Georg-Hermann-Allee,Kiepenheuerallee_G-Hermann-Allee_2016.pdf,ok,pdftotext
+8011,Konrad-Wolf-Allee/Eduard-von-Winterstein-Straße,K-Wolf-Allee_E-von-Winterstein-Str_2011_6h.pdf,ok,pdftotext
+8012,Konrad-Wolf-Allee/Guido-Seeber-Weg,K-Wolf-Allee_G-Seeber-Weg_2011_6h.pdf,ok,pdftotext
+8020,Konrad-Wolf-Allee/Hans-Albers-Straße,K-Wolf-Allee_H-Albers-Str_2011.pdf,ok,pdftotext
+8010,Konrad-Wolf-Allee/Robert-Baberske-Straße,K-Wolf-Allee_R-Baberske-Str_2011.pdf,ok,pdftotext
+1570,Kurfürstenstraße/Hebbelstraße,Kurfürstenstr_Hebbelstr_2010.pdf,ok,pdftotext
+1570,Kurfürstenstraße/Hebbelstraße,Kurfürstenstr_Hebbelstr_2014.pdf,ok,pdftotext
+1570,Kurfürstenstraße/Hebbelstraße,Kurfürstenstr_Hebbelstr_2023.pdf,ok,pdftotext
+2910,L20/Grüner Weg,L20_Grüner_Weg_2018.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2010.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2011.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2012.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2014.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2015.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2016.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2017.pdf,ok,pdftotext
+4100,Leipziger Dreieck,Leipziger_Dreieck_2019.pdf,ok,pdftotext
+3210,Lennéstraße/Carl-von-Ossietzky-Straße,Lennestr_Carl-von-Ossietzky-Str_2010.pdf,ok,pdftotext
+6000,Lutherplatz,Lutherplatz_2013.pdf,ok,pdftotext
+4500,Magnus-Zeller-Platz,M-Zeller-Platz_2011_6h.pdf,ok,pdftotext
+4500,Magnus-Zeller-Platz,M-Zeller-Platz_2014.pdf,ok,pdftotext
+4500,Magnus-Zeller-Platz,M-Zeller-Platz_2017.pdf,ok,pdftotext
+2720,Marquardter Chaussee (B273)/Bergstraße,Marquardter_Ch(B273)_Bergstr_2013.pdf,ok,pdftotext
+2720,Marquardter Chaussee (B273)/Bergstraße,Marquardter_Ch(B273)_Bergstr_2017.pdf,ok,pdftotext
+2710,Marquardter Chaussee (B273)/Fahrländer Chaussee,Marquardter_Ch(B273)_Fahrländer_Ch_2010.pdf,ok,pdftotext
+2710,Marquardter Chaussee (B273)/Fahrländer Chaussee,Marquardter_Ch(B273)_Fahrländer_Ch_2013.pdf,ok,pdftotext
+2710,Marquardter Chaussee (B273)/Fahrländer Chaussee,Marquardter_Ch(B273)_Fahrländer_Ch_2017.pdf,ok,pdftotext
+2730,Marquardter Chaussee (B273)/Friedrichpark (N),2730+2740_2023.pdf,ok,pdftotext
+2730,Marquardter Chaussee (B273)/Friedrichpark (N),Marquardter_Ch(B273)_Friedrichpark(N)+(S)_2018.pdf,ok,pdftotext
+2740,Marquardter Chaussee (B273)/Friedrichpark (S),2730+2740_2023.pdf,ok,pdftotext
+2740,Marquardter Chaussee (B273)/Friedrichpark (S),Marquardter_Ch(B273)_Friedrichpark(N)+(S)_2018.pdf,ok,pdftotext
+2700,Marquardter Chaussee (B273)/Hauptstraße,Marquardter_Ch(B273)_Hauptstr_2016.pdf,ok,pdftotext
+2500,Maulbeerallee/Amundsenstraße,Maulbeerallee_Amundsenstr_2013.pdf,ok,pdftotext
+2500,Maulbeerallee/Amundsenstraße,Maulbeerallee_Amundsenstr_2016.pdf,ok,pdftotext
+2500,Maulbeerallee/Amundsenstraße,Maulbeerallee_Amundsenstr_2019.pdf,ok,pdftotext
+7300,Mendelssohn-Bartholdy-Straße/Steinstraße,M-Bartholdy-Str_Steinstr_2010_6h.pdf,ok,pdftotext
+7300,Mendelssohn-Bartholdy-Straße/Steinstraße,M-Bartholdy-Str_Steinstr_2016.pdf,ok,pdftotext
+4700,Michendorfer Chaussee (B2)/Brauhausberg,Michendorfer_Ch(B2)_Brauhausberg_2013.pdf,ok,pdftotext
+4700,Michendorfer Chaussee (B2)/Brauhausberg,Michendorfer_Ch(B2)_Brauhausberg_2016.pdf,ok,pdftotext
+4700,Michendorfer Chaussee (B2)/Brauhausberg,Michendorfer_Ch(B2)_Brauhausberg_2019.pdf,ok,pdftotext
+1550,Nauener Tor,Nauener_Tor_2011.pdf,ok,pdftotext
+1550,Nauener Tor,Nauener_Tor_2012_nurRad.pdf,ok,pdftotext
+1550,Nauener Tor,Nauener_Tor_2015.pdf,ok,pdftotext
+2200,Nedlitzer Straße/Am Pfingsberg,Nedlitzer_Str_Am_Pfingsberg_2011.pdf,ok,pdftotext
+2200,Nedlitzer Straße/Am Pfingsberg,Nedlitzer_Str_Am_Pfingsberg_2016.pdf,ok,pdftotext
+2300,Nedlitzer Straße/Amundsenstraße,Nedlitzer_Str_Amundsenstr_2012.pdf,ok,pdftotext
+2300,Nedlitzer Straße/Amundsenstraße,Nedlitzer_Str_Amundsenstr_2014.pdf,ok,pdftotext
+2300,Nedlitzer Straße/Amundsenstraße,Nedlitzer_Str_Amundsenstr_2016.pdf,ok,pdftotext
+2300,Nedlitzer Straße/Amundsenstraße,Nedlitzer_Str_Amundsenstr_2019.pdf,ok,pdftotext
+2300,Nedlitzer Straße/Amundsenstraße,Nedlitzer_Str_Amundsenstr_2023.pdf,ok,pdftotext
+2220,Nedlitzer Straße/Erich-Arendt-Straße,Nedlitzer_Str_E-Arendt-Str_2013.pdf,ok,pdftotext
+2240,Nedlitzer Straße/Georg-Hermann-Allee,Nedlitzer_Str_G-Hermann-Allee_2012.pdf,ok,pdftotext
+2240,Nedlitzer Straße/Georg-Hermann-Allee,Nedlitzer_Str_G-Hermann-Allee_2016.pdf,ok,pdftotext
+1720,Nedlitzer Straße/Kiepenheuerallee,Nedlitzer_Str_Kiepenheuerallee_2013.pdf,ok,pdftotext
+1720,Nedlitzer Straße/Kiepenheuerallee,Nedlitzer_Str_Kiepenheuerallee_2018.pdf,ok,pdftotext
+2290,Nedlitzer Straße/Konrad-Zuse-Ring (N),Nedlitzer_Str_Konrad-Zuse-Ring_(N)_2016.pdf,ok,pdftotext
+2290,Nedlitzer Straße/Konrad-Zuse-Ring (N),Nedlitzer_Str_Konrad_Zuse_Ring_(N)_2019.pdf,ok,pdftotext
+2301,Nedlitzer Straße/Lerchensteig,Nedlitzer_Str_Lerchensteig_2014.pdf,ok,pdftotext
+2301,Nedlitzer Straße/Lerchensteig,Nedlitzer_Str_Lerchensteig_2016.pdf,ok,pdftotext
+2301,Nedlitzer Straße/Lerchensteig,Nedlitzer_Str_Lerchensteig_2019.pdf,ok,pdftotext
+2301,Nedlitzer Straße/Lerchensteig,Nedlitzer_Str_Lerchensteig_2023.pdf,ok,pdftotext
+2250,Nedlitzer Straße/Viereckremise,Nedlitzer_Str_Viereckremise_2015.pdf,ok,pdftotext
+2250,Nedlitzer Straße/Viereckremise,Nedlitzer_Str_Viereckremise_2019.pdf,ok,pdftotext
+2251,Nedlitzer Straße/Zum Exerzierhaus,Nedlitzer_Str_Zum_Exerzierhaus_2015.pdf,ok,pdftotext
+2251,Nedlitzer Straße/Zum Exerzierhaus,Nedlitzer_Str_Zum_Exerzierhaus_2019.pdf,ok,pdftotext
+7100,Neuendorfer Straße/Ziolkowskistraße,Neuendorfer_Str_Ziolkowskistr_2014.pdf,ok,pdftotext
+5100,Nuthestraße/A 115,Nuthestraße_A_115_2011_Qw.pdf,ok,pdftotext
+5020,Nuthestraße/Friedrich-Engels-Straße,Nuthestr_F-Engels-Str_2013.pdf,ok,pdftotext
+6250,Nuthestraße/Friedrich-List-Straße (N),Nuthestr_F-List-Str_(N)_2010.pdf,ok,pdftotext
+6250,Nuthestraße/Friedrich-List-Straße (N),Nuthestr_F-List-Str_(N)_2014.pdf,ok,pdftotext
+6260,Nuthestraße/Friedrich-List-Straße/Lotte-Pulewka-Straße (S),Nuthestr_F-List-Str_L-Pulewka-Str_(S)_2010.pdf,ok,pdftotext
+6260,Nuthestraße/Friedrich-List-Straße/Lotte-Pulewka-Straße (S),Nuthestr_F-List-Str_L-Pulewka-Str_(S)_2014.pdf,ok,pdftotext
+5040,Nuthestraße/Horstweg,Nuthestr_Horstweg_2010_Qo_6h.pdf,ok,pdftotext
+4670,Nuthestraße/Horstweg (N)/Rudolf-Moos-Straße,Nuthestr_Horstweg(N)_R-Moos-Str_2010_6h.pdf,ok,pdftotext
+4670,Nuthestraße/Horstweg (N)/Rudolf-Moos-Straße,Nuthestr_Horstweg(N)_R-Moos-Str_2015.pdf,ok,pdftotext
+4650,Nuthestraße/Horstweg (Nordknoten),Nuthestr_Horstweg(N)_2010_6h.pdf,ok,pdftotext
+4650,Nuthestraße/Horstweg (Nordknoten),Nuthestr_Horstweg(N)_2015.pdf,ok,pdftotext
+4660,Nuthestraße/Horstweg (Südknoten),Nuthestr_Horstweg(S)_2010_6h.pdf,ok,pdftotext
+4660,Nuthestraße/Horstweg (Südknoten),Nuthestr_Horstweg(S)_2015.pdf,ok,pdftotext
+5000,Nuthestraße/Humboldtring,Nuthestr_Humboldtring_2010_Qs_6h.pdf,ok,pdftotext
+8060,Nuthestraße/Konrad-Wolf-Allee (S),Nuthestr_K-Wolf-Allee_2010_6h.pdf,ok,pdftotext
+8050,Nuthestraße/Max-Born-Straße,Nuthestr_M-Born-Str_2010_6h.pdf,ok,pdftotext
+5030,Nuthestraße/Neuendorfer Anger,Nuthestr_Neuendorfer_Anger_2010_6h.pdf,ok,pdftotext
+5030,Nuthestraße/Neuendorfer Anger,Nuthestr_Neuendorfer_Anger_2015.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2010_Qw.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2011_Qw.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2013_Qw.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2014_Qw.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2015_Qw.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2016_Qw.pdf,ok,pdftotext
+5070,Nuthestraße/Neuendorfer Straße,Nuthestr_Neuendorfer_Str_2019_Qw.pdf,ok,pdftotext
+7250,Nuthestraße/Neuendorfer Straße (N),Nuthestr_Neuendorfer_Str(N)_2013.pdf,ok,pdftotext
+7250,Nuthestraße/Neuendorfer Straße (N),Nuthestr_Neuendorfer_Str(N)_2014.pdf,ok,pdftotext
+7250,Nuthestraße/Neuendorfer Straße (N),Nuthestr_Neuendorfer_Str(N)_2017.pdf,ok,pdftotext
+7260,Nuthestraße/Neuendorfer Straße (S),Nuthestr_Neuendorfer_Str(S)_2013.pdf,ok,pdftotext
+7260,Nuthestraße/Neuendorfer Straße (S),Nuthestr_Neuendorfer_Str(S)_2014.pdf,ok,pdftotext
+7260,Nuthestraße/Neuendorfer Straße (S),Nuthestr_Neuendorfer_Str(S)_2017.pdf,ok,pdftotext
+5080,Nuthestraße/Stern-Center,Nuthestr_Stern-Center_2010_Qw_6h.pdf,ok,pdftotext
+6970,Nuthestraße/Wetzlarer Straße (N),Nuthestr_Wetzlarer_Str(N)_2011_6h.pdf,ok,pdftotext
+6970,Nuthestraße/Wetzlarer Straße (N),Nuthestr_Wetzlarer_Str(N)_2015.pdf,ok,pdftotext
+6960,Nuthestraße/Wetzlarer Straße (S),Nuthestr_Wetzlarer_Str(S)_2015.pdf,ok,pdftotext
+1670,Pappelallee/Erich-Mendelsohn-Allee,Pappelallee_E-Mendelsohn-Allee_2012.pdf,ok,pdftotext
+1670,Pappelallee/Erich-Mendelsohn-Allee,Pappelallee_E-Mendelsohn-Allee_2015.pdf,ok,pdftotext
+1670,Pappelallee/Erich-Mendelsohn-Allee,Pappelallee_E-Mendelsohn-Allee_2018.pdf,ok,pdftotext
+1650,Pappelallee/Georg-Hermann-Allee,Pappelallee_G-Hermann-Allee_2011.pdf,ok,pdftotext
+1650,Pappelallee/Georg-Hermann-Allee,Pappelallee_G-Hermann-Allee_2014.pdf,ok,pdftotext
+1650,Pappelallee/Georg-Hermann-Allee,Pappelallee_G-Hermann-Allee_2017.pdf,ok,pdftotext
+1650,Pappelallee/Georg-Hermann-Allee,Pappelallee_G-Hermann-Allee_2023.pdf,ok,pdftotext
+2030,Pappelallee/Kirschallee,Pappelallee_Kirschallee_2013.pdf,ok,pdftotext
+2030,Pappelallee/Kirschallee,Pappelallee_Kirschallee_2017.pdf,ok,pdftotext
+2020,Pappelallee/Reiherweg,Pappelallee_Reiherweg_2023.pdf,ok,pdftotext
+2850,Potsdamer Chaussee/Abzweig nach Sacrow,Potsdamer_Ch_Abzweig_nach_Sacrow_2012.pdf,ok,pdftotext
+2950,Potsdamer Chaussee/Dorfstraße,Potsdamer_Ch_Dorfstraße_2010.pdf,ok,pdftotext
+2970,Potsdamer Chaussee/Ritterfelddamm,Potsdamer_Ch_Ritterfelddamm_2010.pdf,ok,pdftotext
+2970,Potsdamer Chaussee/Ritterfelddamm,Potsdamer_Ch_Ritterfelddamm_2013.pdf,ok,pdftotext
+2970,Potsdamer Chaussee/Ritterfelddamm,Potsdamer_Ch_Ritterfelddamm_2016.pdf,ok,pdftotext
+2970,Potsdamer Chaussee/Ritterfelddamm,Potsdamer_Ch_Ritterfelddamm_2019.pdf,ok,pdftotext
+2900,Potsdamer Chaussee/Sacrower Allee,Potsdamer_Ch_Sacrower_Allee_2010.pdf,ok,pdftotext
+2900,Potsdamer Chaussee/Sacrower Allee,Potsdamer_Ch_Sacrower_Allee_2013.pdf,ok,pdftotext
+2900,Potsdamer Chaussee/Sacrower Allee,Potsdamer_Ch_Sacrower_Allee_2023.pdf,ok,pdftotext
+2100,Potsdamer Straße/Amundsenstraße,Potsdamer_Str_Amundsenstr_2012.pdf,ok,pdftotext
+2100,Potsdamer Straße/Amundsenstraße,Potsdamer_Str_Amundsenstr_2016.pdf,ok,pdftotext
+2100,Potsdamer Straße/Amundsenstraße,Potsdamer_Str_Amundsenstr_2019.pdf,ok,pdftotext
+2140,Potsdamer Straße/Rückertstraße,Potsdamer_Str_Rückertstr_2010_6h.pdf,ok,pdftotext
+2140,Potsdamer Straße/Rückertstraße,Potsdamer_Str_Rückertstr_2011_6h.pdf,ok,pdftotext
+2140,Potsdamer Straße/Rückertstraße,Potsdamer_Str_Rückertstr_2015.pdf,ok,pdftotext
+2140,Potsdamer Straße/Rückertstraße,Potsdamer_Str_Rückertstr_2019.pdf,ok,pdftotext
+2040,Potsdamer Straße/Schulplatz,Potsdamer_Str_Schulplatz_2012.pdf,ok,pdftotext
+1732,Puschkinallee/Beyerstraße,Puschkinallee_Beyerstr_2015.pdf,ok,pdftotext
+1732,Puschkinallee/Beyerstraße,Puschkinallee_Beyerstr_2019.pdf,ok,pdftotext
+2611,Reiherbergstraße/Am Urnenfeld,Reiherbergstr_Am_Urnenfeld_2015.pdf,ok,pdftotext
+2610,Reiherbergstraße/Karl-Liebknecht-Straße,Reiherbergstr_K-Liebknecht-Str_2012.pdf,ok,pdftotext
+2610,Reiherbergstraße/Karl-Liebknecht-Straße,Reiherbergstr_K-Liebknecht-Str_2016.pdf,ok,pdftotext
+2610,Reiherbergstraße/Karl-Liebknecht-Straße,Reiherbergstr_K-Liebknecht-Str_2018.pdf,ok,pdftotext
+2150,Rückertstraße/Marquardter Chaussee,Rückertstr_Marquardter_Ch_2011.pdf,ok,pdftotext
+2150,Rückertstraße/Marquardter Chaussee,Rückertstr_Marquardter_Ch_2015.pdf,ok,pdftotext
+2150,Rückertstraße/Marquardter Chaussee,Rückertstr_Marquardter_Ch_2019.pdf,ok,pdftotext
+2160,Rückertstraße/Max-Eyth-Allee,Rückertstr_M.-Eyth-Allee_2013.pdf,ok,pdftotext
+6200,Rudolf-Breitscheid-Straße/Alt Nowawes,R-Breitscheid-Str_Alt_Nowawes_2010.pdf,ok,pdftotext
+6340,Rudolf-Breitscheid-Straße/Anhaltstraße,R-Breitscheid-Str_Anhaltstr_2011.pdf,ok,pdftotext
+6400,Rudolf-Breitscheid-Straße/August-Bebel-Straße,R-Breitscheid-Str_A-Bebel-Str_2013.pdf,ok,pdftotext
+6400,Rudolf-Breitscheid-Straße/August-Bebel-Straße,R-Breitscheid-Str_A-Bebel-Str_2018.pdf,ok,pdftotext
+6300,Rudolf-Breitscheid-Straße/Karl-Liebknecht-Straße,R-Breitscheid-Str_K-Liebknecht-Str_2011.pdf,ok,pdftotext
+6300,Rudolf-Breitscheid-Straße/Karl-Liebknecht-Straße,R-Breitscheid-Str_K-Liebknecht-Str_2017.pdf,ok,pdftotext
+6310,Rudolf-Breitscheid-Straße/Wattstraße,R-Breitscheid-Str_Wattstr_2011.pdf,ok,pdftotext
+4351,Saarmunder Straße/Zum Teufelssee,Saarmunder_Str_Zum_Teufelssee_2017.pdf,ok,pdftotext
+1600,Schlegelstraße/Voltaireweg,Schlegelstr_Voltaireweg_2013.pdf,ok,pdftotext
+1600,Schlegelstraße/Voltaireweg,Schlegelstr_Voltaireweg_2018.pdf,ok,pdftotext
+1051,Schopenhauerstraße/Marktcenter,Schopenhauerstr_Marktcenter_2016.pdf,ok,pdftotext
+2960,Seeburger Chaussee/Potsdamer Chaussee,Seeburger_Ch_Potsdamer_Ch_2017.pdf,ok,pdftotext
+2960,Seeburger Chaussee/Potsdamer Chaussee,Seeburger_Ch_Potsdamer_Ch_2023.pdf,ok,pdftotext
+6850,Stahnsdorfer Straße/August-Bebel-Straße,Stahnsdorfer_Str_A-Bebel-Str_2010.pdf,ok,pdftotext
+6850,Stahnsdorfer Straße/August-Bebel-Straße,Stahnsdorfer_Str_A-Bebel-Str_2015.pdf,ok,pdftotext
+6850,Stahnsdorfer Straße/August-Bebel-Straße,Stahnsdorfer_Str_A-Bebel-Str_2018.pdf,ok,pdftotext
+7400,Stahnsdorfer Straße/Bernhard-Beyer-Straße,Stahnsdorfer_Str_B-Beyer-Str_2010_6h.pdf,ok,pdftotext
+7400,Stahnsdorfer Straße/Bernhard-Beyer-Straße,Stahnsdorfer_Str_B-Beyer-Str_2013.pdf,ok,pdftotext
+7400,Stahnsdorfer Straße/Bernhard-Beyer-Straße,Stahnsdorfer_Str_B-Beyer-Str_2016.pdf,ok,pdftotext
+7400,Stahnsdorfer Straße/Bernhard-Beyer-Straße,Stahnsdorfer_Str_B-Beyer-Str_2019.pdf,ok,pdftotext
+6360,Stahnsdorfer Straße/Paul-Neumann-Straße,Stahnsdorfer_Str_P-Neumann-Str_2012.pdf,ok,pdftotext
+8120,Sternstraße/Trebbiner Straße,Sternstr_Trebbiner_Str_2010.pdf,ok,pdftotext
+8120,Sternstraße/Trebbiner Straße,Sternstr_Trebbiner_Str_2013.pdf,ok,pdftotext
+4730,Templiner Straße/Alter Tornow,Templiner_Str_Alter_Tornow_2011_6h.pdf,ok,pdftotext
+4730,Templiner Straße/Alter Tornow,Templiner_Str_Alter_Tornow_2012.pdf,ok,pdftotext
+4710,Templiner Straße/Brauhausberg,Templiner_Str_Brauhausberg_2013.pdf,ok,pdftotext
+4710,Templiner Straße/Brauhausberg,Templiner_Str_Brauhausberg_2016.pdf,ok,pdftotext
+4720,Templiner Straße/Leipziger Straße,Templiner_Str_Leipziger_Str_2014.pdf,ok,pdftotext
+4720,Templiner Straße/Leipziger Straße,Templiner_Str_Leipziger_Str_2016.pdf,ok,pdftotext
+4720,Templiner Straße/Leipziger Straße,Templiner_Str_Leipziger_Str_2019.pdf,ok,pdftotext
+8140,Trebbiner Straße Neue L 79 (OU Drewitz),Trebbiner_Str_Neue_L_79_(OU_Drewitz)_2011.pdf,ok,pdftotext
+8140,Trebbiner Straße Neue L 79 (OU Drewitz),Trebbiner_Str_Neue_L_79_(OU_Drewitz)_2014.pdf,ok,pdftotext
+8160,Trebbiner Straße/A 115 (Ostrampe),Trebbiner_Str_A_115_(Ostrampe)_2017.pdf,ok,pdftotext
+8150,Trebbiner Straße/A 115 (Westrampe),Trebbiner_Str_A_115_(Westrampe)_2017.pdf,ok,pdftotext
+8130,Trebbiner Straße/Clara-Schumann-Straße,Trebbiner_Str_C-Schumann-Str_2011.pdf,ok,pdftotext
+2809,Tschudistraße/Am Großen Horn,Nedlitzer_Str_Am_Großen_Horn_2019.pdf,ok,pdftotext
+3350,Werderscher Damm/Kuhfortdamm,Werderscher_Damm_Kuhfortdamm_2013.pdf,ok,pdftotext
+6950,Wetzlarer Straße/Fritz-Zubeil-Straße,Wetzlarer_Str_F-Zubeil-Str_2011_6h.pdf,ok,pdftotext
+6950,Wetzlarer Straße/Fritz-Zubeil-Straße,Wetzlarer_Str_F-Zubeil-Str_2015.pdf,ok,pdftotext
+2410,Wublitzstraße/Neue Dorstraße,Wublitzstr_Neue_Dorfstr_2017.pdf,ok,pdftotext
+3150,Zeppelinstraße (B1)/An der Pirschheide,Zeppelinstr(B1)_An_der_Pirschheide_2010.pdf,ok,pdftotext
+3150,Zeppelinstraße (B1)/An der Pirschheide,Zeppelinstr(B1)_An_der_Pirschheide_2013.pdf,ok,pdftotext
+3150,Zeppelinstraße (B1)/An der Pirschheide,Zeppelinstr(B1)_An_der_Pirschheide_2016.pdf,ok,pdftotext
+3140,Zeppelinstraße (B1)/Bf. Pirschheide,Zeppelinstr(B1)_Bf_Pirschheide_2016.pdf,ok,pdftotext
+3140,Zeppelinstraße (B1)/Bf. Pirschheide,Zeppelinstr(B1)_Bf_Pirschheide_2019.pdf,ok,pdftotext
+3130,Zeppelinstraße/Forststraße,Zeppelinstr_Forststr_2013.pdf,ok,pdftotext
+3130,Zeppelinstraße/Forststraße,Zeppelinstr_Forststr_2016.pdf,ok,pdftotext
+3130,Zeppelinstraße/Forststraße,Zeppelinstr_Forststr_2019.pdf,ok,pdftotext
+3000,Zeppelinstraße/Geschwister-Scholl-Straße,Zeppelinstr_G-Scholl-Str_2011.pdf,ok,pdftotext
+3000,Zeppelinstraße/Geschwister-Scholl-Straße,Zeppelinstr_G-Scholl-Str_2013_Qs.pdf,review_required,pdftotext
+3000,Zeppelinstraße/Geschwister-Scholl-Straße,Zeppelinstr_G-Scholl-Str_2014.pdf,ok,pdftotext
+3000,Zeppelinstraße/Geschwister-Scholl-Straße,Zeppelinstr_G-Scholl-Str_2017.pdf,ok,pdftotext
+3120,Zeppelinstraße/Im Bogen,Zeppelinstr_Im_Bogen_2011.pdf,ok,pdftotext
+3120,Zeppelinstraße/Im Bogen,Zeppelinstr_Im_Bogen_2017.pdf,ok,pdftotext
+3120,Zeppelinstraße/Im Bogen,Zeppelinstr_Im_Bogen_2018.pdf,ok,pdftotext
+3100,Zeppelinstraße/Kastanienallee,Zeppelinstr_Kastanienallee_2011.pdf,ok,pdftotext
+3100,Zeppelinstraße/Kastanienallee,Zeppelinstr_Kastanienallee_2014.pdf,ok,pdftotext
+3100,Zeppelinstraße/Kastanienallee,Zeppelinstr_Kastanienallee_2016.pdf,ok,pdftotext
+3100,Zeppelinstraße/Kastanienallee,Zeppelinstr_Kastanienallee_2018.pdf,ok,pdftotext
+3100,Zeppelinstraße/Kastanienallee,Zeppelinstr_Kastanienallee_2023.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2011.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2014.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2016.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2017-04.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2017-07.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2018-04.pdf,ok,pdftotext
+3010,Zeppelinstraße/Nansenstraße,Zeppelinstr_Nansenstr_2019.pdf,ok,pdftotext
+3030,Zeppelinstraße/Wielandstraße,Zeppelinstr_Wielandstr_2011.pdf,ok,pdftotext
+3030,Zeppelinstraße/Wielandstraße,Zeppelinstr_Wielandstr_2015.pdf,ok,pdftotext
+8100,Zum Kirchsteigfeld/Gerlachstraße,Zum_Kirchsteigfeld_Gerlachstr_2011.pdf,ok,pdftotext
+8000,Zum Kirchsteigfeld/Konrad-Wolf-Allee,Zum_Kirchsteigfeld_K-Wolf-Allee_2014.pdf,ok,pdftotext

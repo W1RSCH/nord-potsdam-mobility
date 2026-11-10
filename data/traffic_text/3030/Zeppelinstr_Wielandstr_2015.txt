@@ -1,0 +1,165 @@
+ SVP, 461                                                                                                                                                                08.05.2015
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                            NORD OST SÜD      SUMME %
+                                  NORD                                                                  RAD         FSp            0          6           3                        9     0,4
+
+                          Zeppelinstr.                                                                              NSp     0                 5     3                             8      0,3
+                              6.035                12.791                                                           6h      2                34    22                            58      0,4
+                                                                                                        NFZ         FSp    86                 1  162                           249      11,9
+
+
+                          5.792
+                                   243
+                                                     6.756
+                                                                                                                    NSp 103                   1  113                           217       8,9
+      Räder                                                                                                         6h    536                 9  779                          1324      10,3
+                                                                                                        SV          FSp    28                 0   53                            81       3,9
+                                                                                                                    NSp    26                 0   29                            55       2,2
+840                                                                                                                 6h    174                 0  282                           456       3,5
+                                                                                                        KFZ
+
+
+
+
+                                                                                        Wielandstraße
+                                                                                                                    FSp 788                 17 1279                          2084       100
+                                                                                                                    NSp 1360                15 1071                          2446       100
+                                                                                                                    6h  6035                 88 6777                        12900       100
+                                                                  71                                    FZ          FSp   788                23 1282                          2093      100
+                                                                          88
+                                                                  17              OST                               NSp 1360                 20 1074                          2454      100
+                                                                                                                    6h   6037               122 6799                         12958      100
+                                                                  335    423                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                        Bemerkungen :
+                                                                                                        - Wetter früh 4°C sonnig, trockem; nachmittag 22°C sonnig, trocken
+        936
+
+
+                          5.809          6.685
+                                                     92                                                             Sph-Beginn:             7.30 Uhr und       15.30     Uhr
+                                                                                                        SUMME Zufahrten: [FSp] : 2084 KFZ/h                              8:00
+                                                                                                                           (NSp) : 2446 KFZ/h                            16:00
+                     12.586                      6.777                                                                       6h : 12900 KFZ
+                                                                                                        max. Sph /Zufahrt: NORD 1360 KFZ/h                               16:00
+                                  SÜD                                                                                        OST     19 KFZ/h                            7:30
+                          Zeppelinstr.                                                                    DATUM :                         SÜD       1279 KFZ/h 8:00
+                                                                                   6h Werte 23.04.2015
+                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 303                                         Zeppelinstr./Wielandstr.
+
+
+ StromPlan303kp4-15.xls                                                 Seite 1
+SVP, 461                                                                                                                                                                    08.05.2015
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                               NORD OST SÜD      SUMME %
+                                NORD                                                                       RAD         FSp            0          6           3                        9     0,4
+
+                        Zeppelinstr.                                                                                   NSp     0                 5     3                             8      0,3
+                               788                   2.061                                                             6h      2                34    22                            58      0,4
+                                                                                                           NFZ         FSp    86                 1  162                           249      11,9
+
+                        735          53
+                                                      1.273
+                                                                                                                       NSp 103                   1  113                           217       8,9
+     Räder                                                                                                             6h    536                 9  779                          1324      10,3
+                                                                                                           SV          FSp    28                 0   53                            81       3,9
+                                                                                                                       NSp    26                 0   29                            55       2,2
+47                                                                                                                     6h    174                 0  282                           456       3,5
+                                                                                                           KFZ
+
+
+
+
+                                                                                           Wielandstraße
+                                                                                                                       FSp 788                 17 1279                          2084       100
+                                                                                                                       NSp 1360                15 1071                          2446       100
+                                                                                                                       6h  6035                 88 6777                        12900       100
+                                                                      13                                   FZ          FSp   788                23 1282                          2093      100
+                                                                             17
+                                                                      4              OST                               NSp 1360                 20 1074                          2454      100
+                                                                                                                       6h   6037               122 6799                         12958      100
+                                                                      72     89                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Wetter früh 4°C sonnig, trockem; nachmittag 22°C sonnig, trocken
+        96
+
+
+                        739
+                                          1.260
+                                                      19                                                               Sph-Beginn:             7.30 Uhr und       15.30     Uhr
+                                                                                                           SUMME Zufahrten: [FSp] : 2084 KFZ/h                              8:00
+                                                                                                                              (NSp) : 2446 KFZ/h                            16:00
+                     2.018                        1.279                                                                         6h : 12900 KFZ
+                                                                                                           max. Sph /Zufahrt: NORD 1360 KFZ/h                               16:00
+                                 SÜD                                                                                            OST     19 KFZ/h                            7:30
+                        Zeppelinstr.                                                                         DATUM :                         SÜD       1279 KFZ/h 8:00
+                                                                                  2.084 KFZ/h 23.04.2015
+                                                              Kfz-Stromverteilung in der FSp 303                                          Zeppelinstr./Wielandstr.
+
+
+StromPlan (FSp)303kp4-15.xls                                               Seite 2
+SVP, 461                                                                                                                                                                 08.05.2015
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                            NORD OST SÜD      SUMME %
+                                NORD                                                                    RAD         FSp            0          6           3                        9     0,4
+
+                        Zeppelinstr.                                                                                NSp     0                 5     3                             8      0,3
+                            1.360                 2.428                                                             6h      2                34    22                            58      0,4
+                                                                                                        NFZ         FSp    86                 1  162                           249      11,9
+
+
+                        1.314
+                                 46
+                                                   1.068
+                                                                                                                    NSp 103                   1  113                           217       8,9
+     Räder                                                                                                          6h    536                 9  779                          1324      10,3
+                                                                                                        SV          FSp    28                 0   53                            81       3,9
+                                                                                                                    NSp    26                 0   29                            55       2,2
+98                                                                                                                  6h    174                 0  282                           456       3,5
+                                                                                                        KFZ
+
+
+
+
+                                                                                        Wielandstraße
+                                                                                                                    FSp 788                 17 1279                          2084       100
+                                                                                                                    NSp 1360                15 1071                          2446       100
+                                                                                                                    6h  6035                 88 6777                        12900       100
+                                                                    9                                   FZ          FSp   788                23 1282                          2093      100
+                                                                          15
+                                                                    6             OST                               NSp 1360                 20 1074                          2454      100
+                                                                                                                    6h   6037               122 6799                         12958      100
+                                                                   58     73                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                        Bemerkungen :
+                                                                                                        - Wetter früh 4°C sonnig, trockem; nachmittag 22°C sonnig, trocken
+        69
+
+
+                        1.320          1.059
+                                                   12                                                               Sph-Beginn:             7.30 Uhr und       15.30     Uhr
+                                                                                                        SUMME Zufahrten: [FSp] : 2084 KFZ/h                              8:00
+                                                                                                                           (NSp) : 2446 KFZ/h                            16:00
+                     2.391                     1.071                                                                         6h : 12900 KFZ
+                                                                                                        max. Sph /Zufahrt: NORD 1360 KFZ/h                               16:00
+                                SÜD                                                                                          OST     19 KFZ/h                            7:30
+                        Zeppelinstr.                                                                      DATUM :                         SÜD       1279 KFZ/h 8:00
+                                                                               2.446 KFZ/h 23.04.2015
+                                                           Kfz-Stromverteilung in der NSp 303                                          Zeppelinstr./Wielandstr.
+
+
+StromPlan (NSp)303kp4-15.xls                                            Seite 3
+

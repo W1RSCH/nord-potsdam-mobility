@@ -1,0 +1,152 @@
+       SVP, 461                                                                                                                                                      16.07.2012
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD OST SÜD WEST SUMME %
+                                                NORD                                                              RAD        FSp         0       14         4        55       73    3,4
+                                                                                                                             NSp         6       50         9        14       79    3,2
+                                      Amundsenstr.                                                                           6h         44      197        45       148      434    3,4
+                                                1.203           2.149                                             NFZ        FSp       30      111        39       184      364    17,6
+
+                                                                                                                             NSp   24          160       37          99     320 13,3
+                                                                                                                             6h   152          808      253         723    1936 15,8
+                                       373       528     302     946                                              SV         FSp   13           41       14          62     130  6,3
+                                                                                                                             NSp    7           39        7          36      89  3,7
+                                                                                                                             6h    46          254       66         231     597 4,9
+                                                                                                                  KFZ        FSp 195           579      306         994    2074 100
+                                                                                                                             NSp 233           970      449         755    2407 100
+
+
+
+
+       Potsdamer Str.                                                                            Potsdamer Str.
+                                                                                                                             6h  1203         4569     1969        4505   12246 100
+                                                                                                                  FZ         FSp  195          593      310        1049    2147 100
+                        9.574 5.069                                            171                                           NSp  239         1020      458         769    2486 100
+                               219                                           3.877 4.569   OST
+                                                                                                                             6h  1247         4766     2014        4653   12680 100
+
+WEST                    4.505 3.608                                            521                                Bemerkungen :
+
+                               678                                           4.504 9.073                          - Wetter: früh 12ºC bewölkt, vereinzelt Regen;
+                                                                                                                            nachmittag 17ºC bewölkt, ab 17.00 Uhr Regen
+
+
+
+
+                                                                                                                       Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+
+                                       1.727     819     556     594                                              SUMME Zufahrten: [FSp] :             2074 KFZ/h 7:30
+                                                                                                                                             (NSp):    2407 KFZ/h 16:00
+                                      3.696                                                                                            6h : 12246 KFZ
+                                                        1.969                                                     max. Sph /Zufahrt: NORD :   247 KFZ/h 16:30
+                                                        SÜD                                                                           OST :   970 KFZ/h 16:00
+                                               Amundsenstr.                                                         DATUM :                SÜD :         449 KFZ/h 16:00
+                                                                                                                  31.05.2012              WEST :         994 KFZ/h 7:30
+                                                                                                                   210          Potsdamer Str./Amundsenstr.
+
+
+       StromPlan210kp5-12.xls                                           Seite1
+       SVP, 461                                                                                                                                                 16.07.2012
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                NORD OST SÜD WEST SUMME %
+                                             NORD                                                            RAD        FSp         0       14         4        55       73    3,4
+                                                                                                                        NSp         6       50         9        14       79    3,2
+                                      Amundsenstr.                                                                      6h         44      197        45       148      434    3,4
+                                              195         312                                                NFZ        FSp       30      111        39       184      364    17,6
+
+                                                                                                                        NSp   24          160       37          99     320 13,3
+                                                                                                                        6h   152          808      253         723    1936 15,8
+                                      49      95    51    117                                                SV         FSp   13           41       14          62     130  6,3
+                                                                                                                        NSp    7           39        7          36      89  3,7
+                                                                                                                        6h    46          254       66         231     597 4,9
+                                                                                                             KFZ        FSp 195           579      306         994    2074 100
+                                                                                                                        NSp 233           970      449         755    2407 100
+
+
+
+
+       Potsdamer Str.                                                                       Potsdamer Str.
+                                                                                                                        6h  1203         4569     1969        4505   12246 100
+                                                                                                             FZ         FSp  195          593      310        1049    2147 100
+                        1.608   614                                        26                                           NSp  239         1020      458         769    2486 100
+                                 30                                       477 579     OST
+                                                                                                                        6h  1247         4766     2014        4653   12680 100
+
+WEST                    994     849                                        76                                Bemerkungen :
+
+                                115                                     1.057 1.636                          - Wetter: früh 12ºC bewölkt, vereinzelt Regen;
+                                                                                                                       nachmittag 17ºC bewölkt, ab 17.00 Uhr Regen
+
+
+
+
+                                                                                                                  Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+                                      286     88    61    157                                                SUMME Zufahrten: [FSp] :             2074 KFZ/h 7:30
+                                                                                                                                        (NSp):    2407 KFZ/h 16:00
+                                      592                                                                                                 6h : 12246 KFZ
+                                                    306                                                      max. Sph /Zufahrt: NORD :              247 KFZ/h 16:30
+                                                    SÜD                                                                                 OST :       970 KFZ/h 16:00
+                                            Amundsenstr.                                                       DATUM :                SÜD :         449 KFZ/h 16:00
+                                                                              2.074 KFZ/h                    31.05.2012              WEST :         994 KFZ/h 7:30
+                                                            Kfz-Stromverteilung in der FSp                    210          Potsdamer Str./Amundsenstr.
+
+
+       StromPlan (FSp)210kp5-12.xls                                Seite2
+       SVP, 461                                                                                                                                                   16.07.2012
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD OST SÜD WEST SUMME %
+                                             NORD                                                              RAD        FSp         0       14         4        55       73    3,4
+                                                                                                                          NSp         6       50         9        14       79    3,2
+                                      Amundsenstr.                                                                        6h         44      197        45       148      434    3,4
+                                              233         430                                                  NFZ        FSp       30      111        39       184      364    17,6
+
+                                                                                                                          NSp   24          160       37          99     320 13,3
+                                                                                                                          6h   152          808      253         723    1936 15,8
+                                      79      83    71    197                                                  SV         FSp   13           41       14          62     130  6,3
+                                                                                                                          NSp    7           39        7          36      89  3,7
+                                                                                                                          6h    46          254       66         231     597 4,9
+                                                                                                               KFZ        FSp 195           579      306         994    2074 100
+                                                                                                                          NSp 233           970      449         755    2407 100
+
+
+
+
+       Potsdamer Str.                                                                         Potsdamer Str.
+                                                                                                                          6h  1203         4569     1969        4505   12246 100
+                                                                                                               FZ         FSp  195          593      310        1049    2147 100
+                        1.874 1.119                                          33                                           NSp  239         1020      458         769    2486 100
+                                43                                          846 970     OST
+                                                                                                                          6h  1247         4766     2014        4653   12680 100
+
+WEST                     755   607                                           91                                Bemerkungen :
+
+                               105                                          812 1.782                          - Wetter: früh 12ºC bewölkt, vereinzelt Regen;
+                                                                                                                         nachmittag 17ºC bewölkt, ab 17.00 Uhr Regen
+
+
+
+
+                                                                                                                    Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+                                      279     194   121   134                                                  SUMME Zufahrten: [FSp] :             2074 KFZ/h 7:30
+                                                                                                                                          (NSp):    2407 KFZ/h 16:00
+                                      728                                                                                                   6h : 12246 KFZ
+                                                    449                                                        max. Sph /Zufahrt: NORD :              247 KFZ/h 16:30
+                                                    SÜD                                                                                   OST :       970 KFZ/h 16:00
+                                            Amundsenstr.                                                         DATUM :                SÜD :         449 KFZ/h 16:00
+                                                                                2.407 KFZ/h                    31.05.2012              WEST :         994 KFZ/h 7:30
+                                                            Kfz-Stromverteilung in der NSp                      210          Potsdamer Str./Amundsenstr.
+
+
+       StromPlan (NSp)210kp5-12.xls                                Seite3
+

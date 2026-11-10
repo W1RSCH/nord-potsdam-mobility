@@ -1,0 +1,130 @@
+ Landeshauptstadt Potsdam                                                                                                                                      29.11.2018
+ Bereich Verkehrsentwicklung
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                             Zufahrt: NORD                  OST WEST                       SUMME %
+                                                                                          RAD    FSp    22                   109   98                         229           17,4
+                                                                                                 NSp    10                   174 158                          342           21,6
+                                                                                                 6h      95                  833  813                        1741           21,4
+                                                                                          NFZ    FSp    10                    76  90                         176            16,2
+                                       NORD                                                      NSp     7                    52  57                         116             9,3
+                                                                                                 6h     52                  375  425                          852           13,3
+                                     Kleine Str.                                          SV     FSp     1                    26  19                           46            4,2
+                                                                                                 NSp     0                    19  11                           30            2,4
+                                     613          1.191                                               6h               4     121        90                    215            3,4
+
+                                                                                          KFZ    FSp             115   489   480                            1084            100
+                               282         331      578                                          NSp             108   571   562                            1241            100
+                                                                                                 6h              613 2897 2886                              6396            100
+                                                                                          FZ     FSp             137   598   578                            1313            100
+                                                                                                 NSp             118   745   720                            1583            100
+                                                                                                 6h               708 3730 3699                              8137           100
+                                                                                          Q DTVw: ###           2799 13567 13696
+5.828 2.942                                                             237               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                  2.897
+          341                                                         2.660               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+2.886
+         2.545                                                        2.876       5.773 Bemerkungen :
+                                                                                          - Baustelle Nuthestraße in beiden Richtungen
+                                                                                          - Teilzählung - Zuf. OG & Zuf. WG durch KP612 errechnet
+                                                                                          - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+
+         WEST                  Großbeerenstr.                          OST                    Sph-Beginn:       8.00       Uhr und   16.00   Uhr
+                                                                                          SUMME Zufahrten: [FSp]: 1084 KFZ/h 8:30
+                                                                                                             (NSp): 1241 KFZ/h 16:30
+                                                                                                               6h : 6396 KFZ
+                                                                                          max. Sph /Zufahrt: NORD    115 KFZ/h 8:30
+                                                                                                                            OST       571 KFZ/h 16:30
+                                                                                         DATUM :                           WEST       565 KFZ/h 16:00
+                                                                               6h Werte 19.04.2018
+                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 613                          Großbeerenstr./Kleine Str.
+
+ StromPlan613kp4-18.xls                                              Seite 1
+ Landeshauptstadt Potsdam                                                                                                                               29.11.2018
+ Bereich Verkehrsentwicklung
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                      Zufahrt: NORD                  OST WEST                       SUMME %
+                                                                                   RAD    FSp    22                   109   98                         229           17,4
+                                                                                          NSp    10                   174 158                          342           21,6
+                                                                                          6h      95                  833  813                        1741           21,4
+                                                                                   NFZ    FSp    10                    76  90                         176            16,2
+                                       NORD                                               NSp     7                    52  57                         116             9,3
+                                                                                          6h     52                  375  425                          852           13,3
+                                     Kleine Str.                                   SV     FSp     1                    26  19                           46            4,2
+                                                                                          NSp     0                    19  11                           30            2,4
+                                     115        211                                            6h               4     121        90                    215            3,4
+
+                                                                                   KFZ    FSp             115   489   480                            1084            100
+                                63         52   96                                        NSp             108   571   562                            1241            100
+                                                                                          6h              613 2897 2886                              6396            100
+                                                                                   FZ     FSp             137   598   578                            1313            100
+                                                                                          NSp             118   745   720                            1583            100
+                                                                                          6h               708 3730 3699                              8137           100
+                                                                                   Q DTVw: ###           2799 13567 13696
+1.005     525                                                        27            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                             489
+          69                                                         462           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+480
+          411                                                        463     952 Bemerkungen :
+                                                                                   - Baustelle Nuthestraße in beiden Richtungen
+                                                                                   - Teilzählung - Zuf. OG & Zuf. WG durch KP612 errechnet
+                                                                                   - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+
+         WEST                   Großbeerenstr.                      OST                Sph-Beginn:       8.00       Uhr und   16.00   Uhr
+                                                                                   SUMME Zufahrten: [FSp]: 1084 KFZ/h 8:30
+                                                                                                      (NSp): 1241 KFZ/h 16:30
+                                                                                                        6h : 6396 KFZ
+                                                                                   max. Sph /Zufahrt: NORD    115 KFZ/h 8:30
+                                                                                                                     OST       571 KFZ/h 16:30
+                                                                                  DATUM :                           WEST       565 KFZ/h 16:00
+                                                                     1.084 KFZ/h 19.04.2018
+                                                   Kfz-Stromverteilung in der FSp 613                        Großbeerenstr./Kleine Str.
+
+ StromPlan (FSp)613kp4-18.xls                                     Seite 2
+ Landeshauptstadt Potsdam                                                                                                                                29.11.2018
+ Bereich Verkehrsentwicklung
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                       Zufahrt: NORD                  OST WEST                       SUMME %
+                                                                                    RAD    FSp    22                   109   98                         229           17,4
+                                                                                           NSp    10                   174 158                          342           21,6
+                                                                                           6h      95                  833  813                        1741           21,4
+                                                                                    NFZ    FSp    10                    76  90                         176            16,2
+                                       NORD                                                NSp     7                    52  57                         116             9,3
+                                                                                           6h     52                  375  425                          852           13,3
+                                     Kleine Str.                                    SV     FSp     1                    26  19                           46            4,2
+                                                                                           NSp     0                    19  11                           30            2,4
+                                     108        231                                             6h               4     121        90                    215            3,4
+
+                                                                                    KFZ    FSp             115   489   480                            1084            100
+                                43         65   123                                        NSp             108   571   562                            1241            100
+                                                                                           6h              613 2897 2886                              6396            100
+                                                                                    FZ     FSp             137   598   578                            1313            100
+                                                                                           NSp             118   745   720                            1583            100
+                                                                                           6h               708 3730 3699                              8137           100
+                                                                                    Q DTVw: ###           2799 13567 13696
+1.123     561                                                        53             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                              571
+          70                                                         518            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+562
+          492                                                        557    1.128 Bemerkungen :
+                                                                                    - Baustelle Nuthestraße in beiden Richtungen
+                                                                                    - Teilzählung - Zuf. OG & Zuf. WG durch KP612 errechnet
+                                                                                    - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+
+         WEST                   Großbeerenstr.                      OST                 Sph-Beginn:       8.00       Uhr und   16.00   Uhr
+                                                                                    SUMME Zufahrten: [FSp]: 1084 KFZ/h 8:30
+                                                                                                       (NSp): 1241 KFZ/h 16:30
+                                                                                                         6h : 6396 KFZ
+                                                                                    max. Sph /Zufahrt: NORD    115 KFZ/h 8:30
+                                                                                                                      OST       571 KFZ/h 16:30
+                                                                                  DATUM :                            WEST       565 KFZ/h 16:00
+                                                                     1.241 KFZ/h 19.04.2018
+                                                   Kfz-Stromverteilung in der NSp 613                         Großbeerenstr./Kleine Str.
+
+ StromPlan (NSp)613kp4-18.xls                                     Seite 3
+

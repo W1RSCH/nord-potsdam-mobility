@@ -1,0 +1,164 @@
+        Landeshauptstadt Potsdam                                                                                                                                                                          10.09.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                                                Zufahrt: NORD                      OST SÜD WEST              SUMME %
+                                                           NORD                                                                            RAD     FSp        80                    153     45  226             504       27,7
+                                                                                                                                                   NSp        53                    199     45  169             466       21,5
+                                                         A.-Bebel-Str.                                                                             6h        237                     830   233  966            2266       22,0
+                                                           2.184                                                                           NFZ     FSp       43                      62    79    55             239       18,2
+                                                                             3.893                                                                 NSp       54                      43    37    62             196       11,5
+                                                                                                                                                   6h       273                     287   304   311            1175       14,6
+                                                 344        1.478    362      1.709                                                        SV      FSp       11                      11    23    19              64        4,9
+                                                                                                                                                   NSp         4                       6   11    19              40        2,4
+                                                                                                                                                   6h         54                      42  102    94             292        3,6
+                                                                                                                                           KFZ FSp          306                     324   388  295            1313        100
+                                                                                                                                                   NSp      564                     343   328  463            1698        100
+
+
+
+
+       Großbeerenstr.                                                                                                     Großbeerenstr.
+                                                                                                                                                   6h      2184                    1777 1928 2162              8051       100
+                                                                                                                                           FZ      FSp      386                     477   433   521            1817       100
+                        4.156   1.994                                                                458                                           NSp      617                     542   373   632            2164       100
+                                  2                                                                 1.301   1.777   OST                            6h      2421                    2607 2161   3128           10317       100
+
+WEST
+                        2.162   1.308                                                                 18                                   Q DTVw:    2,35 9149                    8876 10049 9767
+                                 852                                                                2.000   3.777                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                           Bemerkungen :
+                                                                                                                                           - WL abbiegen nicht gestattet
+                                                                                                                                           - Wetter früh 11ºC sonnig, trocken;
+                                                                                                                                             nachmittag 26ºC sonnig, trocken
+                                                                                                                                           - mit   SCHRANKENSCHLIESSZEITEN-
+
+                                                 2.348      349      1.249    330                                                                   Sph-Beginn:      7.30        Uhr und   15.30 Uhr
+                                                                                                                                           SUMME Zufahrten:                      [FSp] :   1313 KFZ/h 8:00
+                                                4.276                                                                                                                            (NSp):    1698 KFZ/h 16:00
+                                                                    1.928                                                                                                      6h :        8051 KFZ
+                                                                    SÜD                                                                    max. Sph /Zufahrt:                NORD :         564 KFZ/h 16:00
+                                                         Wetzlarer Str.                                                                                                           OST :     343 KFZ/h 16:00
+
+                                                                                                                                                DATUM :                           SÜD :     438 KFZ/h 9:00
+                                                                                                                    6h Werte                  22.08.2019                     WEST :         490 KFZ/h 16:30
+                                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 680                                    Großbeerenstr. / Wetzlarer Str.
+
+
+
+        StromPlan680kp8-19_in Bearbeitung.xls                                             Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                                                   10.09.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                         Zufahrt: NORD                      OST SÜD WEST              SUMME %
+                                                              NORD                                                                  RAD     FSp        80                    153     45  226             504       27,7
+                                                                                                                                            NSp        53                    199     45  169             466       21,5
+                                                            A.-Bebel-Str.                                                                   6h        237                     830   233  966            2266       22,0
+                                                               306                                                                  NFZ     FSp       43                      62    79    55             239       18,2
+                                                                             688                                                            NSp       54                      43    37    62             196       11,5
+                                                                                                                                            6h       273                     287   304   311            1175       14,6
+                                                      53       196   57      382                                                    SV      FSp       11                      11    23    19              64        4,9
+                                                                                                                                            NSp         4                       6   11    19              40        2,4
+                                                                                                                                            6h         54                      42  102    94             292        3,6
+                                                                                                                                    KFZ FSp          306                     324   388  295            1313        100
+                                                                                                                                            NSp      564                     343   328  463            1698        100
+
+
+
+
+       Großbeerenstr.                                                                                              Großbeerenstr.
+                                                                                                                                            6h      2184                    1777 1928 2162              8051       100
+                                                                                                                                    FZ      FSp      386                     477   433   521            1817       100
+                        625   330                                                                99                                         NSp      617                     542   373   632            2164       100
+                               0                                                                 222   324   OST                            6h      2421                    2607 2161   3128           10317       100
+
+WEST
+                        295   180                                                                 3                                 Q DTVw:    2,35 9149                    8876 10049 9767
+                              115                                                                287   611                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                    Bemerkungen :
+                                                                                                                                    - WL abbiegen nicht gestattet
+                                                                                                                                    - Wetter früh 11ºC sonnig, trocken;
+                                                                                                                                      nachmittag 26ºC sonnig, trocken
+                                                                                                                                    - mit   SCHRANKENSCHLIESSZEITEN-
+                                                      314      55    283     50                                                              Sph-Beginn:      7.30        Uhr und   15.30 Uhr
+                                                                                                                                    SUMME Zufahrten:                      [FSp] :   1313 KFZ/h 8:00
+                                                      702                                                                                                                 (NSp):    1698 KFZ/h 16:00
+                                                                     388                                                                                                6h :        8051 KFZ
+                                                                     SÜD                                                            max. Sph /Zufahrt:                NORD :         564 KFZ/h 16:00
+                                                            Wetzlarer Str.                                                                                                 OST :     343 KFZ/h 16:00
+
+                                                                                                                                         DATUM :                           SÜD :     438 KFZ/h 9:00
+                                                                                                         1.313 KFZ/h                   22.08.2019                     WEST :         490 KFZ/h 16:30
+                                                                                   Kfz-Stromverteilung in der FSp 680                                   Großbeerenstr. / Wetzlarer Str.
+
+
+
+        StromPlan (FSp)680kp8-19_in Bearbeitung.xls                                    Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                                                   10.09.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                         Zufahrt: NORD                      OST SÜD WEST              SUMME %
+                                                              NORD                                                                  RAD     FSp        80                    153     45  226             504       27,7
+                                                                                                                                            NSp        53                    199     45  169             466       21,5
+                                                            A.-Bebel-Str.                                                                   6h        237                     830   233  966            2266       22,0
+                                                               564                                                                  NFZ     FSp       43                      62    79    55             239       18,2
+                                                                             813                                                            NSp       54                      43    37    62             196       11,5
+                                                                                                                                            6h       273                     287   304   311            1175       14,6
+                                                      63       403   98      249                                                    SV      FSp       11                      11    23    19              64        4,9
+                                                                                                                                            NSp         4                       6   11    19              40        2,4
+                                                                                                                                            6h         54                      42  102    94             292        3,6
+                                                                                                                                    KFZ FSp          306                     324   388  295            1313        100
+                                                                                                                                            NSp      564                     343   328  463            1698        100
+
+
+
+
+       Großbeerenstr.                                                                                              Großbeerenstr.
+                                                                                                                                            6h      2184                    1777 1928 2162              8051       100
+                                                                                                                                    FZ      FSp      386                     477   433   521            1817       100
+                        863   400                                                                73                                         NSp      617                     542   373   632            2164       100
+                               1                                                                 266   343   OST                            6h      2421                    2607 2161   3128           10317       100
+
+WEST
+                        463   298                                                                 4                                 Q DTVw:    2,35 9149                    8876 10049 9767
+                              164                                                                478   821                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                    Bemerkungen :
+                                                                                                                                    - WL abbiegen nicht gestattet
+                                                                                                                                    - Wetter früh 11ºC sonnig, trocken;
+                                                                                                                                      nachmittag 26ºC sonnig, trocken
+                                                                                                                                    - mit   SCHRANKENSCHLIESSZEITEN-
+                                                      571      71    175     82                                                              Sph-Beginn:      7.30        Uhr und   15.30 Uhr
+                                                                                                                                    SUMME Zufahrten:                      [FSp] :   1313 KFZ/h 8:00
+                                                      899                                                                                                                 (NSp):    1698 KFZ/h 16:00
+                                                                     328                                                                                                6h :        8051 KFZ
+                                                                     SÜD                                                            max. Sph /Zufahrt:                NORD :         564 KFZ/h 16:00
+                                                            Wetzlarer Str.                                                                                                 OST :     343 KFZ/h 16:00
+
+                                                                                                                                         DATUM :                           SÜD :     438 KFZ/h 9:00
+                                                                                                         1.698 KFZ/h                   22.08.2019                     WEST :         490 KFZ/h 16:30
+                                                                                   Kfz-Stromverteilung in der NSp 680                                   Großbeerenstr. / Wetzlarer Str.
+
+
+
+        StromPlan (NSp)680kp8-19_in Bearbeitung.xls                                    Seite 3
+

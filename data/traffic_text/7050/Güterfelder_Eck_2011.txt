@@ -1,0 +1,160 @@
+                                                                                                                                                                                        07.10.2011
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                        NORD OST SÜD WEST SUMME %
+                                                                                                                  RAD           FSp             1             1           0           21                 23   0,5
+                                                  NORD                                                                          NSp            10             2           2           21                 35   0,9
+
+                                         Potsdamer Damm                                                                         6h              39            9            2        139             189       0,9
+
+                                                                                                                  NFZ           FSp 173                  153  224                   61            611 14,6
+                                                  6.487             11.962                                                      NSp 145                   91  151                   58            445 11,5
+                                                                                                                                6h    881                629 1066                  366           2942 14,1
+                                                                                                                  SV            FSp    39                 54   79                   18            190  4,6
+                                          934      5.188    365      5.475                                                      NSp    36                 32   48                   15            131  3,4
+                                                                                                                                6h    240                293  408                   95           1036 5,0
+                                                                                                                  KFZ           FSp 1266                 887 1546                  476           4175 100
+                                                                                                                                NSp 1254                 756 1236                  621           3867 100
+                                                                                                                                6h  6487                4013 7272                 3087          20859 100
+
+
+
+
+        Potsdamer Str.                                                                           Potsdamer Str.
+                                                                                                                  FZ            FSp 1267                 888 1546                  497           4198 100
+                                                                                                                                NSp 1264                 758 1238                  642           3902 100
+                         5.710   2.623                                         367                                              6h   6526               4022 7274                 3226          21048 100
+                                  907                                          630 4.013   OST                    Bemerkungen :
+
+WEST
+                         3.087    608                                        3.016                                - Wetter früh 13 º C bewölkt, trocken; nachmittags 22 º C, leicht bewölkt und sonnig
+
+                                 1.572                                       2.985 6.998
+
+
+
+
+                                                                                                                       Sph-Beginn:         7.00 Uhr und 16.30 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] :   4175 KFZ/h 7:30
+                                          9.776    1.059    4.201    2.012                                                                   3867 KFZ/h 17:00
+                                                                                                                                                     (NSp):
+                                                                                                                                       6h : 20859 KFZ
+                                         17.048                                                                   max. Sph /Zufahrt: NORD 1266 KFZ/h 7:30
+                                                           7.272                                                                      OST     916 KFZ/h 8:00
+                                                           SÜD                                                    DATUM :             SÜD 1546 KFZ/h 7:30
+                                                    Nuthestr.                                                     01.09.2011                       WEST :             752 KFZ/h 16:00
+                                                                                                                    705                              Güterfelder Eck *
+
+
+
+       SVP, 461                                                                                                                                                       StromPlan705kp9-11.xls
+                                                                                                                                                                                                  07.10.2011
+
+
+
+
+                                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                                  NORD OST SÜD WEST SUMME %
+                                                                                                                            RAD           FSp             1             1           0           21                 23   0,5
+                                                NORD                                                                                      NSp            10             2           2           21                 35   0,9
+
+                                       Potsdamer Damm                                                                                     6h              39            9            2        139             189       0,9
+
+                                                                                                                            NFZ           FSp 173                  153  224                   61            611 14,6
+                                                1.266            2.324                                                                    NSp 145                   91  151                   58            445 11,5
+                                                                                                                                          6h    881                629 1066                  366           2942 14,1
+                                                                                                                            SV            FSp    39                 54   79                   18            190  4,6
+                                        196      1.023    47      1.058                                                                   NSp    36                 32   48                   15            131  3,4
+                                                                                                                                          6h    240                293  408                   95           1036 5,0
+                                                                                                                            KFZ           FSp 1266                 887 1546                  476           4175 100
+                                                                                                                                          NSp 1254                 756 1236                  621           3867 100
+                                                                                                                                          6h  6487                4013 7272                 3087          20859 100
+
+
+
+
+        Potsdamer Str.                                                                                     Potsdamer Str.
+                                                                                                                            FZ            FSp 1267                 888 1546                  497           4198 100
+                                                                                                                                          NSp 1264                 758 1238                  642           3902 100
+                         1.147   671                                                     62                                               6h   6526               4022 7274                 3226          21048 100
+                                 141                                                    131    887   OST                    Bemerkungen :
+
+WEST
+                         476     94                                                     694                                 - Wetter früh 13 º C bewölkt, trocken; nachmittags 22 º C, leicht bewölkt und sonnig
+
+                                 241                                                    488 1.375
+
+
+
+
+                                                                                                                                 Sph-Beginn:         7.00 Uhr und 16.30 Uhr
+                                                                                                                            SUMME Zufahrten: [FSp] :   4175 KFZ/h 7:30
+                                        1.958    344      855     347                                                                                  3867 KFZ/h 17:00
+                                                                                                                                                               (NSp):
+                                                                                                                                                 6h : 20859 KFZ
+                                       3.504                                                                                max. Sph /Zufahrt: NORD 1266 KFZ/h 7:30
+                                                         1.546                                                                                  OST     916 KFZ/h 8:00
+                                                         SÜD                                                                DATUM :             SÜD 1546 KFZ/h 7:30
+                                                  Nuthestr.                                 4.175 KFZ/h                     01.09.2011                       WEST :             752 KFZ/h 16:00
+                                                                          Kfz-Stromverteilung in der FSp                      705                              Güterfelder Eck *
+
+
+
+       SVP, 461                                                                                                                                                          StromPlan FSp705kp9-11.xls
+                                                                                                                                                                                                07.10.2011
+
+
+
+
+                                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                                NORD OST SÜD WEST SUMME %
+                                                                                                                          RAD           FSp             1             1           0           21                 23   0,5
+                                              NORD                                                                                      NSp            10             2           2           21                 35   0,9
+
+                                     Potsdamer Damm                                                                                     6h              39            9            2        139             189       0,9
+
+                                                                                                                          NFZ           FSp 173                  153  224                   61            611 14,6
+                                              1.254            2.261                                                                    NSp 145                   91  151                   58            445 11,5
+                                                                                                                                        6h    881                629 1066                  366           2942 14,1
+                                                                                                                          SV            FSp    39                 54   79                   18            190  4,6
+                                      162      1.015    77      1.007                                                                   NSp    36                 32   48                   15            131  3,4
+                                                                                                                                        6h    240                293  408                   95           1036 5,0
+                                                                                                                          KFZ           FSp 1266                 887 1546                  476           4175 100
+                                                                                                                                        NSp 1254                 756 1236                  621           3867 100
+                                                                                                                                        6h  6487                4013 7272                 3087          20859 100
+
+
+
+
+        Potsdamer Str.                                                                                   Potsdamer Str.
+                                                                                                                          FZ            FSp 1267                 888 1546                  497           4198 100
+                                                                                                                                        NSp 1264                 758 1238                  642           3902 100
+                         975   354                                                     57                                               6h   6526               4022 7274                 3226          21048 100
+                               205                                                    105    756   OST                    Bemerkungen :
+
+WEST
+                         621   129                                                    594                                 - Wetter früh 13 º C bewölkt, trocken; nachmittags 22 º C, leicht bewölkt und sonnig
+
+                               287                                                    610 1.366
+
+
+
+
+                                                                                                                               Sph-Beginn:         7.00 Uhr und 16.30 Uhr
+                                                                                                                          SUMME Zufahrten: [FSp] :   4175 KFZ/h 7:30
+                                      1.896    87       745     404                                                                                  3867 KFZ/h 17:00
+                                                                                                                                                             (NSp):
+                                                                                                                                               6h : 20859 KFZ
+                                     3.132                                                                                max. Sph /Zufahrt: NORD 1266 KFZ/h 7:30
+                                                       1.236                                                                                  OST     916 KFZ/h 8:00
+                                                       SÜD                                                                DATUM :             SÜD 1546 KFZ/h 7:30
+                                                Nuthestr.                                 3.867 KFZ/h                     01.09.2011                       WEST :             752 KFZ/h 16:00
+                                                                        Kfz-Stromverteilung in der NSp                      705                              Güterfelder Eck *
+
+
+
+       SVP, 461                                                                                                                                                        StromPlan NSp705kp9-11.xls
+

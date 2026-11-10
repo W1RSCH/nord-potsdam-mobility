@@ -1,0 +1,169 @@
+                                                                                                                      02.02.2012
+
+
+
+
+                                                                                  FAHRZEUG-VERTEILUNG
+                                                                              OST          SÜD WEST                 SUMME %
+                                                               RAD        FSp   65           28   24                  117           29,2
+                                                                          NSp   66           22   64                  152           30,6
+                                                                          6h   433          157  296                   886          33,7
+                                                               NFZ        FSp   28            6    0                   34           12,0
+
+                   R.-Breitscheid-Str.                                    NSp
+                                                                          6h
+                                                                                22
+                                                                               134
+                                                                                             11
+                                                                                             34
+                                                                                                   0
+                                                                                                   0
+                                                                                                                       33
+                                                                                                                      168
+                                                                                                                                     9,6
+                                                                                                                                     9,7
+                                                               SV         FSp    5            1    0                     6           2,1
+                                                                          NSp    3            0    0                     3           0,9
+                                                                          6h    27            2    0                    29           1,7
+                                                               KFZ        FSp 211            73    0                  284           100
+                                                                          NSp 237          108     0                  345           100
+                                                                          6h  1254          486    0                 1740           100
+                                                               FZ         FSp  276          101    0                  401           100
+
+WEST                                                     OST
+           1.645                         1.159                            NSp  303          130    0                  497           100
+                                                 1.254                    6h  1687          643  296                 2626           100
+                                           95                  Bemerkungen:
+
+                                                               - Wetter früh 10ºC trocken; nachmittag 23ºC sonnig, trocken
+
+
+
+
+                                                                    Sph-Beginn:   8.30 Uhr und 17.00 Uhr
+                                                               SUMME Zufahrten: [FSp]: 284 KFZ/h 9:00
+                       95          486                                            (NSp): 345 KFZ/h 17:30
+                                                                                    6h : 1740 KFZ
+                       581                                     max. Sph /Zufahrt:   OST   244 KFZ/h 16:30
+                                                                                    SÜD   108 KFZ/h 17:30
+                             SÜD                                DATUM :           WEST      0 KFZ/h 0:00
+                         Anhaltstr.                            29.09.2011
+                                                                634                   R.-Breitscheid-/Anhaltstr.
+
+
+
+
+SVP, 461                                                                                                   StromPlan634kp9-11.xls
+                                                                                                                                    02.02.2012
+
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                       OST          SÜD WEST                      SUMME %
+                                                                        RAD        FSp   65           28   24                       117          29,2
+                                                                                   NSp   66           22   64                       152          30,6
+                                                                                   6h   433          157  296                        886         33,7
+                                                                        NFZ        FSp   28            6    0                        34          12,0
+
+                 R.-Breitscheid-Str.                                               NSp
+                                                                                   6h
+                                                                                         22
+                                                                                        134
+                                                                                                      11
+                                                                                                      34
+                                                                                                            0
+                                                                                                            0
+                                                                                                                                     33
+                                                                                                                                    168
+                                                                                                                                                  9,6
+                                                                                                                                                  9,7
+                                                                        SV         FSp    5            1    0                          6          2,1
+                                                                                   NSp    3            0    0                          3          0,9
+                                                                                   6h    27            2    0                         29          1,7
+                                                                        KFZ        FSp 211            73    0                       284          100
+                                                                                   NSp 237          108     0                       345          100
+                                                                                   6h  1254          486    0                      1740          100
+                                                                        FZ         FSp  276          101    0                       401          100
+
+WEST                                                             OST
+           266                                       193                           NSp  303          130    0                       497          100
+                                                           211                     6h  1687          643  296                      2626          100
+                                                      18                Bemerkungen:
+
+                                                                        - Wetter früh 10ºC trocken; nachmittag 23ºC sonnig, trocken
+
+
+
+
+                                                                             Sph-Beginn:   8.30 Uhr und 17.00 Uhr
+                                                                        SUMME Zufahrten: [FSp]: 284 KFZ/h 9:00
+                     18          73                                                        (NSp): 345 KFZ/h 17:30
+                                                                                             6h : 1740 KFZ
+                      91                                                max. Sph /Zufahrt:   OST   244 KFZ/h 16:30
+                                                                                             SÜD   108 KFZ/h 17:30
+                           SÜD                                           DATUM :           WEST      0 KFZ/h 0:00
+                       Anhaltstr.                          284 KFZ/h 29.09.2011
+                                       Kfz-Stromverteilung in der FSp    634                   R.-Breitscheid-/Anhaltstr.
+
+
+
+
+SVP, 461                                                                                                            StromPlan FSp634kp9-11.xls
+                                                                                                                                  02.02.2012
+
+
+
+
+                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                     OST          SÜD WEST                      SUMME %
+                                                                      RAD        FSp   65           28   24                       117          29,2
+                                                                                 NSp   66           22   64                       152          30,6
+                                                                                 6h   433          157  296                        886         33,7
+                                                                      NFZ        FSp   28            6    0                        34          12,0
+
+                 R.-Breitscheid-Str.                                             NSp
+                                                                                 6h
+                                                                                       22
+                                                                                      134
+                                                                                                    11
+                                                                                                    34
+                                                                                                          0
+                                                                                                          0
+                                                                                                                                   33
+                                                                                                                                  168
+                                                                                                                                                9,6
+                                                                                                                                                9,7
+                                                                      SV         FSp    5            1    0                          6          2,1
+                                                                                 NSp    3            0    0                          3          0,9
+                                                                                 6h    27            2    0                         29          1,7
+                                                                      KFZ        FSp 211            73    0                       284          100
+                                                                                 NSp 237          108     0                       345          100
+                                                                                 6h  1254          486    0                      1740          100
+                                                                      FZ         FSp  276          101    0                       401          100
+
+WEST                                                            OST
+           325                                      217                          NSp  303          130    0                       497          100
+                                                          237                    6h  1687          643  296                      2626          100
+                                                     20               Bemerkungen:
+
+                                                                      - Wetter früh 10ºC trocken; nachmittag 23ºC sonnig, trocken
+
+
+
+
+                                                                           Sph-Beginn:   8.30 Uhr und 17.00 Uhr
+                                                                      SUMME Zufahrten: [FSp]: 284 KFZ/h 9:00
+                     20          108                                                     (NSp): 345 KFZ/h 17:30
+                                                                                           6h : 1740 KFZ
+                     128                                              max. Sph /Zufahrt:   OST   244 KFZ/h 16:30
+                                                                                           SÜD   108 KFZ/h 17:30
+                           SÜD                                         DATUM :           WEST      0 KFZ/h 0:00
+                       Anhaltstr.                         345 KFZ/h 29.09.2011
+                                       Kfz-Stromverteilung in der NSp 634                    R.-Breitscheid-/Anhaltstr.
+
+
+
+
+SVP, 461                                                                                                          StromPlan NSp634kp9-11.xls
+

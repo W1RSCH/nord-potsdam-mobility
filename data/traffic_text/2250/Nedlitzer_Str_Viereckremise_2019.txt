@@ -1,0 +1,176 @@
+        Landeshauptstadt Potsdam                                                                                                                                                                        17.01.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                              Zufahrt: NORD                      OST SÜD WEST              SUMME %
+                                                 NORD                                                                                    RAD     FSp         23                      7    22    8              60        4,4
+                                                                                                                                                 NSp         23                      9    33    2              67        4,2
+                                               Nedlitzer Str.                                                                                    6h         110                     39   148   34             331        4,0
+                                                 3.678                                                                                   NFZ     FSp       128                       8   83     7            226        17,5
+                                                                   7.414                                                                         NSp       101                     11    92   11             215        14,1
+                                                                                                                                                 6h        566                     42   466   39            1113        14,1
+                                       112        3.467    99       3.736                                                                SV      FSp        46                       2   23     2              73        5,7
+                                                                                                                                                 NSp        36                       4   37     3              80        5,3
+
+
+
+
+                                                                                                            Fritz-von-der-Lancken-Str.
+                                                                                                                                                 6h        207                       8  192     9             416        5,3
+                                                                                                                                         KFZ FSp           732                     49   442   67            1290        100
+                                                                                                                                                 NSp       628                     56   789   50            1523        100
+
+
+
+
+       Viereckremise
+                                                                                                                                                 6h       3678                    294 3608   321            7901        100
+                                                                                                                                         FZ      FSp       755                     56   464   75            1350        100
+                       509   188                                                          141                                                    NSp       651                     65   822   52            1590        100
+                             71                                                           61    294   OST                                        6h       3788                    333 3756   355             8232       100
+
+WEST
+                       321   41                                                           92                                             Q DTVw:    2,35 17423                   1182 17334 1196
+                             209                                                          209   503                                      Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                         Bemerkungen :
+                                                                                                                                         - Wetter früh 3°C leicht bewölkt, sonnig;
+                                                                                                                                           nachmittag 7ºC bewölkt, trocken
+
+
+                                                                                                                                                  Sph-Beginn:      7.00        Uhr und   15.00 Uhr
+
+                                       3.768      15       3.524    69                                                                   SUMME Zufahrten:                      [FSp] : 1290 KFZ/h 7:30
+                                                                                                                                                                               (NSp):  1523 KFZ/h 15:30
+                                      7.376                                                                                                                                       6h : 7901 KFZ
+                                                          3.608                                                                          max. Sph /Zufahrt:                NORD :         732 KFZ/h 7:30
+                                                          SÜD                                                                                                               OST :          56 KFZ/h 9:00
+                                               Nedlitzer Str.                                                                                 DATUM :                           SÜD :     825 KFZ/h 16:00
+                                                                                                      6h Werte                              11.04.2019                     WEST :          67 KFZ/h 7:30
+                                                                    von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 225                                              Nedlitzer Str. / Viereckremise
+
+
+
+        StromPlan225kp4-19.xls                                                  Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                                                   17.01.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                         Zufahrt: NORD                      OST SÜD WEST              SUMME %
+                                                NORD                                                                                RAD     FSp         23                      7    22    8              60        4,4
+                                                                                                                                            NSp         23                      9    33    2              67        4,2
+                                              Nedlitzer Str.                                                                                6h         110                     39   148   34             331        4,0
+                                                 732                                                                                NFZ     FSp       128                       8   83     7            226        17,5
+                                                               1.206                                                                        NSp       101                     11    92   11             215        14,1
+                                                                                                                                            6h        566                     42   466   39            1113        14,1
+                                        44       670   18       474                                                                 SV      FSp        46                       2   23     2              73        5,7
+                                                                                                                                            NSp        36                       4   37     3              80        5,3
+
+
+
+
+                                                                                                       Fritz-von-der-Lancken-Str.
+                                                                                                                                            6h        207                       8  192     9             416        5,3
+                                                                                                                                    KFZ FSp           732                     49   442   67            1290        100
+                                                                                                                                            NSp       628                     56   789   50            1523        100
+
+
+
+
+       Viereckremise
+                                                                                                                                            6h       3678                    294 3608   321            7901        100
+                                                                                                                                    FZ      FSp       755                     56   464   75            1350        100
+                       124   57                                                      29                                                     NSp       651                     65   822   52            1590        100
+                             19                                                       9   49     OST                                        6h       3788                    333 3756   355             8232       100
+
+WEST
+                       67     7                                                      11                                             Q DTVw:    2,35 17423                   1182 17334 1196
+                             41                                                      37   86                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                    Bemerkungen :
+                                                                                                                                    - Wetter früh 3°C leicht bewölkt, sonnig;
+                                                                                                                                      nachmittag 7ºC bewölkt, trocken
+
+
+                                                                                                                                             Sph-Beginn:      7.00        Uhr und   15.00 Uhr
+                                        722      4     426      12                                                                  SUMME Zufahrten:                      [FSp] : 1290 KFZ/h 7:30
+                                                                                                                                                                          (NSp):  1523 KFZ/h 15:30
+                                       1.164                                                                                                                                 6h : 7901 KFZ
+                                                       442                                                                          max. Sph /Zufahrt:                NORD :         732 KFZ/h 7:30
+                                                       SÜD                                                                                                             OST :          56 KFZ/h 9:00
+                                              Nedlitzer Str.                                                                             DATUM :                           SÜD :     825 KFZ/h 16:00
+                                                                                               1.290 KFZ/h                             11.04.2019                     WEST :          67 KFZ/h 7:30
+                                                                       Kfz-Stromverteilung in der FSp 225                                                 Nedlitzer Str. / Viereckremise
+
+
+
+        StromPlan (FSp)225kp4-19.xls                                       Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                                                   17.01.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                         Zufahrt: NORD                      OST SÜD WEST              SUMME %
+                                                NORD                                                                                RAD     FSp         23                      7    22    8              60        4,4
+                                                                                                                                            NSp         23                      9    33    2              67        4,2
+                                              Nedlitzer Str.                                                                                6h         110                     39   148   34             331        4,0
+                                                 628                                                                                NFZ     FSp       128                       8   83     7            226        17,5
+                                                               1.441                                                                        NSp       101                     11    92   11             215        14,1
+                                                                                                                                            6h        566                     42   466   39            1113        14,1
+                                        15       599   14       813                                                                 SV      FSp        46                       2   23     2              73        5,7
+                                                                                                                                            NSp        36                       4   37     3              80        5,3
+
+
+
+
+                                                                                                       Fritz-von-der-Lancken-Str.
+                                                                                                                                            6h        207                       8  192     9             416        5,3
+                                                                                                                                    KFZ FSp           732                     49   442   67            1290        100
+                                                                                                                                            NSp       628                     56   789   50            1523        100
+
+
+
+
+       Viereckremise
+                                                                                                                                            6h       3678                    294 3608   321            7901        100
+                                                                                                                                    FZ      FSp       755                     56   464   75            1350        100
+                       78   28                                                       29                                                     NSp       651                     65   822   52            1590        100
+                            12                                                       12   56     OST                                        6h       3788                    333 3756   355             8232       100
+
+WEST
+                       50    8                                                       15                                             Q DTVw:    2,35 17423                   1182 17334 1196
+                            30                                                       38   94                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                    Bemerkungen :
+                                                                                                                                    - Wetter früh 3°C leicht bewölkt, sonnig;
+                                                                                                                                      nachmittag 7ºC bewölkt, trocken
+
+
+                                                                                                                                             Sph-Beginn:      7.00        Uhr und   15.00 Uhr
+                                        644      1     772      16                                                                  SUMME Zufahrten:                      [FSp] : 1290 KFZ/h 7:30
+                                                                                                                                                                          (NSp):  1523 KFZ/h 15:30
+                                       1.433                                                                                                                                 6h : 7901 KFZ
+                                                       789                                                                          max. Sph /Zufahrt:                NORD :         732 KFZ/h 7:30
+                                                       SÜD                                                                                                             OST :          56 KFZ/h 9:00
+                                              Nedlitzer Str.                                                                             DATUM :                           SÜD :     825 KFZ/h 16:00
+                                                                                               1.523 KFZ/h                             11.04.2019                     WEST :          67 KFZ/h 7:30
+                                                                       Kfz-Stromverteilung in der NSp 225                                                 Nedlitzer Str. / Viereckremise
+
+
+
+        StromPlan (NSp)225kp4-19.xls                                       Seite 3
+

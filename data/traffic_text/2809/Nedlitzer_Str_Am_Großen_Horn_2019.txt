@@ -1,0 +1,154 @@
+Landeshauptstadt Potsdam                                                                                                                                                                  13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                           RAD         FSp                0        0       0                      0          0,0
+                                         NORD                                                                          NSp                0        1       1                      2         14,3
+
+                                Nedlitzer Str.                                                                         6h                0         5       4                       9        15,0
+                                                                                                           NFZ         FSp               0         4       2                       6        46,2
+                                     6                                                                                 NSp               0         2       1                       3        25,0
+                                                      18                                                               6h                2         9       5                     16         31,4
+                                                                                                           SV          FSp               0         0       0                       0         0,0
+                              n.g.        6           12                                                               NSp               0         0       0                       0         0,0
+                                                                                                                       6h                0         1       1                       2         3,9
+                                                                                                           KFZ         FSp               1         9       3                     13          100
+                                                                                                                       NSp               2         7       3                     12          100
+
+
+
+
+                                                                                          Am Großen Horn
+                                                                                                                       6h                6        31      14                     51          100
+                                                                                                           FZ          FSp               1         9       3                     13          100
+                                                                                                                       NSp               2         8       4                     14          100
+                                                                       12                                              6h                6        36      18                      60         100
+                                                                               31
+                                                                       19           OST                    Q DTVw:           2,2        40       112      73
+                                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                       20      51                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Zuf NG+SG nicht gezählt
+                                                                                                           - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                             nachmittag 12ºC leicht bewölkt, trocken
+                              19          n.g.        14
+                                                                                                           Sph-Beginn:               8.30     Uhr und   16.00 Uhr
+                              33                                                                           SUMME Zufahrten:                   FSp :       13 KFZ/h       9:00
+                                                 14                                                                                           NSp :       12 KFZ/h       16:30
+                                         SÜD                                                                                                    6h :      51 KFZ
+                                Nedlitzer Str.                                                             max. Sph /Zufahrt:                 NORD         2 KFZ/h       7:30
+                                                                                                                                               OST         9 KFZ/h       9:00
+                                                                                                                DATUM :                        SÜD         3 KFZ/h       9:00
+                                                                                    6h Werte                 24.10.2019
+                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2809                         Nedlitzer Str. / Am Großen Horn
+
+
+StromPlan2809kp10-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                              13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                       RAD         FSp                0        0       0                      0          0,0
+                                            NORD                                                                   NSp                0        1       1                      2         14,3
+
+                                   Nedlitzer Str.                                                                  6h                0         5       4                       9        15,0
+                                                                                                       NFZ         FSp               0         4       2                       6        46,2
+                                        1                                                                          NSp               0         2       1                       3        25,0
+                                                        7                                                          6h                2         9       5                     16         31,4
+                                                                                                       SV          FSp               0         0       0                       0         0,0
+                                 n.g.        1          6                                                          NSp               0         0       0                       0         0,0
+                                                                                                                   6h                0         1       1                       2         3,9
+                                                                                                       KFZ         FSp               1         9       3                     13          100
+                                                                                                                   NSp               2         7       3                     12          100
+
+
+
+
+                                                                                      Am Großen Horn
+                                                                                                                   6h                6        31      14                     51          100
+                                                                                                       FZ          FSp               1         9       3                     13          100
+                                                                                                                   NSp               2         8       4                     14          100
+                                                                     6                                             6h                6        36      18                      60         100
+                                                                           9
+                                                                     3          OST                    Q DTVw:           2,2        40       112      73
+                                                                                                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                     4     13                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                       Bemerkungen :
+                                                                                                       - Zuf NG+SG nicht gezählt
+                                                                                                       - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                         nachmittag 12ºC leicht bewölkt, trocken
+                                 3           n.g.       3
+                                                                                                       Sph-Beginn:               8.30     Uhr und   16.00 Uhr
+                                  6                                                                    SUMME Zufahrten:                   FSp :       13 KFZ/h       9:00
+                                                    3                                                                                     NSp :       12 KFZ/h       16:30
+                                            SÜD                                                                                             6h :      51 KFZ
+                                   Nedlitzer Str.                                                      max. Sph /Zufahrt:                 NORD         2 KFZ/h       7:30
+                                                                                                                                           OST         9 KFZ/h       9:00
+                                                                                                            DATUM :                        SÜD         3 KFZ/h       9:00
+                                                                                13 KFZ/h                 24.10.2019
+                                                            Kfz-Stromverteilung in der FSp 2809                          Nedlitzer Str. / Am Großen Horn
+
+
+StromPlan (FSp)2809kp10-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                              13.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                       RAD         FSp                0        0       0                      0          0,0
+                                            NORD                                                                   NSp                0        1       1                      2         14,3
+
+                                   Nedlitzer Str.                                                                  6h                0         5       4                       9        15,0
+                                                                                                       NFZ         FSp               0         4       2                       6        46,2
+                                        2                                                                          NSp               0         2       1                       3        25,0
+                                                        4                                                          6h                2         9       5                     16         31,4
+                                                                                                       SV          FSp               0         0       0                       0         0,0
+                                 n.g.        2          2                                                          NSp               0         0       0                       0         0,0
+                                                                                                                   6h                0         1       1                       2         3,9
+                                                                                                       KFZ         FSp               1         9       3                     13          100
+                                                                                                                   NSp               2         7       3                     12          100
+
+
+
+
+                                                                                      Am Großen Horn
+                                                                                                                   6h                6        31      14                     51          100
+                                                                                                       FZ          FSp               1         9       3                     13          100
+                                                                                                                   NSp               2         8       4                     14          100
+                                                                     2                                             6h                6        36      18                      60         100
+                                                                           7
+                                                                     5          OST                    Q DTVw:           2,2        40       112      73
+                                                                                                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                     5     12                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                       Bemerkungen :
+                                                                                                       - Zuf NG+SG nicht gezählt
+                                                                                                       - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                         nachmittag 12ºC leicht bewölkt, trocken
+                                 5           n.g.       3
+                                                                                                       Sph-Beginn:               8.30     Uhr und   16.00 Uhr
+                                  8                                                                    SUMME Zufahrten:                   FSp :       13 KFZ/h       9:00
+                                                    3                                                                                     NSp :       12 KFZ/h       16:30
+                                            SÜD                                                                                             6h :      51 KFZ
+                                   Nedlitzer Str.                                                      max. Sph /Zufahrt:                 NORD         2 KFZ/h       7:30
+                                                                                                                                           OST         9 KFZ/h       9:00
+                                                                                                            DATUM :                        SÜD         3 KFZ/h       9:00
+                                                                                12 KFZ/h                 24.10.2019
+                                                            Kfz-Stromverteilung in der NSp 2809                          Nedlitzer Str. / Am Großen Horn
+
+
+StromPlan (NSp)2809kp10-19.xls
+

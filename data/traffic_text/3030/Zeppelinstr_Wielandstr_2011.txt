@@ -1,0 +1,142 @@
+SVP, 461                                                                                                                                     24.01.2014
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                    NORD OST SÜD      SUMME %
+                                                                              RAD             FSp           4       19       37                   60       53,1
+
+                           NORD                                                               NSp      10           15       23                   48       49,0
+
+                         Zeppelinstr.                                                         6h        34         146      113                   293      54,8
+                                                                              NFZ             FSp        1           1        0                     2       3,8
+                                                                                              NSp        0           0        0                     0       0,0
+            Räder                 75                                                          6h         4           6        6                    16       6,6
+                                                                              SV              FSp        0           0        0                     0       0,0
+                                                                                              NSp        0           0        0                     0       0,0
+           699                                                                                6h         1           2        0                     3       1,2
+                                                                              KFZ
+
+
+
+
+                                                              Wielandstraße
+                                                                                              FSp      21          11       21                     53      100
+                                                                                              NSp      17          20       13                     50      100
+                                                                                              6h        75          89       78                   242      100
+                                        36                                    FZ              FSp       25          30       58                   113      100
+                                              89
+                                        53              OST                                   NSp       27          35       36                    98      100
+                                                                                              6h       109         235      191                   535      100
+                                        153   242                             Bemerkungen :
+
+                                                                              - Wetter früh: 13°C sonnig, trockem; nachm.:27°C sonnig, trocken
+                                                                              - Dienstags-Zählung
+                 853
+
+                                  78                                                          Sph-Beginn:                7.00 Uhr und 16.30 Uhr
+                                                                              SUMME Zufahrten: [FSp] :                       53 KFZ/h 7:30
+                                                                                                 (NSp) :                     50 KFZ/h 17:00
+                                                                                                   6h :                     242 KFZ
+                            SÜD                                               max. Sph /Zufahrt: NORD                        21 KFZ/h 7:30
+                         Zeppelinstr.                                                                             OST        26 KFZ/h 16:30
+                                                                                 DATUM :                          SÜD        21 KFZ/h 7:30
+                                                                              10.05.2011
+                                                                                303                             Zeppelinstr./Wielandstr.
+
+StromPlan303kp5-11.xls                        Seite 1                                                                             StromPlan303kp5-11.xls
+SVP, 461                                                                                                                                                   24.01.2014
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                   NORD OST SÜD      SUMME %
+                                                                                             RAD             FSp           4       19       37                   60     53,1
+
+                               NORD                                                                          NSp      10           15       23                   48     49,0
+
+                        Zeppelinstr.                                                                         6h        34         146      113                   293    54,8
+                                                                                             NFZ             FSp        1           1        0                     2     3,8
+                                                                                                             NSp        0           0        0                     0     0,0
+           Räder                      21                                                                     6h         4           6        6                    16     6,6
+                                                                                             SV              FSp        0           0        0                     0     0,0
+                                                                                                             NSp        0           0        0                     0     0,0
+           50                                                                                                6h         1           2        0                     3     1,2
+                                                                                             KFZ
+
+
+
+
+                                                                             Wielandstraße
+                                                                                                             FSp      21          11       21                     53    100
+                                                                                                             NSp      17          20       13                     50    100
+                                                                                                             6h        75          89       78                   242    100
+                                                       4                                     FZ              FSp       25          30       58                   113    100
+                                                              11
+                                                       7               OST                                   NSp       27          35       36                    98    100
+                                                                                                             6h       109         235      191                   535    100
+                                                       42     53                             Bemerkungen :
+
+                                                                                             - Wetter früh: 13°C sonnig, trockem; nachm.:27°C sonnig, trocken
+                                                                                             - Dienstags-Zählung
+                123
+
+                                      21                                                                     Sph-Beginn:                7.00 Uhr und 16.30 Uhr
+                                                                                             SUMME Zufahrten: [FSp] :                       53 KFZ/h 7:30
+                                                                                                                (NSp) :                     50 KFZ/h 17:00
+                                                                                                                  6h :                     242 KFZ
+                               SÜD                                                           max. Sph /Zufahrt: NORD                        21 KFZ/h 7:30
+                        Zeppelinstr.                                                                                             OST        26 KFZ/h 16:30
+                                                                                                DATUM :                          SÜD        21 KFZ/h 7:30
+                                                                53 KFZ/h                     10.05.2011
+                                           Kfz-Stromverteilung in der FSp                      303                             Zeppelinstr./Wielandstr.
+
+StromPlan (FSp)303kp5-11.xls                                 Seite 2                                                                     StromPlan (FSp)303kp5-11.xls
+SVP, 461                                                                                                                                                   24.01.2014
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                   NORD OST SÜD      SUMME %
+                                                                                             RAD             FSp           4       19       37                   60     53,1
+
+                               NORD                                                                          NSp      10           15       23                   48     49,0
+
+                        Zeppelinstr.                                                                         6h        34         146      113                   293    54,8
+                                                                                             NFZ             FSp        1           1        0                     2     3,8
+                                                                                                             NSp        0           0        0                     0     0,0
+           Räder                      17                                                                     6h         4           6        6                    16     6,6
+                                                                                             SV              FSp        0           0        0                     0     0,0
+                                                                                                             NSp        0           0        0                     0     0,0
+           65                                                                                                6h         1           2        0                     3     1,2
+                                                                                             KFZ
+
+
+
+
+                                                                             Wielandstraße
+                                                                                                             FSp      21          11       21                     53    100
+                                                                                                             NSp      17          20       13                     50    100
+                                                                                                             6h        75          89       78                   242    100
+                                                       10                                    FZ              FSp       25          30       58                   113    100
+                                                              20
+                                                       10              OST                                   NSp       27          35       36                    98    100
+                                                                                                             6h       109         235      191                   535    100
+                                                       30     50                             Bemerkungen :
+
+                                                                                             - Wetter früh: 13°C sonnig, trockem; nachm.:27°C sonnig, trocken
+                                                                                             - Dienstags-Zählung
+                 61
+
+                                      13                                                                     Sph-Beginn:                7.00 Uhr und 16.30 Uhr
+                                                                                             SUMME Zufahrten: [FSp] :                       53 KFZ/h 7:30
+                                                                                                                (NSp) :                     50 KFZ/h 17:00
+                                                                                                                  6h :                     242 KFZ
+                               SÜD                                                           max. Sph /Zufahrt: NORD                        21 KFZ/h 7:30
+                        Zeppelinstr.                                                                                             OST        26 KFZ/h 16:30
+                                                                                                DATUM :                          SÜD        21 KFZ/h 7:30
+                                                                50 KFZ/h                     10.05.2011
+                                           Kfz-Stromverteilung in der NSp                      303                             Zeppelinstr./Wielandstr.
+
+StromPlan (NSp)303kp5-11.xls                                 Seite 3                                                                     StromPlan (NSp)303kp5-11.xls
+

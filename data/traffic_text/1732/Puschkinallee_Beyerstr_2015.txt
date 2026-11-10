@@ -1,0 +1,130 @@
+SVP, 461                                                                                                                                                      27.05.2015
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                            NORD                                                                                   NORD OST SÜD      SUMME %
+              Puschkinallee                                                                   RAD          FSp          25          15         14                         54   26,9
+                                                                                                           NSp          12          14         19                         45   24,5
+                          134                                                                              6h          113           77         93                       283   26,6
+                                      359                                                     NFZ          FSp           1            1          5                         7    4,8
+                                                                                                           NSp           1            3          4                         8    5,8
+                  117           17    225                                                                  6h            7          18         36                         61    7,8
+                                                                                              SV           FSp           0            0          1                         1    0,7
+                                                                                                           NSp           0            0          0                         0    0,0
+                                                                                                           6h            0            7          3                        10    1,3
+                                                                                              KFZ          FSp          27          36         84                       147    100
+
+
+
+
+                                                                                Beyerstraße
+                                                                                                           NSp          20          36         83                       139    100
+                                                                                                           6h          134         199        448                        781   100
+                                                        22                                    FZ           FSp          52          51         98                        201   100
+                                                               199
+                                                        177               OST                              NSp          32          50        102                        184   100
+                                                                                                           6h          247         276        541                       1064   100
+                                                        262    461                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                              Bemerkungen :
+                                                                                              Wetter früh 13ºC sonnig, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+
+                  294           203   245
+                                                                                                   Sph-Beginn:          7.30 Uhr und        16.30 Uhr
+                  742                                                                         SUMME Zufahrten: [FSp]:                        147 KFZ/h 8:00
+                               448                                                                             (NSp):                        139 KFZ/h 17:00
+                            SÜD                                                                                   6h :                       781 KFZ
+              Puschkinallee                                                                   max. Sph /Zufahrt:               NORD             30 KFZ/h 8:30
+                                                                                                                                OST             39 KFZ/h 7:30
+                                                                                                 DATUM :                        SÜD             84 KFZ/h 8:00
+                                                                           6h Werte 21.05.2015
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1732                                Puschkinallee / Beyerstraße
+StromPlan1732kp5-15.xls                                         Seite 1
+SVP, 461                                                                                                                                                 27.05.2015
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                          NORD                                                                                NORD OST SÜD      SUMME %
+              Puschkinallee                                                              RAD          FSp          25          15         14                         54   26,9
+                                                                                                      NSp          12          14         19                         45   24,5
+                        27                                                                            6h          113           77         93                       283   26,6
+                                        63                                               NFZ          FSp           1            1          5                         7    4,8
+                                                                                                      NSp           1            3          4                         8    5,8
+                   24        3          36                                                            6h            7          18         36                         61    7,8
+                                                                                         SV           FSp           0            0          1                         1    0,7
+                                                                                                      NSp           0            0          0                         0    0,0
+                                                                                                      6h            0            7          3                        10    1,3
+                                                                                         KFZ          FSp          27          36         84                       147    100
+
+
+
+
+                                                                           Beyerstraße
+                                                                                                      NSp          20          36         83                       139    100
+                                                                                                      6h          134         199        448                        781   100
+                                                      1                                  FZ           FSp          52          51         98                        201   100
+                                                           36
+                                                     35              OST                              NSp          32          50        102                        184   100
+                                                                                                      6h          247         276        541                       1064   100
+                                                     52    88                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+                                                                                         Wetter früh 13ºC sonnig, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+
+                   59        35         49
+                                                                                              Sph-Beginn:          7.30 Uhr und        16.30 Uhr
+                  143                                                                    SUMME Zufahrten: [FSp]:                        147 KFZ/h 8:00
+                                   84                                                                     (NSp):                        139 KFZ/h 17:00
+                             SÜD                                                                             6h :                       781 KFZ
+              Puschkinallee                                                              max. Sph /Zufahrt:               NORD             30 KFZ/h 8:30
+                                                                                                                           OST             39 KFZ/h 7:30
+                                                                                            DATUM :                        SÜD             84 KFZ/h 8:00
+                                                                     147 KFZ/h 21.05.2015
+                                             Kfz-Stromverteilung in der FSp 1732                                 Puschkinallee / Beyerstraße
+StromPlan (FSp)1732kp5-15.xls                              Seite 2
+SVP, 461                                                                                                                                                 27.05.2015
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                          NORD                                                                                NORD OST SÜD      SUMME %
+              Puschkinallee                                                              RAD          FSp          25          15         14                         54   26,9
+                                                                                                      NSp          12          14         19                         45   24,5
+                        20                                                                            6h          113           77         93                       283   26,6
+                                        50                                               NFZ          FSp           1            1          5                         7    4,8
+                                                                                                      NSp           1            3          4                         8    5,8
+                   17        3          30                                                            6h            7          18         36                         61    7,8
+                                                                                         SV           FSp           0            0          1                         1    0,7
+                                                                                                      NSp           0            0          0                         0    0,0
+                                                                                                      6h            0            7          3                        10    1,3
+                                                                                         KFZ          FSp          27          36         84                       147    100
+
+
+
+
+                                                                           Beyerstraße
+                                                                                                      NSp          20          36         83                       139    100
+                                                                                                      6h          134         199        448                        781   100
+                                                      0                                  FZ           FSp          52          51         98                        201   100
+                                                            36
+                                                     36              OST                              NSp          32          50        102                        184   100
+                                                                                                      6h          247         276        541                       1064   100
+                                                     56     92                           NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+                                                                                         Wetter früh 13ºC sonnig, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+
+                   53        30         53
+                                                                                              Sph-Beginn:          7.30 Uhr und        16.30 Uhr
+                  136                                                                    SUMME Zufahrten: [FSp]:                        147 KFZ/h 8:00
+                                   83                                                                     (NSp):                        139 KFZ/h 17:00
+                             SÜD                                                                             6h :                       781 KFZ
+              Puschkinallee                                                              max. Sph /Zufahrt:               NORD             30 KFZ/h 8:30
+                                                                                                                           OST             39 KFZ/h 7:30
+                                                                                            DATUM :                        SÜD             84 KFZ/h 8:00
+                                                                     139 KFZ/h 21.05.2015
+                                             Kfz-Stromverteilung in der NSp 1732                                 Puschkinallee / Beyerstraße
+StromPlan (NSp)1732kp5-15.xls                              Seite 3
+

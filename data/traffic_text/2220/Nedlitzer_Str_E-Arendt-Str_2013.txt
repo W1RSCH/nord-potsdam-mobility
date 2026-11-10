@@ -1,0 +1,169 @@
+         SVP, 461                                                                                                                                                                  03.09.2015
+
+
+
+
+                                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                                NORD OST SÜD WEST SUMME %
+                                             NORD                                                                            RAD        FSp         51          2       14           0           67     5,6
+
+                                      Nedlitzer Str.                                                                                    NSp         28          4       34           1           67     5,5
+
+                                                                                                                                        6h         190         14      144          3         351       5,4
+                                             2.845             5.704                                                         NFZ        FSp        52           3     109           9        173       15,5
+                                                                                                                                        NSp        37           0      90           7        134       11,7
+                                                                                                                                        6h        218           6     516          42         782      12,7
+                                     152      2.677    16       2.859                                                        SV         FSp        15           1      46           0           0       0,0
+                                                                                                                                        NSp          9          0      32           2          43       3,8
+                                                                                                                                        6h          54          2     200          16         272       4,4
+
+
+
+
+                                                                                                    Graf-von-Schwerin-Str.
+                                                                                                                             KFZ        FSp       663         12      413          31       1119       100
+                                                                                                                                        NSp       421         17      656          47       1141       100
+                                                                                                                                        6h       2845        111     2994         212       6162
+
+
+
+
+       E.-Arendt-Str.
+                                                                                                                                                                                                       100
+                                                                                                                             FZ         FSp       714         14      427          31       1186       100
+                        588   376                                                  16                                                   NSp       449         21      690          48       1208       100
+                              156                                                   6   111   OST                                       6h       3035        125     3138         215        6513      100
+
+WEST
+                        212    7                                                   89                                        Bemerkungen :
+                               49                                                 112   223                                  - Wetter früh: 15ºC bewölkt, trocken; nachmittag: 23ºC leicht bewölkt, trocken
+
+
+
+
+                                                                                                                                  Sph-Beginn:    7.00    Uhr und     16.00 Uhr
+                                                                                                                             SUMME Zufahrten: [FSp] :                1119 KFZ/h          7:30
+                                     2.815    218      2.687    89                                                                                       (NSp):      1141 KFZ/h          16:30
+                                                                                                                                                  6h :               6162 KFZ
+                                    5.809                                                                                    max. Sph /Zufahrt: NORD :                663 KFZ/h          7:30
+                                                      2.994                                                                                      OST :                 30 KFZ/h          15:30
+                                                      SÜD                                                                     DATUM :            SÜD :                656 KFZ/h          16:30
+                                             Nedlitzer Str.                                                                  02.05.2013                 WEST :           47 KFZ/h 16:30
+                                                                                                                              222               Nedlitzer Str./E.-Arendt-Str.
+
+
+
+         StromPlan222kp5-13.xls                                         Seite 1
+         SVP, 461                                                                                                                                                              03.09.2015
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                            NORD OST SÜD WEST SUMME %
+                                              NORD                                                                       RAD        FSp         51          2       14           0           67     5,6
+
+                                       Nedlitzer Str.                                                                               NSp         28          4       34           1           67     5,5
+
+                                                                                                                                    6h         190         14      144          3         351       5,4
+                                               663         1.053                                                         NFZ        FSp        52           3     109           9        173       15,5
+                                                                                                                                    NSp        37           0      90           7        134       11,7
+                                                                                                                                    6h        218           6     516          42         782      12,7
+                                       18      643   2      390                                                          SV         FSp        15           1      46           0           0       0,0
+                                                                                                                                    NSp          9          0      32           2          43       3,8
+                                                                                                                                    6h          54          2     200          16         272       4,4
+
+
+
+
+                                                                                                Graf-von-Schwerin-Str.
+                                                                                                                         KFZ        FSp       663         12      413          31       1119       100
+                                                                                                                                    NSp       421         17      656          47       1141       100
+                                                                                                                                    6h       2845        111     2994         212       6162
+
+
+
+
+       E.-Arendt-Str.
+                                                                                                                                                                                                   100
+                                                                                                                         FZ         FSp       714         14      427          31       1186       100
+                        78   47                                                4                                                    NSp       449         21      690          48       1208       100
+                             17                                                0   12     OST                                       6h       3035        125     3138         215        6513      100
+
+WEST
+                        31   1                                                 8                                         Bemerkungen :
+                             13                                               18   30                                    - Wetter früh: 15ºC bewölkt, trocken; nachmittag: 23ºC leicht bewölkt, trocken
+
+
+
+
+                                                                                                                              Sph-Beginn:    7.00    Uhr und     16.00 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :                1119 KFZ/h          7:30
+                                       664     29    369    15                                                                                       (NSp):      1141 KFZ/h          16:30
+                                                                                                                                              6h :               6162 KFZ
+                                      1.077                                                                              max. Sph /Zufahrt: NORD :                663 KFZ/h          7:30
+                                                     413                                                                                     OST :                 30 KFZ/h          15:30
+                                                     SÜD                                                                  DATUM :            SÜD :                656 KFZ/h          16:30
+                                              Nedlitzer Str.                            1.119 KFZ/h 02.05.2013                                      WEST :           47 KFZ/h 16:30
+                                                                   Kfz-Stromverteilung in der FSp 222                                       Nedlitzer Str./E.-Arendt-Str.
+
+
+
+         StromPlan Fsp222kp5-13.xls                                 Seite 2
+         SVP, 461                                                                                                                                                              03.09.2015
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                                            NORD OST SÜD WEST SUMME %
+                                              NORD                                                                       RAD        FSp         51          2       14           0           67     5,6
+
+                                       Nedlitzer Str.                                                                               NSp         28          4       34           1           67     5,5
+
+                                                                                                                                    6h         190         14      144          3         351       5,4
+                                               421         1.061                                                         NFZ        FSp        52           3     109           9        173       15,5
+                                                                                                                                    NSp        37           0      90           7        134       11,7
+                                                                                                                                    6h        218           6     516          42         782      12,7
+                                       21      397   3      640                                                          SV         FSp        15           1      46           0           0       0,0
+                                                                                                                                    NSp          9          0      32           2          43       3,8
+                                                                                                                                    6h          54          2     200          16         272       4,4
+
+
+
+
+                                                                                                Graf-von-Schwerin-Str.
+                                                                                                                         KFZ        FSp       663         12      413          31       1119       100
+                                                                                                                                    NSp       421         17      656          47       1141       100
+                                                                                                                                    6h       2845        111     2994         212       6162
+
+
+
+
+       E.-Arendt-Str.
+                                                                                                                                                                                                   100
+                                                                                                                         FZ         FSp       714         14      427          31       1186       100
+                        118   71                                               4                                                    NSp       449         21      690          48       1208       100
+                              40                                               0   17     OST                                       6h       3035        125     3138         215        6513      100
+
+WEST
+                        47    1                                               13                                         Bemerkungen :
+                              6                                               14   31                                    - Wetter früh: 15ºC bewölkt, trocken; nachmittag: 23ºC leicht bewölkt, trocken
+
+
+
+
+                                                                                                                              Sph-Beginn:    7.00    Uhr und     16.00 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :                1119 KFZ/h          7:30
+                                       416     50    596    10                                                                                       (NSp):      1141 KFZ/h          16:30
+                                                                                                                                              6h :               6162 KFZ
+                                      1.072                                                                              max. Sph /Zufahrt: NORD :                663 KFZ/h          7:30
+                                                     656                                                                                     OST :                 30 KFZ/h          15:30
+                                                     SÜD                                                                  DATUM :            SÜD :                656 KFZ/h          16:30
+                                              Nedlitzer Str.                            1.141 KFZ/h 02.05.2013                                      WEST :           47 KFZ/h 16:30
+                                                                   Kfz-Stromverteilung in der NSp 222                                       Nedlitzer Str./E.-Arendt-Str.
+
+
+
+         StromPlan Nsp222kp5-13.xls                                 Seite 3
+

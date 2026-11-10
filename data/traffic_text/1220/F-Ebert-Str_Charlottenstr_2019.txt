@@ -1,0 +1,196 @@
+       Landeshauptstadt Potsdam                                                                                                                                                02.10.2019
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                   RAD         FSp        157            59   179       91         486     63,9
+
+                                          F.-Ebert-Str.                                                                          NSp        208        103      323      175         809     71,0
+
+                                                                                                                                 6h        1317        464      1387     850        4018     71,9
+                                               69          95                                                        NFZ         FSp          2        39         26      11          78     28,5
+                                                                                                                                 NSp          4        39         24       7          74     22,4
+                                                                                                                                 6h          16       197        157      52         422     26,9
+                                        43     8     18    26                                                        SV          FSp          1          8        23       0          32     11,7
+                                                                                                                                 NSp          1        12         23       0          36     10,9
+                                                                                                                                 6h           4         48       147      18         217     13,8
+                                                                                                                     KFZ         FSp         16       176         30      52         274        100
+                                                                                                                                 NSp         10       230         26      64         330        100
+                                                                                                                                 6h          69      1016        173     311        1569        100
+                                                                                                                     FZ          FSp        173       235        209     143         760
+
+
+
+
+       Charlottenstr.
+                                                                                                                                                                                                100
+
+
+
+
+                                                                                                    Charlottenstr.
+                        1.409   1.098                                                                                            NSp        218       333        349     239        1139        100
+
+                                                                                              OST
+                                  18                                            941                                              6h        1386       1480      1560    1161        5587        100
+                                                                                      1.016
+WEST
+                        311     253                                             75                                   Q DTVw: 2,5             238     3345       740    3523
+                                 40                                             322   1.338                          Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                     Bemerkungen :
+
+                                                                                                                     - Sperrung in der Fr.-Ebert-Str. zw. Ebräerstr. und Yorckstr. (Abf. Süd)
+                                                                                                                     - Wetter früh 10ºC sonnig, trocken;
+                                                                                                                       nachmittag 19ºC leicht bewölkt bis sonnig, trocken
+
+
+                                        123    114   8     51
+                                                                                                                          Sph-Beginn:       9.00 Uhr und 15.30 Uhr
+                                        296                                                                          SUMME Zufahrten: FSp :    274 KFZ/h 9:30      ###
+                                                     173                                                                              NSp :    330 KFZ/h 16:00     ###
+                                                     SÜD                                                                               6h : 1569 KFZ
+                                              F.-Ebert-Str.                                                          max. Sph /Zufahrt: NORD :                   17 KFZ/h 15:30
+                                                                                                                                                    OST :       230 KFZ/h 16:00
+
+                                                                                                                       DATUM :                      SÜD :        34 KFZ/h 7:30
+                                                                                              6h Werte 26.09.2019                                  WEST:         65 KFZ/h 15:30
+                                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 122                                F.-Ebert-Str./Charlottenstr.
+
+       StromPlan122kp9-19.xls                                         Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                       02.10.2019
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                             RAD         FSp        157            59   179       91         486     63,9
+
+                                       F.-Ebert-Str.                                                                    NSp        208        103      323      175         809     71,0
+
+                                                                                                                        6h        1317        464      1387     850        4018     71,9
+                                            16          18                                                  NFZ         FSp          2        39         26      11          78     28,5
+                                                                                                                        NSp          4        39         24       7          74     22,4
+                                                                                                                        6h          16       197        157      52         422     26,9
+                                      6     3     7     2                                                   SV          FSp          1          8        23       0          32     11,7
+                                                                                                                        NSp          1        12         23       0          36     10,9
+                                                                                                                        6h           4         48       147      18         217     13,8
+                                                                                                            KFZ         FSp         16       176         30      52         274        100
+                                                                                                                        NSp         10       230         26      64         330        100
+                                                                                                                        6h          69      1016        173     311        1569        100
+                                                                                                            FZ          FSp        173       235        209     143         760
+
+
+
+
+       Charlottenstr.
+                                                                                                                                                                                       100
+
+
+
+
+                                                                                           Charlottenstr.
+                        248   196                                                                                       NSp        218       333        349     239        1139        100
+
+                                                                                     OST
+                               2                                         168                                            6h        1386       1480      1560    1161        5587        100
+                                                                               176
+WEST
+                        52    40                                          8                                 Q DTVw: 2,5             238     3345       740    3523
+                              10                                         55    231                          Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+
+                                                                                                            - Sperrung in der Fr.-Ebert-Str. zw. Ebräerstr. und Yorckstr. (Abf. Süd)
+                                                                                                            - Wetter früh 10ºC sonnig, trocken;
+                                                                                                              nachmittag 19ºC leicht bewölkt bis sonnig, trocken
+
+
+                                      21    22    0     8
+                                                                                                                 Sph-Beginn:       9.00 Uhr und 15.30 Uhr
+                                      51                                                                    SUMME Zufahrten: FSp :    274 KFZ/h 9:30      ###
+                                                   30                                                                        NSp :    330 KFZ/h 16:00     ###
+                                                  SÜD                                                                         6h : 1569 KFZ
+                                           F.-Ebert-Str.                                                    max. Sph /Zufahrt: NORD :                   17 KFZ/h 15:30
+                                                                                                                                           OST :       230 KFZ/h 16:00
+
+                                                                                                              DATUM :                      SÜD :        34 KFZ/h 7:30
+                                                                                     274 KFZ/h 26.09.2019                                 WEST:         65 KFZ/h 15:30
+                                                             Kfz-Stromverteilung in der FSp 122                                F.-Ebert-Str./Charlottenstr.
+
+       StromPlan (FSp)122kp9-19.xls                            Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                       02.10.2019
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                             RAD         FSp        157            59   179       91         486     63,9
+
+                                       F.-Ebert-Str.                                                                    NSp        208        103      323      175         809     71,0
+
+                                                                                                                        6h        1317        464      1387     850        4018     71,9
+                                            10          15                                                  NFZ         FSp          2        39         26      11          78     28,5
+                                                                                                                        NSp          4        39         24       7          74     22,4
+                                                                                                                        6h          16       197        157      52         422     26,9
+                                      6     1     3     5                                                   SV          FSp          1          8        23       0          32     11,7
+                                                                                                                        NSp          1        12         23       0          36     10,9
+                                                                                                                        6h           4         48       147      18         217     13,8
+                                                                                                            KFZ         FSp         16       176         30      52         274        100
+                                                                                                                        NSp         10       230         26      64         330        100
+                                                                                                                        6h          69      1016        173     311        1569        100
+                                                                                                            FZ          FSp        173       235        209     143         760
+
+
+
+
+       Charlottenstr.
+                                                                                                                                                                                       100
+
+
+
+
+                                                                                           Charlottenstr.
+                        297   233                                                                                       NSp        218       333        349     239        1139        100
+
+                                                                                     OST
+                               5                                         209                                            6h        1386       1480      1560    1161        5587        100
+                                                                               230
+WEST
+                        64    52                                         21                                 Q DTVw: 2,5             238     3345       740    3523
+                               7                                         63    293                          Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+
+                                                                                                            - Sperrung in der Fr.-Ebert-Str. zw. Ebräerstr. und Yorckstr. (Abf. Süd)
+                                                                                                            - Wetter früh 10ºC sonnig, trocken;
+                                                                                                              nachmittag 19ºC leicht bewölkt bis sonnig, trocken
+
+
+                                      29    18    0     8
+                                                                                                                 Sph-Beginn:       9.00 Uhr und 15.30 Uhr
+                                      55                                                                    SUMME Zufahrten: FSp :    274 KFZ/h 9:30      ###
+                                                   26                                                                        NSp :    330 KFZ/h 16:00     ###
+                                                  SÜD                                                                         6h : 1569 KFZ
+                                           F.-Ebert-Str.                                                    max. Sph /Zufahrt: NORD :                   17 KFZ/h 15:30
+                                                                                                                                           OST :       230 KFZ/h 16:00
+
+                                                                                                              DATUM :                      SÜD :        34 KFZ/h 7:30
+                                                                                     330 KFZ/h 26.09.2019                                 WEST:         65 KFZ/h 15:30
+                                                             Kfz-Stromverteilung in der NSp 122                                F.-Ebert-Str./Charlottenstr.
+
+       StromPlan (NSp)122kp9-19.xls                            Seite 3
+

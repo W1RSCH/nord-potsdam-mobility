@@ -1,0 +1,158 @@
+                                                                                                                                                         01.04.2011
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                        NORD                                                                       NORD     OST       SÜD                     SUMME %
+           Brauhausberg                                                         RAD        FSp        32       18         5                       55          4,1
+
+                                                                                           NSp    19           37      18                        74           4,8
+                     5.333                                                                 6h    141          207       17                      365           4,8
+                                 6.950                                          NFZ        FSp 117            11       66                      194           15,2
+                                                                                           NSp   97           10       34                      141            9,7
+
+             4.758       575      1.617                                                    6h   585            78     181                      844           11,8
+                                                                                SV         FSp   68             3      15                       86            6,8
+                                                                                           NSp   35             0      10                       45            3,1
+                                                                                           6h   253            15      52                      320            4,5
+                                                                                KFZ        FSp 848            53      373                     1274           100
+                                                                                           NSp 1099          168      193                     1460           100
+
+
+
+
+                                                             A.-Einstein-Str.
+                                                                                           6h  5333          635     1195                     7163           100
+
+                                          513                                   FZ         FSp       880       71      378                       1329        100
+                                                635
+                                          122          OST                                 NSp      1118      205      211                       1534        100
+                                                                                           6h       5474      842     1212                       7528        100
+                                          666   1301
+
+                                                                                Bemerkungen:
+
+                                                                                - Baustelle KP400: Zu- und Abfahrt Babelsberger Str. gesperrt
+                                                                                - dafür Linksabbiegen zum "Meyerohr" zugelassen!
+                                                                                - Radfahrer in Zuf. N nicht genau ermittelbar (Minuswerte),
+                                                                                da Radfahrer aus H.-M.-Allee (aus Ri. Friedhöfe) nicht gezählt
+             4.880       1.104    91                                            - Wetter früh 15ºC bewölkt, nachmittags 30ºC, tagsüber sonnig
+
+
+            6.075
+                           1.195                                                     Sph-Beginn:   7.30 Uhr und 15.00 Uhr
+                         SÜD                                                    SUMME Zufahrten: [FSp]: 1274 KFZ/h 8:00
+           Brauhausberg                                                                            (NSp): 1460 KFZ/h                   15:30
+                                                                                                     6h : 7163 KFZ
+                                                                                max. Sph /Zufahrt: NORD 1099 KFZ/h                     15:30
+                                                                                                     OST   186 KFZ/h                   16:00
+                                                                                 DATUM :             SÜD   373 KFZ/h                   8:00
+                                                                                10.06.2010
+                                                                                 412               Brauhausberg /A.-Einstein-Str.
+
+SVP, 461                                                                                                                                      StromPlan412kp6-10.xls
+                                                                                                                                                             01.04.2011
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                     NORD                                                                                 NORD     OST      SÜD                   SUMME %
+           Brauhausberg                                                                RAD        FSp       32       18         5                      55        4,1
+
+                                                                                                  NSp    19          37      18                       74         4,8
+                   848                                                                            6h    141         207       17                     365         4,8
+                               1.239                                                   NFZ        FSp 117           11       66                     194         15,2
+                                                                                                  NSp   97          10       34                     141          9,7
+             691         157    391                                                               6h   585           78     181                     844         11,8
+                                                                                       SV         FSp   68            3      15                      86          6,8
+                                                                                                  NSp   35            0      10                      45          3,1
+                                                                                                  6h   253           15      52                     320          4,5
+                                                                                       KFZ        FSp 848           53      373                    1274         100
+                                                                                                  NSp 1099         168      193                    1460         100
+
+
+
+
+                                                                    A.-Einstein-Str.
+                                                                                                  6h  5333         635     1195                    7163         100
+
+                                                 48                                    FZ         FSp       880      71      378                    1329        100
+                                                        53
+                                                 5            OST                                 NSp      1118     205      211                    1534        100
+                                                                                                  6h       5474     842     1212                    7528        100
+                                                 187    240
+
+                                                                                       Bemerkungen:
+
+                                                                                       - Baustelle KP400: Zu- und Abfahrt Babelsberger Str. gesperrt
+                                                                                       - dafür Linksabbiegen zum "Meyerohr" zugelassen!
+                                                                                       - Wetter früh 15ºC bewölkt, nachmittags 30ºC, tagsüber sonnig
+
+
+             696         343    30
+
+            1.069
+                        373                                                                 Sph-Beginn:   7.30 Uhr und 15.00 Uhr
+                     SÜD                                                               SUMME Zufahrten: [FSp]: 1274 KFZ/h 8:00
+           Brauhausberg                                                                                   (NSp): 1460 KFZ/h                 15:30
+                                                                                                            6h : 7163 KFZ
+                                                                                       max. Sph /Zufahrt: NORD 1099 KFZ/h                   15:30
+                                                                                                            OST   186 KFZ/h                 16:00
+                                                                                        DATUM :             SÜD   373 KFZ/h                 8:00
+                                                       1.274 KFZ/h                     10.06.2010
+                                 Kfz-Stromverteilung in der FSp                         412               Brauhausberg /A.-Einstein-Str.
+
+SVP, 461                                                                                                                                      StromPlanFSP412kp6-10.xls
+                                                                                                                                                              01.04.2011
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                        NORD                                                                                NORD     OST      SÜD                   SUMME %
+           Brauhausberg                                                                  RAD        FSp       32       18         5                      55       4,1
+
+                                                                                                    NSp    19          37      18                       74        4,8
+                     1.054                                                                          6h    141         207       17                     365        4,8
+                               1.350                                                     NFZ        FSp 117           11       66                     194        15,2
+                                                                                                    NSp   97          10       34                     141         9,7
+
+             1.017       37       296                                                               6h   585           78     181                     844        11,8
+                                                                                         SV         FSp   68            3      15                      86         6,8
+                                                                                                    NSp   35            0      10                      45         3,1
+                                                                                                    6h   253           15      52                     320         4,5
+                                                                                         KFZ        FSp 848           53      373                    1274        100
+                                                                                                    NSp 1099         168      193                    1460        100
+
+
+
+
+                                                                      A.-Einstein-Str.
+                                                                                                    6h  5333         635     1195                    7163        100
+
+                                                   142                                   FZ         FSp       880      71      378                    1329       100
+                                                          186
+                                                   44           OST                                 NSp      1118     205      211                    1534       100
+                                                                                                    6h       5474     842     1212                    7528       100
+                                                   39     225
+
+                                                                                         Bemerkungen:
+
+                                                                                         - Baustelle KP400: Zu- und Abfahrt Babelsberger Str. gesperrt
+                                                                                         - dafür Linksabbiegen zum "Meyerohr" zugelassen!
+                                                                                         - Wetter früh 15ºC bewölkt, nachmittags 30ºC, tagsüber sonnig
+
+
+             1.061       154      2
+
+            1.217
+                            156                                                               Sph-Beginn:   7.30 Uhr und 15.00 Uhr
+                         SÜD                                                             SUMME Zufahrten: [FSp]: 1274 KFZ/h 8:00
+           Brauhausberg                                                                                     (NSp): 1460 KFZ/h                 15:30
+                                                                                                              6h : 7163 KFZ
+                                                                                         max. Sph /Zufahrt: NORD 1099 KFZ/h                   15:30
+                                                                                                              OST   186 KFZ/h                 16:00
+                                                                                          DATUM :             SÜD   373 KFZ/h                 8:00
+                                                         1.396 KFZ/h                     10.06.2010
+                                   Kfz-Stromverteilung in der NSp                         412               Brauhausberg /A.-Einstein-Str.
+
+SVP, 461                                                                                                                                       StromPlanNSP412kp6-10.xls
+

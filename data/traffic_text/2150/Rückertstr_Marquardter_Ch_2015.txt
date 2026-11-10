@@ -1,0 +1,169 @@
+SVP, 461                                                                                                                                                                  16.03.2017
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                            NORD                                        Zufahrt: NORD SÜD WEST     SUMME %
+                                                                                                   RAD    FSp      5     9   20                                          34
+                                                 Rückertstr.
+                                                                                                                                                                             2,8
+                                                                                                          NSp      7   13    10                                          30  2,3
+                                                                                                          6h      53    86    56                                        195 2,9
+                                                          494
+                                                                            1.012                  NFZ    FSp    28    64    82                                        174 14,7
+                                                                                                          NSp    16    92    39                                        147 11,5
+                                                  112           382             518                       6h     95   381   310                                         786 11,9
+                                                                                                   SV     FSp      9   16    14                                          39  3,3
+                                                                                                          NSp      5   21    10                                          36  2,8
+                                                                                                          6h     36    96    52                                         184 2,8
+                                                                                                   KFZ FSp
+
+
+
+
+               Marquardter Ch.
+                                                                                                                 71   464   652                                       1187 100
+                                                                                                          NSp 118     648   509                                       1275 100
+                                                                                                          6h    494 3138 2986                                         6618 100
+                                 5.830   2.844                                                     FZ     FSp    76   473   672                                       1221 100
+                                          112                                                             NSp   125   661   519                                       1305 100
+        WEST
+                                 2.986
+                                         2.874                                                            6h    547 3224 3042                                          6813 100
+                                                                                                   Q DTVw: 2,2 2226 14067 12826
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                   Bemerkungen :
+                                                                                                   - auf B273 Brücke über Sacrow-Paretzer-Kanal in Bau
+                                                                                                   - ÖPNV-Wochenstreik seit 30.04.2015
+
+                                                  3.256         2.732           406                - Wetter: früh 11°C sonnig, trocken; nachmittag 20°C sonnig bis bewölkt,
+                                                                                                    leicht windig, ab 16.00 Uhr ab und zu leichter Regen
+                                                 6.394                                                 Sph-Beginn:         7.00 Uhr und      16.00 Uhr
+                                                                        3.138
+                                                                                                   SUMME Zufahrten: FSp :                    1187 KFZ/h 7:30
+                                                                SÜD                                                 NSp :                    1275 KFZ/h 16:30
+                                                 Rückertstr.                                                            6h :                  6618 KFZ
+                                                                                                   max. Sph /Zufahrt: NORD                     120 KFZ/h 16:00
+                                                                                                                       SÜD                     669 KFZ/h 16:00
+                                                                                                     DATUM :                     WEST           652 KFZ/h 7:30
+                                                                                          6h Werte 07.05.2015
+                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 215                          Rückertstr./Marquardter Ch.
+
+
+
+StromPlan215kp5-15.xls                                                                1
+SVP, 461                                                                                                                                                             16.03.2017
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                        NORD                                       Zufahrt: NORD SÜD WEST     SUMME %
+                                                                                              RAD    FSp      5     9   20                                          34
+                                               Rückertstr.
+                                                                                                                                                                        2,8
+                                                                                                     NSp      7   13    10                                          30  2,3
+                                                                                                     6h      53    86    56                                        195 2,9
+                                                       71
+                                                                        217                   NFZ    FSp    28    64    82                                        174 14,7
+                                                                                                     NSp    16    92    39                                        147 11,5
+                                                19          52          146                          6h     95   381   310                                         786 11,9
+                                                                                              SV     FSp      9   16    14                                          39  3,3
+                                                                                                     NSp      5   21    10                                          36  2,8
+                                                                                                     6h     36    96    52                                         184 2,8
+                                                                                              KFZ FSp
+
+
+
+
+               Marquardter Ch.
+                                                                                                            71   464   652                                       1187 100
+                                                                                                     NSp 118     648   509                                       1275 100
+                                                                                                     6h    494 3138 2986                                         6618 100
+                                 1.025   373                                                  FZ     FSp    76   473   672                                       1221 100
+                                         36                                                          NSp   125   661   519                                       1305 100
+        WEST
+                                 652
+                                         616                                                         6h    547 3224 3042                                          6813 100
+                                                                                              Q DTVw: 2,2 2226 14067 12826
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                              Bemerkungen :
+                                                                                              - auf B273 Brücke über Sacrow-Paretzer-Kanal in Bau
+                                                                                              - ÖPNV-Wochenstreik seit 30.04.2015
+
+                                                668         354         110                   - Wetter: früh 11°C sonnig, trocken; nachmittag 20°C sonnig bis bewölkt,
+                                                                                               leicht windig, ab 16.00 Uhr ab und zu leichter Regen
+                                               1.132                                              Sph-Beginn:         7.00 Uhr und      16.00 Uhr
+                                                                  464
+                                                                                              SUMME Zufahrten: FSp :                    1187 KFZ/h 7:30
+                                                            SÜD                                                NSp :                    1275 KFZ/h 16:30
+                                               Rückertstr.                                                         6h :                  6618 KFZ
+                                                                                              max. Sph /Zufahrt: NORD                     120 KFZ/h 16:00
+                                                                                                                  SÜD                     669 KFZ/h 16:00
+                                                                                                DATUM :                     WEST           652 KFZ/h 7:30
+                                                                                  1.187 KFZ/h 07.05.2015
+                                                              Kfz-Stromverteilung in der FSp 215                    Rückertstr./Marquardter Ch.
+
+
+
+StromPlan (FSp)215kp5-15.xls                                                  2
+SVP, 461                                                                                                                                                             16.03.2017
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                        NORD                                       Zufahrt: NORD SÜD WEST     SUMME %
+                                                                                              RAD    FSp      5     9   20                                          34
+                                               Rückertstr.
+                                                                                                                                                                        2,8
+                                                                                                     NSp      7   13    10                                          30  2,3
+                                                                                                     6h      53    86    56                                        195 2,9
+                                                      118
+                                                                        176                   NFZ    FSp    28    64    82                                        174 14,7
+                                                                                                     NSp    16    92    39                                        147 11,5
+                                                25          93          58                           6h     95   381   310                                         786 11,9
+                                                                                              SV     FSp      9   16    14                                          39  3,3
+                                                                                                     NSp      5   21    10                                          36  2,8
+                                                                                                     6h     36    96    52                                         184 2,8
+                                                                                              KFZ FSp
+
+
+
+
+               Marquardter Ch.
+                                                                                                            71   464   652                                       1187 100
+                                                                                                     NSp 118     648   509                                       1275 100
+                                                                                                     6h    494 3138 2986                                         6618 100
+                                 1.139   630                                                  FZ     FSp    76   473   672                                       1221 100
+                                         15                                                          NSp   125   661   519                                       1305 100
+        WEST
+                                 509
+                                         494                                                         6h    547 3224 3042                                          6813 100
+                                                                                              Q DTVw: 2,2 2226 14067 12826
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                              Bemerkungen :
+                                                                                              - auf B273 Brücke über Sacrow-Paretzer-Kanal in Bau
+                                                                                              - ÖPNV-Wochenstreik seit 30.04.2015
+
+                                                587         605         43                    - Wetter: früh 11°C sonnig, trocken; nachmittag 20°C sonnig bis bewölkt,
+                                                                                               leicht windig, ab 16.00 Uhr ab und zu leichter Regen
+                                               1.235                                              Sph-Beginn:         7.00 Uhr und      16.00 Uhr
+                                                                  648
+                                                                                              SUMME Zufahrten: FSp :                    1187 KFZ/h 7:30
+                                                            SÜD                                                NSp :                    1275 KFZ/h 16:30
+                                               Rückertstr.                                                         6h :                  6618 KFZ
+                                                                                              max. Sph /Zufahrt: NORD                     120 KFZ/h 16:00
+                                                                                                                  SÜD                     669 KFZ/h 16:00
+                                                                                                DATUM :                     WEST           652 KFZ/h 7:30
+                                                                                  1.275 KFZ/h 07.05.2015
+                                                             Kfz-Stromverteilung in der NSp 215                     Rückertstr./Marquardter Ch.
+
+
+
+StromPlan (NSp)215kp5-15.xls                                                  3
+

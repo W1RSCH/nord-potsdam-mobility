@@ -1,0 +1,155 @@
+Landeshauptstadt Potsdam                                                                                                                            01.08.2023
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                                                NORD                                                  NORD SÜD WEST      SUMME %
+                                       Berliner Str.                                RAD    FSp    118   193                  28                  339         25,8
+                                                                                           NSp    147   213                  25                  385         26,5
+                                                3.032                                      6h     737 1090                  160                 1987         25,6
+                                                                 5.426              NFZ    FSp     61    51                   3                 115          11,8
+                                                                                           NSp     62    38                   4                 104           9,7
+                                        107      2.877    48      2.394                    6h     321   236                  25                  582         10,1
+                                                                                    SV     FSp     12    11                   0                   23          2,4
+                                                                                           NSp      9     6                   0                   15          1,4
+                                                                                           6h      48    45                   1                   94          1,6
+                                                                                    KFZ FSp 449 496                          29                 974          100
+                                                                                           NSp 662      381                  24                1067          100
+
+
+
+
+              Mangerstr.
+                                                                                           6h    3032 2577                  163                5772          100
+                           404   241                                                FZ     FSp    567   689                  57                1313          100
+                                 81                                                        NSp    809   594                  49                1452          100
+
+       WEST
+                           163                                                             6h    3769 3667                  323                 7759         100
+                                 82
+                                                                                    Q DTVw:2,35 12751 13428                 949
+                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                    Bemerkungen :
+                                                                                    - keine Corona-Einschränkungen
+                                                                                    - Ukraine-Krieg
+
+                                        3.137    134      178     2.265             - seit 01.05.2023 D-Ticket im Umlauf
+                                                                                    - Wetter früh 17°C sonnig, trocken; nachmittag 32ºC sonnig, trocken
+                                       5.714                                            Sph-Beginn:     7.30    Uhr und    15.00 Uhr
+                                                         2.577                      SUMME Zufahrten: [FSp] :                974 KFZ/h 8:00
+                                                SÜD                                                             (NSp):     1067 KFZ/h 15:30
+                                       Berliner Str.                                                               6h :    5772 KFZ
+                                                                                    max. Sph /Zufahrt: NORD                 662 KFZ/h 15:30
+                                                                                                                  SÜD       496 KFZ/h 8:00
+
+                                                                                      DATUM :                   WEST         32 KFZ/h 9:30
+                                                                           6h Werte 06.07.2023
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1920                    Berliner Str. / Mangerstr.
+
+
+1920kp7-23                                                       Seite 1
+Landeshauptstadt Potsdam                                                                                                                        01.08.2023
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                            NORD                                                  NORD SÜD WEST      SUMME %
+                                     Berliner Str.                              RAD    FSp    118   193                  28                  339         25,8
+                                                                                       NSp    147   213                  25                  385         26,5
+                                            449                                        6h     737 1090                  160                 1987         25,6
+                                                          924                   NFZ    FSp     61    51                   3                 115          11,8
+                                                                                       NSp     62    38                   4                 104           9,7
+                                      23     417     9     475                         6h     321   236                  25                  582         10,1
+                                                                                SV     FSp     12    11                   0                   23          2,4
+                                                                                       NSp      9     6                   0                   15          1,4
+                                                                                       6h      48    45                   1                   94          1,6
+                                                                                KFZ FSp 449 496                          29                 974          100
+                                                                                       NSp 662      381                  24                1067          100
+
+
+
+
+              Mangerstr.
+                                                                                       6h    3032 2577                  163                5772          100
+                           80   51                                              FZ     FSp    567   689                  57                1313          100
+                                25                                                     NSp    809   594                  49                1452          100
+
+       WEST
+                           29                                                          6h    3769 3667                  323                 7759         100
+                                4
+                                                                                Q DTVw:2,35 12751 13428                 949
+                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                Bemerkungen :
+                                                                                - keine Corona-Einschränkungen
+                                                                                - Ukraine-Krieg
+                                      448    28      27    441                  - seit 01.05.2023 D-Ticket im Umlauf
+                                                                                - Wetter früh 17°C sonnig, trocken; nachmittag 32ºC sonnig, trocken
+                                      944                                           Sph-Beginn:     7.30    Uhr und    15.00 Uhr
+                                                   496                          SUMME Zufahrten: [FSp] :                974 KFZ/h 8:00
+                                            SÜD                                                             (NSp):     1067 KFZ/h 15:30
+                                     Berliner Str.                                                             6h :    5772 KFZ
+                                                                                max. Sph /Zufahrt: NORD                 662 KFZ/h 15:30
+                                                                                                              SÜD       496 KFZ/h 8:00
+
+                                                                                  DATUM :                   WEST         32 KFZ/h 9:30
+                                                                    974   KFZ/h 06.07.2023
+                                               Kfz-Stromverteilung in der FSp 1920                    Berliner Str. / Mangerstr.
+
+
+1920kp7-23                                                Seite 2
+Landeshauptstadt Potsdam                                                                                                                         01.08.2023
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                             NORD                                                  NORD SÜD WEST      SUMME %
+                                     Berliner Str.                               RAD    FSp    118   193                  28                  339         25,8
+                                                                                        NSp    147   213                  25                  385         26,5
+                                             662                                        6h     737 1090                  160                 1987         25,6
+                                                          1.005                  NFZ    FSp     61    51                   3                 115          11,8
+                                                                                        NSp     62    38                   4                 104           9,7
+                                      17      639    6      343                         6h     321   236                  25                  582         10,1
+                                                                                 SV     FSp     12    11                   0                   23          2,4
+                                                                                        NSp      9     6                   0                   15          1,4
+                                                                                        6h      48    45                   1                   94          1,6
+                                                                                 KFZ FSp 449 496                          29                 974          100
+                                                                                        NSp 662      381                  24                1067          100
+
+
+
+
+              Mangerstr.
+                                                                                        6h    3032 2577                  163                5772          100
+                           61   37                                               FZ     FSp    567   689                  57                1313          100
+                                2                                                       NSp    809   594                  49                1452          100
+
+       WEST
+                           24                                                           6h    3769 3667                  323                 7759         100
+                                22
+                                                                                 Q DTVw:2,35 12751 13428                 949
+                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                 Bemerkungen :
+                                                                                 - keine Corona-Einschränkungen
+                                                                                 - Ukraine-Krieg
+                                      687     20     26     335                  - seit 01.05.2023 D-Ticket im Umlauf
+                                                                                 - Wetter früh 17°C sonnig, trocken; nachmittag 32ºC sonnig, trocken
+                                     1.068                                           Sph-Beginn:     7.30    Uhr und    15.00 Uhr
+                                                    381                          SUMME Zufahrten: [FSp] :                974 KFZ/h 8:00
+                                             SÜD                                                             (NSp):     1067 KFZ/h 15:30
+                                     Berliner Str.                                                              6h :    5772 KFZ
+                                                                                 max. Sph /Zufahrt: NORD                 662 KFZ/h 15:30
+                                                                                                               SÜD       496 KFZ/h 8:00
+
+                                                                                   DATUM :                   WEST         32 KFZ/h 9:30
+                                                                     1.067 KFZ/h 06.07.2023
+                                                Kfz-Stromverteilung in der NSp 1920                    Berliner Str. / Mangerstr.
+
+
+1920kp7-23                                                 Seite 3
+

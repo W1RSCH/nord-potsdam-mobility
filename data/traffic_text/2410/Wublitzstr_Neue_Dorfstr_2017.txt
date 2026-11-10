@@ -1,0 +1,136 @@
+SVP, 461                                                                                                                                                     07.03.2018
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                     Zufahrt: NORD OST SÜD      SUMME %
+                             NORD                                                               RAD         FSp               4          0       1                    5        0,7
+
+                          Wublitzstr.                                                                  NSp                  6             4       3                 13  1,9
+                                                                                                       6h                  25            16      11                  52 1,6
+                          1.506                                                                 NFZ    FSp                56            19        1                 76 11,3
+                                      3.077                                                            NSp                22            71        4                 97 14,1
+                                                                                                       6h                179           230      14                 423 13,0
+                    43        1.463    1.571                                                    SV     FSp                10              3       0                 13  1,9
+                                                                                                       NSp                  3             9       0                 12  1,7
+                                                                                                       6h                 34            37        0                 71 2,2
+                                                                                                KFZ FSp                  466           161      45                 672 100
+                                                                                                       NSp               193           470      26                 689 100
+                                                                                                       6h               1506          1600     160                3266 100
+
+
+
+
+                                                                                  Wublitzstr.
+                                                                                                FZ     FSp               470           161      46                 677 100
+                                                          1510                                         NSp               199           474      29                 702 100
+                                                                 1600
+                                                           90               OST                        6h               1531          1616     171                3318 100
+                                                                                                Q DTVw: 2,2             6769          6956     645
+                                                          1562   3162                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - Bombenentschärfung in Werder (ab 9.50 Uhr Zufahrt zur AB gesperrt)
+                                                                                                - Wetter früh 4-6°C sonnig, trocken;
+                    133       61       99                                                         nachmittag 24ºC sonnig, trocken
+                                                                                                    Sph-Beginn:        7.00       Uhr und     16.00 Uhr
+                    293                                                                         SUMME Zufahrten:                  [FSp]:       672 KFZ/h 7:30
+                                 160                                                                                              (NSp):       689 KFZ/h 16:30
+                              SÜD                                                                                                    6h :     3266 KFZ
+                         Neue Dorfstr.                                                          max. Sph /Zufahrt:                NORD         466 KFZ/h 7:30
+                                                                                                                                   OST         478 KFZ/h 16:00
+                                                                                                  DATUM :                          SÜD          45 KFZ/h 7:30
+                                                                          6h Werte 11.05.2017
+                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 241                                 Wublitzstraße/Neue Dorfstr.
+StromPlan241kp5-17.xls                                            Seite 1
+SVP, 461                                                                                                                                                   07.03.2018
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                           RAD         FSp               4          0       1                    5        0,7
+
+                          Wublitzstr.                                                                NSp                  6             4       3                 13  1,9
+                                                                                                     6h                  25            16      11                  52 1,6
+                          466                                                                 NFZ    FSp                56            19        1                 76 11,3
+                                           634                                                       NSp                22            71        4                 97 14,1
+                                                                                                     6h                179           230      14                 423 13,0
+                     2          464        168                                                SV     FSp                10              3       0                 13  1,9
+                                                                                                     NSp                  3             9       0                 12  1,7
+                                                                                                     6h                 34            37        0                 71 2,2
+                                                                                              KFZ FSp                  466           161      45                 672 100
+                                                                                                     NSp               193           470      26                 689 100
+                                                                                                     6h               1506          1600     160                3266 100
+
+
+
+
+                                                                                Wublitzstr.
+                                                                                              FZ     FSp               470           161      46                 677 100
+                                                         154                                         NSp               199           474      29                 702 100
+                                                               161
+                                                          7               OST                        6h               1531          1616     171                3318 100
+                                                                                              Q DTVw: 2,2             6769          6956     645
+                                                         495   656                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                              Bemerkungen :
+                                                                                              - Bombenentschärfung in Werder (ab 9.50 Uhr Zufahrt zur AB gesperrt)
+                                                                                              - Wetter früh 4-6°C sonnig, trocken;
+                     9          14         31                                                   nachmittag 24ºC sonnig, trocken
+                                                                                                  Sph-Beginn:        7.00       Uhr und     16.00 Uhr
+                     54                                                                       SUMME Zufahrten:                  [FSp]:       672 KFZ/h 7:30
+                                      45                                                                                        (NSp):       689 KFZ/h 16:30
+                               SÜD                                                                                                 6h :     3266 KFZ
+                      Neue Dorfstr.                                                           max. Sph /Zufahrt:                NORD         466 KFZ/h 7:30
+                                                                                                                                 OST         478 KFZ/h 16:00
+                                                                                                DATUM :                          SÜD          45 KFZ/h 7:30
+                                                                    672 KFZ/h 11.05.2017
+                                                 Kfz-Stromverteilung in der FSp 241                                  Wublitzstraße/Neue Dorfstr.
+StromPlan (FSp)241kp5-17.xls                                    Seite 2
+SVP, 461                                                                                                                                                   07.03.2018
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                           RAD         FSp               4          0       1                    5        0,7
+
+                          Wublitzstr.                                                                NSp                  6             4       3                 13  1,9
+                                                                                                     6h                  25            16      11                  52 1,6
+                          193                                                                 NFZ    FSp                56            19        1                 76 11,3
+                                           650                                                       NSp                22            71        4                 97 14,1
+                                                                                                     6h                179           230      14                 423 13,0
+                     12         181        457                                                SV     FSp                10              3       0                 13  1,9
+                                                                                                     NSp                  3             9       0                 12  1,7
+                                                                                                     6h                 34            37        0                 71 2,2
+                                                                                              KFZ FSp                  466           161      45                 672 100
+                                                                                                     NSp               193           470      26                 689 100
+                                                                                                     6h               1506          1600     160                3266 100
+
+
+
+
+                                                                                Wublitzstr.
+                                                                                              FZ     FSp               470           161      46                 677 100
+                                                         443                                         NSp               199           474      29                 702 100
+                                                                470
+                                                          27              OST                        6h               1531          1616     171                3318 100
+                                                                                              Q DTVw: 2,2             6769          6956     645
+                                                         193    663                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                              Bemerkungen :
+                                                                                              - Bombenentschärfung in Werder (ab 9.50 Uhr Zufahrt zur AB gesperrt)
+                                                                                              - Wetter früh 4-6°C sonnig, trocken;
+                     39         14         12                                                   nachmittag 24ºC sonnig, trocken
+                                                                                                  Sph-Beginn:        7.00       Uhr und     16.00 Uhr
+                     65                                                                       SUMME Zufahrten:                  [FSp]:       672 KFZ/h 7:30
+                                      26                                                                                        (NSp):       689 KFZ/h 16:30
+                               SÜD                                                                                                 6h :     3266 KFZ
+                      Neue Dorfstr.                                                           max. Sph /Zufahrt:                NORD         466 KFZ/h 7:30
+                                                                                                                                 OST         478 KFZ/h 16:00
+                                                                                                DATUM :                          SÜD          45 KFZ/h 7:30
+                                                                     689 KFZ/h 11.05.2017
+                                                 Kfz-Stromverteilung in der NSp 241                                  Wublitzstraße/Neue Dorfstr.
+StromPlan (NSp)241kp5-17.xls                                    Seite 3
+

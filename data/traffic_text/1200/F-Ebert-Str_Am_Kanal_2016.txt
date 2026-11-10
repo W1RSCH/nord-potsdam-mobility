@@ -1,0 +1,184 @@
+        SVP, 461                                                                                                                                                    19.02.2018
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                        NORD                                                                                      NORD OST SÜD WEST SUMME %
+                                                                                                               RAD    FSp            215     25           76     26             342     25,2
+                                    F.-Ebert-Str.                                                                     NSp            178     60          152     44             434     29,8
+                                                                                                                      6h              909   307          674    172            2062     26,1
+                                        771                901                                                 NFZ    FSp             41    69            13    65             188      18,6
+                                                                                                                      NSp             23    30            18    56             127      12,4
+                                                                                                                      6h             196   314            93   350              953     16,3
+                                  237    510   24          130                                                 SV     FSp             27    15            13      5              60      5,9
+                                                                                                                      NSp             15      3           17      4              39      3,8
+                                                                                                                      6h             127     60           91     44             322      5,5
+                                                                                                               KFZ FSp               114   363            13   523            1013       100
+                                                                                                                      NSp            172   387            18   447            1024       100
+                                                                                                                      6h             771 2242            130 2707             5850       100
+                                                                                                               FZ     FSp            329   388            89   549            1355
+
+
+
+
+                                                                                                    Am Kanal
+                                                                                                                                                                                         100
+
+
+
+
+       Yorkstr.
+                  5.186   2.479                                                 0                                     NSp            350   447           170   491            1458       100
+                                                                              2.242   2.242   OST                     6h            1680 2549            804  2879             7912      100
+
+WEST
+                          2.707                                                 0                              Q DTVw: 2,5          9690 14803           823 12695
+                  2.707
+                            0                                                 2.731   4.973                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Wetter früh 9°C stark bewölkt, Regen;
+                                                                                                                 nachmittag 11°C leicht bewölkt bis sonnig, trocken
+
+
+                                                                                                                   Sph-Beginn:      7:30     Uhr und   15:00 Uhr
+                                  510          130         0                                                   SUMME Zufahrten: [FSp] :  1013 KFZ/h                      8:00
+                                                                                                                                         1024 KFZ/h
+                                                                                                                                            (NSp):                       15:30
+                                  640                130                                                                            6h : 5850 KFZ
+                                                                                                               max. Sph /Zufahrt: NORD :  172 KFZ/h                      15:30
+                                               SÜD                                                                                 OST :  436 KFZ/h                      17:30
+                                        F.-Ebert-Str.                                                            DATUM :                     SÜD :        52 KFZ/h 9:30
+                                                                                              6h Werte 14.04.2016                          WEST :        526 KFZ/h 7:30
+
+                                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 120                               F.-Ebert-Str./Am Kanal
+
+
+
+        StromPlan120kp4-16.xlsx                                     Seite 1
+        SVP, 461                                                                                                                                                19.02.2018
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                           NORD                                                                               NORD OST SÜD WEST SUMME %
+                                                                                                           RAD    FSp            215     25           76     26             342     25,2
+                                      F.-Ebert-Str.                                                               NSp            178     60          152     44             434     29,8
+                                                                                                                  6h              909   307          674    172            2062     26,1
+                                            114              127                                           NFZ    FSp             41    69            13    65             188      18,6
+                                                                                                                  NSp             23    30            18    56             127      12,4
+                                                                                                                  6h             196   314            93   350              953     16,3
+                                     30     78    6          13                                            SV     FSp             27    15            13      5              60      5,9
+                                                                                                                  NSp             15      3           17      4              39      3,8
+                                                                                                                  6h             127     60           91     44             322      5,5
+                                                                                                           KFZ FSp               114   363            13   523            1013       100
+                                                                                                                  NSp            172   387            18   447            1024       100
+                                                                                                                  6h             771 2242            130 2707             5850       100
+                                                                                                           FZ     FSp            329   388            89   549            1355
+
+
+
+
+                                                                                                Am Kanal
+                                                                                                                                                                                     100
+
+
+
+
+       Yorkstr.
+                   916    393                                                  0                                  NSp            350   447           170   491            1458       100
+                                                                              363   363   OST                     6h            1680 2549            804  2879             7912      100
+
+WEST
+                          523                                                  0                           Q DTVw: 2,5          9690 14803           823 12695
+                   523
+                           0                                                  529   892                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Wetter früh 9°C stark bewölkt, Regen;
+                                                                                                             nachmittag 11°C leicht bewölkt bis sonnig, trocken
+
+
+                                                                                                               Sph-Beginn:      7:30     Uhr und   15:00 Uhr
+                                     78           13         0                                             SUMME Zufahrten: [FSp] :  1013 KFZ/h                      8:00
+                                                                                                                                     1024 KFZ/h
+                                                                                                                                        (NSp):                       15:30
+                                     91                 13                                                                      6h : 5850 KFZ
+                                                                                                           max. Sph /Zufahrt: NORD :  172 KFZ/h                      15:30
+                                                  SÜD                                                                          OST :  436 KFZ/h                      17:30
+                                          F.-Ebert-Str.                                                      DATUM :                     SÜD :        52 KFZ/h 9:30
+                                                                                      1.013 KFZ/h 14.04.2016                           WEST :        526 KFZ/h 7:30
+
+                                                                   Kfz-Stromverteilung in der FSp 120                              F.-Ebert-Str./Am Kanal
+
+
+
+        StromPlanFSP120kp4-16.xlsx                                  Seite 2
+        SVP, 461                                                                                                                                                 19.02.2018
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                            NORD                                                                               NORD OST SÜD WEST SUMME %
+                                                                                                            RAD    FSp            215     25           76     26             342     25,2
+                                       F.-Ebert-Str.                                                               NSp            178     60          152     44             434     29,8
+                                                                                                                   6h              909   307          674    172            2062     26,1
+                                             172              190                                           NFZ    FSp             41    69            13    65             188      18,6
+                                                                                                                   NSp             23    30            18    56             127      12,4
+                                                                                                                   6h             196   314            93   350              953     16,3
+                                     64      103   5          18                                            SV     FSp             27    15            13      5              60      5,9
+                                                                                                                   NSp             15      3           17      4              39      3,8
+                                                                                                                   6h             127     60           91     44             322      5,5
+                                                                                                            KFZ FSp               114   363            13   523            1013       100
+                                                                                                                   NSp            172   387            18   447            1024       100
+                                                                                                                   6h             771 2242            130 2707             5850       100
+                                                                                                            FZ     FSp            329   388            89   549            1355
+
+
+
+
+                                                                                                 Am Kanal
+                                                                                                                                                                                      100
+
+
+
+
+       Yorkstr.
+                   898   451                                                    0                                  NSp            350   447           170   491            1458       100
+                                                                               387   387   OST                     6h            1680 2549            804  2879             7912      100
+
+WEST
+                         447                                                    0                           Q DTVw: 2,5          9690 14803           823 12695
+                   447
+                           0                                                   452   839                    Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+                                                                                                            - Wetter früh 9°C stark bewölkt, Regen;
+                                                                                                              nachmittag 11°C leicht bewölkt bis sonnig, trocken
+
+
+                                                                                                                Sph-Beginn:      7:30     Uhr und   15:00 Uhr
+                                     103           18         0                                             SUMME Zufahrten: [FSp] :  1013 KFZ/h                      8:00
+                                                                                                                                      1024 KFZ/h
+                                                                                                                                         (NSp):                       15:30
+                                     121                 18                                                                      6h : 5850 KFZ
+                                                                                                            max. Sph /Zufahrt: NORD :  172 KFZ/h                      15:30
+                                                   SÜD                                                                          OST :  436 KFZ/h                      17:30
+                                           F.-Ebert-Str.                                                      DATUM :                     SÜD :        52 KFZ/h 9:30
+                                                                                       1.024 KFZ/h 14.04.2016                           WEST :        526 KFZ/h 7:30
+
+                                                                    Kfz-Stromverteilung in der NSp 120                              F.-Ebert-Str./Am Kanal
+
+
+
+        StromPlanNSP120kp4-16.xlsx                                   Seite 3
+

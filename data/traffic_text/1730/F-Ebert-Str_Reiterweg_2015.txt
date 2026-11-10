@@ -1,0 +1,178 @@
+       SVP, 461                                                                                                                                                  15.07.2015
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                           NORD  OST SÜD WEST SUMME %
+                                           NORD                                                           RAD        FSp         72         10        48        17         147      8,3
+
+                                     F.-Ebert-Str.                                                                   NSp         84         34      146         22         286     13,8
+
+                                                                                                                     6h        547        146       519        149       1361      12,0
+                                           412          978                                               NFZ        FSp         9       169         14        90         282      17,3
+                                                                                                                     NSp        14       148         21        72         255      14,2
+                                                                                                                     6h         71        922       101       459        1094      11,0
+                                    197     151   64    566                                               SV         FSp         5         67        10        48         130       8,0
+                                                                                                                     NSp         6         35        10        20          71       4,0
+                                                                                                                     6h         40        276        56       186         558       5,6
+                                                                                                          KFZ        FSp        59       923         74       577       1633       100
+                                                                                                                     NSp        82      1041       127        541       1791       100
+                                                                                                                     6h        412      5606        546      3426        9990      100
+                                                                                                          FZ         FSp       131        933       122       594        1780
+
+
+
+
+       Reiterweg
+                                                                                                                                                                                   100
+
+
+
+
+                                                                                              Alleestr.
+                   9.075   5.649                                            165                                      NSp       166      1075        273       563        2077      100
+                            231                                           5.238 5.606   OST                          6h        959       5752      1065      3575       11351      100
+
+WEST
+                   3.426   2.937                                            203                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                            258                                           3.163 8.769                     Bemerkungen :
+                                                                                                          - Teilzählung - Zuf. OG+WG wurden durch KP170 errechnet
+                                                                                                          - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+
+                                                                                                            Sph-Beginn: 8.30 Uhr und 15.30 Uhr
+                                                                                                          SUMME Zufahrten: [FSp] : 1633 KFZ/h 9:00
+                                    612     214   170   162                                                                  (NSp):   1791 KFZ/h 16:00
+                                                                                                                                 6h : 9990 KFZ
+                                   1.158                                                                  max. Sph /Zufahrt: NORD       82 KFZ/h 7:30
+                                                  546                                                                           OST 1041 KFZ/h 16:00
+                                                  SÜD                                                      DATUM :              SÜD    139 KFZ/h 16:30
+                                           F.-Ebert-Str.                                6h Werte 21.05.2015                            WEST         598 KFZ/h 7:30
+                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 173                           F.-Ebert-Str./Reiterweg
+
+
+
+       StromPlan173kp5-15.xls                                       1
+       SVP, 461                                                                                                                                                15.07.2015
+
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                         NORD  OST SÜD WEST SUMME %
+                                            NORD                                                        RAD        FSp         72         10        48        17         147      8,3
+
+                                       F.-Ebert-Str.                                                               NSp         84         34      146         22         286     13,8
+
+                                                                                                                   6h        547        146       519        149       1361      12,0
+                                             59          160                                            NFZ        FSp         9       169         14        90         282      17,3
+                                                                                                                   NSp        14       148         21        72         255      14,2
+                                                                                                                   6h         71        922       101       459        1094      11,0
+                                      26     26    7     101                                            SV         FSp         5         67        10        48         130       8,0
+                                                                                                                   NSp         6         35        10        20          71       4,0
+                                                                                                                   6h         40        276        56       186         558       5,6
+                                                                                                        KFZ        FSp        59       923         74       577       1633       100
+                                                                                                                   NSp        82      1041       127        541       1791       100
+                                                                                                                   6h        412      5606        546      3426        9990      100
+                                                                                                        FZ         FSp       131        933       122       594        1780
+
+
+
+
+       Reiterweg
+                                                                                                                                                                                 100
+
+
+
+
+                                                                                            Alleestr.
+                   1.477   900                                            28                                       NSp       166      1075        273       563        2077      100
+                           47                                            853    923   OST                          6h        959       5752      1065      3575       11351      100
+
+WEST
+                   577     453                                            42                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                           77                                            487 1.410                      Bemerkungen :
+                                                                                                        - Teilzählung - Zuf. OG+WG wurden durch KP170 errechnet
+                                                                                                        - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+
+                                                                                                          Sph-Beginn: 8.30 Uhr und 15.30 Uhr
+                                                                                                        SUMME Zufahrten: [FSp] : 1633 KFZ/h 9:00
+                                      145    21    26    27                                                                (NSp):   1791 KFZ/h 16:00
+                                                                                                                               6h : 9990 KFZ
+                                      219                                                               max. Sph /Zufahrt: NORD       82 KFZ/h 7:30
+                                                    74                                                                        OST 1041 KFZ/h 16:00
+                                                   SÜD                                                   DATUM :              SÜD    139 KFZ/h 16:30
+                                            F.-Ebert-Str.                        1.633 KFZ/h 21.05.2015                              WEST         598 KFZ/h 7:30
+                                                               Kfz-Stromverteilung in der FSp 173                             F.-Ebert-Str./Reiterweg
+
+
+
+       StromPlan (FSp)173kp5-15.xls                               2
+       SVP, 461                                                                                                                                               15.07.2015
+
+
+
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                        NORD  OST SÜD WEST SUMME %
+                                            NORD                                                       RAD        FSp         72         10        48        17         147      8,3
+
+                                       F.-Ebert-Str.                                                              NSp         84         34      146         22         286     13,8
+
+                                                                                                                  6h        547        146       519        149       1361      12,0
+                                             82          171                                           NFZ        FSp         9       169         14        90         282      17,3
+                                                                                                                  NSp        14       148         21        72         255      14,2
+                                                                                                                  6h         71        922       101       459        1094      11,0
+                                      47     18    17    89                                            SV         FSp         5         67        10        48         130       8,0
+                                                                                                                  NSp         6         35        10        20          71       4,0
+                                                                                                                  6h         40        276        56       186         558       5,6
+                                                                                                       KFZ        FSp        59       923         74       577       1633       100
+                                                                                                                  NSp        82      1041       127        541       1791       100
+                                                                                                                  6h        412      5606        546      3426        9990      100
+                                                                                                       FZ         FSp       131        933       122       594        1780
+
+
+
+
+       Reiterweg
+                                                                                                                                                                                100
+
+
+
+
+                                                                                           Alleestr.
+                   1.633   1.092                                          22                                      NSp       166      1075        273       563        2077      100
+                            30                                           982 1.041   OST                          6h        959       5752      1065      3575       11351      100
+
+WEST
+                   541      460                                           37                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                            51                                           504 1.545                     Bemerkungen :
+                                                                                                       - Teilzählung - Zuf. OG+WG wurden durch KP170 errechnet
+                                                                                                       - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+
+                                                                                                         Sph-Beginn: 8.30 Uhr und 15.30 Uhr
+                                                                                                       SUMME Zufahrten: [FSp] : 1633 KFZ/h 9:00
+                                      106    63    37    27                                                               (NSp):   1791 KFZ/h 16:00
+                                                                                                                              6h : 9990 KFZ
+                                      233                                                              max. Sph /Zufahrt: NORD       82 KFZ/h 7:30
+                                                   127                                                                       OST 1041 KFZ/h 16:00
+                                                   SÜD                                                  DATUM :              SÜD    139 KFZ/h 16:30
+                                            F.-Ebert-Str.                       1.791 KFZ/h 21.05.2015                              WEST         598 KFZ/h 7:30
+                                                               Kfz-Stromverteilung in der NSp 173                            F.-Ebert-Str./Reiterweg
+
+
+
+       StromPlan (NSp)173kp5-15.xls                                3
+

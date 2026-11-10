@@ -1,0 +1,161 @@
+       SVP, 461                                                                                                                                                                    12.12.2016
+
+
+
+
+                                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                             Zufahrt: NORD         OST SÜD WEST SUMME %
+                                                  NORD                                                                     RAD   FSp    13                       35     47        13      108       8,2
+
+                                             F.-Wolf-Str.                                                                         NSp    43     32                       37    25          137  8,5
+                                                                                                                                  6h    119    186                      193   110          608 7,6
+                                                   344           676                                                       NFZ    FSp     3    67                         8   77          155 12,8
+                                                                                                                                  NSp     4    57                       19    60          140   9,5
+                                                                                                                                  6h     23   317                        60  355           755 10,2
+                                         92        186    66     332                                                       SV     FSp     1      8                        0   20            29  2,4
+                                                                                                                                  NSp     0    10                         3   14            27  1,8
+                                                                                                                                  6h      3     60                        6    86          155 2,1
+                                                                                                                           KFZ FSp       45   608                       91   466         1210 100
+                                                                                                                                  NSp    68   590                      210   612         1480 100
+
+
+
+
+        H.-Mann-Allee                                                                                      H.-Mann-Allee
+                                                                                                                                  6h    344 3114                      1073 2888          7419 100
+                                                                                                                           FZ     FSp    58   643                      138   479         1318 100
+                        5.811   2.923                                                 82                                          NSp   111   622                      247   637         1617 100
+                                 116                                                 2.457   3.114   OST                          6h    463 3300                      1266  2998          8027 100
+
+WEST
+                        2.888   2.284                                                 575                                  Q DTVw: 2,4 1589 14168                     5457 13656
+                                 488                                                 2.915   6.029                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                           Bemerkungen :
+                                                                                                                           - die Straße Zum Jagenstein ist in Stadtplänen als "Saarmunder Str."
+                                                                                                                            abgebildet
+                                                                                                                           - Wetter früh 16ºC bewölkt, trocken; nachmittag 21ºC trocken
+                                                                                                                               Sph-Beginn:      7.30     Uhr und      15.30 Uhr
+
+                                         1.249     374    134    565                                                       SUMME Zufahrten: [FSp] :  1210 KFZ/h 8:00
+                                                                                                                                                     1480 KFZ/h 16:00
+                                                                                                                                                        (NSp):
+                                        2.322                                                                                                   6h : 7419 KFZ
+                                                         1.073                                                             max. Sph /Zufahrt: NORD :   71 KFZ/h 15:30
+                                                         SÜD                                                                                   OST :  608 KFZ/h 8:00
+                                                 Zum Jagenstein                                                              DATUM :                     SÜD :         262 KFZ/h 17:00
+                                                                                                     6h Werte 29.09.2016                               WEST :          612 KFZ/h 16:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 433                                H.-Mann-Allee/F.-Wolf-Str.
+
+
+
+       StromPlan433kp9-16.xls                                              Seite 1
+       SVP, 461                                                                                                                                                        12.12.2016
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD         OST SÜD WEST SUMME %
+                                             NORD                                                              RAD   FSp    13                       35     47        13      108       8,2
+
+                                        F.-Wolf-Str.                                                                  NSp    43     32                       37    25          137  8,5
+                                                                                                                      6h    119    186                      193   110          608 7,6
+                                              45          101                                                  NFZ    FSp     3    67                         8   77          155 12,8
+                                                                                                                      NSp     4    57                       19    60          140   9,5
+                                                                                                                      6h     23   317                        60  355           755 10,2
+                                      9       29    7     56                                                   SV     FSp     1      8                        0   20            29  2,4
+                                                                                                                      NSp     0    10                         3   14            27  1,8
+                                                                                                                      6h      3     60                        6    86          155 2,1
+                                                                                                               KFZ FSp       45   608                       91   466         1210 100
+                                                                                                                      NSp    68   590                      210   612         1480 100
+
+
+
+
+        H.-Mann-Allee                                                                          H.-Mann-Allee
+                                                                                                                      6h    344 3114                      1073 2888          7419 100
+                                                                                                               FZ     FSp    58   643                      138   479         1318 100
+                        969   503                                          20                                         NSp   111   622                      247   637         1617 100
+                              24                                           467   608     OST                          6h    463 3300                      1266  2998          8027 100
+
+WEST
+                        466   359                                          121                                 Q DTVw: 2,4 1589 14168                     5457 13656
+                              83                                           418   1.026                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - die Straße Zum Jagenstein ist in Stadtplänen als "Saarmunder Str."
+                                                                                                                abgebildet
+                                                                                                               - Wetter früh 16ºC bewölkt, trocken; nachmittag 21ºC trocken
+                                                                                                                   Sph-Beginn:      7.30     Uhr und      15.30 Uhr
+                                      233     27    12    52                                                   SUMME Zufahrten: [FSp] :  1210 KFZ/h 8:00
+                                                                                                                                         1480 KFZ/h 16:00
+                                                                                                                                            (NSp):
+                                      324                                                                                           6h : 7419 KFZ
+                                                     91                                                        max. Sph /Zufahrt: NORD :   71 KFZ/h 15:30
+                                                    SÜD                                                                            OST :  608 KFZ/h 8:00
+                                            Zum Jagenstein                                                       DATUM :                     SÜD :         262 KFZ/h 17:00
+                                                                                    1.210 KFZ/h 29.09.2016                                 WEST :          612 KFZ/h 16:00
+                                                                Kfz-Stromverteilung in der FSp 433                                H.-Mann-Allee/F.-Wolf-Str.
+
+
+
+       StromPlan (FSp)433kp9-16.xls                              Seite 2
+       SVP, 461                                                                                                                                                        12.12.2016
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD         OST SÜD WEST SUMME %
+                                             NORD                                                              RAD   FSp    13                       35     47        13      108       8,2
+
+                                        F.-Wolf-Str.                                                                  NSp    43     32                       37    25          137  8,5
+                                                                                                                      6h    119    186                      193   110          608 7,6
+                                              68          131                                                  NFZ    FSp     3    67                         8   77          155 12,8
+                                                                                                                      NSp     4    57                       19    60          140   9,5
+                                                                                                                      6h     23   317                        60  355           755 10,2
+                                      18      36    14    63                                                   SV     FSp     1      8                        0   20            29  2,4
+                                                                                                                      NSp     0    10                         3   14            27  1,8
+                                                                                                                      6h      3     60                        6    86          155 2,1
+                                                                                                               KFZ FSp       45   608                       91   466         1210 100
+                                                                                                                      NSp    68   590                      210   612         1480 100
+
+
+
+
+        H.-Mann-Allee                                                                          H.-Mann-Allee
+                                                                                                                      6h    344 3114                      1073 2888          7419 100
+                                                                                                               FZ     FSp    58   643                      138   479         1318 100
+                        1.154   542                                        16                                         NSp   111   622                      247   637         1617 100
+                                24                                         460   590     OST                          6h    463 3300                      1266  2998          8027 100
+
+WEST
+                        612     503                                        114                                 Q DTVw: 2,4 1589 14168                     5457 13656
+                                85                                         640   1.230                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - die Straße Zum Jagenstein ist in Stadtplänen als "Saarmunder Str."
+                                                                                                                abgebildet
+                                                                                                               - Wetter früh 16ºC bewölkt, trocken; nachmittag 21ºC trocken
+                                                                                                                   Sph-Beginn:      7.30     Uhr und      15.30 Uhr
+                                      235     64    23    123                                                  SUMME Zufahrten: [FSp] :  1210 KFZ/h 8:00
+                                                                                                                                         1480 KFZ/h 16:00
+                                                                                                                                            (NSp):
+                                      445                                                                                           6h : 7419 KFZ
+                                                    210                                                        max. Sph /Zufahrt: NORD :   71 KFZ/h 15:30
+                                                    SÜD                                                                            OST :  608 KFZ/h 8:00
+                                            Zum Jagenstein                                                       DATUM :                     SÜD :         262 KFZ/h 17:00
+                                                                                    1.480 KFZ/h 29.09.2016                                 WEST :          612 KFZ/h 16:00
+                                                                Kfz-Stromverteilung in der NSp 433                                H.-Mann-Allee/F.-Wolf-Str.
+
+
+
+       StromPlan (NSp)433kp9-16.xls                              Seite 3
+

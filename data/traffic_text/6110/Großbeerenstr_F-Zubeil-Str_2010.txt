@@ -1,0 +1,169 @@
+                                                                                                                             28.09.2011
+
+
+
+
+                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                               OST SÜD WEST     SUMME %
+                                                                           RAD        FSp        63       10        51                124   10,1
+                                                                                      NSp        89       13        89                191   12,8
+                                                                                      6h        455       57       416                928   12,2
+                                                                           NFZ        FSp       68       21        46                135    12,2
+
+                           Großbeerenstr.                                             NSp
+                                                                                      6h
+                                                                                                36
+                                                                                               305
+                                                                                                         14
+                                                                                                          97
+                                                                                                                   42
+                                                                                                                  289
+                                                                                                                                       92
+                                                                                                                                      691
+                                                                                                                                             7,1
+                                                                                                                                            10,3
+                                                                           SV         FSp       22         7       22                  51    4,6
+                                                                                      NSp       12         4       15                  31    2,4
+                                                                                      6h       105        26      122                 253    3,8
+                                                                           KFZ        FSp      486      118       505               1109    100
+                                                                                      NSp      565      187       545               1297    100
+                                                                                      6h      2852      865      2962               6679    100
+           6.074   3.112                                                   FZ         FSp      549      128       556               1233    100
+                                                       2.605 2.852   OST              NSp      654      200       634               1488    100
+
+WEST
+           2.962   2.442                                 247                          6h      3307       922     3378                7607   100
+                    520                                2.800 5.652         Bemerkungen :
+                                                                           - Wetter: früh 15º C bewölkt, teileweise Regen;
+                                                                           nachmittags 24º C leicht bewölkt, trocken
+
+
+
+
+                                                                                Sph-Beginn:       9.00 Uhr und 16.30 Uhr
+                                                                           SUMME Zufahrten: [FSp]: 1109 KFZ/h 9:30
+                              767    507         358                                          (NSp): 1297 KFZ/h 17:00
+                                                                                                 6h : 6679 KFZ
+                             1.632                                         max. Sph /Zufahrt:   OST    589 KFZ/h 16:00
+                                           865                                                  SÜD    187 KFZ/h 17:00
+                                                 SÜD                        DATUM :            WEST    545 KFZ/h 17:00
+                             F.-Zubeil-Str.                                27.05.2010
+                                                                            611               Großbeerenstr./F.-Zubeil-Str.
+
+
+
+
+       SVP, 461                                                                                                   StromPlan611kp5-10.xls
+                                                                                                                                    28.09.2011
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                      OST SÜD WEST     SUMME %
+                                                                                  RAD        FSp        63       10        51               124   10,1
+                                                                                             NSp        89       13        89               191   12,8
+                                                                                             6h        455       57       416               928   12,2
+                                                                                  NFZ        FSp       68       21        46               135    12,2
+
+                         Großbeerenstr.                                                      NSp
+                                                                                             6h
+                                                                                                       36
+                                                                                                      305
+                                                                                                                14
+                                                                                                                 97
+                                                                                                                          42
+                                                                                                                         289
+                                                                                                                                             92
+                                                                                                                                            691
+                                                                                                                                                   7,1
+                                                                                                                                                  10,3
+                                                                                  SV         FSp       22         7       22                 51    4,6
+                                                                                             NSp       12         4       15                 31    2,4
+                                                                                             6h       105        26      122                253    3,8
+                                                                                  KFZ        FSp      486      118       505              1109    100
+                                                                                             NSp      565      187       545              1297    100
+                                                                                             6h      2852      865      2962              6679    100
+           1.004   499                                                            FZ         FSp      549      128       556              1233    100
+                                                               435    486   OST              NSp      654      200       634              1488    100
+
+WEST
+            505    424                                          51                           6h      3307       922     3378               7607   100
+                   81                                          478    964         Bemerkungen :
+                                                                                  - Wetter: früh 15º C bewölkt, teileweise Regen;
+                                                                                  nachmittags 24º C leicht bewölkt, trocken
+
+
+
+
+                                                                                       Sph-Beginn:       9.00 Uhr und 16.30 Uhr
+                                                                                  SUMME Zufahrten: [FSp]: 1109 KFZ/h 9:30
+                           132   64         54                                                       (NSp): 1297 KFZ/h 17:00
+                                                                                                        6h : 6679 KFZ
+                           250                                                    max. Sph /Zufahrt:   OST    589 KFZ/h 16:00
+                                      118                                                              SÜD    187 KFZ/h 17:00
+                                            SÜD                                    DATUM :            WEST    545 KFZ/h 17:00
+                           F.-Zubeil-Str.                            1.109 KFZ/h 27.05.2010
+                                                  Kfz-Stromverteilung in der FSp 611                 Großbeerenstr./F.-Zubeil-Str.
+
+
+
+
+       SVP, 461                                                                                                     StromPlan FSp611kp5-10.xls
+                                                                                                                                    28.09.2011
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                      OST SÜD WEST     SUMME %
+                                                                                  RAD        FSp        63       10        51               124   10,1
+                                                                                             NSp        89       13        89               191   12,8
+                                                                                             6h        455       57       416               928   12,2
+                                                                                  NFZ        FSp       68       21        46               135    12,2
+
+                         Großbeerenstr.                                                      NSp
+                                                                                             6h
+                                                                                                       36
+                                                                                                      305
+                                                                                                                14
+                                                                                                                 97
+                                                                                                                          42
+                                                                                                                         289
+                                                                                                                                             92
+                                                                                                                                            691
+                                                                                                                                                   7,1
+                                                                                                                                                  10,3
+                                                                                  SV         FSp       22         7       22                 51    4,6
+                                                                                             NSp       12         4       15                 31    2,4
+                                                                                             6h       105        26      122                253    3,8
+                                                                                  KFZ        FSp      486      118       505              1109    100
+                                                                                             NSp      565      187       545              1297    100
+                                                                                             6h      2852      865      2962              6679    100
+           1.163   618                                                            FZ         FSp      549      128       556              1233    100
+                                                                512 565     OST              NSp      654      200       634              1488    100
+
+WEST
+            545    466                                           53                          6h      3307       922     3378               7607   100
+                   79                                           547 1.112         Bemerkungen :
+                                                                                  - Wetter: früh 15º C bewölkt, teileweise Regen;
+                                                                                  nachmittags 24º C leicht bewölkt, trocken
+
+
+
+
+                                                                                       Sph-Beginn:       9.00 Uhr und 16.30 Uhr
+                                                                                  SUMME Zufahrten: [FSp]: 1109 KFZ/h 9:30
+                           132   106         81                                                      (NSp): 1297 KFZ/h 17:00
+                                                                                                        6h : 6679 KFZ
+                           319                                                    max. Sph /Zufahrt:   OST    589 KFZ/h 16:00
+                                       187                                                             SÜD    187 KFZ/h 17:00
+                                             SÜD                                   DATUM :            WEST    545 KFZ/h 17:00
+                           F.-Zubeil-Str.                           1.297 KFZ/h 27.05.2010
+                                                   Kfz-Stromverteilung in der NSp 611                Großbeerenstr./F.-Zubeil-Str.
+
+
+
+
+       SVP, 461                                                                                                     StromPlan NSp611kp5-10.xls
+

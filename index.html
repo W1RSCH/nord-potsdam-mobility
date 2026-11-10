@@ -1,0 +1,743 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Nord-Potsdam | Mobility Intelligence</title>
+<link rel="preconnect" href="https://unpkg.com">
+<link rel="preconnect" href="https://tile.openstreetmap.org">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+
+:root{color-scheme:dark;--bg:#05070a;--panel:rgba(13,17,23,.88);--panel-strong:rgba(10,14,19,.96);--line:rgba(230,240,255,.13);--text:#eef3f8;--muted:#8e9baa;--accent:#a8c8ff;--shadow:0 18px 48px rgba(0,0,0,.38)}
+*{box-sizing:border-box}html,body{height:100%;margin:0;background:var(--bg);color:var(--text);font:13px/1.45 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;overflow:hidden}
+button,input{font:inherit}button{color:inherit}#map{position:absolute;inset:0;background:#030507;z-index:1}
+/* Floating chrome */
+.topbar{position:absolute;z-index:800;top:16px;left:16px;right:16px;display:flex;align-items:center;justify-content:space-between;gap:12px;pointer-events:none}
+.brand,.top-actions{pointer-events:auto;background:var(--panel);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:15px}
+.brand{display:flex;align-items:center;gap:11px;padding:10px 14px}.brandmark{width:32px;height:32px;border-radius:10px;display:grid;place-items:center;background:linear-gradient(135deg,#9fc5ff,#4f7fc6);color:#07111e;font-size:15px;font-weight:900;box-shadow:0 5px 18px #5d8fd944}.brandtext strong{display:block;font-size:12px;letter-spacing:1.2px;font-weight:800}.brandtext small{display:block;color:var(--muted);font-size:10px;margin-top:1px}
+.top-actions{display:flex;align-items:center;gap:6px;padding:6px}.mode-label{font-size:10px;color:var(--muted);padding:0 5px 0 7px}.pillbtn{border:1px solid transparent;background:transparent;border-radius:9px;padding:7px 10px;font-size:11px;color:#aab5c2;cursor:pointer;transition:.18s}.pillbtn:hover{background:#ffffff0c;color:#fff}.pillbtn.active{background:#e7f0ff;color:#101923;font-weight:800}
+.status{font-size:10px;color:#9bb6d6;padding:0 9px;white-space:nowrap}
+/* Layer console */
+.console{position:absolute;z-index:750;top:82px;left:16px;width:320px;max-height:calc(100vh - 110px);overflow:auto;background:var(--panel);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);scrollbar-width:thin;scrollbar-color:#34404d transparent}
+.console-head{display:flex;align-items:flex-start;justify-content:space-between;padding:15px 15px 12px;border-bottom:1px solid var(--line)}.eyebrow{font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:#91b5e8;font-weight:800}.console-head h1{font-size:17px;letter-spacing:-.4px;margin:3px 0 1px}.console-head p{margin:0;color:var(--muted);font-size:10px}.icon-btn{border:1px solid var(--line);background:#ffffff08;border-radius:8px;padding:5px 8px;color:#bac6d3;cursor:pointer}
+.console-body{padding:0 13px 13px}.group{border-bottom:1px solid var(--line);padding:11px 1px 10px}.group:last-child{border-bottom:0}.group-title{display:flex;align-items:center;justify-content:space-between;margin:0 0 8px;color:#dce5ee;font-size:10px;font-weight:850;text-transform:uppercase;letter-spacing:1px;cursor:pointer;user-select:none;gap:8px}.group-title:hover{color:#fff}.group-collapse-mark{display:inline-grid;place-items:center;flex:none;width:18px;height:18px;border:1px solid var(--line);border-radius:6px;color:#b8c8da;font-size:13px;line-height:1;margin-left:auto}.group.collapsed>:not(.group-title){display:none}.group-title small{font-size:9px;color:#8290a0;font-weight:600;letter-spacing:0;text-transform:none}.layer{display:flex;align-items:center;gap:9px;min-height:29px;padding:4px 5px;border-radius:7px;color:#c8d2de;font-size:11px;cursor:pointer;transition:background .15s}.layer:hover{background:#ffffff09}.layer input{appearance:none;width:14px;height:14px;flex:none;border-radius:4px;border:1px solid #586574;background:#111820;display:grid;place-items:center;margin:0;cursor:pointer}.layer input:checked{background:#cbdfff;border-color:#cbdfff}.layer input:checked:after{content:'✓';font-size:10px;color:#101923;font-weight:900}.layer em{font-style:normal;color:#8391a0;font-size:9px;margin-left:auto}.swatch{width:9px;height:9px;flex:none;border-radius:3px;background:var(--sw,#fff);box-shadow:0 0 0 1px #ffffff22}.layer-sub{padding-left:18px}.layer-info{font-size:9px;line-height:1.45;color:#8997a6;padding:5px 5px 1px}.sliderline{display:flex;align-items:center;gap:10px;padding:5px 5px 1px;color:#aab7c5;font-size:10px}.sliderline input{width:100%;accent-color:#b4d0ff}.slider-value{min-width:42px;text-align:right;color:#e3edf8;font-variant-numeric:tabular-nums}
+.console-foot{padding:10px 14px 13px;border-top:1px solid var(--line);color:#8492a0;font-size:9px;line-height:1.5}.console-foot b{color:#bdc9d6}
+/* Right-side floating panels */
+.legend{position:absolute;z-index:700;right:16px;bottom:18px;min-width:190px;max-width:245px;max-height:45vh;overflow:auto;padding:12px 14px;background:var(--panel);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}.legend h3{margin:0 0 8px;font-size:10px;text-transform:uppercase;letter-spacing:1px}.legend-row{display:flex;align-items:center;gap:8px;color:#c5d0dc;font-size:10px;margin:5px 0}.legend-dot{width:12px;height:8px;border-radius:2px;flex:none;background:var(--c)}.legend-line{width:19px;height:2px;background:var(--c);flex:none}.legend-gradient{height:8px;border-radius:4px;background:linear-gradient(90deg,#075b39 0%,#42a66a 25%,#d1c94f 50%,#e9943b 75%,#b92732 100%);margin:8px 0 4px}.legend-scale{display:flex;justify-content:space-between;color:#8392a1;font-size:8px}
+.map-tools{position:absolute;z-index:700;right:16px;top:82px;display:flex;flex-direction:column;gap:7px}.toolbtn{width:36px;height:36px;border:1px solid var(--line);border-radius:11px;background:var(--panel);backdrop-filter:blur(15px);box-shadow:var(--shadow);color:#d4deea;cursor:pointer;font-size:16px}.toolbtn:hover{background:#263343}
+.map-status{position:absolute;z-index:700;left:16px;bottom:16px;max-width:calc(100vw - 410px);padding:7px 10px;border:1px solid var(--line);border-radius:9px;background:var(--panel);backdrop-filter:blur(16px);color:#96a5b4;font-size:9px;box-shadow:var(--shadow)}.map-status strong{color:#dce7f3;font-weight:700}.toast{position:absolute;z-index:1000;top:78px;left:50%;transform:translateX(-50%);display:none;max-width:min(520px,90vw);background:#171f29;border:1px solid #445263;color:#eaf1f8;padding:10px 14px;border-radius:10px;box-shadow:var(--shadow);font-size:11px}
+/* Leaflet styling */
+.leaflet-container{font:inherit}.leaflet-control-zoom{border:1px solid #ffffff1b!important;border-radius:10px!important;overflow:hidden;box-shadow:var(--shadow)!important}.leaflet-control-zoom a{background:#111820!important;color:#e1eaf5!important;border:0!important}.leaflet-control-attribution{background:rgba(8,11,15,.78)!important;color:#8794a1!important;border-radius:5px 0 0 0;font-size:9px!important}.leaflet-control-attribution a{color:#c0d5f2!important}.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:#151d27;color:#e9f0f7}.leaflet-popup-content{font-size:11px}.leaflet-popup-content b{color:#fff}.leaflet-popup-content small{color:#a5b3c2}
+body.regular #map{background:#e7e9eb}body.regular .console,body.regular .legend,body.regular .brand,body.regular .top-actions,body.regular .toolbtn,body.regular .map-status{background:rgba(250,252,255,.92);border-color:#d5dde6;color:#1d2a38}body.regular .console-head p,body.regular .layer-info,body.regular .console-foot,body.regular .legend-row,body.regular .mode-label,body.regular .status{color:#657486}body.regular .group-title,body.regular .layer,body.regular .legend h3{color:#253447}body.regular .console-foot b{color:#34485f}body.regular .pillbtn{color:#536477}body.regular .pillbtn.active{background:#182b43;color:#fff}body.regular .layer input{background:#fff;border-color:#a6b2bf}body.regular .layer input:checked{background:#263d5a;border-color:#263d5a}body.regular .layer input:checked:after{color:#fff}body.regular .icon-btn,body.regular .toolbtn{color:#304459;background:#f6f8fb}
+@media(max-width:720px){.topbar{top:8px;left:8px;right:8px;align-items:flex-start}.brand{padding:8px}.brandtext strong{font-size:10px}.brandtext small{font-size:9px}.top-actions{gap:2px;padding:4px}.mode-label,.status{display:none}.pillbtn{padding:7px 8px;font-size:10px}.console{top:68px;left:8px;width:min(310px,calc(100vw - 16px));max-height:calc(100vh - 88px)}.legend{right:8px;bottom:8px;min-width:150px;max-width:180px;padding:9px 10px}.map-tools{right:8px;top:68px}.map-status{left:8px;bottom:8px;max-width:calc(100vw - 200px);font-size:8px}.console-head h1{font-size:15px}}
+
+/* Additional thematic markers */
+.poi-icon{width:17px;height:17px;border:2px solid #f5f8fc;box-shadow:0 2px 8px #000a;display:grid;place-items:center;color:#07111a;font-size:9px;font-weight:950;line-height:1}
+.poi-icon.education{background:#5ca5ed;border-radius:5px}
+.poi-icon.kindergarten{background:#e6a44c;border-radius:50%}
+.poi-icon.leisure{background:#5bc1b1;border-radius:50%}
+.poi-icon.parking{background:#e4bf62;border-radius:4px;transform:rotate(45deg)}
+.stop-icon{width:13px;height:13px;display:block;border:2px solid #f8fbff;box-shadow:0 2px 7px #000c}
+.stop-icon.bus{background:#38a8ed;border-radius:50%}
+.stop-icon.tram{background:#e53935;transform:rotate(45deg);border-radius:2px}
+.stop-icon.rail{width:15px;height:15px;background:#e9eef5;border-radius:3px}
+.stop-icon.sbahn{width:15px;height:15px;background:#ef9b44;border-radius:3px}
+.stop-icon.regional{width:15px;height:15px;background:#c88be8;border-radius:3px}
+.stop-icon.interchange{width:20px;height:20px;background:#bd83ee;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 3px #6d43a8aa,0 2px 9px #000d}
+body.regular .poi-icon,body.regular .stop-icon{border-color:#182432;box-shadow:0 1px 5px #0005}
+
+
+.poi-icon.social{background:#b77eb5;border-radius:50%}.poi-icon.parkride{background:#e2a75d;border-radius:4px}.poi-icon.bikeparking{background:#60b89b;border-radius:50%}.poi-icon.sharing{background:#a58bdd;border-radius:5px}.stop-icon.bus{background:#4aa6df;border-radius:50%}.stop-icon.tram{background:#e53935;transform:rotate(45deg);border-radius:2px}.stop-icon.sbahn{background:#ef963d;border-radius:3px}.stop-icon.regional{background:#bd8ade;border-radius:3px}.stop-icon.interchange{width:19px;height:19px;background:#bd83ee;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 3px #6d43a8aa,0 2px 9px #000d}.poi-icon.education{background:#5ca5ed;border-radius:5px}.poi-icon.leisure{background:#5bc1b1;border-radius:50%}.poi-icon.parking{background:#e4bf62;border-radius:4px;transform:rotate(45deg)}body.regular .poi-icon,body.regular .stop-icon{border-color:#182432;box-shadow:0 1px 5px #0005}
+
+
+/* v5 visual refinement */
+.poi-icon{width:27px;height:27px;border:2px solid rgba(255,255,255,.98);box-shadow:0 0 0 2px #0008,0 3px 11px #000c;display:grid;place-items:center;color:#07111a;font-size:14px;font-weight:900;line-height:1;border-radius:8px;background:#5ca5ed}
+.poi-icon.education{background:#4b91d0;border-radius:7px}.poi-icon.social{background:#b77eb5;border-radius:50%}.poi-icon.leisure{background:#30a99f;border-radius:50%}.poi-icon.commerce{background:#d7a54c;border-radius:7px}.poi-icon.parking{background:#d7ad4f;border-radius:5px}.poi-icon.parkride{background:#d7a54c;border-radius:5px}.poi-icon.bikeparking{background:#60b89b;border-radius:50%}.poi-icon.sharing{background:#a58bdd;border-radius:7px}.poi-icon.counts{background:#d58b34;border-radius:50%;color:#101820;font-size:16px}
+.legend-symbol{width:18px;height:18px;display:inline-grid;place-items:center;border-radius:5px;background:var(--symbol-bg,#b77eb5);color:#101820;font-size:12px;font-weight:900;flex:none;margin-right:2px}.traffic-signal-icon{width:30px;height:40px;display:grid;place-items:center;background:#101820;border:2px solid #ffe08a;border-radius:10px;color:#fff;font-size:18px;line-height:1;box-shadow:0 0 0 3px #000b,0 3px 13px #000e}.signal-lights{display:flex;flex-direction:column;gap:3px;padding:3px}.signal-lights b{display:block;width:8px;height:8px;border-radius:50%;border:1px solid #ffffff88;box-shadow:0 0 5px currentColor}.signal-lights b:nth-child(1){background:#fa5757;color:#fa5757}.signal-lights b:nth-child(2){background:#f9c84b;color:#f9c84b}.signal-lights b:nth-child(3){background:#4bc878;color:#4bc878}
+body.regular .poi-icon,body.regular .traffic-signal-icon{border-color:#fff;box-shadow:0 1px 6px #0008}
+.leaflet-marker-icon{pointer-events:auto}
+
+
+.toolbtn svg{display:block;margin:auto}.toolbtn.sensor-add{font-size:25px;font-weight:300;color:#e5d18b;background:rgba(20,24,29,.94)}
+.sensor-marker{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:#f0d36b;border:2px solid #18202a;box-shadow:0 0 0 3px #f0d36b55,0 3px 12px #000c;color:#19212a;font-size:17px;font-weight:900}
+.sensor-modal{display:none;position:absolute;inset:0;z-index:1500;background:#030609b8;backdrop-filter:blur(5px);align-items:center;justify-content:center;padding:18px}.sensor-modal.open{display:flex}.sensor-card{width:min(760px,96vw);max-height:90vh;overflow:auto;background:rgba(13,18,25,.98);border:1px solid #ffffff24;border-radius:18px;box-shadow:0 24px 80px #000c;color:#edf3f8}.sensor-card-head{display:flex;justify-content:space-between;align-items:flex-start;padding:17px 20px 14px;border-bottom:1px solid #ffffff18}.sensor-card-head h2{font-size:18px;margin:4px 0}.sensor-card-head p{font-size:11px;color:#96a4b2;margin:0}.sensor-form-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:16px 20px}.sensor-form-grid label{display:flex;flex-direction:column;gap:5px;font-size:10px;color:#b9c7d5}.sensor-form-grid input,.sensor-form-grid select,.sensor-form-grid textarea{width:100%;background:#080d13;border:1px solid #344251;color:#edf3f8;border-radius:8px;padding:8px 9px;font:inherit;font-size:11px;min-height:34px}.sensor-form-grid select[multiple]{height:103px}.sensor-form-grid small{color:#8190a0;font-size:9px}.sensor-form-grid .wide{grid-column:1/-1}.sensor-card-actions{display:flex;justify-content:flex-end;gap:8px;padding:0 20px 12px}.sensor-hint{font-size:9px;color:#93a2b1;padding:0 20px 17px}.route-select{border:1px solid #64758a;background:#263647;color:#eaf3ff;border-radius:5px;padding:2px 6px;margin:3px 4px 0 0;cursor:pointer;font-size:10px}.route-select:hover{background:#405772}.model-action{margin:5px 5px 4px;background:#192534;border-color:#3c526a;color:#dbeaff}.model-action:hover{background:#263b53}
+@media(max-width:600px){.sensor-form-grid{grid-template-columns:1fr}.sensor-form-grid .wide{grid-column:auto}.sensor-card{max-height:94vh}}
+
+
+/* v9: compact status bars; never allow numeric model metrics to stretch the map chrome */
+.topbar{min-width:0}.top-actions{min-width:0;max-width:calc(100vw - 210px);flex:1;overflow:hidden}.status{display:block;flex:1 1 240px;min-width:0;max-width:min(44vw,560px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.map-status{min-width:0;width:max-content;max-width:min(680px,calc(100vw - 390px));overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media(max-width:720px){.top-actions{flex:0 1 auto;max-width:none}.status{display:none}.map-status{max-width:calc(100vw - 190px)}}
+.toolbox-wrap{position:relative;display:flex;justify-content:flex-end}
+.tool-flyout{position:absolute;right:43px;top:0;display:flex;gap:6px;width:0;overflow:hidden;opacity:0;transform:translateX(8px);transition:width .24s cubic-bezier(.2,.8,.2,1),opacity .18s ease,transform .24s ease;pointer-events:none}
+.tool-flyout.open{width:88px;opacity:1;transform:translateX(0);pointer-events:auto}
+.toolbtn.tool-active{background:#dceaff;color:#142236;border-color:#dceaff}
+.annotation-panel,.measure-panel{position:absolute;z-index:900;right:62px;top:292px;width:218px;padding:11px;background:rgba(13,17,23,.94);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);display:none}
+.annotation-panel.open{display:block;animation:panelIn .18s ease-out}
+@keyframes panelIn{from{opacity:0;transform:translateX(7px) scale(.98)}to{opacity:1;transform:translateX(0) scale(1)}}
+.annotation-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:9px;font-size:10px;font-weight:800;letter-spacing:.8px;text-transform:uppercase;color:#dce7f4}
+.annotation-actions{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.annotation-action{border:1px solid #ffffff1a;background:#ffffff09;color:#dce7f4;border-radius:9px;padding:8px 7px;font-size:10px;cursor:pointer;transition:.16s}
+.annotation-action:hover{background:#ffffff17}.annotation-action.active{background:#dceaff;color:#142236;border-color:#dceaff}
+.annotation-help{font-size:9px;color:#8e9baa;line-height:1.45;margin-top:8px}.measure-panel{position:absolute;z-index:900;right:62px;top:292px;width:218px;padding:11px;background:rgba(13,17,23,.94);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);display:none}.measure-panel.open{display:block}.measure-panel .annotation-head{display:flex;align-items:center;justify-content:space-between;font-size:10px;font-weight:850;letter-spacing:.8px;text-transform:uppercase;color:#dce7f3}.measure-panel .annotation-actions{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:9px}.measure-panel .annotation-action{border:1px solid var(--line);background:#ffffff09;color:#dce7f3;border-radius:8px;padding:7px 8px;font-size:10px;cursor:pointer}.measure-panel .annotation-action:hover{background:#ffffff14}.measure-panel .annotation-help{font-size:9px;color:#8e9baa;line-height:1.45;margin-top:8px}
+body.map-drawing #map{cursor:crosshair!important}body.map-drawing .leaflet-grab{cursor:crosshair!important}
+.measure-label{background:rgba(11,18,26,.94);border:1px solid #9fc5ff;border-radius:8px;padding:4px 7px;color:#eef5ff;font-size:11px;font-weight:800;white-space:nowrap;box-shadow:0 3px 12px #0009}
+.draw-anchor{width:9px;height:9px;border-radius:50%;background:#d8e8ff;border:2px solid #182637;box-shadow:0 1px 5px #0009}
+
+</style>
+<body>
+<div id="map" aria-label="Interaktive Karte Potsdam"></div>
+<div class="topbar">
+  <div class="brand"><div class="brandmark">N</div><div class="brandtext"><strong>NORD-POTSDAM / MOBILITY INTELLIGENCE</strong><small>Verkehrsmanagement · IST-Zustand und Netzpriorisierung</small></div></div>
+  <div class="top-actions"><span class="mode-label">KARTENMODUS</span><button class="pillbtn active" id="darkMode">Minimal Dark</button><button class="pillbtn" id="regularMode">Klassisch</button><button class="pillbtn" id="satelliteMode">Satellit</button><span class="status" id="dataStatus">Daten werden geladen …</span></div>
+</div>
+<aside class="console" id="console">
+ <div class="console-head"><div><div class="eyebrow">Layer control</div><h1>Kartenebenen</h1><p>Analyseansicht konfigurieren</p></div><button class="icon-btn" id="collapseAll" title="Layergruppen einklappen">−</button></div>
+ <div class="console-body">
+  <section class="group">
+   <div class="group-title">Siedlungsstruktur <small>ALKIS · tatsächliche Nutzung</small></div>
+   <label class="layer"><input type="checkbox" data-layer="housing"><i class="swatch" style="--sw:#368d54"></i>Wohnflächen · ALKIS</label>
+   <label class="layer"><input type="checkbox" data-layer="population"><i class="swatch" style="--sw:#cf554a"></i>Einwohnerdichte · Zensus 2022 / 100 m</label>
+   <label class="layer"><input type="checkbox" data-layer="resBuildings"><i class="swatch" style="--sw:#68a9dc"></i>Wohngebäude · Zensus 2022 / 100 m</label>
+   <label class="layer"><input type="checkbox" data-layer="work"><i class="swatch" style="--sw:#4b91d0"></i>Arbeits- und Gewerbestandorte</label>
+   <label class="layer"><input type="checkbox" data-layer="mixed"><i class="swatch" style="--sw:#4caaa1"></i>Gemischte Nutzung</label>
+   <label class="layer"><input type="checkbox" data-layer="special"><i class="swatch" style="--sw:#9a78bd"></i>Besondere Nutzungsflächen</label>
+   <label class="layer"><input type="checkbox" data-layer="services"><i class="swatch" style="--sw:#b77eb5"></i>Versorgung & soziale Infrastruktur</label>
+   <label class="layer"><input type="checkbox" data-layer="education"><i class="swatch" style="--sw:#5ca5ed"></i>Bildungseinrichtungen</label>
+   <label class="layer"><input type="checkbox" data-layer="green"><i class="swatch" style="--sw:#3b9a69"></i>Grün- und Erholungsflächen</label>
+   <label class="layer"><input type="checkbox" data-layer="leisure"><i class="swatch" style="--sw:#5bc1b1"></i>Freizeit / Kultur / Sport · POI</label>
+   <div class="layer-info">ALKIS zeigt die tatsächliche Nutzung. Einwohner und Wohngebäude stammen ergänzend aus dem Zensus 2022 im 100-m-Gitter. Einrichtungen werden nach Typ durch Symbole unterschieden; ihre Farbe kennzeichnet weiterhin die Layerzugehörigkeit.</div>
+  </section>
+  <section class="group">
+   <div class="group-title">Öffentlicher Verkehr <small>VBB GTFS</small></div>
+   <label class="layer"><input type="checkbox" data-layer="sbahn"><i class="swatch" style="--sw:#ee8a35"></i>S-Bahn</label>
+   <label class="layer"><input type="checkbox" data-layer="bus"><i class="swatch" style="--sw:#4aa6df"></i>Bus</label>
+   <label class="layer"><input type="checkbox" data-layer="tram"><i class="swatch" style="--sw:#e34b4b"></i>Tram</label>
+   <label class="layer"><input type="checkbox" data-layer="regional"><i class="swatch" style="--sw:#bd8ade"></i>Regionalverkehr</label>
+   <label class="layer"><input type="checkbox" data-layer="stops"><i class="swatch" style="--sw:#e9eef5"></i>Haltestellen / Bahnhöfe</label>
+   <label class="layer"><input type="checkbox" data-layer="interchanges"><i class="swatch" style="--sw:#bd83ee"></i>Umstiegsknotenpunkte</label>
+   <label class="layer"><input type="checkbox" data-layer="accessibleStops"><i class="swatch" style="--sw:#6cc9d5"></i>Barrierefreie Haltestellen</label>
+   <label class="layer"><input type="checkbox" data-layer="connectors"><i class="swatch" style="--sw:#7aa7d1"></i>Umsteigewege / GTFS-Zugänge</label>
+   <label class="layer"><input type="checkbox" data-layer="parkRide"><i class="swatch" style="--sw:#e2a75d"></i>P+R-Anlagen · OSM</label>
+   <label class="layer"><input type="checkbox" data-layer="bikeParking"><i class="swatch" style="--sw:#60b89b"></i>Fahrradparken · OSM</label>
+   <label class="layer"><input type="checkbox" data-layer="sharing"><i class="swatch" style="--sw:#a58bdd"></i>Sharing-Angebote · OSM</label>
+   <label class="layer"><input type="checkbox" data-layer="coverage"><i class="swatch" style="--sw:#2b9d63"></i>ÖPNV-Abdeckung · Fußwegenetz / Erreichbarkeit</label>
+   <div class="sliderline"><span>Abdeckungsradius</span><input id="radius" type="range" min="100" max="1000" step="100" value="500"><span class="slider-value" id="radiusVal">500 m</span></div><div class="layer-info" id="coverageInfo">Fußwegenetz-Routing startet nach Aktivierung.</div>
+   <div class="layer-info">VBB-GTFS: Linien, Halte, typische Fahrtenzahlen und Umsteige-/Zugangsbeziehungen. P+R, Fahrradparken und Sharing werden ergänzend aus OSM dargestellt. Die 100-m-Zellen dienen nur als flächenhafte Visualisierung; die Entfernung wird entlang des OSM-Fußwegenetzes zur nächsten GTFS-Haltestelle berechnet. Nicht verbundene Netzbereiche werden als solche markiert; Luftlinie wird nur genutzt, wenn eine Zelle nicht auf das Fußwegenetz snappen kann.</div>
+  </section>
+  <section class="group">
+   <div class="group-title">Straßennetz <small>Infrastruktur & Zählstellen</small></div>
+   <label class="layer"><input type="checkbox" data-layer="roads" checked><i class="swatch" style="--sw:#e7edf5"></i>Straßen</label>
+   <label class="layer"><input type="checkbox" data-layer="roadClass"><i class="swatch" style="--sw:#d99a53"></i>Straßenklassifizierung</label>
+   <label class="layer"><input type="checkbox" data-layer="cycleways"><i class="swatch" style="--sw:#55b5a0"></i>Radverkehrsanlagen</label>
+   <label class="layer"><input type="checkbox" data-layer="footways"><i class="swatch" style="--sw:#9e91c7"></i>Fußwegenetz</label>
+   <label class="layer"><input type="checkbox" data-layer="railOSM"><i class="swatch" style="--sw:#9aa8b8"></i>Schienenlinien · OSM</label>
+   <label class="layer"><input type="checkbox" data-layer="railAlkis"><i class="swatch" style="--sw:#8798a8"></i>Bahnanlagenflächen · ALKIS</label>
+   <label class="layer"><input type="checkbox" data-layer="trafficControl"><i class="swatch" style="--sw:#f0c35e"></i>Lichtsignalanlagen / Querungen</label>
+   <label class="layer"><input type="checkbox" data-layer="parking"><i class="swatch" style="--sw:#e4bf62"></i>Parkflächen</label>
+   <label class="layer"><input type="checkbox" data-layer="counts"><i class="swatch" style="--sw:#f2a84a"></i>Verkehrszählstellen · 426</label>
+   <label class="layer"><input type="checkbox" data-layer="countResults"><i class="swatch" style="--sw:#f06a4d"></i>Ausgewertete Zählergebnisse · PDFs</label>
+   <div class="layer-info">Straßen und Verkehrseinrichtungen aus OpenStreetMap; Parkplätze und Bahnflächen aus ALKIS. Das Register enthält Standorte und Links. Ausgewertete Zählplan-PDFs erscheinen separat im Layer „Ausgewertete Zählergebnisse“.</div>
+  </section>
+  <section class="group">
+   <div class="group-title">Analyse & Priorisierung <small>Modellierte Potenziale</small></div>
+   <label class="layer"><input type="checkbox" data-layer="flows"><i class="swatch" style="--sw:#67aef0"></i>Wohn-Arbeits-Verknüpfung</label>
+   <label class="layer"><input type="checkbox" data-layer="strategic"><i class="swatch" style="--sw:#e9a64f"></i>Strategisch wichtige Straßenabschnitte</label>
+   <label class="layer"><input type="checkbox" data-layer="nodes"><i class="swatch" style="--sw:#d48ac8"></i>Wichtige Knotenpunkte</label>
+   <label class="layer"><input type="checkbox" data-layer="countFlows"><i class="swatch" style="--sw:#f28a45"></i>Stromlinien aus Verkehrszählungen</label>
+   <label class="layer"><input type="checkbox" data-layer="strategicTransit"><i class="swatch" style="--sw:#bb8be6"></i>Strategisch wichtige ÖPNV-Verbindungen</label>
+   <label class="layer"><input type="checkbox" data-layer="sensors"><i class="swatch" style="--sw:#f0d36b"></i>Sensorstandorte</label>
+   <button class="pillbtn model-action" id="recalcModel" type="button">Analyse neu berechnen</button>
+   <div class="layer-info" id="modelSummary">Alle belegten Wohn- und Arbeitszonen werden paarweise über das OSM-Straßennetz geroutet. Die resultierenden OD-Wege werden auf einzelnen Straßenabschnitten aggregiert. Strategische Abschnitte und Knoten werden daraus zusammen mit verfügbaren Zählwerten dynamisch priorisiert. Modellpotenziale sind keine beobachteten Pendlerzahlen.</div>
+  </section>
+  <section class="group">
+   <div class="group-title">Räumliche Gliederung <small>Landtag-Mittelpunkt · 45°-Sektoren</small></div>
+   <label class="layer"><input type="checkbox" data-layer="cityBoundary" checked><i class="swatch" style="--sw:#d6e2f2"></i>Stadtgrenze Potsdam</label>
+   <label class="layer"><input type="checkbox" data-layer="sectorNorth"><i class="swatch" style="--sw:#87aee0"></i>Nord</label>
+   <label class="layer"><input type="checkbox" data-layer="sectorEast"><i class="swatch" style="--sw:#70b8ad"></i>Ost</label>
+   <label class="layer"><input type="checkbox" data-layer="sectorSouth"><i class="swatch" style="--sw:#c3a36e"></i>Süd</label>
+   <label class="layer"><input type="checkbox" data-layer="sectorWest"><i class="swatch" style="--sw:#9a8bc2"></i>West</label>
+   <label class="layer"><input type="checkbox" data-layer="studyArea"><i class="swatch" style="--sw:#ffffff"></i>Untersuchungsgebiet Nord</label>
+   <div class="layer-info" data-sector-info>Die vier 45°-Sektoren werden beim Laden aus dem Landtag-Mittelpunkt an der ALKIS-Stadtgrenze abgeschnitten. Es handelt sich nicht um amtliche Stadtteile.</div>
+  </section>
+ </div>
+ <div class="console-foot"><b>Datenbasis:</b> ALKIS Brandenburg · VBB GTFS · OpenStreetMap · Verkehrszählstellen Open Data Potsdam. ALKIS-Ist-Nutzung · Zensus 2022 (100-m-Gitter) · VBB GTFS · OpenStreetMap · Verkehrszählstellen-Register Potsdam; ausgewertete Messwerte aus Zählplan-PDFs, soweit heruntergeladen.</div>
+</aside>
+<div class="map-tools"><button class="toolbtn" id="fit" title="Gesamtes Gebiet anzeigen">⌖</button><button class="toolbtn" id="reload" title="OSM-Straßennetz aktualisieren">↻</button><button class="toolbtn" id="exportMap" title="Aktuellen Kartenausschnitt mit Legende als PNG exportieren"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3v11m0 0 4-4m-4 4-4-4M5 16v4h14v-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="toolbtn sensor-add" id="addSensor" title="Sensorstandort hinzufügen">+</button>
+ <div class="toolbox-wrap"><div class="tool-flyout" id="toolFlyout"><button class="toolbtn" id="measureTool" title="Distanz messen" aria-label="Distanz messen"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M3 17 17 3l4 4L7 21H3zM8 16l-2-2m5-1-2-2m5-1-2-2m5-1-2-2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="toolbtn" id="drawTool" title="Auf Karte zeichnen" aria-label="Auf Karte zeichnen"><svg viewBox="0 0 24 24" width="18" height="18"><path d="m4 16.5-.8 4.3 4.3-.8L20 7.5 16.5 4 4 16.5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m14.8 5.7 3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg></button></div><button class="toolbtn" id="toolboxToggle" title="Werkzeugkasten" aria-label="Werkzeugkasten"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M4 7h16v13H4zM9 7V4h6v3M4 11h16M10 11v2h4v-2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg></button></div>
+</div>
+<div class="legend" id="legend"><h3>Aktive Layer · Legende</h3><div id="legendItems"><div class="legend-row">Straßennetz · OSM</div></div></div>
+<div class="map-status" id="mapStatus"><strong>Arbeitsraum:</strong> Potsdam · <strong>Fokus:</strong> Nordsektor · <span id="loadText">Initialisiere Datengrundlage …</span></div>
+<div class="toast" id="toast"></div>
+
+<div class="sensor-modal" id="sensorModal" aria-hidden="true">
+ <div class="sensor-card">
+  <div class="sensor-card-head"><div><div class="eyebrow">Sensorplanung</div><h2 id="sensorModalTitle">Sensorstandort festlegen</h2><p>Eigenschaften erfassen und anschließend auf der Karte platzieren.</p></div><button class="icon-btn" id="sensorClose" type="button">×</button></div>
+  <form id="sensorForm">
+   <div class="sensor-form-grid">
+    <label>Bezeichnung<input name="name" required maxlength="100" placeholder="z. B. Zählstelle B2 Nord" /></label>
+    <label>Sensortyp<select name="sensorType"><option>Verkehrszählung Kfz</option><option>Rad- und Fußverkehrszählung</option><option>Radar / LiDAR</option><option>Induktionsschleife</option><option>Videodetektion / Kamera</option><option>Bluetooth / WLAN-Reisezeit</option><option>ÖPNV-Belegung / Fahrgastzählung</option><option>Umwelt / Wetter / Lärm</option><option>Parkraumerfassung</option><option>Sonstiger Sensor</option></select></label>
+    <label>Erfassungstechnologie<select name="technology"><option>Radar</option><option>LiDAR</option><option>Induktionsschleife</option><option>Video / Computer Vision</option><option>Infrarot / Thermisch</option><option>Bluetooth / WLAN</option><option>Ultraschall</option><option>Manuelle Zählung</option><option>Sonstige</option></select></label>
+    <label>Messgrößen<select name="measurement" multiple size="4"><option>Kfz-Menge / Verkehrsstärke</option><option>Fahrzeugklassen / Schwerverkehr</option><option>Geschwindigkeit</option><option>Fahrtrichtung / Abbiegeströme</option><option>Radverkehr</option><option>Fußverkehr</option><option>Reisezeit / Wiedererkennung</option><option>ÖPNV-Fahrgastmenge</option><option>Parkraumauslastung</option><option>Lärm / Luftqualität / Wetter</option></select><small>Mehrfachauswahl mit Strg/Ctrl bzw. Cmd.</small></label>
+    <label>Erfassungsrichtung<select name="direction"><option>Beide Richtungen</option><option>Richtung Nord</option><option>Richtung Süd</option><option>Richtung Ost</option><option>Richtung West</option><option>Alle Abbiegebeziehungen</option><option>Keine Richtungsdifferenzierung</option></select></label>
+    <label>Montageort<select name="mounting"><option>Mast / Lichtsignalmast</option><option>Straßenlaterne</option><option>Brücke / Überführung</option><option>Gebäude / Fassade</option><option>Fahrbahn / Untergrund</option><option>Haltestelle / Bahnsteig</option><option>Freistehender Mast</option><option>Sonstiger Standort</option></select></label>
+    <label>Übertragung<select name="communication"><option>Mobilfunk (4G / 5G)</option><option>Glasfaser / Ethernet</option><option>LoRaWAN</option><option>WLAN</option><option>Lokale Speicherung / Offline</option><option>Noch offen</option></select></label>
+    <label>Erfassungsmodus<select name="operation"><option>Kontinuierlich / Echtzeit</option><option>Periodisch / Stichprobe</option><option>Nur bei Ereignis / Bedarf</option><option>Temporäre Messkampagne</option></select></label>
+    <label>Betreiber / zuständige Stelle<input name="operator" maxlength="100" placeholder="z. B. Stadt Potsdam" /></label>
+    <label>Status<select name="status"><option>Vorgeschlagen</option><option>Geplant</option><option>Bestand</option><option>In Prüfung</option><option>Zurückgestellt</option></select></label>
+    <label>Priorität<select name="priority"><option>Hoch</option><option>Mittel</option><option>Niedrig</option></select></label>
+    <label class="wide">Bemerkungen<textarea name="notes" rows="3" placeholder="Ziel, Einbaubedingungen, Bezug zu Knotenpunkt / Messquerschnitt …"></textarea></label>
+   </div>
+   <div class="sensor-card-actions"><button class="pillbtn" id="sensorCancel" type="button">Abbrechen</button><button class="pillbtn" id="sensorMove" type="button" style="display:none">Position auf Karte ändern</button><button class="pillbtn active" id="sensorPlace" type="button">Auf Karte platzieren</button></div>
+   <div class="sensor-hint">Nach „Auf Karte platzieren“ schließt sich dieses Fenster. Klicke anschließend auf die gewünschte Position in der Karte. Der Marker kann danach verschoben werden.</div>
+  </form>
+ </div>
+</div>
+<div class="annotation-panel" id="annotationPanel" aria-hidden="true">
+ <div class="annotation-head"><span>Zeichenwerkzeuge</span><button class="icon-btn" id="annotationClose" type="button" aria-label="Schließen">×</button></div>
+ <div class="annotation-actions">
+  <button class="annotation-action" id="undoStroke" type="button">↶ Rückgängig</button>
+  <button class="annotation-action" id="eraserToggle" type="button">⌫ Radierer</button>
+  <button class="annotation-action" id="clearDrawings" type="button">Alle löschen</button>
+  <button class="annotation-action" id="finishDrawing" type="button">✓ Fertig</button>
+ </div>
+ <div class="annotation-help" id="annotationHelp">Stift aktiv: mit gedrückter Maustaste auf der Karte zeichnen. Der Kartenausschnitt wird währenddessen fixiert.</div>
+</div>
+<div class="measure-panel" id="measurePanel" aria-hidden="true">
+ <div class="annotation-head"><span>Distanzmessung</span><button class="icon-btn" id="measureClose" type="button" aria-label="Schließen">×</button></div>
+ <div class="annotation-actions"><button class="annotation-action" id="undoMeasure" type="button">↶ Zurück</button><button class="annotation-action" id="resetMeasure" type="button">⟲ Reset</button><button class="annotation-action" id="finishMeasure" type="button" style="grid-column:1/-1">✓ Fertig</button></div>
+ <div class="annotation-help" id="measureHelp">Punkt 1 anklicken, danach weitere Punkte setzen. Die Gesamtdistanz wird entlang der gesetzten Messlinie aufsummiert.</div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/@turf/turf@7.2.0/turf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script>
+'use strict';
+const DATA='./data/';
+const GRID_TILE_KM=.1;
+const ACTIVITY_GRID_KM=.4;
+const LANDTAG_CENTER=[13.060371,52.394623]; // Landtag Brandenburg, Alter Markt 1
+const map=L.map('map',{zoomControl:false,preferCanvas:true,renderer:L.canvas({padding:.5})}).setView([LANDTAG_CENTER[1],LANDTAG_CENTER[0]],10.8);
+map.createPane('sectorPane');map.getPane('sectorPane').style.zIndex='360';map.getPane('sectorPane').style.pointerEvents='none';
+map.createPane('studyAreaPane');map.getPane('studyAreaPane').style.zIndex='370';map.getPane('studyAreaPane').style.pointerEvents='none';
+const sectorSvgRenderer=L.svg({pane:'sectorPane',padding:.5});
+const studyAreaSvgRenderer=L.svg({pane:'studyAreaPane',padding:.5});
+map.createPane('boundaryPane');map.getPane('boundaryPane').style.zIndex='470';map.getPane('boundaryPane').style.pointerEvents='none';
+L.control.zoom({position:'bottomright'}).addTo(map);
+const osmTiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,crossOrigin:'anonymous',attribution:'&copy; OpenStreetMap-Mitwirkende'});
+const satelliteTiles=L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,crossOrigin:'anonymous',attribution:'Source: Esri, Vantor, Earthstar Geographics, and the GIS User Community'});
+L.control.attribution({position:'bottomright',prefix:false}).addTo(map).addAttribution('© GeoBasis-DE/LGB · VBB GTFS');
+const groupKeys=['sensors','countResults','population','resBuildings','roads','roadClass','cycleways','footways','railOSM','railAlkis','trafficControl','sbahn','bus','tram','regional','stops','interchanges','accessibleStops','connectors','parkRide','bikeParking','sharing','coverage','housing','work','mixed','special','services','education','green','leisure','parking','counts','flows','strategic','nodes','countFlows','strategicTransit','cityBoundary','sectorNorth','sectorEast','sectorSouth','sectorWest','studyArea'];
+const groups=Object.fromEntries(groupKeys.map(k=>[k,L.layerGroup()]));groups.roads.addTo(map);const measureGroup=L.layerGroup().addTo(map),drawingGroup=L.layerGroup().addTo(map);
+const roadStyles={motorway:['#f1a04d',5],trunk:['#dc8750',4.5],primary:['#e0bd5d',4],secondary:['#9ec1e0',3.2],tertiary:['#829cb4',2.5],unclassified:['#9aa7b5',2],residential:['#b8c3d0',1.7],living_street:['#79bba1',1.8],service:['#7e8995',1.15],cycleway:['#55b5a0',1.5],footway:['#9e91c7',1.1],path:['#9e91c7',1.1]};
+const layerNames={population:'Einwohnerdichte (Zensus 2022)',resBuildings:'Wohngebäude nach Wohnungszahl (Zensus 2022)',roads:'Straßen',roadClass:'Straßenklassifizierung',cycleways:'Radverkehrsanlagen',footways:'Fußwegenetz',railOSM:'Schienenlinien (OSM)',railAlkis:'Bahnanlagen (ALKIS)',trafficControl:'Lichtsignalanlagen / Querungen',sbahn:'S-Bahn',bus:'Bus',tram:'Tram',regional:'Regionalverkehr',stops:'Haltestellen / Bahnhöfe',interchanges:'Umstiegsknotenpunkte',accessibleStops:'Barrierefreie Haltestellen (GTFS)',connectors:'Umsteigewege und Haltestellenzugänge (GTFS)',parkRide:'P+R-Anlagen (OSM)',bikeParking:'Fahrradparken (OSM)',sharing:'Sharing-Angebote (OSM)',coverage:'ÖPNV-Abdeckung',housing:'Wohnflächen (ALKIS)',work:'Arbeits- und Gewerbestandorte (ALKIS)',mixed:'Gemischte Nutzung (ALKIS)',special:'Besondere Nutzungsflächen (ALKIS)',services:'Versorgung & soziale Infrastruktur',education:'Bildungseinrichtungen',green:'Grün- und Erholungsflächen (ALKIS)',leisure:'Freizeit- / Kultur- / Sport-POI',parking:'Parkflächen (ALKIS)',counts:'Verkehrszählstellen',countResults:'Ausgewertete Verkehrszählergebnisse',countFlows:'Gemessene Zufahrtsstromlinien',strategicTransit:'Strategisch wichtige ÖPNV-Verbindungen',flows:'Wohn-Arbeits-Verknüpfung (Modell)',strategic:'Strategisch wichtige Straßenabschnitte',nodes:'Wichtige Knotenpunkte',sensors:'Sensorstandorte',cityBoundary:'Stadtgrenze Potsdam',grid:'Kachelraster (100 m)',sectorNorth:'Region Nord',sectorEast:'Region Ost',sectorSouth:'Region Süd',sectorWest:'Region West',studyArea:'Untersuchungsgebiet Nord'};
+const layerColors={roads:'#e7edf5',roadClass:'#e0bd5d',cycleways:'#55b5a0',footways:'#9e91c7',railOSM:'#9aa8b8',railAlkis:'#8798a8',trafficControl:'#f0c35e',sbahn:'#ee8a35',bus:'#4aa6df',tram:'#e53935',regional:'#c88be8',stops:'#e9eef5',interchanges:'#bd83ee',accessibleStops:'#6cc9d5',connectors:'#7aa7d1',parkRide:'#e2a75d',bikeParking:'#60b89b',sharing:'#a58bdd',coverage:'#2b9d63',population:'#d45d50',resBuildings:'#68a9dc',housing:'#378e54',work:'#4d91d4',mixed:'#4caaa1',special:'#9a78bd',services:'#b06fbe',education:'#5ca5ed',green:'#3b9a69',leisure:'#5bc1b1',parking:'#e4bf62',counts:'#f2a84a',countResults:'#f06a4d',countFlows:'#f28a45',strategicTransit:'#bb8be6',flows:'#60a9f0',strategic:'#e9a64f',nodes:'#e7a5de',sensors:'#f0d36b',cityBoundary:'#d6e2f2',grid:'#8295a9',sectorNorth:'#87aee0',sectorEast:'#70b8ad',sectorSouth:'#c3a36e',sectorWest:'#9a8bc2',studyArea:'#ffffff'};
+const state={elements:[],roadData:[],boundary:null,gridCells:[],activityGridCells:[],sectorCells:{Nord:[],Ost:[],Sued:[],West:[]},stopRecords:[],stopPoints:[],countFeatures:[],countMeasurementFeatures:[],osmPOIs:[],routeStatsById:{},routeFeatureData:[],strategicTransitStats:null,strategicRoadFeatures:[],importantNodeRecords:[],housingFeatures:[],workFeatures:[],populationFeatures:[],buildingGridFeatures:[],serviceFeatures:[],activityCells:[],graph:null,routeLayersById:new Map(),routeNameToIds:new Map(),selectedRouteId:null,routePopupLayer:null,walkGraph:null,coverageDistances:null,coverageMethods:null,coverageBuildId:0,coverageTimer:null,measurePoints:[],measureResultLayers:[],sensors:[],sensorDraft:null,editingSensorId:null,mapToolMode:null,measureStart:null,drawingLayers:[],currentStroke:null,eraseMode:false,mode:'dark',loaded:{}};
+const $=id=>document.getElementById(id);
+function notify(text){const el=$('toast');el.textContent=text;el.style.display='block';clearTimeout(notify.timer);notify.timer=setTimeout(()=>el.style.display='none',8000)}
+function compactStatus(text){const s=String(text??'');if(/Modell berechnet/.test(s)){const m=s.match(/Modell berechnet · (.+?) Wohnzugangszonen × (.+?) Arbeitszielzonen · (.+?) erreichbare OD-Paare · (.+?) belastete Straßenabschnitte/);if(m)return `Modell berechnet · ${m[1]} × ${m[2]} Zonen · ${m[3]} OD-Paare · ${m[4]} Straßenabschnitte`}return s}
+function setStatus(text){const full=String(text??'');$('loadText').textContent=full;$('loadText').title=full;$('dataStatus').textContent=compactStatus(full);$('dataStatus').title=full}
+function fmtCount(value){const n=Number(value);if(!Number.isFinite(n))return '–';return Math.round(Math.max(0,n)).toLocaleString('de-DE')}
+function escapeHtml(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function popup(title,detail){return `<b>${escapeHtml(title)}</b><br><small>${escapeHtml(detail)}</small>`}
+function checked(key){return document.querySelector(`[data-layer="${key}"]`)?.checked===true}
+function toggleGroup(key,on){if(!groups[key])return;if(on){if(!map.hasLayer(groups[key]))groups[key].addTo(map)}else if(map.hasLayer(groups[key]))map.removeLayer(groups[key])}
+function applyLayerState(){for(const k of groupKeys)toggleGroup(k,checked(k));updateLegend()}
+function iconHtml(cls,label,size=26){return L.divIcon({className:'',html:`<span class="${cls}">${label||''}</span>`,iconSize:[size,size],iconAnchor:[size/2,size/2]})}
+function localMeters(a,b){const lat=(a[0]+b[0])/2*Math.PI/180;return Math.hypot((a[1]-b[1])*111320*Math.cos(lat),(a[0]-b[0])*111320)}
+function coordsFrom(el){if(el.type==='node'&&Number.isFinite(el.lat)&&Number.isFinite(el.lon))return [el.lat,el.lon];if(el.center)return [el.center.lat,el.center.lon];if(el.geometry?.length){const coords=el.geometry.map(p=>[p.lon,p.lat]);if(el.type==='way'&&coords.length>3&&Math.hypot(coords[0][0]-coords.at(-1)[0],coords[0][1]-coords.at(-1)[1])<1e-7){try{const c=turf.centroid(turf.polygon([coords])).geometry.coordinates;return [c[1],c[0]]}catch(e){}}const p=el.geometry[Math.floor((el.geometry.length-1)/2)];return [p.lat,p.lon]}return null}
+function markerForPOI(latlng,kind,label,title,detail,group){const m=L.marker(latlng,{icon:iconHtml(`poi-icon ${kind}`,label),keyboard:false}).bindPopup(popup(title,detail));if(String(detail).includes('OSM'))state.osmPOIs.push(m);m.addTo(group)}
+function lineForOSM(el,style,layer,title,detail){if(!el.geometry||el.geometry.length<2)return;const pl=L.polyline(el.geometry.map(p=>[p.lat,p.lon]),{color:style[0],weight:style[1],opacity:style[2]??.9,lineCap:'round',lineJoin:'round'}).bindPopup(popup(title,detail));if(layer===groups.roads){pl._baseRoad=true;pl._baseWeight=style[1]}pl.addTo(layer)}
+function applyRoadScale(){const z=map.getZoom();const factor=z<10?.48:z<12?.62:z<14?.78:z<16?.92:1.04;groups.roads.eachLayer(l=>{if(l.setStyle)l.setStyle({weight:(l._baseWeight||.92)*factor,opacity:z<11?.34:z<13?.42:.54})})}
+function addAreaLayer(gj,group,style,label){L.geoJSON(gj,{style:style,onEachFeature:(f,l)=>{const p=f.properties||{};const detail=[p.nutzart,p.bez,p.aktualit?`ALKIS-Stand ${p.aktualit}`:''].filter(Boolean).join(' · ');l.bindPopup(popup(p.name||p.bez||label,detail||label))}}).addTo(group)}
+async function fetchJSON(path){const r=await fetch(DATA+path,{cache:'no-cache'});if(!r.ok)throw new Error(`${path}: HTTP ${r.status}`);return r.json()}
+
+// Fixed 100 m square analytical grid for density/coverage only. Four visible regions are pre-clipped polygons around the Landtag.
+function getBounds(feature){return turf.bbox(feature)}
+function fitExpandedView(){map.setView([LANDTAG_CENTER[1],LANDTAG_CENTER[0]],10.8,{animate:false})}
+function sectorOf(point,center){const lat0=center[1]*Math.PI/180,dx=(point[0]-center[0])*111320*Math.cos(lat0),dy=(point[1]-center[1])*111320;if(dy>=0&&Math.abs(dy)>=Math.abs(dx))return 'Nord';if(dx>=0&&Math.abs(dx)>Math.abs(dy))return 'Ost';if(dy<0&&Math.abs(dy)>=Math.abs(dx))return 'Sued';return 'West'}
+function polygonLatLngs(geometry){
+ const ringToLatLng=ring=>ring.map(([lon,lat])=>[lat,lon]);
+ if(geometry?.type==='Polygon')return geometry.coordinates.map(ringToLatLng);
+ if(geometry?.type==='MultiPolygon')return geometry.coordinates.map(poly=>poly.map(ringToLatLng));
+ return null;
+}
+function addSectorPolygon(feature,group,style,isStudy=false){
+ const g=feature?.geometry;if(!g||!['Polygon','MultiPolygon'].includes(g.type))return null;
+ const renderer=isStudy?studyAreaSvgRenderer:sectorSvgRenderer;
+ const polygons=g.type==='Polygon'?[g.coordinates]:g.coordinates;
+ const made=[];
+ for(const rings of polygons){
+  const latlngs=rings.map(ring=>ring.map(([lon,lat])=>[lat,lon]));
+  if(latlngs[0]?.length>=4){const layer=L.polygon(latlngs,{pane:isStudy?'studyAreaPane':'sectorPane',renderer,interactive:false,fill:true,...style});layer.addTo(group);made.push(layer)}
+ }
+ return made.length?made[0]:null;
+}
+function makeSquareGridSectors(boundary,sectorData){
+ for(const key of ['grid','sectorNorth','sectorEast','sectorSouth','sectorWest','studyArea','coverage'])groups[key]?.clearLayers();
+ state.gridCells=[];state.sectorCells={Nord:[],Ost:[],Sued:[],West:[]};
+ const bbox=getBounds(boundary),grid=turf.squareGrid(bbox,GRID_TILE_KM,{units:'kilometers'});
+ let id=0;for(const raw of grid.features){const c=turf.centroid(raw).geometry.coordinates;if(!turf.booleanPointInPolygon(turf.point(c),boundary))continue;const sector=sectorOf(c,LANDTAG_CENTER),cell={...raw,properties:{grid_id:++id,sector}};state.gridCells.push(cell);state.sectorCells[sector].push(cell)}
+ const cfg={
+  Nord:{key:'sectorNorth',color:'#70a7ee',label:'NORD'},
+  Ost:{key:'sectorEast',color:'#54c7b7',label:'OST'},
+  Sued:{key:'sectorSouth',color:'#d6ad68',label:'SÜD'},
+  West:{key:'sectorWest',color:'#a78de0',label:'WEST'}
+ };
+ const features=sectorData?.features||[];
+ if(!features.length){console.error('Sektor-Geodaten fehlen: data/sektoren_potsdam_landtag.geojson');notify('Sektorgeometrien fehlen. Bitte Projekt vollständig entpacken.');return}
+ const seen=new Set();let drawn=0;
+ for(const f of features){
+  const sector=f.properties?.sector,def=cfg[sector];if(!def||seen.has(sector))continue;seen.add(sector);
+  const polygon=addSectorPolygon(f,groups[def.key],{color:def.color,weight:3.4,opacity:1,fillColor:def.color,fillOpacity:.34,lineJoin:'round'});
+  if(polygon){drawn++;const center=turf.centroid(f).geometry.coordinates;L.marker([center[1],center[0]],{pane:'markerPane',interactive:false,icon:L.divIcon({className:'sector-label',html:`<div style="color:${def.color};font-size:13px;letter-spacing:2px;font-weight:950;text-shadow:0 2px 5px #000,0 0 10px #000">${def.label}</div>`,iconSize:[82,18],iconAnchor:[41,9]})}).addTo(groups[def.key]);}
+ }
+ if(seen.size!==4||drawn!==4){console.error('Sektorgeometrien unvollständig', [...seen],drawn);notify(`Sektor-Layer unvollständig: ${drawn}/4 Regionen geladen.`)}
+ const north=features.find(f=>f.properties?.sector==='Nord');
+ if(north)addSectorPolygon(north,groups.studyArea,{color:'#e8f2ff',weight:4.5,opacity:1,dashArray:'9 6',fillColor:'#6ca8f5',fillOpacity:.14,lineJoin:'round'},true);
+ // Expose construction diagnostics for quick checks in the browser console.
+ state.sectorLayerStats={drawn,featureCount:features.length,layers:Object.fromEntries(['sectorNorth','sectorEast','sectorSouth','sectorWest','studyArea'].map(k=>[k,groups[k].getLayers().length])),cells:state.gridCells.length};
+ $('dataStatus').textContent=`ALKIS-Grenze · ${state.gridCells.length.toLocaleString('de-DE')} Analysezellen · ${drawn}/4 Sektorgeometrien`;const sectorInfo=document.querySelector('[data-sector-info]');if(sectorInfo)sectorInfo.textContent=`${drawn}/4 Sektorflächen geladen · Mittelpunkt Landtag · 45°-Sektoren, an ALKIS-Stadtgrenze abgeschnitten.`;fitExpandedView();
+}
+
+async function loadBoundary(){const [gj,sectors]=await Promise.all([fetchJSON('stadtgrenze_potsdam.geojson'),fetchJSON('sektoren_potsdam_landtag.geojson')]);state.boundary=gj.features[0];groups.cityBoundary.clearLayers();L.geoJSON(state.boundary,{pane:'boundaryPane',renderer:L.canvas({pane:'boundaryPane',padding:.3}),style:{color:'#d8e5f5',weight:2.1,opacity:.98,fillOpacity:0},onEachFeature:(f,l)=>l.bindPopup(popup('Landeshauptstadt Potsdam','Verwaltungsgrenze aus ALKIS · EPSG:25833, als GeoJSON in WGS84 umprojiziert'))}).addTo(groups.cityBoundary);makeSquareGridSectors(state.boundary,sectors);state.loaded.boundary=true}
+
+// ALKIS actual land use: observed land-use categories only
+async function loadALKIS(){const names=['alkis_wohnen.geojson','alkis_arbeitsstandorte.geojson','alkis_mischnutzung.geojson','alkis_besondere_nutzung.geojson','alkis_versorgung.geojson','alkis_bildung_poi.geojson','alkis_versorgung_poi.geojson','alkis_gruenflaechen.geojson','alkis_parkplaetze.geojson','alkis_bahnflaechen.geojson'];const data=await Promise.all(names.map(fetchJSON));const d=Object.fromEntries(names.map((n,i)=>[n,data[i]]));state.housingFeatures=d['alkis_wohnen.geojson'].features||[];state.workFeatures=d['alkis_arbeitsstandorte.geojson'].features||[];
+ addAreaLayer(d['alkis_wohnen.geojson'],groups.housing,{color:'#2d7d49',weight:.6,fillColor:'#368d54',fillOpacity:.3},'Wohnfläche · ALKIS');
+ addAreaLayer(d['alkis_arbeitsstandorte.geojson'],groups.work,{color:'#3676b5',weight:.7,fillColor:'#4b91d0',fillOpacity:.35},'Arbeits-/Gewerbestandort · ALKIS');
+ addAreaLayer(d['alkis_mischnutzung.geojson'],groups.mixed,{color:'#2d8b83',weight:.7,fillColor:'#4caaa1',fillOpacity:.32},'Gemischte Nutzung · ALKIS');
+ addAreaLayer(d['alkis_besondere_nutzung.geojson'],groups.special,{color:'#8065a7',weight:.65,fillColor:'#9a78bd',fillOpacity:.26},'Besondere funktionale Prägung · ALKIS');
+ addAreaLayer(d['alkis_versorgung.geojson'],groups.services,{color:'#a05f9f',weight:.8,fillColor:'#b77eb5',fillOpacity:.34},'Versorgung / soziale Infrastruktur · ALKIS');
+ addAreaLayer(d['alkis_gruenflaechen.geojson'],groups.green,{color:'#277c55',weight:.7,fillColor:'#3b9a69',fillOpacity:.32},'Grün-/Erholungsfläche · ALKIS');
+ addAreaLayer(d['alkis_parkplaetze.geojson'],groups.parking,{color:'#ba9637',weight:1,fillColor:'#e4bf62',fillOpacity:.44},'Parkplatzfläche · ALKIS');
+ addAreaLayer(d['alkis_bahnflaechen.geojson'],groups.railAlkis,{color:'#8b9cac',weight:.7,fillColor:'#77899b',fillOpacity:.25},'Bahnverkehrsfläche · ALKIS');
+ for(const f of d['alkis_bildung_poi.geojson'].features||[]){const c=f.geometry?.coordinates;if(c){const glyph=/hochschule|universit/i.test(f.properties?.bez||'')?'🎓':'🏫';markerForPOI([c[1],c[0]],'education',glyph,f.properties?.name||'Bildung und Wissenschaft','Bildungsstandort · ALKIS-Flächenschwerpunkt',groups.education)}}
+ for(const f of d['alkis_versorgung_poi.geojson'].features||[]){const c=f.geometry?.coordinates;if(c){const bez=f.properties?.bez||'';const glyph=/Gesundheit|Kranken|medizin/i.test(bez)?'✚':/Handel|Dienstleistung|Versorgung/i.test(bez)?'🛒':/Kultur|Museum/i.test(bez)?'🎭':/Verwaltung|Regierung/i.test(bez)?'🏛':/Religi|Kirche/i.test(bez)?'⛪':/Sicherheit|Feuerwehr|Polizei/i.test(bez)?'🛡':/Soziales|Sozial/i.test(bez)?'♥':/Sport/i.test(bez)?'⚽':'⌂';markerForPOI([c[1],c[0]],'social',glyph,f.properties?.name||bez||'Soziale Infrastruktur',`${bez||'Besondere Funktion'} · ALKIS-Flächenschwerpunkt`,groups.services)}}
+ state.loaded.alkis=true;state.alkisStats={housing:state.housingFeatures.length,work:state.workFeatures.length,green:(d['alkis_gruenflaechen.geojson'].features||[]).length};
+}
+
+// Zensus 2022: pre-clipped 100 m grid cells for population and residential buildings.
+async function loadZensus(){
+ const [pop,bld]=await Promise.all([fetchJSON('zensus2022_bevoelkerung_100m.geojson'),fetchJSON('zensus2022_wohngebaeude_100m.geojson')]);
+ state.populationFeatures=pop.features||[];state.buildingGridFeatures=bld.features||[];
+ const densityColor=v=>v<500?'#176447':v<1500?'#4c965c':v<3000?'#a5ad4d':v<5000?'#d7a14a':'#c94f49';
+ L.geoJSON(pop,{style:f=>{const c=densityColor(Number(f.properties?.density_per_km2)||0);return {color:c,weight:.25,opacity:.35,fillColor:c,fillOpacity:.48}},onEachFeature:(f,l)=>{const p=f.properties||{};l.bindPopup(popup('Einwohnerdichte · Zensus 2022',`${p.inhabitants||0} Einwohner je 100-m-Gitterzelle · ca. ${Number(p.density_per_km2||0).toLocaleString('de-DE')} Einwohner/km² · Referenzjahr 2022`))}}).addTo(groups.population);
+ const buildingColor=v=>v<=2?'#285d88':v<=5?'#347fb2':v<=10?'#55a5d0':'#95c9df';
+ L.geoJSON(bld,{style:f=>{const c=buildingColor(Number(f.properties?.residential_buildings)||0);return {color:c,weight:.3,opacity:.45,fillColor:c,fillOpacity:.5}},onEachFeature:(f,l)=>{const p=f.properties||{};l.bindPopup(popup('Wohngebäude · Zensus 2022',`${p.residential_buildings||0} Gebäude · 1 Wohnung: ${p.single_dwelling??'k. A.'} · 2 Wohnungen: ${p.two_dwellings??'k. A.'} · 3–6: ${p.three_to_six_dwellings??'k. A.'} · 7–12: ${p.seven_to_twelve_dwellings??'k. A.'} · 13+: ${p.thirteen_plus_dwellings??'k. A.'}`))}}).addTo(groups.resBuildings);
+ state.loaded.zensus=true;state.zensusStats={population:state.populationFeatures.length,buildings:state.buildingGridFeatures.length};
+}
+
+// VBB GTFS local extract: separate route modes and stop clusters
+function stopIconMode(modes){if(modes.includes('sbahn'))return 'sbahn';if(modes.includes('regional'))return 'regional';if(modes.includes('tram'))return 'tram';return 'bus'}
+function routeNameListHtml(routeNames){return routeNames.map(n=>`<button type="button" class="route-select" data-route-name="${escapeHtml(n)}">${escapeHtml(n)}</button>`).join('')}
+function routeScheduleText(st){if(!st)return 'Taktinformationen im GTFS-Ausschnitt nicht verfügbar';const fmt=v=>v==null?'k. A.':(Number(v)<1?'unter 1':`${Math.round(Number(v))}`)+' min';return `HVZ morgens 06–09 Uhr: ${fmt(st.hvz_morning_headway_min)} · ${st.hvz_morning_trips??'–'} Fahrten; HVZ nachmittags 15–19 Uhr: ${fmt(st.hvz_afternoon_headway_min)} · ${st.hvz_afternoon_trips??'–'} Fahrten; NVZ 09–15 Uhr: ${fmt(st.nvz_headway_min)} · ${st.nvz_trips??'–'} Fahrten. Median der Abstände erster Abfahrten am ${st.weekday_sample_date||'Referenzwerktag'}.`}
+function routeModeLabel(mode){return ({sbahn:'S-Bahn',regional:'Regionalverkehr',tram:'Tram',bus:'Bus'}[mode]||mode||'ÖPNV')}
+function routeBaseStyle(mode){return ({sbahn:{color:'#ef963d',weight:3.7,opacity:.95},bus:{color:'#4aa6df',weight:2.7,opacity:.88},tram:{color:'#e53935',weight:3.5,opacity:.96},regional:{color:'#bd8ade',weight:3.6,opacity:.95}}[mode]||{color:'#4aa6df',weight:2.7,opacity:.88})}
+function clearRouteSelection(options={}){
+ const closePopup=options.closePopup!==false,oldLayer=state.routePopupLayer;state.selectedRouteId=null;state.routePopupLayer=null;
+ for(const [rid,layers] of state.routeLayersById){const mode=state.routeStatsById[rid]?.mode;for(const l of layers)l.setStyle(l._routeBaseStyle||routeBaseStyle(mode))}
+ if(oldLayer&&closePopup&&oldLayer.isPopupOpen?.())oldLayer.closePopup();
+}
+function bindRouteSelection(layer,routeId){
+ const rid=String(routeId);layer._routeId=rid;
+ layer.on('click',e=>{if(e.originalEvent){L.DomEvent.stopPropagation(e.originalEvent);L.DomEvent.preventDefault(e.originalEvent)}selectRoute(rid)});
+ layer.on('popupclose',()=>{if(state.selectedRouteId===rid&&state.routePopupLayer===layer)clearRouteSelection({closePopup:false})});
+}
+function selectRoute(routeId){
+ if(!routeId)return;routeId=String(routeId);const st=state.routeStatsById[routeId],mode=st?.mode;
+ if(mode&&groups[mode]){const cb=document.querySelector(`[data-layer="${mode}"]`);if(cb&&!cb.checked){cb.checked=true;toggleGroup(mode,true);updateLegend()}}
+ state.selectedRouteId=routeId;state.routePopupLayer=null;let selectedLayer=null;
+ for(const [rid,layers] of state.routeLayersById){const rs=state.routeStatsById[rid]||{},m=rs.mode||'bus',base=routeBaseStyle(m);for(const l of layers){const original=l._routeBaseStyle||base;l.setStyle(rid===routeId?{color:'#fff2a8',weight:(original.weight||base.weight)+4.8,opacity:1}:{...original,opacity:Math.min(original.opacity??.9,.10)});if(rid===routeId){l.bringToFront();if(!selectedLayer)selectedLayer=l}}}
+ if(selectedLayer){state.routePopupLayer=selectedLayer;selectedLayer.openPopup()}
+ if(st)notify(`Linie ${st.route||routeId} ausgewählt · ${routeModeLabel(mode)} · HVZ ${st.hvz_morning_headway_min??'–'} min morgens / ${st.hvz_afternoon_headway_min??'–'} min nachmittags · NVZ ${st.nvz_headway_min??'–'} min`);
+}
+
+function renderGTFSStops(features){groups.stops.clearLayers();groups.interchanges.clearLayers();groups.accessibleStops.clearLayers();const clusterMap=new Map();for(const f of features){const p=f.properties||{},xy=f.geometry?.coordinates;if(!xy)continue;const name=p.stop_name||'Haltestelle',key=p.parent_station?`p:${p.parent_station}`:`n:${name}:${Number(xy[0]).toFixed(4)}:${Number(xy[1]).toFixed(4)}`;if(!clusterMap.has(key))clusterMap.set(key,{name,points:[],modes:new Set(),routes:new Set(),accessible:false,ids:[]});const c=clusterMap.get(key);c.points.push([xy[1],xy[0]]);(p.modes||[]).forEach(x=>c.modes.add(x));(p.routes||[]).forEach(x=>c.routes.add(x));if(String(p.wheelchair_boarding)==='1')c.accessible=true;c.ids.push(p.stop_id)}
+ state.stopRecords=[...clusterMap.values()].map(c=>{const n=c.points.length,latlng=[c.points.reduce((a,p)=>a+p[0],0)/n,c.points.reduce((a,p)=>a+p[1],0)/n];return {...c,latlng,modes:[...c.modes],routes:[...c.routes]}});state.stopPoints=state.stopRecords.map(c=>c.latlng);
+ for(const c of state.stopRecords){const inter=c.modes.length>1,mode=stopIconMode(c.modes),desc=`${c.modes.map(m=>({sbahn:'S-Bahn',regional:'Regionalverkehr',tram:'Tram',bus:'Bus'}[m]||m)).join(' + ')} · ${c.routes.length} Linien · ${c.points.length} Bahnsteig-/Halteobjekte`;const routeButtons=routeNameListHtml(c.routes);const html=`<b>${escapeHtml(c.name)}</b><br><small>${escapeHtml(desc)}</small><div style="margin-top:6px;max-height:140px;overflow:auto"><small>Linie auswählen:</small><br>${routeButtons||'<small>Keine zugeordneten Linien</small>'}</div>`;L.marker(c.latlng,{icon:iconHtml(`stop-icon ${inter?'interchange':mode}`,''),keyboard:false}).bindPopup(html,{maxWidth:330}).addTo(groups.stops);if(inter)L.marker(c.latlng,{icon:iconHtml('stop-icon interchange',''),keyboard:false,zIndexOffset:500}).bindPopup(html,{maxWidth:330}).addTo(groups.interchanges);if(c.accessible)L.circleMarker(c.latlng,{radius:7,color:'#081c26',weight:2,fillColor:'#6cc9d5',fillOpacity:1}).bindPopup(popup(c.name,'GTFS: mindestens ein zugehöriger Halt mit wheelchair_boarding=1')).addTo(groups.accessibleStops)}
+}
+async function loadGTFS(){
+ const [routes,stops,stats,connectors]=await Promise.all([fetchJSON('vbb_gtfs_routes.geojson'),fetchJSON('vbb_gtfs_stops.geojson'),fetchJSON('vbb_gtfs_route_stats.json'),fetchJSON('vbb_gtfs_connectors.geojson')]);
+ state.routeStatsById=Object.fromEntries((stats.routes||[]).map(r=>[String(r.route_id),r]));state.routeFeatureData=routes.features||[];state.routeNameToIds=new Map();state.routeLayersById=new Map();
+ const styles={sbahn:{color:'#ef963d',weight:3.7,opacity:.95},bus:{color:'#4aa6df',weight:2.7,opacity:.88},tram:{color:'#e53935',weight:3.5,opacity:.96},regional:{color:'#bd8ade',weight:3.6,opacity:.95}};
+ for(const mode of ['sbahn','bus','tram','regional']){
+  const gj=L.geoJSON(routes,{filter:f=>f.properties?.mode===mode,style:styles[mode],onEachFeature:(f,l)=>{const p=f.properties||{},rid=String(p.route_id||''),st=state.routeStatsById[rid]||{},display=p.route||st.route||rid;l._routeBaseStyle={...styles[mode]};state.routeLayersById.set(rid,[...(state.routeLayersById.get(rid)||[]),l]);if(!state.routeNameToIds.has(String(display)))state.routeNameToIds.set(String(display),[]);if(!state.routeNameToIds.get(String(display)).includes(rid))state.routeNameToIds.get(String(display)).push(rid);l.bindPopup(popup(`Linie ${display}`,`VBB-GTFS · ${routeModeLabel(mode)} · Route-ID ${rid} · ${routeScheduleText(st)} · Referenzfahrplan, kein Echtzeitangebot`));bindRouteSelection(l,rid)}});
+  gj.addTo(groups[mode]);
+ }
+ L.geoJSON(connectors,{style:f=>f.properties?.kind==='pathway'?{color:'#bd83ee',weight:2.5,opacity:.85,dashArray:'5 5'}:{color:'#7aa7d1',weight:1.2,opacity:.55,dashArray:'2 5'},onEachFeature:(f,l)=>{const p=f.properties||{};const modeMap={'1':'Fußweg','2':'Treppe','3':'Fahrsteig','4':'Rolltreppe','5':'Aufzug','6':'Zugangssperre','7':'Ausgangssperre'};const detail=p.kind==='pathway'?`GTFS pathway · ${modeMap[p.pathway_mode]||p.pathway_mode||'Zugang'} · Länge ${p.length||'–'} m · Gehzeit ${p.traversal_time||'–'} s · Stufen ${p.stair_count||'–'} · Breite ${p.min_width||'–'} m`:`GTFS transfer · Typ ${p.transfer_type||'–'} · Mindestumsteigezeit ${p.min_transfer_time||'–'} s`;l.bindPopup(popup('ÖPNV-Verknüpfung',detail))}}).addTo(groups.connectors);
+ renderGTFSStops(stops.features||[]);state.loaded.gtfs=true;state.gtfsStats={routes:routes.features?.length||0,stops:stops.features?.length||0,connectors:connectors.features?.length||0};if(checked('coverage'))buildCoverage();
+}
+
+
+// Traffic count locations. The supplied Parquet schema is location metadata, not measured counts.
+function countStationPopupHtml(p){
+ const kpnr=String(p.kpnr||''),measurements=state.countMeasurementFeatures.find(f=>String(f.properties?.kpnr||'')===kpnr)?.properties?.measurements||[];
+ const ordered=[...measurements].sort((a,b)=>String(b.survey_date||'').localeCompare(String(a.survey_date||'')));
+ const summary=ordered.map(m=>`<tr><td>${escapeHtml(m.survey_date||'–')}</td><td style="text-align:right">${m.morning_peak_kfz_h??'–'}</td><td style="text-align:right">${m.afternoon_peak_kfz_h??'–'}</td><td style="text-align:right">${m.six_hour_kfz??'–'}</td><td>${m.pdf_path?`<a href="${escapeHtml(m.pdf_path)}" target="_blank" rel="noopener">PDF</a>`:'–'}</td></tr>`).join('');
+ const detailed=ordered.find(m=>(m.vehicle_rows||[]).some(r=>r.period==='6h'))||ordered.find(m=>(m.vehicle_rows||[]).length);
+ const rows=(detailed?.vehicle_rows||[]).filter(r=>['KFZ','NFZ','SV','RAD','FZ'].includes(String(r.vehicle_class||'').toUpperCase())).map(r=>`<tr><td>${escapeHtml(r.vehicle_class||'–')}</td><td>${escapeHtml(r.period||'–')}</td><td style="text-align:right">${r.approaches?.NORD??'–'}</td><td style="text-align:right">${r.approaches?.OST??'–'}</td><td style="text-align:right">${r.approaches?.SÜD??'–'}</td><td style="text-align:right">${r.approaches?.WEST??r.approaches?.WG??'–'}</td><td style="text-align:right">${r.total??'–'}</td></tr>`).join('');
+ const tableStyle='width:100%;border-collapse:collapse;font-size:10px;margin-top:6px';
+ return `<div style="min-width:300px"><b>${escapeHtml(p.name||'Verkehrszählstelle')}</b><br><small>KPNR ${escapeHtml(kpnr||'–')} · ${ordered.length} ausgewertete Berichte</small>${ordered.length?`<div style="margin-top:7px;font-weight:700">Messhistorie · Kfz</div><table style="${tableStyle}"><thead><tr><th>Jahr</th><th>FSp</th><th>NSp</th><th>6h</th><th>Quelle</th></tr></thead><tbody>${summary}</tbody></table>`:'<p><small>Für diese Zählstelle liegen im aktuell integrierten Datenbestand noch keine ausgelesenen Messwerte vor.</small></p>'}${rows?`<div style="margin-top:8px;font-weight:700">Richtungswerte ${escapeHtml(detailed.survey_date||'')}</div><table style="${tableStyle}"><thead><tr><th>Klasse</th><th>Zeitraum</th><th>N</th><th>O</th><th>S</th><th>W</th><th>Σ</th></tr></thead><tbody>${rows}</tbody></table>`:''}${ordered.some(m=>m.ocr_used)?'<br><small style="color:#f2bd75">Mindestens ein Bericht wurde per OCR ausgewertet; Original prüfen.</small>':''}${(p.zahlplan||p.zahlplan_url)?`<br><a href="${escapeHtml(p.zahlplan||p.zahlplan_url)}" target="_blank" rel="noopener">Zählplan-Archiv (ZIP) öffnen</a>`:''}<br><small>Standort aus Open-Data Potsdam · Messwerte nur für ausgewertete Berichte</small></div>`;
+}
+function renderCountStationMarkers(){groups.counts.clearLayers();for(const f of state.countFeatures){const c=f.geometry?.coordinates;if(!c)continue;const p=f.properties||{};L.marker([c[1],c[0]],{icon:iconHtml('poi-icon counts','↕',27),keyboard:false}).bindPopup(countStationPopupHtml(p),{maxWidth:480}).addTo(groups.counts)}}
+async function loadCounts(){const gj=await fetchJSON('verkehrszahlungen.geojson');state.countFeatures=gj.features||[];renderCountStationMarkers();state.loaded.counts=true}
+
+
+// Parsed PDF measurements from the local batch downloader. Multiple survey years are grouped per KPNR.
+async function loadCountMeasurements(){const gj=await fetchJSON('verkehrszahlungen_messwerte.geojson');state.countMeasurementFeatures=gj.features||[];renderCountStationMarkers();groups.countResults.clearLayers();for(const f of state.countMeasurementFeatures){const xy=f.geometry?.coordinates;if(!xy)continue;const p=f.properties||{},measurements=[...(p.measurements||[])].sort((a,b)=>(b.survey_date||'').localeCompare(a.survey_date||''));if(!measurements.length)continue;const peak=Math.max(...measurements.flatMap(m=>[Number(m.morning_peak_kfz_h)||0,Number(m.afternoon_peak_kfz_h)||0]));const fill=peak>=1500?'#ef5b4c':peak>=800?'#ee9348':'#e5bd55';const radius=Math.max(8,Math.min(15,7+Math.log1p(peak)/Math.log(2)*.35));const rows=measurements.map(m=>`<tr><td style="padding:3px 5px;border-bottom:1px solid #42505e">${escapeHtml(m.survey_date||'–')}<br><small>${m.pdf_path?`<a href="${escapeHtml(m.pdf_path)}" target="_blank" rel="noopener">PDF</a>`:''}</small></td><td style="padding:3px 5px;text-align:right;border-bottom:1px solid #42505e">${m.morning_peak_kfz_h??'–'}<br><small>${escapeHtml(m.morning_peak_time||'')}</small></td><td style="padding:3px 5px;text-align:right;border-bottom:1px solid #42505e">${m.afternoon_peak_kfz_h??'–'}<br><small>${escapeHtml(m.afternoon_peak_time||'')}</small></td><td style="padding:3px 5px;text-align:right;border-bottom:1px solid #42505e">${m.six_hour_kfz??'–'}</td></tr>`).join('');const ocrNote=measurements.some(m=>m.ocr_used)?'<br><small style="color:#f2bd75">Hinweis: Mindestens ein Messbericht wurde per OCR ausgelesen; bitte Original-PDF kontrollieren.</small>':'';const html=countStationPopupHtml({...p,zahlplan:p.zahlplan_url});L.circleMarker([xy[1],xy[0]],{radius:Math.max(9,radius),color:'#271d19',weight:2.3,fillColor:fill,fillOpacity:1,interactive:true,bubblingMouseEvents:false}).bindPopup(html,{maxWidth:480}).addTo(groups.countResults)}state.loaded.countResults=true;}
+
+// Measured approach-flow strands from the directional KFZ approach totals in processed count-plan PDFs.
+// These are approach volumes, not turning OD matrices. Geometry is matched to the local OSM road arm by compass direction.
+function bearingDeg(a,b){const lat1=a[0]*Math.PI/180,lat2=b[0]*Math.PI/180,dlon=(b[1]-a[1])*Math.PI/180,y=Math.sin(dlon)*Math.cos(lat2),x=Math.cos(lat1)*Math.sin(lat2)-Math.sin(lat1)*Math.cos(lat2)*Math.cos(dlon);return (Math.atan2(y,x)*180/Math.PI+360)%360}
+function directionName(key){const k=String(key||'').toUpperCase().replaceAll('Ü','UE');if(k==='NORD'||k==='N')return 'NORD';if(k==='OST'||k==='OSTEN'||k==='EAST'||k==='O')return 'OST';if(k==='SUED'||k==='SOUTH'||k==='S')return 'SÜD';if(k==='WEST'||k==='WG'||k==='W')return 'WEST';return null}
+function angularDelta(a,b){return Math.abs(((a-b+540)%360)-180)}
+function extendRoadArm(graph,startNode,firstEdge,limitMeters=240){
+ const coords=[[graph.nodes.get(startNode).lon,graph.nodes.get(startNode).lat]],used=new Set([firstEdge.id]);let current=firstEdge.a===startNode?firstEdge.b:firstEdge.a,previous=startNode,total=0,wayId=firstEdge.wayId;
+ coords.push([graph.nodes.get(current).lon,graph.nodes.get(current).lat]);total+=firstEdge.len;
+ while(total<limitMeters){const node=graph.nodes.get(current);if(!node)break;const options=node.adj.map(id=>graph.edges.get(id)).filter(e=>e&&!used.has(e.id)&&e.wayId===wayId).map(e=>({e,next:e.a===current?e.b:e.a})).filter(x=>x.next!==previous);if(!options.length)break;
+  const prev=graph.nodes.get(previous),here=graph.nodes.get(current),incoming=bearingDeg([prev.lat,prev.lon],[here.lat,here.lon]);options.sort((a,b)=>angularDelta(bearingDeg([here.lat,here.lon],[graph.nodes.get(a.next).lat,graph.nodes.get(a.next).lon]),incoming)-angularDelta(bearingDeg([here.lat,here.lon],[graph.nodes.get(b.next).lat,graph.nodes.get(b.next).lon]),incoming));
+  const chosen=options[0],nextNode=graph.nodes.get(chosen.next);if(!nextNode)break;used.add(chosen.e.id);previous=current;current=chosen.next;total+=chosen.e.len;coords.push([nextNode.lon,nextNode.lat]);
+ }
+ return coords;
+}
+function buildCountFlowLayer(graph){
+ groups.countFlows.clearLayers();const out=[],byKpnr=new Map(state.countMeasurementFeatures.map(f=>[String(f.properties?.kpnr||''),f]));let maximum=0;
+ for(const feature of state.countMeasurementFeatures){const p=feature.properties||{},xy=feature.geometry?.coordinates;if(!xy)continue;
+  const valid=[...(p.measurements||[])].sort((a,b)=>String(b.survey_date||'').localeCompare(String(a.survey_date||''))).filter(m=>(m.vehicle_rows||[]).some(r=>r.vehicle_class==='KFZ'&&r.period==='6h'&&r.approaches));
+  const m=valid[0];if(!m)continue;const six=m.vehicle_rows.find(r=>r.vehicle_class==='KFZ'&&r.period==='6h'),morning=m.vehicle_rows.find(r=>r.vehicle_class==='KFZ'&&r.period==='FSp'),afternoon=m.vehicle_rows.find(r=>r.vehicle_class==='KFZ'&&r.period==='NSp');if(!six)continue;
+  const snapped=nearestGraphNode(graph,[xy[1],xy[0]]);if(!snapped.id||snapped.d>450)continue;const node=graph.nodes.get(snapped.id);const best={};
+  for(const edgeId of node.adj){const e=graph.edges.get(edgeId);if(!e)continue;const other=e.a===node.id?e.b:e.a,n=graph.nodes.get(other);if(!n)continue;const dir=directionName(({0:'NORD',90:'OST',180:'SÜD',270:'WEST'})[Math.round(bearingDeg([node.lat,node.lon],[n.lat,n.lon])/90)*90%360]);if(!dir)continue;const b=bearingDeg([node.lat,node.lon],[n.lat,n.lon]),target=({NORD:0,OST:90,'SÜD':180,WEST:270})[dir],delta=angularDelta(b,target);if(!best[dir]||delta<best[dir].delta)best[dir]={edge:e,delta}}
+  const approachRows=[];for(const [raw,value] of Object.entries(six.approaches||{})){const dir=directionName(raw),count=Number(value)||0;if(dir&&count>0)approachRows.push({dir,count,morning:Number(morning?.approaches?.[raw]??morning?.approaches?.[dir]??0)||0,afternoon:Number(afternoon?.approaches?.[raw]??afternoon?.approaches?.[dir]??0)||0})}
+  for(const a of approachRows){const candidate=best[a.dir];if(!candidate||candidate.delta>55)continue;const coords=extendRoadArm(graph,node.id,candidate.edge,240);if(coords.length<2)continue;maximum=Math.max(maximum,a.count);out.push({type:'Feature',geometry:{type:'LineString',coordinates:coords},properties:{kpnr:p.kpnr,name:p.name||'Zählstelle',survey_date:m.survey_date,source_method:m.extraction_method||'',ocr_used:!!m.ocr_used,approach:a.dir,kfz_6h:a.count,morning_peak:a.morning,afternoon_peak:a.afternoon,snapping_distance_m:Math.round(snapped.d),road:candidate.edge.name||candidate.edge.highway,highway:candidate.edge.highway}})}
+ }
+ if(!out.length){state.countFlowStats={features:0,stations:0};return}
+ const stationCount=new Set(out.map(f=>f.properties.kpnr)).size;
+ L.geoJSON({type:'FeatureCollection',features:out},{renderer:L.canvas({padding:.35}),style:f=>{const p=f.properties,n=maximum?Math.sqrt(p.kfz_6h/maximum):0;return {color:'#f28a45',weight:1.8+4.2*n,opacity:.42+.5*n,lineCap:'round',lineJoin:'round'}},onEachFeature:(f,l)=>{const p=f.properties;l.bindPopup(popup(`${p.name} · Zufahrt ${p.approach}`,`KPNR ${p.kpnr} · Erhebung ${p.survey_date} · ${Number(p.kfz_6h).toLocaleString('de-DE')} Kfz in 6 Erhebungsstunden · Frühspitze ${p.morning_peak||'–'} Kfz/h · Nachmittagsspitze ${p.afternoon_peak||'–'} Kfz/h · Straßenarm ${p.road} · OSM-Snapping ${p.snapping_distance_m} m · ${p.ocr_used?'OCR-Auswertung – Original prüfen':'PDF-Textauswertung'}. Dargestellt ist die richtungsbezogene Zufahrtsmenge, keine Abbiege-OD-Beziehung.`))}}).addTo(groups.countFlows);
+ state.countFlowStats={features:out.length,stations:stationCount};
+}
+
+// Walk-network accessibility: multi-source shortest paths on OSM pedestrian-accessible ways.
+function walkableWay(el){
+ const t=el.tags||{},h=t.highway;if(!h)return false;
+ if(t.foot==='no'||t.foot==='private'||t.access==='no'||t.access==='private')return false;
+ if(t.motor_vehicle==='no'&&['footway','path','pedestrian','steps','living_street','residential','service'].includes(h))return true;
+ const accepted=new Set(['footway','path','pedestrian','steps','living_street','residential','unclassified','service','tertiary','secondary','primary','cycleway','track','bridleway']);
+ if(accepted.has(h))return true;
+ return t.foot==='yes'||t.sidewalk==='both'||t.sidewalk==='left'||t.sidewalk==='right';
+}
+function buildWalkingGraph(){
+ if(state.walkGraph)return state.walkGraph;
+ const nodes=[],adj=[],nodeIndex=new Map(),binSize=.0025,bins=new Map();
+ const getNode=(lat,lon)=>{const k=`${lat.toFixed(6)}:${lon.toFixed(6)}`;let id=nodeIndex.get(k);if(id!==undefined)return id;id=nodes.length;nodeIndex.set(k,id);nodes.push([lat,lon]);adj.push([]);const bk=`${Math.floor(lon/binSize)}:${Math.floor(lat/binSize)}`;if(!bins.has(bk))bins.set(bk,[]);bins.get(bk).push(id);return id};
+ let edgeCount=0;
+ for(const el of state.elements){if(el.type!=='way'||!walkableWay(el)||!Array.isArray(el.geometry)||el.geometry.length<2)continue;const pts=el.geometry;for(let i=1;i<pts.length;i++){const a=pts[i-1],b=pts[i];if(!Number.isFinite(a.lat)||!Number.isFinite(a.lon)||!Number.isFinite(b.lat)||!Number.isFinite(b.lon))continue;const len=localMeters([a.lat,a.lon],[b.lat,b.lon]);if(len<.8||len>2500)continue;const u=getNode(a.lat,a.lon),v=getNode(b.lat,b.lon);if(u===v)continue;const cost=len*(el.tags?.highway==='steps'?1.18:1);adj[u].push([v,cost]);adj[v].push([u,cost]);edgeCount++}}
+ const offsets=new Uint32Array(nodes.length+1);let total=0;for(let i=0;i<nodes.length;i++){offsets[i]=total;total+=adj[i].length}offsets[nodes.length]=total;
+ const adjTo=new Uint32Array(total),adjCost=new Float32Array(total);let at=0;for(const row of adj)for(const [to,cost] of row){adjTo[at]=to;adjCost[at]=cost;at++}
+ state.walkGraph={nodes,bins,binSize,offsets,adjTo,adjCost,nodeCount:nodes.length,edgeCount};return state.walkGraph;
+}
+function nearestWalkNode(latlng,graph,maxMeters=260){
+ const [lat,lon]=latlng,gx=Math.floor(lon/graph.binSize),gy=Math.floor(lat/graph.binSize);let best=-1,bestD=Infinity;
+ for(let r=0;r<=4;r++)for(let dx=-r;dx<=r;dx++)for(let dy=-r;dy<=r;dy++){if(r>0&&Math.abs(dx)!==r&&Math.abs(dy)!==r)continue;for(const id of graph.bins.get(`${gx+dx}:${gy+dy}`)||[]){const d=localMeters(latlng,graph.nodes[id]);if(d<bestD){bestD=d;best=id}}}
+ return best>=0&&bestD<=maxMeters?{id:best,d:bestD}:{id:-1,d:Infinity};
+}
+function runCoverageWorker(graph,sourceNodes,sourceCosts,queryNodes,queryCosts,maxDistance){
+ return new Promise((resolve,reject)=>{let worker;try{worker=new Worker('./tools/coverage_worker.js')}catch(e){reject(e);return}const stop=()=>{try{worker.terminate()}catch(e){}};worker.onmessage=e=>{const m=e.data||{};if(m.type==='complete'){stop();resolve(new Float32Array(m.distances))}else if(m.type==='error'){stop();reject(new Error(m.message||'Fußwegenetzberechnung fehlgeschlagen'))}};worker.onerror=e=>{stop();reject(new Error(e.message||'Coverage-Worker fehlgeschlagen'))};const payload={nodeCount:graph.nodeCount,offsets:graph.offsets.slice(),adjTo:graph.adjTo.slice(),adjCost:graph.adjCost.slice(),sourceNodes:Uint32Array.from(sourceNodes),sourceCosts:Float32Array.from(sourceCosts),queryNodes:Int32Array.from(queryNodes),queryCosts:Float32Array.from(queryCosts),maxDistance};worker.postMessage(payload,[payload.offsets.buffer,payload.adjTo.buffer,payload.adjCost.buffer,payload.sourceNodes.buffer,payload.sourceCosts.buffer,payload.queryNodes.buffer,payload.queryCosts.buffer])});
+}
+function nearestEuclideanStop(latlng){let min=Infinity;for(const p of state.stopPoints){const d=localMeters(latlng,p);if(d<min)min=d}return min}
+function renderCoverage(distances,methods,max,buildId){
+ if(buildId!==state.coverageBuildId||!checked('coverage'))return;
+ groups.coverage.clearLayers();
+ const colors=['#075b39','#258b50','#6da94d','#b9bd4b','#e9943b','#b92732'];
+ const features=[];let networkCount=0,fallbackCount=0,unreachableCount=0;
+ for(let i=0;i<state.gridCells.length;i++){
+  const cell=state.gridCells[i],method=methods[i]||'Luftlinien-Fallback';
+  let d=Number(distances[i]);if(!Number.isFinite(d))d=99999;
+  if(method==='Fußwegenetz')networkCount++;else if(method==='Netz nicht verbunden')unreachableCount++;else fallbackCount++;
+  const band=d<=max?Math.min(4,Math.floor(d/(max/5))):5;
+  features.push({...cell,properties:{...cell.properties,distance_to_stop_m:Math.round(d),coverage_band:band,distance_method:method}});
+ }
+ // The square cells are only the cartographic surface. Each value is the shortest
+ // walking distance to any GTFS stop, calculated over the pedestrian network.
+ L.geoJSON({type:'FeatureCollection',features},{renderer:L.canvas({padding:.35}),style:f=>{const col=colors[f.properties.coverage_band];return {color:col,weight:.12,opacity:.22,fillColor:col,fillOpacity:.56}},onEachFeature:(f,l)=>{const d=f.properties.distance_to_stop_m,distText=d>=99999?'keine Verbindung im berechneten Fußwegenetz':`ca. ${d} m`;l.bindPopup(popup(`Fußläufige ÖPNV-Erreichbarkeit · Zelle ${f.properties.grid_id}`,`Kürzeste Wegedistanz zur nächsten GTFS-Haltestelle: ${distText} · Methode: ${f.properties.distance_method} · Sektor ${f.properties.sector}`))}}).addTo(groups.coverage);
+ state.coverageStats={networkCount,fallbackCount,unreachableCount,total:features.length,...(state.coverageGraphStats||{})};
+ const gs=state.coverageGraphStats||{};const graphText=gs.nodeCount?` · ${gs.snappedStops||0}/${state.stopPoints.length} Haltestellen angebunden · ${gs.nodeCount.toLocaleString('de-DE')} Netzpunkte`:'';
+ $('coverageInfo')?.replaceChildren(document.createTextNode(`${networkCount.toLocaleString('de-DE')} Fußwegenetz · ${fallbackCount.toLocaleString('de-DE')} Luftlinien-Fallback · ${unreachableCount.toLocaleString('de-DE')} ohne Netzverbindung${graphText}`));
+}
+async function buildCoverage(){
+ const buildId=++state.coverageBuildId;groups.coverage.clearLayers();
+ if(!state.gridCells.length||!state.stopPoints.length){notify('ÖPNV-Abdeckung benötigt die Stadtgrenze und GTFS-Haltestellen.');$('coverageInfo').textContent='Stadtgrenze oder GTFS-Haltestellen fehlen.';return}
+ if(!state.loaded.osm||!state.elements.length){notify('Das OSM-Fußwegenetz wird noch geladen. Die Abdeckung wird nach dem OSM-Ladevorgang automatisch gestartet.');$('coverageInfo').textContent='Warte auf OSM-Fußwegenetz …';return}
+ const max=Number($('radius').value);$('coverageInfo')?.replaceChildren(document.createTextNode('Fußwegenetz-Erreichbarkeit wird berechnet …'));await yieldUI();
+ try{
+  if(!state.coverageDistances){
+   const graph=buildWalkingGraph();if(!graph.nodeCount||!graph.edgeCount)throw new Error('Im OSM-Ausschnitt wurden keine begehbaren Netzabschnitte gefunden.');
+   const src=new Map();for(const p of state.stopPoints){const n=nearestWalkNode(p,graph,650);if(n.id>=0&&n.d<(src.get(n.id)??Infinity))src.set(n.id,n.d)}
+   if(!src.size)throw new Error('Keine GTFS-Haltestelle ließ sich an das OSM-Fußwegenetz anbinden.');
+   state.coverageGraphStats={nodeCount:graph.nodeCount,edgeCount:graph.edgeCount,snappedStops:src.size};
+   const queryNodes=[],queryCosts=[],methods=[];
+   for(const cell of state.gridCells){const c=turf.centroid(cell).geometry.coordinates,n=nearestWalkNode([c[1],c[0]],graph,650);queryNodes.push(n.id);queryCosts.push(n.id>=0?n.d:0);methods.push(n.id>=0?'Fußwegenetz':'Luftlinien-Fallback')}
+   const net=await runCoverageWorker(graph,[...src.keys()],[...src.values()],queryNodes,queryCosts,5000);
+   const distances=new Float32Array(state.gridCells.length);
+   for(let i=0;i<distances.length;i++){
+    const d=net[i];
+    if(Number.isFinite(d)&&d>=0)distances[i]=d;
+    else if(methods[i]==='Fußwegenetz'){distances[i]=99999;methods[i]='Netz nicht verbunden'}
+    else distances[i]=nearestEuclideanStop([turf.centroid(state.gridCells[i]).geometry.coordinates[1],turf.centroid(state.gridCells[i]).geometry.coordinates[0]]);
+   }
+   state.coverageDistances=distances;state.coverageMethods=methods;state.walkGraph=null;
+  }
+  renderCoverage(state.coverageDistances,state.coverageMethods,max,buildId);if(buildId===state.coverageBuildId)updateLegend();
+ }catch(e){
+  console.error('Fußwegenetz-Abdeckung fehlgeschlagen',e);
+  const fallback=state.gridCells.map(cell=>{const c=turf.centroid(cell).geometry.coordinates;return nearestEuclideanStop([c[1],c[0]])});
+  renderCoverage(fallback,state.gridCells.map(()=> 'Luftlinien-Fallback'),max,buildId);
+  notify(`Fußwegenetz konnte nicht aufgebaut werden: ${e.message}. Die Karte zeigt vorläufig den gekennzeichneten Luftlinien-Fallback.`);
+ }
+}
+
+// OSM road network and complementary point infrastructure
+const carRoads=new Set(['motorway','trunk','primary','secondary','tertiary','unclassified','residential','living_street','service']);
+function addOSM(data){state.osmPOIs.forEach(m=>m.remove());state.osmPOIs=[];state.elements=data.elements||[];state.roadData=[];state.walkGraph=null;state.coverageDistances=null;state.coverageMethods=null;for(const k of ['roads','roadClass','cycleways','footways','railOSM','trafficControl','leisure','parkRide','bikeParking','sharing'])groups[k].clearLayers();
+ for(const el of state.elements){const t=el.tags||{};
+  if(el.type==='way'&&t.highway&&roadStyles[t.highway]){const plain=t.highway==='cycleway'||t.highway==='footway'||t.highway==='path';if(carRoads.has(t.highway))state.roadData.push(el);if(plain||['pedestrian','steps','track','bridleway'].includes(t.highway)){const target=t.highway==='cycleway'?groups.cycleways:groups.footways;const sty=roadStyles[t.highway]||['#9e91c7',1.15,.8];lineForOSM(el,sty,target,t.name||t.highway,`OSM · ${t.highway}${t.surface?' · '+t.surface:''}`)}else{lineForOSM(el,['#c8d2df',.92,.54],groups.roads,t.name||t.highway,`Straßenklasse: ${t.highway}${t.maxspeed?' · '+t.maxspeed+' km/h':''}${t.oneway==='yes'?' · Einbahnstraße':''}${t.lanes?' · '+t.lanes+' Fahrstreifen':''} · OSM`);lineForOSM(el,roadStyles[t.highway],groups.roadClass,t.name||t.highway,`Straßenklasse: ${t.highway}${t.maxspeed?' · '+t.maxspeed+' km/h':''}${t.oneway==='yes'?' · Einbahnstraße':''}${t.lanes?' · '+t.lanes+' Fahrstreifen':''} · OSM`)}}
+  if(el.type==='way'&&t.railway&&['rail','light_rail','tram','narrow_gauge','subway'].includes(t.railway))lineForOSM(el,['#9aa8b8',1.85,.85],groups.railOSM,t.name||'Schienenstrecke',`Schieneninfrastruktur · ${t.railway} · OSM`);
+  if(el.type==='node'&&t.highway==='traffic_signals'){const lamps='<span class="signal-lights"><b></b><b></b><b></b></span>';L.marker([el.lat,el.lon],{icon:iconHtml('traffic-signal-icon',lamps,44),keyboard:false,zIndexOffset:1600}).bindPopup(popup(t.name||'Lichtsignalanlage','OSM · highway=traffic_signals')).addTo(groups.trafficControl)}
+  if(el.type==='node'&&t.highway==='crossing'){L.circleMarker([el.lat,el.lon],{radius:3,color:'#31264b',weight:1,fillColor:'#bd9de5',fillOpacity:.9}).bindPopup(popup('Querungsstelle','OSM · highway=crossing')).addTo(groups.trafficControl)}
+  const p=coordsFrom(el);if(!p)continue;
+  if(t.amenity&&['school','kindergarten','childcare','university','college','library'].includes(t.amenity)){const g=({school:'🏫',kindergarten:'🧸',childcare:'🧸',university:'🎓',college:'🎓',library:'▤'})[t.amenity];markerForPOI(p,'education',g,t.name||t.amenity,`Bildung · OSM · ${t.amenity}`,groups.education)}
+  if(t.amenity&&['hospital','clinic','doctors','pharmacy','dentist','veterinary','social_facility','community_centre','bank','post_office','police','fire_station','townhall'].includes(t.amenity)){const g=({hospital:'✚',clinic:'✚',doctors:'✚',pharmacy:'✚',dentist:'✚',veterinary:'✚',social_facility:'♥',community_centre:'♥',bank:'€',post_office:'✉',police:'🛡',fire_station:'✚',townhall:'🏛'})[t.amenity];markerForPOI(p,'social',g,t.name||t.amenity,`Versorgung / soziale Infrastruktur · OSM · ${t.amenity}`,groups.services)}
+   if(t.shop||['supermarket','marketplace'].includes(t.amenity))markerForPOI(p,'social','🛒',t.name||t.shop||t.amenity,`Einzelhandel / Versorgung · OSM · ${t.shop||t.amenity}`,groups.services);
+  if(t.leisure&&['playground','sports_centre','stadium','pitch','water_park','park','garden'].includes(t.leisure)){const g=({playground:'🛝',sports_centre:'⚽',stadium:'⚽',pitch:'⚽',water_park:'🌊',park:'🌳',garden:'🌳'})[t.leisure];markerForPOI(p,'leisure',g,t.name||t.leisure,`Freizeit / Sport / Grün · OSM · ${t.leisure}`,groups.leisure)}
+  if(t.amenity&&['museum','theatre','cinema','arts_centre','swimming_pool','restaurant','cafe'].includes(t.amenity)){const g=({museum:'🏛',theatre:'🎭',cinema:'🎬',arts_centre:'🎨',swimming_pool:'🏊',restaurant:'🍽',cafe:'☕'})[t.amenity];markerForPOI(p,'leisure',g,t.name||t.amenity,`Kultur / Freizeit / Gastronomie · OSM · ${t.amenity}`,groups.leisure)}
+  if(t.park_ride==='yes')markerForPOI(p,'parkride','🅿',t.name||'Park-and-Ride',`Park-and-Ride-Anlage · OSM`,groups.parkRide);
+  if(t.amenity==='bicycle_parking')markerForPOI(p,'bikeparking','🚲',t.name||'Fahrradparken',`Fahrradabstellanlage · OSM${t.capacity?' · Kapazität '+t.capacity:''}`,groups.bikeParking);
+  if(t.amenity==='bicycle_rental'||t.amenity==='car_sharing'||t.amenity==='charging_station'){const glyph=t.amenity==='bicycle_rental'?'🚲':t.amenity==='car_sharing'?'🚗':'⚡';markerForPOI(p,'sharing',glyph,t.name||t.amenity,`Sharing / alternative Antriebe · OSM · ${t.amenity}`,groups.sharing)}
+ }
+ applyRoadScale();state.loaded.osm=true;}
+async function overpassRequest(query){
+ let lastError=null;
+ for(const url of ['https://overpass-api.de/api/interpreter','https://overpass.kumi.systems/api/interpreter']){
+  try{const r=await fetch(url,{method:'POST',body:query,headers:{'Content-Type':'text/plain;charset=UTF-8'}});if(!r.ok)throw new Error(`Overpass HTTP ${r.status}`);return await r.json()}catch(e){lastError=e;console.warn('Overpass endpoint',url,e)}
+ }
+ throw lastError||new Error('Kein Overpass-Endpunkt erreichbar');
+}
+async function loadOSM(){
+ setStatus('OSM-Straßen und Verkehrsinfrastruktur werden geladen …');
+ const b='52.315,12.845,52.565,13.245';
+ const qNetwork=`[out:json][timeout:90];(way["highway"~"motorway|trunk|primary|secondary|tertiary|unclassified|residential|living_street|service|cycleway|footway|path|pedestrian|steps|track|bridleway"](${b});way["railway"~"rail|light_rail|tram|narrow_gauge|subway"](${b});node["highway"~"traffic_signals|crossing"](${b}););out body geom;`;
+ const qPoi=`[out:json][timeout:90];(nwr["amenity"~"school|kindergarten|childcare|university|college|library|hospital|clinic|doctors|dentist|veterinary|pharmacy|social_facility|community_centre|museum|theatre|cinema|arts_centre|swimming_pool|restaurant|cafe|bank|post_office|police|fire_station|townhall|marketplace"](${b});nwr["leisure"~"playground|sports_centre|stadium|pitch|water_park|park|garden"](${b});nwr["shop"~"supermarket|convenience|department_store|mall|bakery|butcher|greengrocer|general"](${b});nwr["park_ride"="yes"](${b});nwr["amenity"~"bicycle_parking|bicycle_rental|car_sharing|charging_station"](${b}););out body geom;`;
+ let network;
+ try{network=await overpassRequest(qNetwork)}catch(e){console.error('OSM network failed',e);setStatus('OSM-Straßennetz nicht erreichbar');notify('OSM-Straßen konnten nicht geladen werden. ALKIS-, Zensus- und GTFS-Daten bleiben verfügbar.');return false}
+ let poi={elements:[]};
+ try{poi=await overpassRequest(qPoi)}catch(e){console.warn('OSM POI query failed; keep transport network',e);notify('Straßennetz geladen; ergänzende OSM-POI konnten aktuell nicht geladen werden.')}
+ const unique=new Map();for(const el of [...(network.elements||[]),...(poi.elements||[])])unique.set(`${el.type}/${el.id}`,el);
+ addOSM({elements:[...unique.values()]});if(checked('coverage'))buildCoverage();return true;
+}
+
+// Aggregate ALKIS and Zensus data to a regular 400 m square analysis grid. The visible base grid and stop coverage remain 100 m.
+function aggregateActivity(){
+ if(!state.boundary)return;
+ const bbox=getBounds(state.boundary),grid=turf.squareGrid(bbox,ACTIVITY_GRID_KM,{units:'kilometers'}),cells=[];
+ for(const raw of grid.features){const center=turf.centroid(raw);if(!turf.booleanPointInPolygon(center,state.boundary))continue;raw.properties={grid_id:cells.length+1,sector:sectorOf(center.geometry.coordinates,LANDTAG_CENTER),resAreaM2:0,workAreaM2:0,population:0,resBuildings:0};cells.push(raw)}
+ const binSize=.004,bins=new Map(),key=(x,y)=>`${Math.floor(x/binSize)}:${Math.floor(y/binSize)}`;
+ cells.forEach((cell,i)=>{const b=turf.bbox(cell);for(let x=Math.floor(b[0]/binSize);x<=Math.floor(b[2]/binSize);x++)for(let y=Math.floor(b[1]/binSize);y<=Math.floor(b[3]/binSize);y++){const k=`${x}:${y}`;if(!bins.has(k))bins.set(k,[]);bins.get(k).push(i)}});
+ const assignArea=(features,prop)=>{for(const f of features){if(!f.geometry)continue;let pt;try{pt=turf.centroid(f)}catch(e){continue}const [x,y]=pt.geometry.coordinates,candidates=bins.get(key(x,y))||[];for(const i of candidates){const c=cells[i];if(turf.booleanPointInPolygon(pt,c)){c.properties[prop]+=turf.area(f);break}}}};
+ const assignGrid=(features,prop,field)=>{for(const f of features){if(!f.geometry)continue;const pt=turf.centroid(f),xy=pt.geometry.coordinates,candidates=bins.get(key(xy[0],xy[1]))||[];for(const i of candidates){const c=cells[i];if(turf.booleanPointInPolygon(pt,c)){c.properties[prop]+=Number(f.properties?.[field])||0;break}}}};
+ assignArea(state.housingFeatures,'resAreaM2');assignArea(state.workFeatures,'workAreaM2');assignGrid(state.populationFeatures,'population','inhabitants');assignGrid(state.buildingGridFeatures,'resBuildings','residential_buildings');
+ state.activityGridCells=cells;state.activityCells=cells.filter(c=>c.properties.population>0||c.properties.resAreaM2>300||c.properties.workAreaM2>300).map(c=>{const xy=turf.centroid(c).geometry.coordinates;return {id:c.properties.grid_id,latlng:[xy[1],xy[0]],population:c.properties.population||0,resBuildings:c.properties.resBuildings||0,resAreaM2:c.properties.resAreaM2||0,workAreaM2:c.properties.workAreaM2||0,sector:c.properties.sector}});
+ state.activityStats={origins:state.activityCells.filter(c=>c.population>0||c.resAreaM2>300).length,destinations:state.activityCells.filter(c=>c.workAreaM2>300).length,population:state.populationFeatures.reduce((a,f)=>a+(Number(f.properties?.inhabitants)||0),0)};
+}
+
+// Weighted road graph and efficient all-to-all gravity assignment.
+// All snapped residential origin zones are routed to all snapped employment zones.
+// Shortest-path-tree accumulation aggregates OD demand without traversing every full path separately.
+class MinHeap{constructor(){this.a=[]}push(v,p){const a=this.a;a.push({v,p});let i=a.length-1;while(i){const j=(i-1)>>1;if(a[j].p<=p)break;a[i]=a[j];i=j}a[i]={v,p}}pop(){const a=this.a;if(!a.length)return null;const root=a[0],last=a.pop();if(a.length){let i=0;while(true){let l=i*2+1,r=l+1,m=i;if(l<a.length&&a[l].p<a[m].p)m=l;if(r<a.length&&a[r].p<a[m].p)m=r;if(m===i)break;a[i]=a[m];i=m}a[i]=last}return root}}
+function buildGraph(){const nodes=new Map(),edges=new Map(),adj=new Map(),nodeKey=p=>`${p.lat.toFixed(6)},${p.lon.toFixed(6)}`,addNode=p=>{const id=nodeKey(p);if(!nodes.has(id)){nodes.set(id,{id,lat:p.lat,lon:p.lon,adj:[]});adj.set(id,[])}return id};const speed={motorway:95,trunk:70,primary:52,secondary:42,tertiary:34,unclassified:30,residential:25,living_street:12,service:15};const municipalBox=state.boundary?turf.bbox(state.boundary):[12.845,52.315,13.245,52.565],modelBox=[municipalBox[0]-.03,municipalBox[1]-.025,municipalBox[2]+.03,municipalBox[3]+.025];
+ for(const way of state.roadData){const t=way.tags||{},geom=way.geometry||[];if(geom.length<2)continue;let minLon=Infinity,minLat=Infinity,maxLon=-Infinity,maxLat=-Infinity;for(const p of geom){if(p.lon<minLon)minLon=p.lon;if(p.lon>maxLon)maxLon=p.lon;if(p.lat<minLat)minLat=p.lat;if(p.lat>maxLat)maxLat=p.lat}if(maxLon<modelBox[0]||minLon>modelBox[2]||maxLat<modelBox[1]||minLat>modelBox[3])continue;const hw=t.highway;if(!carRoads.has(hw)||['no','private'].includes(t.access))continue;const one=String(t.oneway||'').toLowerCase(),reverse=one==='-1',oneway=['yes','1','true','-1'].includes(one);for(let i=1;i<geom.length;i++){const a={lat:geom[i-1].lat,lon:geom[i-1].lon},b={lat:geom[i].lat,lon:geom[i].lon};if(!Number.isFinite(a.lat)||!Number.isFinite(b.lat))continue;const aid=addNode(a),bid=addNode(b),len=localMeters([a.lat,a.lon],[b.lat,b.lon]);if(len<1)continue;const sp=Number(String(t.maxspeed||'').match(/\d+/)?.[0])||speed[hw]||25,cost=len/(sp/3.6),id=`${way.id}:${i}`;const edge={id,wayId:String(way.id),highway:hw,name:t.name||hw,a:aid,b:bid,len,cost,flow:0,geometry:[[a.lat,a.lon],[b.lat,b.lon]]};edges.set(id,edge);nodes.get(aid).adj.push(id);nodes.get(bid).adj.push(id);if(!reverse)adj.get(aid).push({to:bid,cost,edgeId:id});if(!oneway||reverse)adj.get(bid).push({to:aid,cost,edgeId:id})}}
+ const nodeIndex=new Map(),cell=250,lat0=LANDTAG_CENTER[1]*Math.PI/180,xy=p=>[p.lon*111320*Math.cos(lat0),p.lat*111320];for(const n of nodes.values()){const [x,y]=xy(n),k=`${Math.floor(x/cell)}:${Math.floor(y/cell)}`;if(!nodeIndex.has(k))nodeIndex.set(k,[]);nodeIndex.get(k).push(n.id)}
+ return {nodes,edges,adj,nodeIndex,xy,cell,lat0};}
+function dijkstra(graph,start,maxSeconds=7200){const dist=new Map([[start,0]]),prev=new Map(),order=[],heap=new MinHeap();heap.push(start,0);while(heap.a.length){const item=heap.pop(),v=item.v,p=item.p;if(p>(dist.get(v)??Infinity))continue;if(p>maxSeconds)break;order.push(v);for(const e of graph.adj.get(v)||[]){const nd=p+e.cost;if(nd<=maxSeconds&&nd<(dist.get(e.to)??Infinity)){dist.set(e.to,nd);prev.set(e.to,{from:v,edgeId:e.edgeId});heap.push(e.to,nd)}}}return {dist,prev,order}}
+function nearestGraphNode(graph,latlng){const lat=latlng[0],lon=latlng[1],[x,y]=graph.xy({lat,lon}),gx=Math.floor(x/graph.cell),gy=Math.floor(y/graph.cell);let best=null,dmin=Infinity;for(let r=0;r<=5;r++){for(let dx=-r;dx<=r;dx++)for(let dy=-r;dy<=r;dy++){if(r>0&&Math.abs(dx)!==r&&Math.abs(dy)!==r)continue;for(const id of graph.nodeIndex.get(`${gx+dx}:${gy+dy}`)||[]){const n=graph.nodes.get(id),d=localMeters(latlng,[n.lat,n.lon]);if(d<dmin){dmin=d;best=id}}}if(best&&r>1&&dmin<(r-1)*graph.cell)break}if(!best){for(const n of graph.nodes.values()){const d=localMeters(latlng,[n.lat,n.lon]);if(d<dmin){dmin=d;best=n.id}}}return {id:best,d:dmin}}
+function classBase(hw){return ({motorway:6,trunk:5.4,primary:4.8,secondary:4.0,tertiary:3.1,unclassified:2.0,residential:1.2,living_street:.8,service:.5})[hw]||.4}
+const yieldUI=()=>new Promise(resolve=>setTimeout(resolve,0));
+function makeWorkerGraph(graph){
+ const nodeIds=[...graph.nodes.keys()],nodeIndex=new Map(nodeIds.map((id,i)=>[id,i])),edgeList=[...graph.edges.values()],edgeIndex=new Map(edgeList.map((e,i)=>[e.id,i]));
+ const offsets=new Int32Array(nodeIds.length+1);let total=0;
+ for(let i=0;i<nodeIds.length;i++){offsets[i]=total;total+=(graph.adj.get(nodeIds[i])||[]).length}offsets[nodeIds.length]=total;
+ const adjTo=new Int32Array(total),adjCost=new Float64Array(total),adjEdge=new Int32Array(total);let at=0;
+ for(const id of nodeIds)for(const a of graph.adj.get(id)||[]){adjTo[at]=nodeIndex.get(a.to);adjCost[at]=a.cost;adjEdge[at]=edgeIndex.get(a.edgeId);at++}
+ return {nodeIds,nodeIndex,edgeList,offsets,adjTo,adjCost,adjEdge};
+}
+function runTransportWorker(payload,onProgress){
+ return new Promise((resolve,reject)=>{
+  let worker;try{worker=new Worker('./tools/transport_model_worker.js')}catch(e){reject(e);return}
+  const stop=()=>{try{worker.terminate()}catch(e){}};
+  worker.onmessage=e=>{const m=e.data||{};if(m.type==='progress'){onProgress?.(m);return}if(m.type==='complete'){stop();resolve(m)}else if(m.type==='error'){stop();reject(new Error(m.message||'Transportmodell fehlgeschlagen'))}};
+  worker.onerror=e=>{stop();reject(new Error(e.message||'Fehler im Analyse-Worker'))};
+  worker.postMessage(payload,[payload.offsets.buffer,payload.adjTo.buffer,payload.adjCost.buffer,payload.adjEdge.buffer]);
+ });
+}
+function addModelFlowLayer(flowEdges,originCount,destCount){
+ groups.flows.clearLayers();if(!flowEdges.length)return;
+ let maxFlow=0,maxPairs=0;for(const e of flowEdges){if(e.flow>maxFlow)maxFlow=e.flow;if(e.odCount>maxPairs)maxPairs=e.odCount}
+ const features=flowEdges.map(e=>{const flowNorm=maxFlow>0?Math.log1p(e.flow)/Math.log1p(maxFlow):0,pairNorm=maxPairs>0?Math.log1p(e.odCount)/Math.log1p(maxPairs):0,intensity=.65*flowNorm+.35*pairNorm;return {type:'Feature',geometry:{type:'LineString',coordinates:e.geometry.map(p=>[p[1],p[0]])},properties:{flow:e.flow,odCount:e.odCount,intensity,road:e.name,highway:e.highway,wayId:e.wayId}}});
+ L.geoJSON({type:'FeatureCollection',features},{style:f=>{const n=f.properties.intensity;return {color:'#68b3fa',weight:.85+2.35*Math.sqrt(n),opacity:.20+.43*Math.sqrt(n),lineCap:'round',lineJoin:'round'}},onEachFeature:(f,l)=>l.bindPopup(popup(f.properties.road||'Straßenabschnitt',`Wohn-Arbeits-Verknüpfung · ${Number(f.properties.odCount).toLocaleString('de-DE')} modellierte 400-m-OD-Zonenpaare · gewichteter Potenzialindex ${Number(f.properties.flow).toFixed(3)} · Straßentyp ${f.properties.highway} · kein beobachteter Pendlerverkehr`)),renderer:L.canvas({padding:.4})}).addTo(groups.flows);
+}
+function attachCountValues(graph){
+ const countNodes=new Map(),countNodeVolumes=new Map(),countByKpnr=new Map(state.countFeatures.map(f=>[String(f.properties?.kpnr||''),f]));let maxObservedPeak=0;
+ for(const f of state.countMeasurementFeatures){const p=f.properties||{},loc=countByKpnr.get(String(p.kpnr||'')),xy=f.geometry?.coordinates||loc?.geometry?.coordinates;if(!xy)continue;const n=nearestGraphNode(graph,[xy[1],xy[0]]);if(!n.id||n.d>450)continue;countNodes.set(n.id,{kpnr:p.kpnr,name:p.name,distance:n.d,measured:true});let peak=0;const latest=[...(p.measurements||[])].sort((a,b)=>String(b.survey_date||'').localeCompare(String(a.survey_date||'')))[0];if(latest)peak=Math.max(Number(latest.morning_peak_kfz_h)||0,Number(latest.afternoon_peak_kfz_h)||0);if(peak>0){countNodeVolumes.set(n.id,Math.max(countNodeVolumes.get(n.id)||0,peak));maxObservedPeak=Math.max(maxObservedPeak,peak)}}
+ for(const f of state.countFeatures){const xy=f.geometry?.coordinates;if(!xy)continue;const n=nearestGraphNode(graph,[xy[1],xy[0]]);if(n.id&&n.d<300&&!countNodes.has(n.id))countNodes.set(n.id,{kpnr:f.properties?.kpnr,name:f.properties?.name,distance:n.d,measured:false})}
+ return {countNodes,countNodeVolumes,maxObservedPeak};
+}
+function routeLineParts(geometry){if(!geometry)return[];if(geometry.type==='LineString')return [geometry.coordinates||[]];if(geometry.type==='MultiLineString')return geometry.coordinates||[];return[]}
+function pointToSegmentMetersLL(point,a,b){const lat0=(point[1]+a[1]+b[1])/3*Math.PI/180,scaleX=111320*Math.cos(lat0),scaleY=111320,px=point[0]*scaleX,py=point[1]*scaleY,ax=a[0]*scaleX,ay=a[1]*scaleY,bx=b[0]*scaleX,by=b[1]*scaleY,dx=bx-ax,dy=by-ay,t=Math.max(0,Math.min(1,((px-ax)*dx+(py-ay)*dy)/(dx*dx+dy*dy||1)));return Math.hypot(px-(ax+t*dx),py-(ay+t*dy))}
+function buildStrategicTransitLayer(strategicFeatures,importantNodes){
+ for(const [rid,layers] of state.routeLayersById)state.routeLayersById.set(rid,layers.filter(l=>!l._strategicTransitLayer));
+ groups.strategicTransit.clearLayers();const routeFeatureData=state.routeFeatureData||[],binSize=.003,key=(x,y)=>`${Math.floor(x/binSize)}:${Math.floor(y/binSize)}`,segBins=new Map(),nodeBins=new Map();
+ for(const f of strategicFeatures){const c=f.geometry?.coordinates||[];for(let i=1;i<c.length;i++){const seg={a:c[i-1],b:c[i]};const minX=Math.floor((Math.min(seg.a[0],seg.b[0])-.00055)/binSize),maxX=Math.floor((Math.max(seg.a[0],seg.b[0])+.00055)/binSize),minY=Math.floor((Math.min(seg.a[1],seg.b[1])-.00055)/binSize),maxY=Math.floor((Math.max(seg.a[1],seg.b[1])+.00055)/binSize);for(let x=minX;x<=maxX;x++)for(let y=minY;y<=maxY;y++){const k=`${x}:${y}`;if(!segBins.has(k))segBins.set(k,[]);segBins.get(k).push(seg)}}}
+ importantNodes.forEach((r,i)=>{const n=r.n,k=key(n.lon,n.lat);if(!nodeBins.has(k))nodeBins.set(k,[]);nodeBins.get(k).push({id:i,xy:[n.lon,n.lat]})});
+ const nearestStrategicDistance=pt=>{const [gx,gy]=key(pt[0],pt[1]).split(':').map(Number);let best=Infinity;for(let dx=-1;dx<=1;dx++)for(let dy=-1;dy<=1;dy++)for(const seg of segBins.get(`${gx+dx}:${gy+dy}`)||[])best=Math.min(best,pointToSegmentMetersLL(pt,seg.a,seg.b));return best};
+ const nearbyNodeIds=pt=>{const [gx,gy]=key(pt[0],pt[1]).split(':').map(Number),ids=[];for(let dx=-1;dx<=1;dx++)for(let dy=-1;dy<=1;dy++)for(const n of nodeBins.get(`${gx+dx}:${gy+dy}`)||[])if(localMeters([pt[1],pt[0]],[n.xy[1],n.xy[0]])<=65)ids.push(n.id);return ids};
+ const geometryKey=g=>routeLineParts(g).map(part=>part.map(c=>`${Number(c[0]).toFixed(5)},${Number(c[1]).toFixed(5)}`).join(';')).sort().join('|');
+ const routeAcc=new Map();
+ for(const f of routeFeatureData){const p=f.properties||{},rid=String(p.route_id||'');if(!rid||p.mode!=='bus')continue;if(!routeAcc.has(rid))routeAcc.set(rid,{route:p.route||state.routeStatsById[rid]?.route||rid,mode:'bus',features:[],seenGeometry:new Set(),totalMeters:0,overlapMeters:0,nodeSet:new Set()});const acc=routeAcc.get(rid),gkey=geometryKey(f.geometry);if(acc.seenGeometry.has(gkey))continue;acc.seenGeometry.add(gkey);acc.features.push(f);
+  for(const part of routeLineParts(f.geometry)){for(let i=1;i<part.length;i++){const a=part[i-1],b=part[i],len=localMeters([a[1],a[0]],[b[1],b[0]]);if(!(len>0))continue;acc.totalMeters+=len;const steps=Math.max(1,Math.ceil(len/60)),sampleLen=len/steps;for(let j=0;j<steps;j++){const t=(j+.5)/steps,pt=[a[0]+(b[0]-a[0])*t,a[1]+(b[1]-a[1])*t];if(nearestStrategicDistance(pt)<=28)acc.overlapMeters+=sampleLen;for(const id of nearbyNodeIds(pt))acc.nodeSet.add(id)}}}
+ }
+ const routeMetrics=[...routeAcc.entries()].map(([rid,m])=>{const share=m.totalMeters?m.overlapMeters/m.totalMeters:0,nodeHits=m.nodeSet.size,score=m.overlapMeters*share+Math.min(nodeHits,8)*260;return [rid,{...m,share,nodeHits,score}]});
+ // Bus lines are included only where a meaningful share and absolute length of the route
+ // coincide with several high-priority road sections or nodes. Railway routes remain strategic.
+ const busCandidates=routeMetrics.filter(([rid,m])=>(m.overlapMeters>=2600&&m.share>=.20&&m.nodeHits>=3)||(m.overlapMeters>=4200&&m.share>=.16&&m.nodeHits>=2)).sort((a,b)=>b[1].score-a[1].score).slice(0,4);
+ const selected=new Map();for(const f of routeFeatureData){const p=f.properties||{},rid=String(p.route_id||''),mode=p.mode;if(rid&&['sbahn','regional','tram'].includes(mode))selected.set(rid,{mode,reason:'Schienengebundene Linie',score:Infinity})}
+ for(const [rid,m] of busCandidates)selected.set(rid,{mode:'bus',reason:'Hohe räumliche Überlagerung mit strategischem Straßennetz',...m});
+ const ids=new Set(selected.keys()),features=routeFeatureData.filter(f=>ids.has(String(f.properties?.route_id||'')));
+ if(features.length){const colors={sbahn:'#ef963d',regional:'#bd8ade',tram:'#e53935',bus:'#55b5e7'};L.geoJSON({type:'FeatureCollection',features},{renderer:L.canvas({padding:.35}),style:f=>{const mode=f.properties?.mode;return {color:colors[mode]||'#bb8be6',weight:mode==='bus'?3.9:4.8,opacity:.92,lineCap:'round',lineJoin:'round'}},onEachFeature:(f,l)=>{const p=f.properties||{},rid=String(p.route_id||''),st=state.routeStatsById[rid]||{},sel=selected.get(rid)||{},metric=sel.mode==='bus'?` · strategischer Netzanteil ${(100*(sel.share||0)).toFixed(1)} % · ${Math.round(sel.overlapMeters||0).toLocaleString('de-DE')} m Überlagerung · ${sel.nodeHits||0} strategische Knoten` : '';l.bindPopup(popup(`Strategische Linie ${p.route||st.route||rid}`,`${routeModeLabel(p.mode)} · ${sel.reason||'Schienengebundene Verbindung'}${metric} · Wochentagsfahrten: ${st.weekday_trips??'–'} · HVZ morgens: ${st.hvz_morning_headway_min??'–'} min · HVZ nachmittags: ${st.hvz_afternoon_headway_min??'–'} min · NVZ: ${st.nvz_headway_min??'–'} min. GTFS enthält Fahrplanangebot, keine Fahrgastzahlen oder Auslastung.`));l._strategicTransitLayer=true;l._routeBaseStyle={color:colors[p.mode]||'#bb8be6',weight:p.mode==='bus'?3.9:4.8,opacity:.92,lineCap:'round',lineJoin:'round'};state.routeLayersById.set(rid,[...(state.routeLayersById.get(rid)||[]),l]);bindRouteSelection(l,rid)}}).addTo(groups.strategicTransit)}
+ state.strategicTransitStats={routes:selected.size,features:features.length,rail:[...selected.values()].filter(x=>x.reason==='Schienengebundene Linie').length,bus:busCandidates.length,busCandidates:routeMetrics.length};
+}
+
+
+async function computeTransportModel(){
+ groups.flows.clearLayers();groups.strategic.clearLayers();groups.nodes.clearLayers();state.loaded.model=false;
+ if(!state.roadData.length||!state.activityCells.length){setStatus('Analyse wartet auf Straßen- und ALKIS/Zensus-Daten.');$('modelSummary').textContent='Analyse wartet auf OSM-Straßennetz und ALKIS-/Zensus-Grunddaten.';return}
+ setStatus('Straßengraph wird aufgebaut …');$('modelSummary').textContent='Straßengraph wird aufgebaut und Wohn-/Arbeitszonen werden zugeordnet …';await yieldUI();
+ const graph=buildGraph();state.graph=graph;if(!graph.nodes.size){notify('Das OSM-Straßennetz enthält keine routbaren Abschnitte.');setStatus('Modell nicht berechenbar · keine Straßenkanten.');return}
+ const snap=(cells,mode)=>{const grouped=new Map();for(const c of cells){const pop=Number(c.population)||0,resArea=Number(c.resAreaM2)||0,workArea=Number(c.workAreaM2)||0;const weight=mode==='origin'?(pop>0?pop:resArea/65):workArea/450;if(!(weight>0))continue;const n=nearestGraphNode(graph,c.latlng);if(!n.id||n.d>1000)continue;if(!grouped.has(n.id))grouped.set(n.id,{node:n.id,weight:0,cells:0,ids:[],snapDistanceSum:0});const x=grouped.get(n.id);x.weight+=weight;x.cells++;x.ids.push(c.id);x.snapDistanceSum+=n.d}return [...grouped.values()]};
+ const originCells=state.activityCells.filter(c=>c.population>0||c.resAreaM2>300),destCells=state.activityCells.filter(c=>c.workAreaM2>300),origins=snap(originCells,'origin'),destinations=snap(destCells,'destination');
+ state.modelStats={origins:origins.length,destinations:destinations.length,pairs:origins.length*destinations.length,reachable:0,flowEdges:0,strategic:0,nodes:0,gridZones:state.activityCells.length};
+ if(!origins.length||!destinations.length){notify(`Straßenmodell: ${origins.length} Wohn- und ${destinations.length} Arbeitszugangszonen konnten angebunden werden.`);setStatus('Modell nicht berechenbar · keine ausreichend erreichbaren Wohn-/Arbeitszonen.');$('modelSummary').textContent='Keine ausreichenden Wohn- oder Arbeitszugangszonen konnten an das Straßennetz angebunden werden.';return}
+ setStatus(`Routenberechnung startet · ${origins.length} Wohnzugänge × ${destinations.length} Arbeitsziele …`);await yieldUI();
+ const workerGraph=makeWorkerGraph(graph),maxO=origins.reduce((m,x)=>Math.max(m,x.weight),1),maxD=destinations.reduce((m,x)=>Math.max(m,x.weight),1);
+ const payload={type:'calculate',nodeCount:workerGraph.nodeIds.length,edgeCount:workerGraph.edgeList.length,offsets:workerGraph.offsets,adjTo:workerGraph.adjTo,adjCost:workerGraph.adjCost,adjEdge:workerGraph.adjEdge,origins:origins.map(o=>({node:workerGraph.nodeIndex.get(o.node),weight:o.weight,zoneCount:o.cells})),destinations:destinations.map(d=>({node:workerGraph.nodeIndex.get(d.node),weight:d.weight,zoneCount:d.cells})),targetNodes:Int32Array.from(destinations.map(d=>workerGraph.nodeIndex.get(d.node))),maxO,maxD,maxTravel:10800};
+ let result;
+ try{result=await runTransportWorker(payload,m=>{setStatus(`Straßengebundene OD-Berechnung · ${m.done}/${m.total} Wohnzonen · ${m.reachable.toLocaleString('de-DE')} erreichbare OD-Paare`);$('modelSummary').textContent=`Berechnung läuft: ${m.done}/${m.total} Wohnzonen · ${m.reachable.toLocaleString('de-DE')} erreichbare Wohn-Arbeits-Paare.`})}
+ catch(e){console.error('Transport model worker failed',e);notify(`Analyse fehlgeschlagen: ${e.message}`);setStatus(`Analyse fehlgeschlagen · ${e.message}`);$('modelSummary').textContent=`Analysefehler: ${e.message}. Bitte OSM-Netz neu laden und erneut berechnen.`;return}
+ const edgeFlows=result.edgeFlows instanceof ArrayBuffer?new Float64Array(result.edgeFlows):result.edgeFlows;const edgeOdCounts=result.edgeOdCounts instanceof ArrayBuffer?new Float64Array(result.edgeOdCounts):result.edgeOdCounts;const flowEdges=[];
+ for(let i=0;i<edgeFlows.length;i++){const flowRaw=Number(edgeFlows[i]),odRaw=Number(edgeOdCounts?.[i]||0),flow=Number.isFinite(flowRaw)?Math.max(0,flowRaw):0,odCount=Number.isFinite(odRaw)?Math.min(Math.max(0,odRaw),result.reachable):0;if(flow>0||odCount>0){const e=workerGraph.edgeList[i];e.flow=flow;e.odCount=odCount;flowEdges.push(e)}}
+ if(!flowEdges.length){notify('Keine erreichbaren straßengebundenen Wohn-Arbeits-Pfade gefunden.');setStatus('Analyse beendet · keine belasteten Straßenabschnitte.');$('modelSummary').textContent='Keine OD-Verbindungen gefunden. Prüfe OSM-Netzabdeckung, Einbahnstraßen und Netzanschlüsse.';return}
+ addModelFlowLayer(flowEdges,origins.length,destinations.length);
+ // Dynamic prioritisation combines modelled OD flow, road hierarchy, nearby count locations and actual peaks from processed survey PDFs.
+ const {countNodes,countNodeVolumes,maxObservedPeak}=attachCountValues(graph);buildCountFlowLayer(graph);
+ let maxFlow=0,maxOdPairs=0;for(const e of flowEdges){if(e.flow>maxFlow)maxFlow=e.flow;if(e.odCount>maxOdPairs)maxOdPairs=e.odCount}
+ // Build candidates only from loaded OD segments plus edges immediately adjacent to count nodes.
+ // This avoids scanning and styling the entire OSM graph for the strategic overlay.
+ const candidateIds=new Set(flowEdges.map(e=>e.id));
+ for(const nodeId of countNodes.keys()){
+  const node=graph.nodes.get(nodeId);if(node)for(const edgeId of node.adj)candidateIds.add(edgeId);
+ }
+ const candidateEdges=[...candidateIds].map(id=>graph.edges.get(id)).filter(Boolean);
+ const scores=[];
+ for(const e of candidateEdges){
+  const norm=maxFlow>0?Math.log1p(e.flow||0)/Math.log1p(maxFlow):0;
+  const pairNorm=maxOdPairs>0?Math.log1p(e.odCount||0)/Math.log1p(maxOdPairs):0;
+  const va=Math.max(countNodeVolumes.get(e.a)||0,countNodeVolumes.get(e.b)||0);
+  const hasCount=countNodes.has(e.a)||countNodes.has(e.b),hasMeasured=va>0;
+  const measuredNorm=maxObservedPeak?va/maxObservedPeak:0;
+  const priority=norm*4.8+pairNorm*1.8+classBase(e.highway)*.42+(hasCount?.35:0)+measuredNorm*3.0;
+  scores.push({edge:e,flow:e.flow||0,odCount:e.odCount||0,norm,pairNorm,hasCount,hasMeasured,measured:va,priority,hw:e.highway});
+ }
+ scores.sort((a,b)=>b.priority-a.priority);
+ const limit=Math.min(160,Math.max(1,Math.ceil(scores.length*.035))),selected=scores.slice(0,limit);
+ // IMPORTANT: one shared Canvas renderer + one GeoJSON layer, not one renderer per segment.
+ // The previous implementation allocated a new Leaflet Canvas renderer for every line;
+ // with many selected segments this created hundreds of canvases and could freeze Firefox.
+ const strategicFeatures=selected.map(x=>({
+  type:'Feature',geometry:{type:'LineString',coordinates:x.edge.geometry.map(p=>[p[1],p[0]])},
+  properties:{name:x.edge.name||'Strategischer Straßenabschnitt',priority:x.priority,flow:x.flow,odCount:x.odCount,highway:x.hw,hasCount:x.hasCount,hasMeasured:x.hasMeasured,measured:x.measured,norm:x.norm}
+ }));
+ const strategicRenderer=L.canvas({padding:.35});
+ L.geoJSON({type:'FeatureCollection',features:strategicFeatures},{
+  renderer:strategicRenderer,
+  style:f=>{const p=f.properties,color=p.priority>=7.2?'#e75a52':p.priority>=5.1?'#e39b43':'#f0c66a';return {color,weight:2.7+1.9*Math.sqrt(p.norm||0),opacity:.94,lineCap:'round',lineJoin:'round'}},
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindPopup(popup(p.name,`Prioritätsindex ${p.priority.toFixed(2)} · Straßentyp ${p.highway} · ${Number(p.odCount||0).toLocaleString('de-DE')} OD-Zonenpaare · OD-Index ${p.flow.toFixed(3)} · ${p.hasMeasured?`gemessener Spitzenwert am benachbarten Zählknoten bis ${p.measured.toLocaleString('de-DE')} Kfz/h`:(p.hasCount?'Zählstellenstandort in Nähe, keine Messmenge verfügbar':'keine Zählstelle in unmittelbarer Nähe')}`));}
+ }).addTo(groups.strategic);
+ const nodeScores=[];for(const n of graph.nodes.values()){if(n.adj.length<3)continue;const adjacent=n.adj.map(id=>graph.edges.get(id)).filter(Boolean),flow=adjacent.reduce((sum,e)=>sum+(e.flow||0),0),odCount=adjacent.reduce((sum,e)=>sum+(e.odCount||0),0),count=countNodes.has(n.id),measured=countNodeVolumes.get(n.id)||0;if(flow<=0&&!odCount&&!count)continue;const norm=maxFlow>0?Math.log1p(flow)/Math.log1p(maxFlow*Math.max(1,adjacent.length)):0,pairNorm=maxOdPairs>0?Math.log1p(odCount)/Math.log1p(maxOdPairs*Math.max(1,adjacent.length)):0,roadScore=adjacent.reduce((m,e)=>Math.max(m,classBase(e.highway)),0),score=norm*4.6+pairNorm*1.7+roadScore*.25+(count?.45:0)+(maxObservedPeak?measured/maxObservedPeak*2.8:0)+Math.min(.8,(n.adj.length-3)*.12);nodeScores.push({n,score,count,degree:n.adj.length,flow,odCount,measured})}nodeScores.sort((a,b)=>b.score-a.score);const importantNodes=nodeScores.slice(0,45);state.strategicRoadFeatures=strategicFeatures;state.importantNodeRecords=importantNodes;buildStrategicTransitLayer(strategicFeatures,importantNodes);
+ for(const x of importantNodes){L.circleMarker([x.n.lat,x.n.lon],{radius:x.measured?9:x.count?7.5:5.8,color:'#231526',weight:1.8,fillColor:x.measured?'#f06b48':x.count?'#f2a84a':'#d48ac8',fillOpacity:.98}).bindPopup(popup(x.count?'Zählstellen-/Netzknoten':'Wichtiger Netzknoten',`Prioritätsindex ${x.score.toFixed(2)} · Knotenordnung ${x.degree} · ${Number(x.odCount||0).toLocaleString('de-DE')} OD-Zonenpaare · aufsummierter OD-Index ${x.flow.toFixed(3)}${x.measured?` · Zählspitze ${x.measured.toLocaleString('de-DE')} Kfz/h`:''}`)).addTo(groups.nodes)}
+ state.modelStats={origins:origins.length,destinations:destinations.length,pairs:result.pairs,reachable:result.reachable,flowEdges:flowEdges.length,priorityCandidates:candidateEdges.length,strategic:selected.length,nodes:importantNodes.length,measuredCountNodes:countNodeVolumes.size,countFlowSegments:state.countFlowStats?.features||0,strategicTransitRoutes:state.strategicTransitStats?.routes||0,gridZones:state.activityCells.length,maxODPairsPerSegment:maxOdPairs};state.loaded.model=true;
+ const summary=`Modell berechnet · ${origins.length} Wohnzugangszonen × ${destinations.length} Arbeitszielzonen · ${fmtCount(result.reachable)} erreichbare OD-Paare · ${fmtCount(flowEdges.length)} belastete Straßenabschnitte · max. ${fmtCount(Math.min(maxOdPairs,result.reachable))} OD-Zonenpaare/Abschnitt · ${selected.length} strategisch priorisiert · ${importantNodes.length} Knoten.`;
+ setStatus(summary);$('modelSummary').textContent=summary+' Die Linien zeigen aggregierte, fahrzeitgewichtete Potenziale aus Zensus-Einwohnern und ALKIS-Arbeitsflächen; keine beobachteten Pendlerzahlen.';notify(`Wohn-Arbeits-Modell fertig: ${fmtCount(result.reachable)} erreichbare OD-Paare und ${fmtCount(flowEdges.length)} belastete Straßenabschnitte.`)
+}
+
+function updateLegend(){const on=[...document.querySelectorAll('[data-layer]:checked')].map(e=>e.dataset.layer);let html='';const row=(c,label,line=false)=>`<div class="legend-row"><i class="${line?'legend-line':'legend-dot'}" style="--c:${c}"></i>${label}</div>`;const sym=(bg,glyph,label)=>`<div class="legend-row"><span class="legend-symbol" style="--symbol-bg:${bg}">${glyph}</span>${label}</div>`;for(const k of on){if(k==='housing')html+=row('#368d54','Wohnflächen · ALKIS tatsächliche Nutzung');else if(k==='population'){html+=row('#176447','&lt; 500 Einw./km²')+row('#4c965c','500–1.500 Einw./km²')+row('#a5ad4d','1.500–3.000 Einw./km²')+row('#d7a14a','3.000–5.000 Einw./km²')+row('#c94f49','> 5.000 Einw./km² · Zensus 2022')}else if(k==='resBuildings'){html+=row('#285d88','1–2 Wohngebäude / 100 m')+row('#347fb2','3–5 Wohngebäude / 100 m')+row('#55a5d0','6–10 Wohngebäude / 100 m')+row('#95c9df','> 10 Wohngebäude / 100 m')}else if(k==='work')html+=row('#4b91d0','Arbeits-/Gewerbestandorte · ALKIS');else if(k==='mixed')html+=row('#4caaa1','Gemischte Nutzung · ALKIS');else if(k==='special')html+=row('#9a78bd','Besondere funktionale Prägung · ALKIS');else if(k==='services')html+=row('#b77eb5','Versorgung & soziale Infrastruktur')+sym('#b77eb5','✚','Medizin / Gesundheit')+sym('#b77eb5','🛒','Einzelhandel / Supermärkte')+sym('#b77eb5','♥','Soziales')+sym('#b77eb5','🏛','Verwaltung / öffentliche Einrichtungen')+sym('#b77eb5','✉','Post')+sym('#b77eb5','€','Banken');else if(k==='education')html+=row('#4b91d0','Bildungseinrichtungen')+sym('#4b91d0','🏫','Schulen')+sym('#4b91d0','🧸','Kitas / Betreuung')+sym('#4b91d0','🎓','Hochschulen')+sym('#4b91d0','▤','Bibliotheken');else if(k==='green')html+=row('#3b9a69','Grün-/Erholungsfläche · ALKIS');else if(k==='leisure')html+=row('#30a99f','Freizeit / Kultur / Sport')+sym('#30a99f','⚽','Sport / Schwimmen')+sym('#30a99f','🎭','Kultur')+sym('#30a99f','🌳','Parks / Gärten')+sym('#30a99f','🛝','Spielplätze')+sym('#30a99f','☕','Gastronomie');else if(k==='parking')html+=row('#e4bf62','Parkplatzflächen · ALKIS');else if(k==='railAlkis')html+=row('#8798a8','Bahnanlagenflächen · ALKIS');else if(k==='coverage'){html+='<div class="legend-row">Kürzeste fußläufige Netzdistanz je 100-m-Zelle zur nächsten GTFS-Haltestelle.</div><div class="legend-gradient"></div><div class="legend-scale"><span>0 m</span><span>'+Math.round(Number($('radius').value))+' m</span><span>&gt; '+Math.round(Number($('radius').value))+' m</span></div><div class="legend-row">Grau/Rot: keine Netzverbindung bzw. Luftlinien-Fallback; Details im Zellen-Popup.</div>'}else if(k==='stops')html+=row('#4aa6df','Bus · Kreis')+row('#e53935','Tram · Raute')+row('#ef963d','S-Bahn · Quadrat')+row('#bd8ade','Regionalverkehr · Quadrat');else if(k==='interchanges')html+=row('#bd83ee','Umstieg zwischen mindestens 2 Verkehrsmitteln');else if(k==='accessibleStops')html+=row('#6cc9d5','GTFS wheelchair_boarding = 1');else if(k==='connectors')html+=row('#7aa7d1','GTFS-Umsteigeverbindungen')+row('#bd83ee','GTFS-Wege / Zugänge');else if(k==='parkRide')html+=row('#e2a75d','Park-and-Ride · OSM')+sym('#e2a75d','🅿','P+R-Anlagen');else if(k==='bikeParking')html+=row('#60b89b','Fahrradabstellanlagen · OSM')+sym('#60b89b','🚲','Fahrradparken');else if(k==='sharing')html+=row('#a58bdd','Sharing-Angebote · OSM')+sym('#a58bdd','🚲','Fahrradverleih')+sym('#a58bdd','🚗','Carsharing')+sym('#a58bdd','⚡','Ladepunkte');else if(k==='roadClass'){for(const [name,sty] of Object.entries(roadStyles))if(!['cycleway','footway','path'].includes(name))html+=row(sty[0],name,true)}else if(k==='sectorNorth')html+=row('#87aee0','Region Nord · künstlicher Himmelsrichtungssektor');else if(k==='sectorEast')html+=row('#70b8ad','Region Ost · künstlicher Himmelsrichtungssektor');else if(k==='sectorSouth')html+=row('#c3a36e','Region Süd · künstlicher Himmelsrichtungssektor');else if(k==='sectorWest')html+=row('#9a8bc2','Region West · künstlicher Himmelsrichtungssektor');else if(k==='studyArea')html+=row('#ffffff','Untersuchungsgebiet Nord · hervorgehobene Nordzone');else if(k==='counts')html+=sym('#d58b34','↕','426 Zählstellen · 215 Zählplan-Links');else if(k==='countResults')html+=row('#f06a4d','Ausgewertete Zählplan-PDFs · FSp / NSp / 6h')+'<div class="legend-row">Messjahre und Werte im Popup; OCR-Berichte sind gekennzeichnet.</div>';else if(k==='countFlows')html+=row('#f28a45','Gemessene Zufahrtsstromlinien · Kfz / 6h')+'<div class="legend-row">Breite proportional zum richtungsbezogenen 6h-Zählwert; keine Abbiege-OD-Matrix.</div>';else if(k==='strategicTransit')html+=row('#e53935','Tram')+row('#ef963d','S-Bahn')+row('#bd8ade','Regionalverkehr')+row('#55b5e7','Bus auf strategischen Korridoren')+'<div class="legend-row">Schienenlinien vollständig; Bus nur bei hoher Überlagerung mit priorisierten Straßenabschnitten und wichtigen Knoten (strenge Schwellen: mind. 2,6 km Überlagerung, mind. 20 % Linienanteil und 3 strategische Knoten (alternativ 4,2 km / 16 % / 2 Knoten), max. 4 Buslinien).</div>';else if(k==='flows')html+=row('#67aef0','Straßensegmentlast · gewichtetes Potenzial und Zahl der OD-Zonenpaare');else if(k==='strategic')html+=row('#f0c66a','Top 3,5 % der OD- und zählstellenrelevanten Segmente (max. 160), OD-Potenzial, Straßenklasse und Messdaten');else if(k==='nodes')html+=row('#d48ac8','Bewertete Netzknoten · Top 45');else if(k==='sensors')html+=sym('#f0d36b','⌖','Eigene Sensorstandorte · lokal im Browser gespeichert');else if(k==='trafficControl')html+=sym('#ffd76c','🚦','Lichtsignalanlage')+row('#bd9de5','Querungsstelle');else{const c=layerColors[k]||'#aab8c8';html+=row(c,layerNames[k]||k,['roads','roadClass','cycleways','footways','railOSM','sbahn','bus','tram','regional'].includes(k))}}if(!html)html='<div class="legend-row">Keine Analyse-Layer aktiviert.</div>'; $('legendItems').innerHTML=html}
+function switchMode(mode){state.mode=mode;document.body.classList.toggle('regular',mode!=='dark');$('darkMode').classList.toggle('active',mode==='dark');$('regularMode').classList.toggle('active',mode==='regular');$('satelliteMode').classList.toggle('active',mode==='satellite');[osmTiles,satelliteTiles].forEach(l=>{if(map.hasLayer(l))map.removeLayer(l)});if(mode==='regular')osmTiles.addTo(map);else if(mode==='satellite')satelliteTiles.addTo(map);if(map.hasLayer(osmTiles))osmTiles.bringToBack();if(map.hasLayer(satelliteTiles))satelliteTiles.bringToBack();groups.roads.eachLayer(l=>{if(l.setStyle)l.setStyle({color:mode==='dark'?'#eaf0f7':'#536579'})});applyRoadScale();map.invalidateSize()}
+
+async function exportMapPNG(){
+ if(typeof html2canvas!=='function'){notify('PNG-Export konnte nicht geladen werden. Bitte Internetverbindung prüfen.');return}
+ const btn=$('exportMap'),original=btn.innerHTML;btn.disabled=true;btn.innerHTML='…';setStatus('Kartenausschnitt und aktive Legende werden exportiert …');
+ const hideSelectors=['.topbar','.console','.map-tools','.map-status','.toast','.sensor-modal','.annotation-panel','.measure-panel'];const hidden=[];try{for(const sel of hideSelectors){const el=document.querySelector(sel);if(el){hidden.push([el,el.style.visibility]);el.style.visibility='hidden'}}await new Promise(r=>setTimeout(r,450));const canvas=await html2canvas(document.body,{useCORS:true,allowTaint:false,backgroundColor:state.mode==='dark'?'#05070a':state.mode==='satellite'?'#17202a':'#e7e9eb',scale:3,logging:false,windowWidth:window.innerWidth,windowHeight:window.innerHeight});const a=document.createElement('a');a.download=`nord-potsdam-karte-${new Date().toISOString().slice(0,10)}.png`;a.href=canvas.toDataURL('image/png');a.click();setStatus(`PNG exportiert · ${canvas.width} × ${canvas.height} px · aktive Legende enthalten`);notify(`PNG inklusive Legende exportiert: ${canvas.width} × ${canvas.height} Pixel.`)}catch(e){console.error('PNG export failed',e);notify('PNG-Export fehlgeschlagen. Bei Satelliten-/OSM-Kacheln kann CORS den Export verhindern. Im Minimal-Dark-Modus erneut versuchen.')}finally{for(const [el,v] of hidden)el.style.visibility=v;btn.disabled=false;btn.innerHTML=original}
+}
+
+// Sensor planning: local browser storage only; no file upload is used.
+function sensorFormValues(){const form=$('sensorForm'),data=Object.fromEntries(new FormData(form).entries());data.measurement=[...form.elements.measurement.selectedOptions].map(o=>o.value);return data}
+function saveSensorStore(){try{localStorage.setItem('nord-potsdam-sensors-v1',JSON.stringify(state.sensors))}catch(e){console.warn('Sensor storage unavailable',e);notify('Sensoren konnten nicht im lokalen Browserspeicher gespeichert werden.')}}
+function sensorPopup(s){const rows=[['Typ',s.sensorType],['Technologie',s.technology],['Messgrößen',(s.measurement||[]).join(', ')],['Richtung',s.direction],['Montage',s.mounting],['Datenübertragung',s.communication],['Betrieb',s.operation],['Betreiber',s.operator],['Status',s.status],['Priorität',s.priority],['Bemerkungen',s.notes]];return `<div style="min-width:220px"><b>${escapeHtml(s.name||'Sensor')}</b><table style="font-size:10px;margin-top:5px">${rows.filter(r=>r[1]).map(r=>`<tr><td style="padding:2px 7px 2px 0;color:#9eacba">${escapeHtml(r[0])}</td><td>${escapeHtml(Array.isArray(r[1])?r[1].join(', '):r[1])}</td></tr>`).join('')}</table><small>Koordinate ${s.lat.toFixed(6)}, ${s.lon.toFixed(6)} · lokal gespeichert</small><br><button type="button" class="route-select" data-edit-sensor="${escapeHtml(s.id)}">Bearbeiten</button><button type="button" class="route-select" data-delete-sensor="${escapeHtml(s.id)}">Entfernen</button></div>`}
+function renderSensors(){groups.sensors.clearLayers();for(const s of state.sensors){const m=L.marker([s.lat,s.lon],{icon:iconHtml('sensor-marker','⌖',32),draggable:true,zIndexOffset:1300}).bindPopup(sensorPopup(s),{maxWidth:360});m.on('dragend',()=>{const p=m.getLatLng();s.lat=p.lat;s.lon=p.lng;saveSensorStore();m.setPopupContent(sensorPopup(s))});m.on('popupopen',e=>{const el=e.popup.getElement();el.querySelector('[data-delete-sensor]')?.addEventListener('click',()=>{state.sensors=state.sensors.filter(x=>x.id!==s.id);saveSensorStore();renderSensors();notify('Sensorstandort entfernt.')});el.querySelector('[data-edit-sensor]')?.addEventListener('click',()=>openSensorModal(s.id))});m.addTo(groups.sensors)}}
+function loadSensors(){try{const raw=localStorage.getItem('nord-potsdam-sensors-v1');state.sensors=raw?JSON.parse(raw):[]}catch(e){state.sensors=[]}renderSensors()}
+function openSensorModal(id=null){const form=$('sensorForm');form.reset();state.editingSensorId=id;if(id){const s=state.sensors.find(x=>x.id===id);if(!s)return;for(const [k,v] of Object.entries(s)){const el=form.elements[k];if(!el)continue;if(el instanceof HTMLSelectElement&&el.multiple){[...el.options].forEach(o=>o.selected=(v||[]).includes(o.value))}else if(typeof v==='string')el.value=v} $('sensorModalTitle').textContent='Sensorstandort bearbeiten';$('sensorMove').style.display='inline-block';$('sensorPlace').textContent='Änderungen speichern'}else{$('sensorModalTitle').textContent='Sensorstandort festlegen';$('sensorMove').style.display='none';$('sensorPlace').textContent='Auf Karte platzieren'}$('sensorModal').classList.add('open');$('sensorModal').setAttribute('aria-hidden','false')}
+function closeSensorModal(){$('sensorModal').classList.remove('open');$('sensorModal').setAttribute('aria-hidden','true')}
+function startSensorPlacement(){const data=sensorFormValues();if(!data.name?.trim()){$('sensorForm').elements.name.focus();notify('Bitte einen Namen für den Sensorstandort vergeben.');return}if(state.editingSensorId){const s=state.sensors.find(x=>x.id===state.editingSensorId);if(s){Object.assign(s,data);saveSensorStore();renderSensors();closeSensorModal();notify('Sensoreigenschaften gespeichert.');return}}state.sensorDraft={...data};closeSensorModal();map.getContainer().style.cursor='crosshair';notify('Klicke jetzt auf die gewünschte Position in der Karte. Mit Esc wird abgebrochen.');}
+map.on('click',()=>{if(state.selectedRouteId&&!state.mapToolMode&&!state.sensorDraft)clearRouteSelection()});
+map.on('click',e=>{if(!state.sensorDraft)return;const data=state.sensorDraft;state.sensorDraft=null;map.getContainer().style.cursor='';if(data._moveId){const s=state.sensors.find(x=>x.id===data._moveId);if(s){Object.assign(s,data,{lat:e.latlng.lat,lon:e.latlng.lng});delete s._moveId}}else{state.sensors.push({id:(crypto.randomUUID?.()||`sensor-${Date.now()}`),...data,lat:e.latlng.lat,lon:e.latlng.lng,createdAt:new Date().toISOString()})}saveSensorStore();renderSensors();const cb=document.querySelector('[data-layer="sensors"]');if(cb&&!cb.checked){cb.checked=true;applyLayerState()}notify('Sensorstandort wurde platziert und lokal gespeichert.')});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&state.sensorDraft){state.sensorDraft=null;map.getContainer().style.cursor='';notify('Sensorplatzierung abgebrochen.')}else if(e.key==='Escape'&&state.mapToolMode){stopMapTool();$('annotationPanel').classList.remove('open');notify('Kartenwerkzeug beendet.')}});
+
+
+// Map toolbox: two-click distance measurement and freehand annotations.
+function formatDistance(m){return m>=1000?`${(m/1000).toLocaleString('de-DE',{maximumFractionDigits:2})} km`:`${Math.round(m).toLocaleString('de-DE')} m`}
+function stopMapTool(){state.mapToolMode=null;state.currentStroke=null;map.getContainer().style.cursor='';document.body.classList.remove('map-drawing');if(map.dragging&&!map.dragging.enabled())map.dragging.enable();$('measureTool').classList.remove('tool-active');$('drawTool').classList.remove('tool-active');$('eraserToggle').classList.remove('active');$('measurePanel').classList.remove('open');$('annotationPanel').classList.remove('open')}
+function setMapTool(mode){stopMapTool();state.mapToolMode=mode;map.getContainer().style.cursor='crosshair';document.body.classList.add('map-drawing');if(mode==='draw'||mode==='erase'){map.dragging.disable();$('annotationPanel').classList.add('open');$('annotationPanel').setAttribute('aria-hidden','false');$('drawTool').classList.add('tool-active');$('annotationHelp').textContent=mode==='erase'?'Radierer aktiv: auf einen vorhandenen Strich klicken, um ihn zu entfernen.':'Stift aktiv: mit gedrückter Maustaste auf der Karte zeichnen.'}else{$('measurePanel').classList.add('open');$('measurePanel').setAttribute('aria-hidden','false');$('measureTool').classList.add('tool-active');renderMeasurements();$('measureHelp').textContent='Punkt 1 anklicken, danach weitere Punkte setzen. Die Gesamtdistanz wird entlang der Messlinie aufsummiert.'}}
+function makePoint(latlng,color='#d8e8ff'){return L.circleMarker(latlng,{radius:5,color:'#142235',weight:2,fillColor:color,fillOpacity:1,interactive:false})}
+function renderMeasurements(){measureGroup.clearLayers();if(!state.measurePoints.length){$('measureHelp').textContent='Punkt 1 anklicken, danach weitere Punkte setzen. Zurück entfernt den letzten Punkt; Reset löscht alle Messungen.';return}let total=0;for(let i=0;i<state.measurePoints.length;i++){const p=state.measurePoints[i];makePoint(p,'#9fc5ff').addTo(measureGroup);if(i>0)total+=map.distance(state.measurePoints[i-1],p)}if(state.measurePoints.length>1){L.polyline(state.measurePoints,{color:'#9fc5ff',weight:3.2,dashArray:'7 5',opacity:.98,lineCap:'round'}).addTo(measureGroup);const mid=state.measurePoints[Math.floor((state.measurePoints.length-1)/2)];L.marker(mid,{interactive:false,icon:L.divIcon({className:'',html:`<div class="measure-label">${formatDistance(total)}</div>`,iconSize:[100,26],iconAnchor:[50,13]})}).addTo(measureGroup)}$('measureHelp').textContent=`${state.measurePoints.length} Messpunkte · Gesamtdistanz ${formatDistance(total)}. Weitere Punkte hinzufügen oder mit Zurück/Reset korrigieren.`}
+function addDrawingStroke(latlngs){if(latlngs.length<2)return;const layer=L.polyline(latlngs,{color:'#f3d27a',weight:3.4,opacity:.96,lineCap:'round',lineJoin:'round'}).addTo(drawingGroup);state.drawingLayers.push(layer);saveDrawingStore()}
+function saveDrawingStore(){try{const data=state.drawingLayers.map(l=>l.getLatLngs().map(p=>[p.lat,p.lng]));localStorage.setItem('nord-potsdam-drawings-v1',JSON.stringify(data))}catch(e){console.warn('Zeichnungen konnten nicht gespeichert werden',e)}}
+function loadDrawingStore(){try{const data=JSON.parse(localStorage.getItem('nord-potsdam-drawings-v1')||'[]');for(const coords of data)if(Array.isArray(coords)&&coords.length>1)addDrawingStroke(coords.map(p=>L.latLng(p[0],p[1])))}catch(e){console.warn('Gespeicherte Zeichnungen konnten nicht geladen werden',e)}}
+function undoDrawing(){const last=state.drawingLayers.pop();if(last)drawingGroup.removeLayer(last);saveDrawingStore();notify(last?'Letzten Strich zurückgenommen.':'Keine Zeichnung zum Rückgängigmachen vorhanden.')}
+function clearDrawings(){state.drawingLayers=[];drawingGroup.clearLayers();saveDrawingStore();notify('Alle Zeichnungen entfernt.')}
+function eraseNearestStroke(latlng){const target=map.latLngToContainerPoint(latlng);let best=null,bestD=20;for(const layer of state.drawingLayers){const pts=layer.getLatLngs().map(p=>map.latLngToContainerPoint(p));for(let i=1;i<pts.length;i++){const d=L.LineUtil.pointToSegmentDistance(target,pts[i-1],pts[i]);if(d<bestD){bestD=d;best=layer}}}if(best){drawingGroup.removeLayer(best);state.drawingLayers=state.drawingLayers.filter(x=>x!==best);saveDrawingStore();notify('Zeichenstrich entfernt.')}else notify('Kein Zeichenstrich in der Nähe des Klicks.')}
+map.on('click',e=>{
+ if(state.mapToolMode==='measure'){state.measurePoints.push(e.latlng);renderMeasurements();return;}
+ if(state.mapToolMode==='erase'){eraseNearestStroke(e.latlng);return;}
+});
+map.on('mousedown',e=>{if(state.mapToolMode!=='draw')return;state.currentStroke=[e.latlng];map.dragging.disable();});
+map.on('mousemove',e=>{if(state.mapToolMode!=='draw'||!state.currentStroke)return;const pts=state.currentStroke,last=pts[pts.length-1];if(map.distance(last,e.latlng)>2){pts.push(e.latlng);if(!state.previewStroke)state.previewStroke=L.polyline(pts,{color:'#f3d27a',weight:3.4,opacity:.96,lineCap:'round'}).addTo(drawingGroup);else state.previewStroke.setLatLngs(pts)}});
+function finishCurrentStroke(){if(!state.currentStroke)return;const pts=state.currentStroke;state.currentStroke=null;if(state.previewStroke){drawingGroup.removeLayer(state.previewStroke);state.previewStroke=null}addDrawingStroke(pts);if(map.dragging&&!map.dragging.enabled())map.dragging.disable()}
+document.addEventListener('mouseup',finishCurrentStroke);
+$('toolboxToggle').onclick=()=>{$('toolFlyout').classList.toggle('open')};$('measureTool').onclick=()=>{setMapTool('measure');$('toolFlyout').classList.remove('open')};$('drawTool').onclick=()=>{setMapTool('draw');$('toolFlyout').classList.remove('open')};$('measureClose').onclick=()=>stopMapTool();$('undoMeasure').onclick=()=>{if(state.measurePoints.length)state.measurePoints.pop();renderMeasurements()};$('resetMeasure').onclick=()=>{state.measurePoints=[];renderMeasurements()};$('finishMeasure').onclick=()=>stopMapTool();$('annotationClose').onclick=()=>{$('annotationPanel').classList.remove('open');stopMapTool()};$('undoStroke').onclick=undoDrawing;$('clearDrawings').onclick=clearDrawings;$('finishDrawing').onclick=()=>{finishCurrentStroke();stopMapTool();$('annotationPanel').classList.remove('open')};$('eraserToggle').onclick=()=>{if(state.mapToolMode==='erase'){setMapTool('draw')}else{setMapTool('erase')}$('eraserToggle').classList.toggle('active',state.mapToolMode==='erase');$('annotationHelp').textContent=state.mapToolMode==='erase'?'Radierer aktiv: auf einen vorhandenen Strich klicken, um ihn zu entfernen.':'Stift aktiv: mit gedrückter Maustaste auf der Karte zeichnen.'};
+
+async function init(){switchMode('dark');loadSensors();loadDrawingStore();setStatus('ALKIS, Zensus, GTFS und Zählstellen werden geladen …');const results=await Promise.allSettled([loadBoundary(),loadALKIS(),loadGTFS(),loadCounts(),loadCountMeasurements(),loadZensus()]);results.forEach((r,i)=>{if(r.status==='rejected')console.error('Initial data load failed',i,r.reason)});applyLayerState();const roadsOK=await loadOSM();if(state.boundary&&state.housingFeatures.length&&state.workFeatures.length)aggregateActivity();if(roadsOK&&state.activityCells.length){applyLayerState();try{await computeTransportModel()}catch(e){console.error('Model calculation failed',e);setStatus(`Analysefehler · ${e.message}`);notify('Die Grundkarten sind geladen, die Analyse konnte aber nicht abgeschlossen werden.')} }else setStatus('Statische Grunddaten geladen · OSM-Straßennetz nicht verfügbar');applyLayerState();if(checked('coverage'))buildCoverage();const failed=results.filter(r=>r.status==='rejected').length;if(failed)notify(`${failed} Datenpaket(e) konnten nicht geladen werden. Details in der Browserkonsole.`);}
+
+
+function initLayerAccordions(){document.querySelectorAll('.group').forEach((group,index)=>{const title=group.querySelector('.group-title');if(!title)return;title.setAttribute('role','button');title.setAttribute('tabindex','0');title.setAttribute('aria-expanded','true');const mark=document.createElement('span');mark.className='group-collapse-mark';mark.textContent='−';title.appendChild(mark);const toggle=()=>{const collapsed=group.classList.toggle('collapsed');title.setAttribute('aria-expanded',String(!collapsed));mark.textContent=collapsed?'+':'−'};title.addEventListener('click',toggle);title.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle()}})})}
+
+document.querySelectorAll('[data-layer]').forEach(el=>el.addEventListener('change',()=>{const k=el.dataset.layer;if(k==='coverage'&&el.checked)buildCoverage();if(['sbahn','bus','tram','regional'].includes(k)&&!['sbahn','bus','tram','regional'].some(x=>checked(x)))clearRouteSelection();applyLayerState();if(['sectorNorth','sectorEast','sectorSouth','sectorWest','studyArea'].includes(k)){const count=groups[k]?.getLayers().length||0,visible=map.hasLayer(groups[k]);const info=$('[data-sector-info]');if(info){const label=({sectorNorth:'Nord',sectorEast:'Ost',sectorSouth:'Süd',sectorWest:'West',studyArea:'Untersuchungsgebiet Nord'})[k];info.textContent=`${label}: ${count} Geometrie(n) geladen · Layer ${visible?'sichtbar':'ausgeblendet'}. Künstliche 45°-Sektoraufteilung ab Landtag.`}if(el.checked&&count===0)notify(`${el.parentElement.textContent.trim()}: Keine Sektorgeometrie vorhanden. Bitte Datenpfad data/sektoren_potsdam_landtag.geojson prüfen.`)}}));
+document.addEventListener('click',e=>{const b=e.target.closest('[data-route-name]');if(b){e.preventDefault();e.stopPropagation();const ids=state.routeNameToIds.get(b.dataset.routeName)||[];if(ids.length)selectRoute(ids[0]);}});
+$('recalcModel').onclick=async()=>{if(!state.roadData.length){notify('Bitte zuerst das OSM-Straßennetz laden.');return}aggregateActivity();await computeTransportModel();applyLayerState()};$('darkMode').onclick=()=>switchMode('dark');$('regularMode').onclick=()=>switchMode('regular');$('satelliteMode').onclick=()=>switchMode('satellite');$('exportMap').onclick=exportMapPNG;$('addSensor').onclick=()=>openSensorModal();$('sensorClose').onclick=closeSensorModal;$('sensorCancel').onclick=closeSensorModal;$('sensorPlace').onclick=startSensorPlacement;$('sensorMove').onclick=()=>{const s=state.sensors.find(x=>x.id===state.editingSensorId);if(!s)return;state.sensorDraft={...sensorFormValues(),_moveId:s.id};closeSensorModal();map.getContainer().style.cursor='crosshair';notify('Klicke auf die neue Position des Sensors. Mit Esc wird abgebrochen.');};$('radius').addEventListener('input',()=>{$('radiusVal').textContent=`${$('radius').value} m`;if(state.coverageDistances&&checked('coverage'))renderCoverage(state.coverageDistances,state.coverageMethods,Number($('radius').value),state.coverageBuildId);updateLegend()});$('radius').addEventListener('change',()=>{if(checked('coverage'))buildCoverage()});
+map.on('zoomend',applyRoadScale);$('fit').onclick=()=>{if(state.boundary)fitExpandedView();else map.setView([LANDTAG_CENTER[1],LANDTAG_CENTER[0]],10.8)};$('reload').onclick=async()=>{const ok=await loadOSM();if(ok&&state.boundary){aggregateActivity();await computeTransportModel();applyLayerState();notify('Straßennetz und modellierte Priorisierung aktualisiert.')}};$('collapseAll').onclick=()=>{const panel=$('console');panel.classList.toggle('compact');$('collapseAll').textContent=panel.classList.contains('compact')?'+':'−';};
+initLayerAccordions();
+init();
+
+</script>
+<style>.console.hidden{display:none}.console.compact .console-body{display:none}</style>
+</body>
+</html>

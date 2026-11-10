@@ -1,0 +1,128 @@
+   SVP, 461                                                                                                                                             03.08.2017
+
+
+                                             (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           8            0     14                   22     1,8
+                                                                                                             NSp          37            0     23                   60     4,8
+                                                                                                             6h           84            0     69                  153     2,4
+
+Trebbiner Str.                                                      Trebbiner Str. NFZ                       FSp         76        47        137                260      22,2
+                                                                                                             NSp         67        14         66                147      12,3
+                                                                                                             6h         380       129        601               1110      18,2
+                     WEST                                        OST                             SV          FSp         34        29         82                145      12,4
+                                                                                                             NSp         12        11         25                 48       4,0
+                                                                                                             6h         115        86        343                544       8,9
+                                                                                                 KFZ         FSp        558       100        514               1172       100
+
+4.906     1.442                                                               1.106                          NSp        384            57    750               1191       100
+                                                                                         2.256
+                                                                              1.150                          6h       2256         376      3464               6096       100
+
+          2.343                                                                                  FZ          FSp        566        100       528                1194      100
+3.464
+          1.121                                                               2.383      4.639          NSp    421                 57   773                     1251      100
+                                                                                                        6h    2340                376 3533                      6249      100
+                                                                                                 Q DTVw: 2,2 10206               5823 10793
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+
+                               2.271    336     40                                               - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+                                                                                                      Sph-Beginn:       7.00 Uhr und        16.00 Uhr
+                              2.647                                                              SUMME Zufahrten: [FSp]:                    1172 KFZ/h 7:30
+                                             376                                                                  (NSp):                    1191 KFZ/h 16:30
+                            Dreieck Nuthetal                                                                                    6h :        6096 KFZ
+                                                                                                 max. Sph /Zufahrt:             OST          558 KFZ/h 7:30
+                                       SÜD                                                                                      SÜD          100 KFZ/h 7:30
+                                                                                                   DATUM :                     WEST          750 KFZ/h 16:30
+                                                                                      6h Werte 15.06.2017
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 816                         Trebbiner Str. / A115 (Ostrampe)
+
+   StromPlan816kp6-17.xls                                           Seite 1
+   SVP, 461                                                                                                                                           03.08.2017
+
+
+                                                 (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                    Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                               RAD         FSp           8            0     14                   22     1,8
+                                                                                                           NSp          37            0     23                   60     4,8
+                                                                                                           6h           84            0     69                  153     2,4
+
+Trebbiner Str.                                                          Trebbiner Str. NFZ                 FSp         76        47        137                260      22,2
+                                                                                                           NSp         67        14         66                147      12,3
+                                                                                                           6h         380       129        601               1110      18,2
+                     WEST                                            OST                       SV          FSp         34        29         82                145      12,4
+                                                                                                           NSp         12        11         25                 48       4,0
+                                                                                                           6h         115        86        343                544       8,9
+                                                                                               KFZ         FSp        558       100        514               1172       100
+
+ 865       351                                                                    264                      NSp        384            57    750               1191       100
+                                                                                         558
+                                                                                  294                      6h       2256         376      3464               6096       100
+
+           277                                                                                 FZ          FSp        566        100       528                1194      100
+ 514
+           237                                                                    290    848          NSp    421                 57   773                     1251      100
+                                                                                                      6h    2340                376 3533                      6249      100
+                                                                                               Q DTVw: 2,2 10206               5823 10793
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Bemerkungen :
+                                     531    87      13                                         - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+                                                                                                    Sph-Beginn:       7.00 Uhr und        16.00 Uhr
+                                     631                                                       SUMME Zufahrten: [FSp]:                    1172 KFZ/h 7:30
+                                                 100                                                            (NSp):                    1191 KFZ/h 16:30
+                                  Dreieck Nuthetal                                                                            6h :        6096 KFZ
+                                                                                               max. Sph /Zufahrt:             OST          558 KFZ/h 7:30
+                                           SÜD                                                                                SÜD          100 KFZ/h 7:30
+                                                                                                 DATUM :                     WEST          750 KFZ/h 16:30
+                                                                                  1.172 KFZ/h 15.06.2017
+                                                         Kfz-Stromverteilung in der FSp 816                 Trebbiner Str. / A115 (Ostrampe)
+
+   StromPlan (FSp)816kp6-17.xls                                         Seite 2
+   SVP, 461                                                                                                                                           03.08.2017
+
+
+                                                 (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                    Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                               RAD         FSp           8            0     14                   22     1,8
+                                                                                                           NSp          37            0     23                   60     4,8
+                                                                                                           6h           84            0     69                  153     2,4
+
+Trebbiner Str.                                                          Trebbiner Str. NFZ                 FSp         76        47        137                260      22,2
+                                                                                                           NSp         67        14         66                147      12,3
+                                                                                                           6h         380       129        601               1110      18,2
+                     WEST                                            OST                       SV          FSp         34        29         82                145      12,4
+                                                                                                           NSp         12        11         25                 48       4,0
+                                                                                                           6h         115        86        343                544       8,9
+                                                                                               KFZ         FSp        558       100        514               1172       100
+
+1.027      277                                                                    223                      NSp        384            57    750               1191       100
+                                                                                         384
+                                                                                  161                      6h       2256         376      3464               6096       100
+
+           562                                                                                 FZ          FSp        566        100       528                1194      100
+ 750
+           188                                                                    565    949          NSp    421                 57   773                     1251      100
+                                                                                                      6h    2340                376 3533                      6249      100
+                                                                                               Q DTVw: 2,2 10206               5823 10793
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Bemerkungen :
+                                     349    54      3                                          - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+                                                                                                    Sph-Beginn:       7.00 Uhr und        16.00 Uhr
+                                     406                                                       SUMME Zufahrten: [FSp]:                    1172 KFZ/h 7:30
+                                                 57                                                             (NSp):                    1191 KFZ/h 16:30
+                                  Dreieck Nuthetal                                                                            6h :        6096 KFZ
+                                                                                               max. Sph /Zufahrt:             OST          558 KFZ/h 7:30
+                                           SÜD                                                                                SÜD          100 KFZ/h 7:30
+                                                                                                 DATUM :                     WEST          750 KFZ/h 16:30
+                                                                                  1.191 KFZ/h 15.06.2017
+                                                        Kfz-Stromverteilung in der NSp 816                  Trebbiner Str. / A115 (Ostrampe)
+
+   StromPlan (NSp)816kp6-17.xls                                         Seite 3
+

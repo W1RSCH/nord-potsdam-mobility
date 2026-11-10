@@ -1,0 +1,176 @@
+SVP, 461                                                                                                                                           07.01.2016
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt: OST SÜD WEST     SUMME %
+                                                                                             RAD    FSp              28         14      53                     95     18,2
+                                                                                                    NSp              40         26      46                   112      16,8
+                                                                                                    6h              178        115     262                    555     17,1
+                                                                                             NFZ    FSp               4        22      25                     51      12,0
+
+                           Charlottenstr.                                                           NSp
+                                                                                                    6h
+                                                                                                                      1
+                                                                                                                     13
+                                                                                                                               19
+                                                                                                                              146
+                                                                                                                                       12
+                                                                                                                                      126
+                                                                                                                                                              32
+                                                                                                                                                             285
+                                                                                                                                                                       5,8
+                                                                                                                                                                      10,6
+                                                                                             SV     FSp               2          6       7                    15       3,5
+                                                                                                    NSp               0          1       4                      5      0,9
+                                                                                                    6h                2         12      49                     63      2,3
+                                                                                             KFZ FSp                 28       207     191                    426      100
+                                                                                                    NSp              53       303     198                    554      100
+                                                                                                    6h              240      1316    1137                   2693      100
+           2.585   1.448                                                                     FZ     FSp              56       221     244                    521      100
+                                                                        184         OST             NSp              93       329     244                    666      100
+
+   WEST
+                                                                              240
+                   183                                                  56                          6h              418      1431    1399                   3248      100
+           1.137
+                   954                                                  235   475            Q DTVw: 2,5            600      3290    2843
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                             Bemerkungen:
+                                                                                             - Wetter: früh 17ºC sonnig, trocken; nachmittag 23ºC sonnig, trocken
+
+
+                                                                                                 Sph-Beginn:       7:30    Uhr und   16:00 Uhr
+
+                             1.010   1.264       52                                          SUMME Zufahrten: [FSp]:                  426 KFZ/h        8:00
+                                                                                                                (NSp):                554 KFZ/h        16:30
+                            2.326                                                                                  6h :              2693 KFZ
+                                             1.316                                           max. Sph /Zufahrt:   OST                  53 KFZ/h        16:30
+                                                 SÜD                                                              SÜD                 303 KFZ/h        16:30
+                           Französische Str.                                                   DATUM :                     WEST       235 KFZ/h 15:30
+                                                                                    6h Werte 09.08.2012
+                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1321                Charlottenstr./Französische Str.
+
+
+
+
+StromPlan1321kp8-12.xls                                       Seite 1
+SVP, 461                                                                                                                                          07.01.2016
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD    FSp              28         14      53                     95     18,2
+                                                                                                   NSp              40         26      46                   112      16,8
+                                                                                                   6h              178        115     262                    555     17,1
+                                                                                            NFZ    FSp               4        22      25                     51      12,0
+
+                                Charlottenstr.                                                     NSp
+                                                                                                   6h
+                                                                                                                     1
+                                                                                                                    13
+                                                                                                                              19
+                                                                                                                             146
+                                                                                                                                      12
+                                                                                                                                     126
+                                                                                                                                                             32
+                                                                                                                                                            285
+                                                                                                                                                                      5,8
+                                                                                                                                                                     10,6
+                                                                                            SV     FSp               2          6       7                    15       3,5
+                                                                                                   NSp               0          1       4                      5      0,9
+                                                                                                   6h                2         12      49                     63      2,3
+                                                                                            KFZ FSp                 28       207     191                    426      100
+                                                                                                   NSp              53       303     198                    554      100
+                                                                                                   6h              240      1316    1137                   2693      100
+           412     221                                                                      FZ     FSp              56       221     244                    521      100
+                                                                        23        OST              NSp              93       329     244                    666      100
+
+   WEST
+                                                                             28
+                    31                                                   5                         6h              418      1431    1399                   3248      100
+           191
+                   160                                                  40   68             Q DTVw: 2,5            600      3290    2843
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                            Bemerkungen:
+                                                                                            - Wetter: früh 17ºC sonnig, trocken; nachmittag 23ºC sonnig, trocken
+
+
+                                                                                                Sph-Beginn:       7:30    Uhr und   16:00 Uhr
+                                  165   198         9                                       SUMME Zufahrten: [FSp]:                  426 KFZ/h        8:00
+                                                                                                               (NSp):                554 KFZ/h        16:30
+                                  372                                                                             6h :              2693 KFZ
+                                              207                                           max. Sph /Zufahrt:   OST                  53 KFZ/h        16:30
+                                                    SÜD                                                          SÜD                 303 KFZ/h        16:30
+                                Französische Str.                                             DATUM :                     WEST       235 KFZ/h 15:30
+                                                                                  426 KFZ/h 09.08.2012
+                                                          Kfz-Stromverteilung in der FSp 1321                 Charlottenstr./Französische Str.
+
+
+
+
+StromPlan (FSp)1321kp8-12.xls                                 Seite 2
+SVP, 461                                                                                                                                          07.01.2016
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD    FSp              28         14      53                     95     18,2
+                                                                                                   NSp              40         26      46                   112      16,8
+                                                                                                   6h              178        115     262                    555     17,1
+                                                                                            NFZ    FSp               4        22      25                     51      12,0
+
+                                Charlottenstr.                                                     NSp
+                                                                                                   6h
+                                                                                                                     1
+                                                                                                                    13
+                                                                                                                              19
+                                                                                                                             146
+                                                                                                                                      12
+                                                                                                                                     126
+                                                                                                                                                             32
+                                                                                                                                                            285
+                                                                                                                                                                      5,8
+                                                                                                                                                                     10,6
+                                                                                            SV     FSp               2          6       7                    15       3,5
+                                                                                                   NSp               0          1       4                      5      0,9
+                                                                                                   6h                2         12      49                     63      2,3
+                                                                                            KFZ FSp                 28       207     191                    426      100
+                                                                                                   NSp              53       303     198                    554      100
+                                                                                                   6h              240      1316    1137                   2693      100
+           519     321                                                                      FZ     FSp              56       221     244                    521      100
+                                                                        35        OST              NSp              93       329     244                    666      100
+
+   WEST
+                                                                             53
+                    23                                                  18                         6h              418      1431    1399                   3248      100
+           198
+                   175                                                  40   93             Q DTVw: 2,5            600      3290    2843
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                            Bemerkungen:
+                                                                                            - Wetter: früh 17ºC sonnig, trocken; nachmittag 23ºC sonnig, trocken
+
+
+                                                                                                Sph-Beginn:       7:30    Uhr und   16:00 Uhr
+                                  193   286         17                                      SUMME Zufahrten: [FSp]:                  426 KFZ/h        8:00
+                                                                                                               (NSp):                554 KFZ/h        16:30
+                                  496                                                                             6h :              2693 KFZ
+                                              303                                           max. Sph /Zufahrt:   OST                  53 KFZ/h        16:30
+                                                    SÜD                                                          SÜD                 303 KFZ/h        16:30
+                                Französische Str.                                             DATUM :                     WEST       235 KFZ/h 15:30
+                                                                                  554 KFZ/h 09.08.2012
+                                                          Kfz-Stromverteilung in der NSp 1321                 Charlottenstr./Französische Str.
+
+
+
+
+StromPlan (NSp)1321kp8-12.xls                                 Seite 3
+

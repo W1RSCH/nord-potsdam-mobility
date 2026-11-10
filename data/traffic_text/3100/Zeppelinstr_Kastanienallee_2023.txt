@@ -1,0 +1,155 @@
+       Landeshauptstadt Potsdam                                                                                                                                                     02.08.2023
+       Bereich Verkehrsentwicklung
+
+                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                     RAD         FSp         116           4     121        122      363       20,6
+
+                                             Zeppelinstr.                                                                              NSp         196           12    101        119      428       19,8
+
+                                                                                                                                  6h       893                 46   616         614       2169       20,2
+                                                  3.511             7.993                                                  NFZ    FSp      99                   4   90          32         225       16,1
+                                                                                                                                  NSp      75                   2  101          30         208       12,0
+                                                                                                                                  6h      438                 26   510         186        1160       13,6
+                                          543      2.882    86       4.482                                                 SV     FSp      35                   2   16          14          67        4,8
+                                                                                                                                  NSp      19                   0   14          10          43        2,5
+                                                                                                                                  6h      139                   4    97          75        315        3,7
+                                                                                                                           KFZ FSp 522                        17   596         264       1399         100
+                                                                                                                                  NSp     838                 24   577         292       1731         100
+
+
+
+
+        Kastanienallee                                                                                    Kastanienallee
+                                                                                                                                  6h     3511                126 3326         1588        8551        100
+                                                                                                                           FZ     FSp     638                 21   717         386        1762        100
+                         2.369    781                                                   51                                        NSp    1034                 36   678         411        2159        100
+                                 1.350                                                  31    126   OST                           6h     4404                172 3942         2202       10720        100
+
+WEST                     1.588    29                                                     44                                Q DTVw: 2,35 18784                656 15183        5567
+                                  209                                                   153   279                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                           Bemerkungen :
+                                                                                                                           - seit dem 01.07.2017 Modellversuch Zeppelinstr. (Fahrsp.-Neuordnung)
+                                                                                                                           - keine Corona-Einschränkungen
+                                                                                                                           - Ukraine-Krieg
+                                                                                                                           - seit 01.05.2023 D_Ticket im Umlauf
+
+                                          3.135    207      3.081    38                                                    - wegen Unfall wurde Zeppelinstr. Ri. Geltow gesperrt - Verkehr wich
+                                                                                                                            über Kastanienallee aus (Zeit:16:15 bis 16:45 Uhr)
+                                         6.461                                                                             - Wetter früh 17ºC sonnig, trocken; nachmittag 32ºC sonnig,
+                                                           3.326                                                                Sph-Beginn:      7.30     Uhr und     15.00 Uhr
+                                                           SÜD                                                             SUMME Zufahrten: [FSp] :                   1399 KFZ/h 8:00
+                                                  Zeppelinstr.                                                                                           (NSp):       1731 KFZ/h 15:30
+                                                                                                                                                             6h :     8551 KFZ
+                                                                                                                           max. Sph /Zufahrt: NORD :                   838 KFZ/h 15:30
+                                                                                                                                                          OST :         28 KFZ/h 16:30
+
+                                                                                                                              DATUM :                     SÜD :        641 KFZ/h 7:30
+                                                                                                    6h Werte 06.07.2023                                 WEST :         292 KFZ/h 15:30
+                                                                    von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 3100                             Zeppelinstr./Kastanienallee
+       StromPlan3100kp7-23                                                     Seite1
+       Landeshauptstadt Potsdam                                                                                                                                          02.08.2023
+       Bereich Verkehrsentwicklung
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                               RAD         FSp         116           4     121        122      363       20,6
+
+                                        Zeppelinstr.                                                                        NSp         196           12    101        119      428       19,8
+
+                                                                                                                       6h       893                 46   616         614       2169       20,2
+                                             522          1.326                                                 NFZ    FSp      99                   4   90          32         225       16,1
+                                                                                                                       NSp      75                   2  101          30         208       12,0
+                                                                                                                       6h      438                 26   510         186        1160       13,6
+                                      60      446   16     804                                                  SV     FSp      35                   2   16          14          67        4,8
+                                                                                                                       NSp      19                   0   14          10          43        2,5
+                                                                                                                       6h      139                   4    97          75        315        3,7
+                                                                                                                KFZ FSp 522                        17   596         264       1399         100
+                                                                                                                       NSp     838                 24   577         292       1731         100
+
+
+
+
+        Kastanienallee                                                                         Kastanienallee
+                                                                                                                       6h     3511                126 3326         1588        8551        100
+                                                                                                                FZ     FSp     638                 21   717         386        1762        100
+                         348   84                                            7                                         NSp    1034                 36   678         411        2159        100
+                               226                                           6    17     OST                           6h     4404                172 3942         2202       10720        100
+
+WEST                     264    3                                             4                                 Q DTVw: 2,35 18784                656 15183        5567
+                               35                                            26   43                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                Bemerkungen :
+                                                                                                                - seit dem 01.07.2017 Modellversuch Zeppelinstr. (Fahrsp.-Neuordnung)
+                                                                                                                - keine Corona-Einschränkungen
+                                                                                                                - Ukraine-Krieg
+                                                                                                                - seit 01.05.2023 D_Ticket im Umlauf
+                                      485     18    571    7                                                    - wegen Unfall wurde Zeppelinstr. Ri. Geltow gesperrt - Verkehr wich
+                                                                                                                 über Kastanienallee aus (Zeit:16:15 bis 16:45 Uhr)
+                                     1.081                                                                      - Wetter früh 17ºC sonnig, trocken; nachmittag 32ºC sonnig,
+                                                    596                                                              Sph-Beginn:      7.30     Uhr und     15.00 Uhr
+                                                    SÜD                                                         SUMME Zufahrten: [FSp] :                   1399 KFZ/h 8:00
+                                             Zeppelinstr.                                                                                     (NSp):       1731 KFZ/h 15:30
+                                                                                                                                                  6h :     8551 KFZ
+                                                                                                                max. Sph /Zufahrt: NORD :                   838 KFZ/h 15:30
+                                                                                                                                               OST :         28 KFZ/h 16:30
+
+                                                                                                                   DATUM :                     SÜD :        641 KFZ/h 7:30
+                                                                                       1.399 KFZ/h 06.07.2023                                WEST :         292 KFZ/h 15:30
+                                                                  Kfz-Stromverteilung in der FSp 3100                               Zeppelinstr./Kastanienallee
+       StromPlan (FSp)3100kp7-23                                    Seite2
+       Landeshauptstadt Potsdam                                                                                                                                          02.08.2023
+       Bereich Verkehrsentwicklung
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                               RAD         FSp         116           4     121        122      363       20,6
+
+                                        Zeppelinstr.                                                                        NSp         196           12    101        119      428       19,8
+
+                                                                                                                       6h       893                 46   616         614       2169       20,2
+                                             838          1.635                                                 NFZ    FSp      99                   4   90          32         225       16,1
+                                                                                                                       NSp      75                   2  101          30         208       12,0
+                                                                                                                       6h      438                 26   510         186        1160       13,6
+                                      65      759   14     797                                                  SV     FSp      35                   2   16          14          67        4,8
+                                                                                                                       NSp      19                   0   14          10          43        2,5
+                                                                                                                       6h      139                   4    97          75        315        3,7
+                                                                                                                KFZ FSp 522                        17   596         264       1399         100
+                                                                                                                       NSp     838                 24   577         292       1731         100
+
+
+
+
+        Kastanienallee                                                                         Kastanienallee
+                                                                                                                       6h     3511                126 3326         1588        8551        100
+                                                                                                                FZ     FSp     638                 21   717         386        1762        100
+                         383   91                                            10                                        NSp    1034                 36   678         411        2159        100
+                               243                                           2    24     OST                           6h     4404                172 3942         2202       10720        100
+
+WEST                     292    3                                            12                                 Q DTVw: 2,35 18784                656 15183        5567
+                               46                                            26   50                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                Bemerkungen :
+                                                                                                                - seit dem 01.07.2017 Modellversuch Zeppelinstr. (Fahrsp.-Neuordnung)
+                                                                                                                - keine Corona-Einschränkungen
+                                                                                                                - Ukraine-Krieg
+                                                                                                                - seit 01.05.2023 D_Ticket im Umlauf
+                                      817     24    544    9                                                    - wegen Unfall wurde Zeppelinstr. Ri. Geltow gesperrt - Verkehr wich
+                                                                                                                 über Kastanienallee aus (Zeit:16:15 bis 16:45 Uhr)
+                                     1.394                                                                      - Wetter früh 17ºC sonnig, trocken; nachmittag 32ºC sonnig,
+                                                    577                                                              Sph-Beginn:      7.30     Uhr und     15.00 Uhr
+                                                    SÜD                                                         SUMME Zufahrten: [FSp] :                   1399 KFZ/h 8:00
+                                             Zeppelinstr.                                                                                     (NSp):       1731 KFZ/h 15:30
+                                                                                                                                                  6h :     8551 KFZ
+                                                                                                                max. Sph /Zufahrt: NORD :                   838 KFZ/h 15:30
+                                                                                                                                               OST :         28 KFZ/h 16:30
+
+                                                                                                                   DATUM :                     SÜD :        641 KFZ/h 7:30
+                                                                                       1.731 KFZ/h 06.07.2023                                WEST :         292 KFZ/h 15:30
+                                                                  Kfz-Stromverteilung in der NSp 3100                               Zeppelinstr./Kastanienallee
+       StromPlan (NSp)3100kp7-23                                    Seite3
+

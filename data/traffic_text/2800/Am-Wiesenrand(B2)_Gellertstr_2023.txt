@@ -1,0 +1,173 @@
+       Landeshauptstadt Potsdam                                                                                                                                                                       02.06.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                                                            RAD    FSp     28                   1     24         50         103        6,0
+                                                                                                                                                      NSp     60                   0     68         25         153        7,8
+                                      Am Wiesenrand (B2)                                                                                              6h     181                   4    260        146         591        6,0
+                                               3.063                                                                                           NFZ    FSp     70                   2   128         87         287        17,7
+
+
+
+
+                                                                                                        Ganghoferstr. u. Einfahrt Baumschule
+                                                                 6.340                                                                                NSp     61                   0   117         48         226        12,5
+                                                                                                                                                      6h     372                   9   596        312        1289        13,9
+                                       595      2.436    32       3.277                                                                        SV     FSp     19                   0    29         26           74        4,6
+                                                                                                                                                      NSp     15                   0    20           6          41        2,3
+                                                                                                                                                      6h     108                   0   138          63         309        3,3
+                                                                                                                                               KFZ FSp 518                        27   499        581        1625        100
+                                                                                                                                                      NSp 609                     25   856        315        1805        100
+                                                                                                                                                      6h    3063                 162 3915        2132        9272        100
+
+
+
+
+        Gellertstr.
+                                                                                                                                               FZ     FSp    546                  28   523        631        1728        100
+                      4.124   1.992                                                    49                                                             NSp    669                  25   924        340        1958        100
+                               715                                                     24   162   OST                                                 6h    3244                 166 4175        2278         9863       100
+
+WEST                  2.132    19                                                      89                                                      Q DTVw: 2,2 13948                 532 17244       9073
+                              1.398                                                    80   242                                                Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                               Bemerkungen :
+                                                                                                                                               - keine Corona-Einschränkungen
+                                                                                                                                               - Ukraine-Krieg
+                                                                                                                                               - Woche zw. Himmelfahrt und Pfingsten
+                                                                                                                                               - Wetter früh 9ºC sonnig, trocken; nachm. 18ºC leicht bewölkt, trocken
+
+                                       3.923    1.373    2.513    29                                                                               Sph-Beginn:      7.00     Uhr und   15.30 Uhr
+                                                                                                                                               SUMME Zufahrten: [FSp] :                1625 KFZ/h 7:30
+                                      7.838                                                                                                                                 (NSp):     1805 KFZ/h 16:00
+                                                        3.915                                                                                                       6h :               9272 KFZ
+                                                        SÜD                                                                                    max. Sph /Zufahrt: NORD :                609 KFZ/h 16:00
+                                      Am Wiesenrand (B2)                                                                                                                      OST :       39 KFZ/h 15:30
+
+                                                                                                                                                 DATUM :                      SÜD :      866 KFZ/h 15:30
+                                                                                                  6h Werte 25.05.2023                                                       WEST :       581 KFZ/h 7:30
+                                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2800                                               Am Wiesenrand(B2)/Gellertstr.
+
+
+       StromPlan2800kp5-23                                                   Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                                02.06.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                                       RAD    FSp     28                   1     24         50         103        6,0
+                                                                                                                                               NSp     60                   0     68         25         153        7,8
+                                     Am Wiesenrand (B2)                                                                                        6h     181                   4    260        146         591        6,0
+                                             518                                                                                        NFZ    FSp     70                   2   128         87         287        17,7
+
+
+
+
+                                                                                                 Ganghoferstr. u. Einfahrt Baumschule
+                                                          1.072                                                                                NSp     61                   0   117         48         226        12,5
+                                                                                                                                               6h     372                   9   596        312        1289        13,9
+                                      61      454   3      554                                                                          SV     FSp     19                   0    29         26           74        4,6
+                                                                                                                                               NSp     15                   0    20           6          41        2,3
+                                                                                                                                               6h     108                   0   138          63         309        3,3
+                                                                                                                                        KFZ FSp 518                        27   499        581        1625        100
+                                                                                                                                               NSp 609                     25   856        315        1805        100
+                                                                                                                                               6h    3063                 162 3915        2132        9272        100
+
+
+
+
+        Gellertstr.
+                                                                                                                                        FZ     FSp    546                  28   523        631        1728        100
+                      796   215                                               6                                                                NSp    669                  25   924        340        1958        100
+                            204                                               2    27      OST                                                 6h    3244                 166 4175        2278         9863       100
+
+WEST                  581    2                                                19                                                        Q DTVw: 2,2 13948                 532 17244       9073
+                            375                                               8    35                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                        Bemerkungen :
+                                                                                                                                        - keine Corona-Einschränkungen
+                                                                                                                                        - Ukraine-Krieg
+                                                                                                                                        - Woche zw. Himmelfahrt und Pfingsten
+                                                                                                                                        - Wetter früh 9ºC sonnig, trocken; nachm. 18ºC leicht bewölkt, trocken
+                                      848     152   344    3                                                                                Sph-Beginn:      7.00     Uhr und   15.30 Uhr
+                                                                                                                                        SUMME Zufahrten: [FSp] :                1625 KFZ/h 7:30
+                                     1.347                                                                                                                           (NSp):     1805 KFZ/h 16:00
+                                                    499                                                                                                      6h :               9272 KFZ
+                                                    SÜD                                                                                 max. Sph /Zufahrt: NORD :                609 KFZ/h 16:00
+                                     Am Wiesenrand (B2)                                                                                                                OST :       39 KFZ/h 15:30
+
+                                                                                                                                          DATUM :                      SÜD :      866 KFZ/h 15:30
+                                                                                        1.625 KFZ/h 25.05.2023                                                       WEST :       581 KFZ/h 7:30
+                                                                  Kfz-Stromverteilung in der FSp 2800                                                   Am Wiesenrand(B2)/Gellertstr.
+
+
+       StromPlan (FSp)2800kp5-23                                    Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                                02.06.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                                       RAD    FSp     28                   1     24         50         103        6,0
+                                                                                                                                               NSp     60                   0     68         25         153        7,8
+                                     Am Wiesenrand (B2)                                                                                        6h     181                   4    260        146         591        6,0
+                                             609                                                                                        NFZ    FSp     70                   2   128         87         287        17,7
+
+
+
+
+                                                                                                 Ganghoferstr. u. Einfahrt Baumschule
+                                                          1.255                                                                                NSp     61                   0   117         48         226        12,5
+                                                                                                                                               6h     372                   9   596        312        1289        13,9
+                                      156     447   6      646                                                                          SV     FSp     19                   0    29         26           74        4,6
+                                                                                                                                               NSp     15                   0    20           6          41        2,3
+                                                                                                                                               6h     108                   0   138          63         309        3,3
+                                                                                                                                        KFZ FSp 518                        27   499        581        1625        100
+                                                                                                                                               NSp 609                     25   856        315        1805        100
+                                                                                                                                               6h    3063                 162 3915        2132        9272        100
+
+
+
+
+        Gellertstr.
+                                                                                                                                        FZ     FSp    546                  28   523        631        1728        100
+                      818   503                                               7                                                                NSp    669                  25   924        340        1958        100
+                            131                                               6    25      OST                                                 6h    3244                 166 4175        2278         9863       100
+
+WEST                  315    8                                                12                                                        Q DTVw: 2,2 13948                 532 17244       9073
+                            176                                               21   46                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                        Bemerkungen :
+                                                                                                                                        - keine Corona-Einschränkungen
+                                                                                                                                        - Ukraine-Krieg
+                                                                                                                                        - Woche zw. Himmelfahrt und Pfingsten
+                                                                                                                                        - Wetter früh 9ºC sonnig, trocken; nachm. 18ºC leicht bewölkt, trocken
+                                      635     341   508    7                                                                                Sph-Beginn:      7.00     Uhr und   15.30 Uhr
+                                                                                                                                        SUMME Zufahrten: [FSp] :                1625 KFZ/h 7:30
+                                     1.491                                                                                                                           (NSp):     1805 KFZ/h 16:00
+                                                    856                                                                                                      6h :               9272 KFZ
+                                                    SÜD                                                                                 max. Sph /Zufahrt: NORD :                609 KFZ/h 16:00
+                                     Am Wiesenrand (B2)                                                                                                                OST :       39 KFZ/h 15:30
+
+                                                                                                                                          DATUM :                      SÜD :      866 KFZ/h 15:30
+                                                                                        1.805 KFZ/h 25.05.2023                                                       WEST :       581 KFZ/h 7:30
+                                                                  Kfz-Stromverteilung in der NSp 2800                                                   Am Wiesenrand(B2)/Gellertstr.
+
+
+       StromPlan (NSp)2800kp5-23                                    Seite 3
+

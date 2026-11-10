@@ -1,0 +1,149 @@
+                                                                                                                                                                01.02.2012
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                        NORD                                                                                     NORD OST SÜD      SUMME %
+           Schopenhauerstr.                                                                   RAD        FSp       65       99       85                  249   10,0
+
+                                                                                                         NSp   74         126       134                  334   11,8
+                     4.648                                                                               6h   396          711       584                1691   11,2
+                                 8.105                                                        NFZ        FSp 110           78       150                 338    15,1
+                                                                                                         NSp 100           96       109                 305    12,2
+
+             2.495       2.153    3.457                                                                  6h   613         432       658                1703    12,7
+                                                                                              SV         FSp   46          31        53                 130      5,8
+                                                                                                         NSp   41            0         0                102      4,1
+                                                                                                         6h   270         145       247                  662     5,0
+                                                                                              KFZ        FSp 898          506       841                2245     100
+                                                                                                         NSp 739          866       897                2502     100
+
+
+
+
+                                                                                 Hegelallee
+                                                                                                         6h  4648        3960      4761               13369     100
+                                                           1288                               FZ         FSp  963         605       926                2494     100
+                                                                   3960
+                                                           2672            OST                           NSp  813            0         0               2836     100
+                                                                                                         6h  5044        4671      5345               15060     100
+                                                           4745    8705                       Bemerkungen :
+                                                                                              - Wetter früh 2 º C und sonnig, nachmittags 16 º C und sonnig
+
+
+
+
+             5.167       2.169    2.592                                                            Sph-Beginn:      7.30 Uhr und 15.30 Uhr
+                                                                                              SUMME Zufahrten: FSp : 2245 KFZ/h 8:00
+            9.928                                                                                                NSp : 2502 KFZ/h 16:00
+                           4.761                                                                                   6h : 13369 KFZ
+                         SÜD                                                                  max. Sph /Zufahrt: NORD     966 KFZ/h 6:30
+           Schopenhauerstr.                                                                                               OST       872 KFZ/h 15:30
+                                                                                                DATUM :                   SÜD       897 KFZ/h 16:00
+                                                                                              05.05.2011
+                                          Kfz-Stromverteilung in der NSp                       150               Hegelallee/Schopenhauerstr.
+
+
+
+
+SVP, 461                                                                                                                                             StromPlan150kp5-11.xls
+                                                                                                                                                     01.02.2012
+
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                     NORD                                                                             NORD OST SÜD      SUMME %
+           Schopenhauerstr.                                                        RAD        FSp       65       99       85                  249   10,0
+
+                                                                                              NSp   74         126       134                  334   11,8
+                   898                                                                        6h   396          711       584                1691   11,2
+                               1.363                                               NFZ        FSp 110           78       150                 338    15,1
+                                                                                              NSp 100           96       109                 305    12,2
+             459         439    465                                                           6h   613         432       658                1703    12,7
+                                                                                   SV         FSp   46          31        53                 130     5,8
+                                                                                              NSp   41            0         0                102     4,1
+                                                                                              6h   270         145       247                  662    5,0
+                                                                                   KFZ        FSp 898          506       841                2245    100
+                                                                                              NSp 739          866       897                2502    100
+
+
+
+
+                                                                      Hegelallee
+                                                                                              6h  4648        3960      4761               13369    100
+                                                   122                             FZ         FSp  963         605       926                2494    100
+                                                          506
+                                                   384          OST                           NSp  813            0         0               2836    100
+                                                                                              6h  5044        4671      5345               15060    100
+                                                   937   1443                      Bemerkungen :
+                                                                                   - Wetter früh 2 º C und sonnig, nachmittags 16 º C und sonnig
+
+
+
+
+             843         343    498                                                     Sph-Beginn:      7.30 Uhr und 15.30 Uhr
+                                                                                   SUMME Zufahrten: FSp : 2245 KFZ/h 8:00
+            1.684                                                                                     NSp : 2502 KFZ/h 16:00
+                        841                                                                             6h : 13369 KFZ
+                     SÜD                                                           max. Sph /Zufahrt: NORD     966 KFZ/h 6:30
+           Schopenhauerstr.                                                                                    OST       872 KFZ/h 15:30
+                                                                                     DATUM :                   SÜD       897 KFZ/h 16:00
+                                                         2.245 KFZ/h               05.05.2011
+                                       Kfz-Stromverteilung in der FSp               150               Hegelallee/Schopenhauerstr.
+
+
+
+
+SVP, 461                                                                                                                             StromPlan FSp150kp5-11.xls
+                                                                                                                                                     01.02.2012
+
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                     NORD                                                                             NORD OST SÜD      SUMME %
+           Schopenhauerstr.                                                        RAD        FSp       65       99       85                  249   10,0
+
+                                                                                              NSp   74         126       134                  334   11,8
+                   739                                                                        6h   396          711       584                1691   11,2
+                               1.477                                               NFZ        FSp 110           78       150                 338    15,1
+                                                                                              NSp 100           96       109                 305    12,2
+             408         331    738                                                           6h   613         432       658                1703    12,7
+                                                                                   SV         FSp   46          31        53                 130     5,8
+                                                                                              NSp   41            0         0                102     4,1
+                                                                                              6h   270         145       247                  662    5,0
+                                                                                   KFZ        FSp 898          506       841                2245    100
+                                                                                              NSp 739          866       897                2502    100
+
+
+
+
+                                                                      Hegelallee
+                                                                                              6h  4648        3960      4761               13369    100
+                                                   300                             FZ         FSp  963         605       926                2494    100
+                                                          866
+                                                   566          OST                           NSp  813            0         0               2836    100
+                                                                                              6h  5044        4671      5345               15060    100
+                                                   790   1656                      Bemerkungen :
+                                                                                   - Wetter früh 2 º C und sonnig, nachmittags 16 º C und sonnig
+
+
+
+
+             974         438    459                                                     Sph-Beginn:      7.30 Uhr und 15.30 Uhr
+                                                                                   SUMME Zufahrten: FSp : 2245 KFZ/h 8:00
+            1.871                                                                                     NSp : 2502 KFZ/h 16:00
+                        897                                                                             6h : 13369 KFZ
+                     SÜD                                                           max. Sph /Zufahrt: NORD     966 KFZ/h 6:30
+           Schopenhauerstr.                                                                                    OST       872 KFZ/h 15:30
+                                                                                     DATUM :                   SÜD       897 KFZ/h 16:00
+                                                         2.502 KFZ/h               05.05.2011
+                                       Kfz-Stromverteilung in der NSp               150               Hegelallee/Schopenhauerstr.
+
+
+
+
+SVP, 461                                                                                                                             StromPlan NSp150kp5-11.xls
+

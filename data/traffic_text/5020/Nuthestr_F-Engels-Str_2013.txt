@@ -1,0 +1,129 @@
+                                                                                                                            15.07.2015
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                OST SÜD WEST     SUMME %
+                                                                            RAD        FSp  150            0       90               240   17,5
+                                                                                       NSp   84            1     129                214   14,1
+                                                                                       6h   566            5      550              1121   14,5
+                             F.-Engels-Str.                                 NFZ        FSp 121            3      117               241    21,2
+                                                                                       NSp 112            1       76               189    14,5
+                                                                                       6h   595            9     482              1086    16,4
+                                                                            SV         FSp   51           0       49               100     8,8
+                                                                                       NSp   31           1       34                 66    5,1
+                                                                                       6h   221            2     219                442    6,7
+                                                                            KFZ        FSp 442            8      685              1135    100
+            6.500   2.663                                                              NSp 529           10      760              1299    100
+                                                        2.630 2.743   OST              6h  2743          43     3837              6623    100
+
+WEST        3.837   1.874                                 113               FZ         FSp  592            8     775              1375    100
+                    1.963                               1.884 4.627                    NSp  613          11      889              1513    100
+                                                                                       6h  3309           48    4387               7744   100
+                                                                            Bemerkungen :
+
+
+
+
+                                2.076   33        10                             Sph-Beginn:   7:30   Uhr und   16:00 Uhr
+                                                                            SUMME Zufahrten: [FSp]: 1135 KFZ/h 8:00
+                               2.119                                                           (NSp): 1299 KFZ/h 16:30
+                                             43                                                   6h : 6623 KFZ
+                                                  SÜD                       max. Sph /Zufahrt:   OST    538 KFZ/h 17:00
+                            Auffahrt Nuthestraße                                                       SÜD        11 KFZ/h 9:00
+                                                                              DATUM :                 WEST       760 KFZ/h 16:30
+                                                                            19.09.2013
+                                                                             502                  Nuthestr./F.-Engels-Str.
+
+
+
+
+       SVP, 461                                                                                                  StromPlan502kp9-13.xls
+                                                                                                                                 15.07.2015
+
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                     OST SÜD WEST     SUMME %
+                                                                                 RAD        FSp  150            0       90              240   17,5
+                           F.-Engels-Str.                                                   NSp   84            1     129               214   14,1
+                                                                                            6h   566            5      550             1121   14,5
+                                                                                 NFZ        FSp 121            3      117              241    21,2
+                                                                                            NSp 112            1       76              189    14,5
+                                                                                            6h   595            9     482             1086    16,4
+                                                                                 SV         FSp   51           0       49              100     8,8
+                                                                                            NSp   31           1       34                66    5,1
+            1.113   428                                                                     6h   221            2     219               442    6,7
+                                                               422   442   OST   KFZ        FSp 442            8      685             1135    100
+
+WEST         685    395                                         20                          NSp 529           10      760             1299    100
+                    290                                        397   839                    6h  2743          43     3837             6623    100
+                                                                                 FZ         FSp  592            8     775             1375    100
+                                                                                            NSp  613          11      889             1513    100
+                                                                                            6h  3309           48    4387              7744   100
+                                                                                 Bemerkungen :
+
+
+
+
+                              310   6       2
+
+                             318                                                      Sph-Beginn:   7:30   Uhr und   16:00 Uhr
+                                        8                                        SUMME Zufahrten: [FSp]:             1135 KFZ/h 8:00
+                                            SÜD                                                  (NSp):              1299 KFZ/h 16:30
+                          Auffahrt Nuthestraße                                                               6h :    6623 KFZ
+                                                                                 max. Sph /Zufahrt:         OST       538 KFZ/h 17:00
+                                                                                                            SÜD        11 KFZ/h 9:00
+                                                                                   DATUM :                 WEST       760 KFZ/h 16:30
+                                                                    1.135 KFZ/h 19.09.2013
+                                                  Kfz-Stromverteilung in der FSp 502                   Nuthestr./F.-Engels-Str.
+
+
+
+
+       SVP, 461                                                                                                  StromPlan FSp502kp9-13.xls
+                                                                                                                                  15.07.2015
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                      OST SÜD WEST     SUMME %
+                                                                                  RAD        FSp  150            0       90              240   17,5
+                                                                                             NSp   84            1     129               214   14,1
+                                                                                             6h   566            5      550             1121   14,5
+                           F.-Engels-Str.                                         NFZ        FSp 121            3      117              241    21,2
+                                                                                             NSp 112            1       76              189    14,5
+                                                                                             6h   595            9     482             1086    16,4
+                                                                                  SV         FSp   51           0       49              100     8,8
+                                                                                             NSp   31           1       34                66    5,1
+                                                                                             6h   221            2     219               442    6,7
+                                                                                  KFZ        FSp 442            8      685             1135    100
+            1.265   505                                                                      NSp 529           10      760             1299    100
+                                                                498   529   OST              6h  2743          43     3837             6623    100
+
+WEST         760    338                                          31               FZ         FSp  592            8     775             1375    100
+                    422                                         341   870                    NSp  613          11      889             1513    100
+                                                                                             6h  3309           48    4387              7744   100
+                                                                                  Bemerkungen :
+
+
+
+
+                              453   7        3                                         Sph-Beginn:   7:30   Uhr und   16:00 Uhr
+                                                                                  SUMME Zufahrten: [FSp]: 1135 KFZ/h 8:00
+                             463                                                                     (NSp): 1299 KFZ/h 16:30
+                                        10                                                              6h : 6623 KFZ
+                                             SÜD                                  max. Sph /Zufahrt:   OST    538 KFZ/h 17:00
+                          Auffahrt Nuthestraße                                                               SÜD        11 KFZ/h 9:00
+                                                                                    DATUM :                 WEST       760 KFZ/h 16:30
+                                                                     1.299 KFZ/h 19.09.2013
+                                                   Kfz-Stromverteilung in der NSp 502                   Nuthestr./F.-Engels-Str.
+
+
+
+
+       SVP, 461                                                                                                   StromPlan NSp502kp9-13.xls
+

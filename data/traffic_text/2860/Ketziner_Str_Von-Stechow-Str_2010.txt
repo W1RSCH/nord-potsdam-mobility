@@ -1,0 +1,136 @@
+                                                                                                              22.07.2014
+
+
+
+
+                                                                             FAHRZEUG-VERTEILUNG
+                                                                             NORD OST WEST     SUMME %
+                                                          RAD        FSp       13         4       10                   27 4,1
+                                                                     NSp         9      19          2                  30 4,3
+                                                                     6h         55       67        36                 158 4,5
+                                                          NFZ        FSp       28       23        52                 103 16,3
+                           NORD                                      NSp       28       55        26                 109 16,3
+                                                                     6h       134      239       164                 537 16,0
+                         Triftweg                         SV         FSp       18       10        12                  40  6,3
+                                                                     NSp         8      11          9                 28  4,2
+                     1.074        1.925                              6h         60       65       62                 187   5,6
+
+                   253      821     851
+                                                          KFZ        FSp 312           123      197                  632   100
+                                                                     NSp 142           387      141                  670   100
+                                                                     6h  1074         1464      825                 3363   100
+                                                          FZ         FSp  325          127      207                  659   100
+                                                                     NSp  151          406      143                  700   100
+                                                                     6h  1129         1531       861                3521   100
+                                                          Bemerkungen :
+
+1.897      1.072                            645           Wetter:    früh: 22ºC trocken; nachmittag: 35ºC trocken
+                                                  1.464
+             206                            819
+  825
+             619                          1.440   2.904
+
+                                                               Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+                                                          SUMME Zufahrten: FSp :                632 KFZ/h 7:30
+           WEST    Ketziner Str.          OST                                NSp :              670 KFZ/h       16:00
+                                                                               6h :            3363 KFZ
+                                                          max. Sph /Zufahrt: NORD               312 KFZ/h       7:30
+                                                                              OST               387 KFZ/h       16:00
+                                                           DATUM :           WEST               197 KFZ/h       7:30
+                                                          01.07.2010
+                                                           286            Ketziner Str./Triftweg - OT Fahrland -
+
+
+
+SVP, 461                                                                                         StromPlan286kp7-10.xls
+SVP, 461                                                                                                                                     22.07.2014
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                            NORD OST WEST     SUMME %
+                                                                                         RAD        FSp       13         4       10                   27 4,1
+                                                                                                    NSp         9      19          2                  30 4,3
+                                                                                                    6h         55       67        36                 158 4,5
+                                                                                         NFZ        FSp       28       23        52                 103 16,3
+                                      NORD                                                          NSp       28       55        26                 109 16,3
+                                                                                                    6h       134      239       164                 537 16,0
+                                    Triftweg                                             SV         FSp       18       10        12                  40  6,3
+                                    312                                                             NSp         8      11         9                    28   4,2
+                                                386                                                 6h         60       65       62                 187     5,6
+
+                               44         268   74                                       KFZ        FSp 312           123      197                  632     100
+                                                                                                    NSp 142           387      141                  670     100
+                                                                                                    6h  1074         1464      825                 3363     100
+                                                                                         FZ         FSp  325          127      207                  659     100
+                                                                                                    NSp  151          406      143                  700     100
+                                                                                                    6h  1129         1531       861                3521     100
+                                                                                         Bemerkungen :
+
+315          118                                                            49           Wetter:    früh: 22ºC trocken; nachmittag: 35ºC trocken
+                                                                                   123
+              25                                                            74
+  197
+             172                                                           440     563
+
+                                                                                              Sph-Beginn:       7.00 Uhr und 15.00 Uhr
+                                                                                         SUMME Zufahrten: FSp :                632 KFZ/h 7:30
+           WEST                Ketziner Str.                              OST                               NSp :              670 KFZ/h       16:00
+                                                                                                              6h :            3363 KFZ
+                                                                                         max. Sph /Zufahrt: NORD               312 KFZ/h       7:30
+                                                                                                             OST               387 KFZ/h       16:00
+                                                                                          DATUM :           WEST               197 KFZ/h       7:30
+                                                                           632   KFZ/h   01.07.2010
+                                                      Kfz-Stromverteilung in der FSp      286       Ketziner Str./von Stechow Str. - OT Fahrland -
+
+
+
+
+StromPlan (FSp)286kp7-10.xls                                    Seite 2
+SVP, 461                                                                                                                                    22.07.2014
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                           NORD OST WEST     SUMME %
+                                                                                        RAD        FSp       13         4       10                   27 4,1
+                                                                                                   NSp         9      19          2                  30 4,3
+                                                                                                   6h         55       67        36                 158 4,5
+                                                                                        NFZ        FSp       28       23        52                 103 16,3
+                                      NORD                                                         NSp       28       55        26                 109 16,3
+                                                                                                   6h       134      239       164                 537 16,0
+                                    Triftweg                                            SV         FSp       18       10        12                  40  6,3
+                                    142                                                            NSp         8      11         9                    28   4,2
+                                               358                                                 6h         60       65       62                 187     5,6
+
+                               53         89   216
+                                                                                        KFZ        FSp 312           123      197                  632     100
+                                                                                                   NSp 142           387      141                  670     100
+                                                                                                   6h  1074         1464      825                 3363     100
+                                                                                        FZ         FSp  325          127      207                  659     100
+                                                                                                   NSp  151          406      143                  700     100
+                                                                                                   6h  1129         1531       861                3521     100
+                                                                                        Bemerkungen :
+
+410          269                                                          171           Wetter:    früh: 22ºC trocken; nachmittag: 35ºC trocken
+                                                                                  387
+              45                                                          216
+  141
+              96                                                          185     572
+
+                                                                                             Sph-Beginn:       7.00 Uhr und 15.00 Uhr
+                                                                                        SUMME Zufahrten: FSp :                632 KFZ/h 7:30
+           WEST                Ketziner Str.                             OST                               NSp :              670 KFZ/h       16:00
+                                                                                                             6h :            3363 KFZ
+                                                                                        max. Sph /Zufahrt: NORD               312 KFZ/h       7:30
+                                                                                                            OST               387 KFZ/h       16:00
+                                                                                         DATUM :           WEST               197 KFZ/h       7:30
+                                                                          670   KFZ/h   01.07.2010
+                                                     Kfz-Stromverteilung in der NSp      286            Ketziner Str./Triftweg - OT Fahrland -
+
+
+
+StromPlan (NSp)286kp7-10.xls                                   Seite 3
+

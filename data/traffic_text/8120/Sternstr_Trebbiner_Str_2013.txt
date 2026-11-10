@@ -1,0 +1,143 @@
+                                                                                                                                      15.07.2015
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                       NORD                                                                         NORD       OST     SÜD            SUMME %
+            Sternstr.                                                            RAD        FSp         41       16      30               87         9,6
+
+                                                                                            NSp         47       15       57            119          9,4
+                    2.449                                                                   6h         249        77     266            592         10,3
+                                    4.987                                        NFZ        FSp        54        17      45            116          14,2
+                                                                                            NSp        90        16      36            142          12,3
+            1.682           767      2.538                                                  6h        376        98     233             707         13,6
+                                                                                 SV         FSp          3        8      11              22          2,7
+                                                                                            NSp          5         4       9             18          1,6
+                                                                                            6h          37       21       47            105          2,0
+                                                                                 KFZ        FSp       341      200      275            816          100
+
+
+
+
+                                                                Trebbiner Str.
+                                                                                            NSp       580      177      393           1150          100
+                                                                                            6h       2449       933    1798           5180          100
+                                             817                                 FZ         FSp       382       216     305             903         100
+                                                          OST
+                                             116   933                                      NSp       627       192     450           1269          100
+                                                                                            6h       2698      1010    2064            5772         100
+                                             844   1777                          Bemerkungen:
+
+                                                                                 - Wetter
+
+
+
+
+            1.798           1.721    77
+                                                                                      Sph-Beginn:    7.30    Uhr und   16.00 Uhr
+           3.596                                                                 SUMME Zufahrten:             [FSp]:    816 KFZ/h 8:00
+                          1.798                                                                              (NSp):    1150 KFZ/h 16:30
+                        SÜD                                                                                     6h :   5180 KFZ
+           Nuthedamm                                                             max. Sph /Zufahrt:          NORD       580 KFZ/h 16:30
+                                                                                                              OST       200 KFZ/h 8:00
+                                                                                   DATUM :                    SÜD       393 KFZ/h 16:30
+                                                                                  05.09.2013
+                                                                                  812                   Sternstr./Trebbiner Str.
+SVP, 461                                                                                                                   StromPlan812kp9-13.xls
+                                                                                                                                         15.07.2015
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                    NORD                                                                               NORD       OST     SÜD            SUMME %
+            Sternstr.                                                               RAD        FSp         41       16      30               87         9,6
+
+                                                                                               NSp         47       15      57             119          9,4
+                  341                                                                          6h         249        77    266              592        10,3
+                              776                                                   NFZ        FSp         54       17      45             116         14,2
+                                                                                               NSp         90       16      36             142         12,3
+                                                                                               6h         376       98     233             707
+            246               435
+                                                                                                                                                       13,6
+                        95
+                                                                                    SV         FSp         3         8      11               22         2,7
+                                                                                               NSp         5         4       9               18         1,6
+                                                                                               6h         37        21      47              105         2,0
+                                                                                    KFZ        FSp       341      200      275             816         100
+
+
+
+
+                                                                   Trebbiner Str.
+                                                                                               NSp       580      177      393            1150         100
+                                                                                               6h       2449       933    1798            5180         100
+                                                173                                 FZ         FSp       382       216     305              903        100
+                                                             OST
+                                                 27    200                                     NSp       627       192     450            1269         100
+                                                                                               6h       2698      1010    2064             5772        100
+                                                108    308                          Bemerkungen:
+
+                                                                                    - Wetter
+
+
+
+
+            273         262   13
+                                                                                         Sph-Beginn:    7.30    Uhr und   16.00 Uhr
+            548                                                                     SUMME Zufahrten:             [FSp]:    816 KFZ/h 8:00
+                       275                                                                                      (NSp):    1150 KFZ/h 16:30
+                    SÜD                                                                                            6h :   5180 KFZ
+           Nuthedamm                                                                max. Sph /Zufahrt:          NORD       580 KFZ/h 16:30
+                                                                                                                 OST       200 KFZ/h 8:00
+                                                                                      DATUM :                    SÜD       393 KFZ/h 16:30
+                                              816    KFZ/h                           05.09.2013
+                                    Kfz-Stromverteilung in der FSp                   812                   Sternstr./Trebbiner Str.
+SVP, 461                                                                                                                  StromPlan FSp812kp9-13.xls
+                                                                                                                                            15.07.2015
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                    NORD                                                                                 NORD       OST     SÜD            SUMME %
+            Sternstr.                                                                 RAD        FSp         41       16      30               87         9,6
+
+                                                                                                 NSp         47       15      57             119          9,4
+                  580                                                                            6h         249        77    266              592        10,3
+                              1.116                                                   NFZ        FSp         54       17      45             116         14,2
+                                                                                                 NSp         90       16      36             142         12,3
+                                                                                                 6h         376       98     233             707
+            404         176    536
+                                                                                                                                                         13,6
+
+                                                                                      SV         FSp         3         8      11               22         2,7
+                                                                                                 NSp         5         4       9               18         1,6
+                                                                                                 6h         37        21      47              105         2,0
+                                                                                      KFZ        FSp       341      200      275             816         100
+
+
+
+
+                                                                     Trebbiner Str.
+                                                                                                 NSp       580      177      393            1150         100
+                                                                                                 6h       2449       933    1798            5180         100
+                                                  154                                 FZ         FSp       382       216     305              903        100
+                                                               OST
+                                                   23    177                                     NSp       627       192     450            1269         100
+                                                                                                 6h       2698      1010    2064             5772        100
+                                                  187    364                          Bemerkungen:
+
+                                                                                      - Wetter
+
+
+
+
+            427         382    11
+                                                                                           Sph-Beginn:    7.30    Uhr und   16.00 Uhr
+            820                                                                       SUMME Zufahrten:             [FSp]:    816 KFZ/h 8:00
+                       393                                                                                        (NSp):    1150 KFZ/h 16:30
+                    SÜD                                                                                              6h :   5180 KFZ
+           Nuthedamm                                                                  max. Sph /Zufahrt:          NORD       580 KFZ/h 16:30
+                                                                                                                   OST       200 KFZ/h 8:00
+                                                                                        DATUM :                    SÜD       393 KFZ/h 16:30
+                                                1.150 KFZ/h                            05.09.2013
+                                      Kfz-Stromverteilung in der NSp                   812                   Sternstr./Trebbiner Str.
+SVP, 461                                                                                                                    StromPlan NSp812kp9-13.xls
+

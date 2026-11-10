@@ -1,0 +1,151 @@
+                                                                                                                                                     15.07.2015
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                             NORD                                                                             NORD OST SÜD      SUMME %
+            An der Alten Zauche                                                            RAD        FSp   11           4       0             15  1,5
+                                                                                                      NSp   17           2       0             19  1,9
+                          1.908                                                                       6h     78         20       0             98 1,8
+                                          4.370                                            NFZ        FSp   44         39       66           149 14,8
+                                                                                                      NSp   64         30       47           141 14,1
+                  1.139           769      2.462                                                      6h   268        150      285            703 13,2
+                                                                                           SV         FSp     8          3      12             23  2,3
+                                                                                                      NSp     6          5       8             19  1,9
+                                                                                                      6h    37         19       52            108 2,0
+                                                                                           KFZ        FSp 249         305      453          1007 100
+
+
+
+
+                                                                             Am Nuthetal
+                                                                                                      NSp 460         189      354          1003 100
+                                                                                                      6h  1908       1262     2140          5310 100
+                                                         781                               FZ         FSp  260        309      453          1022 100
+                                                                       OST
+                                                                1262
+                                                         481                                          NSp  477        191      354          1022 100
+                                                                                                      6h  1986       1282     2140           5408 100
+                                                         1228   2490                       Bemerkungen :
+
+
+
+
+                  1.620           1.681    459
+
+                 3.760
+                                2.140                                                           Sph-Beginn:    7.00 Uhr und   15.30 Uhr
+                              SÜD                                                          SUMME Zufahrten: [FSp]:            1007 KFZ/h 7:30
+            An der Alten Zauche                                                                               (NSp): 1003 KFZ/h           16:00
+                                                                                                                 6h : 5310 KFZ
+                      Räder auf Radweg fahrend                                             max. Sph /Zufahrt: NORD     460 KFZ/h          16:00
+                                                                                                                OST    305 KFZ/h          7:30
+           286                                                                              DATUM :             SÜD    453 KFZ/h          7:30
+                                                   130                                     22.05.2014
+                                                                                            450                    Magnus-Zeller-Platz
+
+
+
+SVP, 461                                                                                                                                  StromPlan450kp5-14.xls
+                                                                                                                                           15.07.2015
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                        NORD                                                                    NORD OST SÜD      SUMME %
+           An der Alten Zauche                                               RAD        FSp   11             4      0               15  1,5
+                                                                                        NSp   17             2      0               19  1,9
+                      249                                                               6h     78           20      0               98 1,8
+                                  807                                        NFZ        FSp   44           39      66             149 14,8
+                                                                                        NSp   64           30      47             141 14,1
+                148         101   558                                                   6h   268          150     285              703 13,2
+                                                                             SV         FSp     8            3     12               23  2,3
+                                                                                        NSp     6            5      8               19  1,9
+                                                                                        6h    37           19      52              108 2,0
+                                                                             KFZ        FSp 249           305     453            1007 100
+
+
+
+
+                                                               Am Nuthetal
+                                                                                        NSp 460           189     354            1003 100
+                                                                                        6h  1908         1262    2140            5310 100
+                                             187                             FZ         FSp  260          309     453            1022 100
+                                                         OST
+                                                   305
+                                             118                                        NSp  477          191     354            1022 100
+                                                                                        6h  1986         1282    2140             5408 100
+                                             183   488                       Bemerkungen :
+
+
+
+
+                266         371   82
+
+                719
+                           453                                                    Sph-Beginn:   7.00   Uhr und   15.30   Uhr
+                        SÜD                                                  SUMME Zufahrten: [FSp]:             1007 KFZ/h 7:30
+           An der Alten Zauche                                                                  (NSp): 1003 KFZ/h 16:00
+                                                                                                   6h : 5310 KFZ
+                  Räder auf Radweg fahrend                                   max. Sph /Zufahrt: NORD     460 KFZ/h 16:00
+                                                  1.007 KFZ/h                                     OST    305 KFZ/h 7:30
+           23                                  Kfz-Stromverteilung DATUM :                               SÜD       453 KFZ/h 7:30
+                                        33              in der FSp 22.05.2014
+                                                                              450                      Magnus-Zeller-Platz
+
+
+
+SVP, 461                                                                                                                   StromPlan FSP450kp5-14.xls
+                                                                                                                                           15.07.2015
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                        NORD                                                                    NORD OST SÜD      SUMME %
+           An der Alten Zauche                                               RAD        FSp   11             4      0                15  1,5
+                                                                                        NSp   17             2      0                19  1,9
+                      460                                                               6h     78           20      0                98 1,8
+                                  837                                        NFZ        FSp   44           39      66              149 14,8
+                                                                                        NSp   64           30      47              141 14,1
+                274         186   377                                                   6h   268          150     285               703 13,2
+                                                                             SV         FSp     8            3     12                23  2,3
+                                                                                        NSp     6            5      8                19  1,9
+                                                                                        6h    37           19      52               108 2,0
+                                                                             KFZ        FSp 249           305     453             1007 100
+
+
+
+
+                                                               Am Nuthetal
+                                                                                        NSp 460           189     354             1003 100
+                                                                                        6h  1908         1262    2140             5310 100
+                                             112                             FZ         FSp  260          309     453             1022 100
+                                                         OST
+                                                   189
+                                              77                                        NSp  477          191     354             1022 100
+                                                                                        6h  1986         1282    2140              5408 100
+                                             275   464                       Bemerkungen :
+
+
+
+
+                351         265   89
+
+                705
+                           354                                                    Sph-Beginn:   7.00   Uhr und   15.30   Uhr
+                        SÜD                                                  SUMME Zufahrten: [FSp]:             1007 KFZ/h 7:30
+           An der Alten Zauche                                                                  (NSp): 1003 KFZ/h 16:00
+                                                                                                   6h : 5310 KFZ
+                  Räder auf Radweg fahrend                                   max. Sph /Zufahrt: NORD     460 KFZ/h 16:00
+                                                  1.003 KFZ/h                                     OST    305 KFZ/h 7:30
+           76                                  Kfz-Stromverteilung DATUM :                               SÜD       453 KFZ/h 7:30
+                                        16              in der NSp 22.05.2014
+                                                                              450                      Magnus-Zeller-Platz
+
+
+
+SVP, 461                                                                                                                   StromPlan NSP450kp5-14.xls
+

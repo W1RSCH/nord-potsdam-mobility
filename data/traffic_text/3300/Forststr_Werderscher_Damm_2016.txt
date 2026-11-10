@@ -1,0 +1,128 @@
+  SVP, 461                                                                                                                                           27.10.2016
+
+
+                                          (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                              RAD         FSp          27        21      10                     58     7,3
+                                                                                                          NSp          39        22      28                     89    10,6
+                                                                                                          6h          157       110      82                    349     8,3
+
+Werderscher Damm                                                    Am Wildpark NFZ                       FSp         42        29      41                    112     15,1
+                                                                                                          NSp         45        23      12                     80     10,6
+                                                                                                          6h         206       147     130                    483     12,6
+                    WEST                                      OST                             SV          FSp          9        10      11                     30      4,0
+                                                                                                          NSp          9         8       8                     25      3,3
+                                                                                                          6h          54        52      42                    148      3,9
+                                                                                              KFZ         FSp        263       160     319                    742      100
+
+2.276    1.029                                                             701                            NSp        312       260     182                    754      100
+                                                                                      1.490
+                                                                           789                            6h       1490       1104    1247                  3841       100
+
+          818                                                                                 FZ          FSp        290        181    329                    800      100
+1.247
+          429                                                              1.594      3.084          NSp            351        282     210                    843      100
+                                                                                                     6h            1647       1214    1329                   4190      100
+                                                                                              Q DTVw: 2,4          7247       5457    5349
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                              Bemerkungen :
+
+                            1.218    328     776                                              - Wetter früh 10°C trocken; nachmittag 21°C sonnig
+                                                                                                   Sph-Beginn:       7.30 Uhr und     16.00 Uhr
+                           2.322                                                              SUMME Zufahrten: [FSp]:                  742 KFZ/h 8:00
+                                      1.104                                                                    (NSp):                  754 KFZ/h 16:30
+                             Forststr.                                                                                       6h :     3841 KFZ
+                                                                                              max. Sph /Zufahrt:             OST       322 KFZ/h 17:00
+                                    SÜD                                                                                      SÜD       260 KFZ/h 16:30
+                                                                                                DATUM :                     WEST       355 KFZ/h 7:30
+                                                                                   6h Werte 22.09.2016
+                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 330                                 Forststr./Werderscher Damm
+
+  StromPlan330kp9-16.xls                                         Seite 1
+  SVP, 461                                                                                                                                        27.10.2016
+
+
+                                             (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                           RAD         FSp          27        21      10                     58     7,3
+                                                                                                       NSp          39        22      28                     89    10,6
+                                                                                                       6h          157       110      82                    349     8,3
+
+Werderscher Damm                                                       Am Wildpark NFZ                 FSp         42        29      41                    112     15,1
+                                                                                                       NSp         45        23      12                     80     10,6
+                                                                                                       6h         206       147     130                    483     12,6
+                    WEST                                         OST                       SV          FSp          9        10      11                     30      4,0
+                                                                                                       NSp          9         8       8                     25      3,3
+                                                                                                       6h          54        52      42                    148      3,9
+                                                                                           KFZ         FSp        263       160     319                    742      100
+
+ 473      154                                                                 106                      NSp        312       260     182                    754      100
+                                                                                     263
+                                                                              157                      6h       1490       1104    1247                  3841       100
+
+          213                                                                              FZ          FSp        290        181    329                    800      100
+ 319
+          106                                                                 325    588          NSp            351        282     210                    843      100
+                                                                                                  6h            1647       1214    1329                   4190      100
+                                                                                           Q DTVw: 2,4          7247       5457    5349
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                 263    48      112                                        - Wetter früh 10°C trocken; nachmittag 21°C sonnig
+                                                                                                Sph-Beginn:       7.30 Uhr und     16.00 Uhr
+                                 423                                                       SUMME Zufahrten: [FSp]:                  742 KFZ/h 8:00
+                                             160                                                            (NSp):                  754 KFZ/h 16:30
+                                 Forststr.                                                                                6h :     3841 KFZ
+                                                                                           max. Sph /Zufahrt:             OST       322 KFZ/h 17:00
+                                       SÜD                                                                                SÜD       260 KFZ/h 16:30
+                                                                                             DATUM :                     WEST       355 KFZ/h 7:30
+                                                                                742 KFZ/h 22.09.2016
+                                                      Kfz-Stromverteilung in der FSp 330                        Forststr./Werderscher Damm
+
+  StromPlan (FSp)330kp9-16.xls                                      Seite 2
+  SVP, 461                                                                                                                                        27.10.2016
+
+
+                                             (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                           RAD         FSp          27        21      10                     58     7,3
+                                                                                                       NSp          39        22      28                     89    10,6
+                                                                                                       6h          157       110      82                    349     8,3
+
+Werderscher Damm                                                       Am Wildpark NFZ                 FSp         42        29      41                    112     15,1
+                                                                                                       NSp         45        23      12                     80     10,6
+                                                                                                       6h         206       147     130                    483     12,6
+                    WEST                                         OST                       SV          FSp          9        10      11                     30      4,0
+                                                                                                       NSp          9         8       8                     25      3,3
+                                                                                                       6h          54        52      42                    148      3,9
+                                                                                           KFZ         FSp        263       160     319                    742      100
+
+ 434      252                                                                 168                      NSp        312       260     182                    754      100
+                                                                                     312
+                                                                              144                      6h       1490       1104    1247                  3841       100
+
+          125                                                                              FZ          FSp        290        181    329                    800      100
+ 182
+           57                                                                 301    613          NSp            351        282     210                    843      100
+                                                                                                  6h            1647       1214    1329                   4190      100
+                                                                                           Q DTVw: 2,4          7247       5457    5349
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                 201    84      176                                        - Wetter früh 10°C trocken; nachmittag 21°C sonnig
+                                                                                                Sph-Beginn:       7.30 Uhr und     16.00 Uhr
+                                 461                                                       SUMME Zufahrten: [FSp]:                  742 KFZ/h 8:00
+                                             260                                                            (NSp):                  754 KFZ/h 16:30
+                                 Forststr.                                                                                6h :     3841 KFZ
+                                                                                           max. Sph /Zufahrt:             OST       322 KFZ/h 17:00
+                                       SÜD                                                                                SÜD       260 KFZ/h 16:30
+                                                                                             DATUM :                     WEST       355 KFZ/h 7:30
+                                                                                754 KFZ/h 22.09.2016
+                                                      Kfz-Stromverteilung in der NSp 330                        Forststr./Werderscher Damm
+
+  StromPlan (NSp)330kp9-16.xls                                      Seite 3
+

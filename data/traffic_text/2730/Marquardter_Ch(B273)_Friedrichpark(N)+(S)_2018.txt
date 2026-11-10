@@ -1,0 +1,160 @@
+       SVP, 461                                                                                                                                                           15.05.2018
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                  RAD    FSp     2                     0      1         0           3  0,7
+                                                                                                                           NSp     0                     0      1         0           1  0,2
+                                       Am Friedrichspark                                                                   6h      4                     0      5         0           9 0,3
+                                              1.068                                                                 NFZ    FSp    36                   24       6       26           92 20,2
+                                                            2.250                                                          NSp    36                   14      10       33           93 16,6
+                                                                                                                           6h    202                    98     58      160          518 18,9
+                                       540     126    402    1.182                                                  SV     FSp     9                     5      2         6          22  4,8
+                                                                                                                           NSp     6                     2      3         6          17  3,0
+                                                                                                                           6h     47                    24     20        40         131 4,8
+                                                                                                                    KFZ FSp 167                       122      39      128          456 100
+                                                                                                                           NSp 244                    102      70      144          560 100
+                                                                                                                           6h   1068                  576     371      731         2746 100
+                                                                                                                    FZ     FSp   169                  122      40      128          459 100
+                  1.493    762                                                    576                                      NSp   244                  102      71      144          561 100
+
+
+       B 273                                                                                                B 273
+                                                                                              576
+                           541                                                   n. gezählt
+                                                                                                      OST                  6h   1072                   576    376       731        2755 100
+
+WEST
+                  731     n. gezählt                                                                                Q DTVw: 2,2 4950                 2336    1511     3285
+                           190                                                    486         1.062                 Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Zuf. OG+WG nicht gezählt
+                                                                                                                    - Wetter früh 12ºC bewölkt, trocken; nachm. 19ºC stark bewölkt, Regen
+
+
+                                                                                                                        Sph-Beginn:      9.00     Uhr und    15.30 Uhr
+                                       316     222    65     84                                                     SUMME Zufahrten: [FSp] :                  456 KFZ/h 9:30
+                                                                                                                                                 (NSp):       560 KFZ/h 16:00
+                                       687                                                                                               6h :                2746 KFZ
+                                                      371                                                           max. Sph /Zufahrt: NORD :                 244 KFZ/h 16:00
+                                                      SÜD                                                                               OST :                 122 KFZ/h 9:30
+                                             Hauptstraße                                                              DATUM :                      SÜD :       97 KFZ/h 7:30
+                                                                                                      6h Werte 12.04.2018                        WEST :       147 KFZ/h 16:30
+
+                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 273+274 Marquardter Ch.(B273+274)/Friedr.park
+
+
+
+       StromPlan273+274kp4-18.xls                                      Seite 1
+       SVP, 461                                                                                                                                                       15.05.2018
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                            RAD    FSp     2                     0      1         0           3  0,7
+                                                                                                                       NSp     0                     0      1         0           1  0,2
+                                          Am Friedrichspark                                                            6h      4                     0      5         0           9 0,3
+                                                 167                                                            NFZ    FSp    36                   24       6       26           92 20,2
+                                                             413                                                       NSp    36                   14      10       33           93 16,6
+                                                                                                                       6h    202                    98     58      160          518 18,9
+                                          90     14    63    246                                                SV     FSp     9                     5      2         6          22  4,8
+                                                                                                                       NSp     6                     2      3         6          17  3,0
+                                                                                                                       6h     47                    24     20        40         131 4,8
+                                                                                                                KFZ FSp 167                       122      39      128          456 100
+                                                                                                                       NSp 244                    102      70      144          560 100
+                                                                                                                       6h   1068                  576     371      731         2746 100
+                                                                                                                FZ     FSp   169                  122      40      128          459 100
+                  242     114                                                   122                                    NSp   244                  102      71      144          561 100
+
+
+       B 273                                                                                            B 273
+                                                                                            122
+                          115                                                  n. gezählt
+                                                                                                  OST                  6h   1072                   576    376       731        2755 100
+
+WEST
+                  128    n. gezählt                                                                             Q DTVw: 2,2 4950                 2336    1511     3285
+                           13                                                     69        191                 Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - Zuf. OG+WG nicht gezählt
+                                                                                                                - Wetter früh 12ºC bewölkt, trocken; nachm. 19ºC stark bewölkt, Regen
+
+
+                                                                                                                    Sph-Beginn:      9.00     Uhr und    15.30 Uhr
+                                          27     24    9     6                                                  SUMME Zufahrten: [FSp] :                  456 KFZ/h 9:30
+                                                                                                                                             (NSp):       560 KFZ/h 16:00
+                                          66                                                                                         6h :                2746 KFZ
+                                                        39                                                      max. Sph /Zufahrt: NORD :                 244 KFZ/h 16:00
+                                                       SÜD                                                                          OST :                 122 KFZ/h 9:30
+                                               Hauptstraße                                                        DATUM :                      SÜD :       97 KFZ/h 7:30
+                                                                                                  456 KFZ/h 12.04.2018                       WEST :       147 KFZ/h 16:30
+
+                                                                   Kfz-Stromverteilung in der FSp 273+274 Marquardter Ch.(B273+274)/Friedr.park
+
+
+
+       StromPlan (FSp)273+274kp4-18.xls                              Seite 2
+       SVP, 461                                                                                                                                                        15.05.2018
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                                 NORD                                                            RAD    FSp     2                     0      1         0           3  0,7
+                                                                                                                        NSp     0                     0      1         0           1  0,2
+                                          Am Friedrichspark                                                             6h      4                     0      5         0           9 0,3
+                                                  244                                                            NFZ    FSp    36                   24       6       26           92 20,2
+                                                              459                                                       NSp    36                   14      10       33           93 16,6
+                                                                                                                        6h    202                    98     58      160          518 18,9
+                                          127     30    87    215                                                SV     FSp     9                     5      2         6          22  4,8
+                                                                                                                        NSp     6                     2      3         6          17  3,0
+                                                                                                                        6h     47                    24     20        40         131 4,8
+                                                                                                                 KFZ FSp 167                       122      39      128          456 100
+                                                                                                                        NSp 244                    102      70      144          560 100
+                                                                                                                        6h   1068                  576     371      731         2746 100
+                                                                                                                 FZ     FSp   169                  122      40      128          459 100
+                  310     166                                                    102                                    NSp   244                  102      71      144          561 100
+
+
+       B 273                                                                                             B 273
+                                                                                             102
+                          104                                                   n. gezählt
+                                                                                                   OST                  6h   1072                   576    376       731        2755 100
+
+WEST
+                  144    n. gezählt                                                                              Q DTVw: 2,2 4950                 2336    1511     3285
+                           40                                                    109         211                 Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Zuf. OG+WG nicht gezählt
+                                                                                                                 - Wetter früh 12ºC bewölkt, trocken; nachm. 19ºC stark bewölkt, Regen
+
+
+                                                                                                                     Sph-Beginn:      9.00     Uhr und    15.30 Uhr
+                                          70      39    9     22                                                 SUMME Zufahrten: [FSp] :                  456 KFZ/h 9:30
+                                                                                                                                              (NSp):       560 KFZ/h 16:00
+                                          140                                                                                         6h :                2746 KFZ
+                                                         70                                                      max. Sph /Zufahrt: NORD :                 244 KFZ/h 16:00
+                                                        SÜD                                                                          OST :                 122 KFZ/h 9:30
+                                                Hauptstraße                                                        DATUM :                      SÜD :       97 KFZ/h 7:30
+                                                                                                   560 KFZ/h 12.04.2018                       WEST :       147 KFZ/h 16:30
+
+                                                                    Kfz-Stromverteilung in der NSp 273+274 Marquardter Ch.(B273+274)/Friedr.park
+
+
+
+       StromPlan (NSp)273+274kp4-18.xls                               Seite 3
+

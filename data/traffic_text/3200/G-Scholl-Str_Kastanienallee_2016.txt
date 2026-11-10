@@ -1,0 +1,172 @@
+       SVP, 461                                                                                                                                     27.10.2016
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt: OST SÜD WEST     SUMME %
+                                                                                              RAD    FSp   188                  53       73                   314      34,2
+                                                                                                     NSp    73                  68       86                   227      22,9
+                                                                                                     6h    533                 302      384                  1219      25,5
+                                                                                              NFZ    FSp    53                   7      38                     98      16,3
+
+                                Geschw.-Scholl-Str.                                                  NSp
+                                                                                                     6h
+                                                                                                            38
+                                                                                                           260
+                                                                                                                                 0
+                                                                                                                                19
+                                                                                                                                        20
+                                                                                                                                       164
+                                                                                                                                                               58
+                                                                                                                                                              443
+                                                                                                                                                                        7,6
+                                                                                                                                                                       12,4
+                                                                                              SV     FSp    17                   1      15                     33       5,5
+                                                                                                     NSp     8                   0        7                    15       2,0
+                                                                                                     6h     73                   3       61                   137       3,8
+                                                                                              KFZ FSp 266                       44     293                    603      100
+                                                                                                     NSp 458                    36     271                    765      100
+                                                                                                     6h   1933                 220    1414                   3567      100
+           2.998     1.584                                          1.364                     FZ     FSp   454                  97     366                    917      100
+                                                                            1.933   OST              NSp   531                 104     357                    992      100
+
+WEST
+                                                                     569                             6h   2466                 522    1798                   4786      100
+                     1.414                                                                    Q DTVw: 2,4 4543                5177    7045
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                              Bemerkungen :
+                                                                                              - Baustelle in Kastanienallee zw. Haeckelstr. und Zeppelinstr. -
+                                                                                               Einbahnstraße in Ri. Zeppelinstr.
+                                                                                              - Wetter: früh 16ºC bewölkt, trocken; nachmittag 21ºC trocken
+
+                                    1.983   220                                                   Sph-Beginn:         7.30 Uhr und   16.00 Uhr
+                                                                                              SUMME Zufahrten: [FSp]:                  603 KFZ/h 8:00
+                                   2.203                                                                       (NSp):                  765 KFZ/h 16:30
+                                                  SÜD                                                             6h :                3567 KFZ
+                                  Kastanienallee                                              max. Sph /Zufahrt:               OST     458 KFZ/h 16:30
+                                                                                                                               SÜD      44 KFZ/h 8:00
+
+                                                                                                DATUM :                     WEST       293 KFZ/h 8:00
+                                                                                     6h Werte 29.09.2016
+                                                   von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 320                   G.-Scholl-Str./Kastanienallee
+
+
+
+       StromPlan320kp9-16.xls                                    Seite 1
+       SVP, 461                                                                                                                                   27.10.2016
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD    FSp   188                  53       73                   314      34,2
+                                                                                                   NSp    73                  68       86                   227      22,9
+                                                                                                   6h    533                 302      384                  1219      25,5
+                                                                                            NFZ    FSp    53                   7      38                     98      16,3
+
+                                      Geschw.-Scholl-Str.                                          NSp
+                                                                                                   6h
+                                                                                                          38
+                                                                                                         260
+                                                                                                                               0
+                                                                                                                              19
+                                                                                                                                      20
+                                                                                                                                     164
+                                                                                                                                                             58
+                                                                                                                                                            443
+                                                                                                                                                                      7,6
+                                                                                                                                                                     12,4
+                                                                                            SV     FSp    17                   1      15                     33       5,5
+                                                                                                   NSp     8                   0        7                    15       2,0
+                                                                                                   6h     73                   3       61                   137       3,8
+                                                                                            KFZ FSp 266                       44     293                    603      100
+                                                                                                   NSp 458                    36     271                    765      100
+                                                                                                   6h   1933                 220    1414                   3567      100
+            527       234                                             190                   FZ     FSp   454                  97     366                    917      100
+                                                                            266   OST              NSp   531                 104     357                    992      100
+
+WEST
+                                                                       76                          6h   2466                 522    1798                   4786      100
+                      293                                                                   Q DTVw: 2,4 4543                5177    7045
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                            Bemerkungen :
+                                                                                            - Baustelle in Kastanienallee zw. Haeckelstr. und Zeppelinstr. -
+                                                                                             Einbahnstraße in Ri. Zeppelinstr.
+                                                                                            - Wetter: früh 16ºC bewölkt, trocken; nachmittag 21ºC trocken
+
+                                         369   44                                               Sph-Beginn:         7.30 Uhr und   16.00 Uhr
+                                                                                            SUMME Zufahrten: [FSp]:                  603 KFZ/h 8:00
+                                         413                                                                 (NSp):                  765 KFZ/h 16:30
+                                                    SÜD                                                         6h :                3567 KFZ
+                                        Kastanienallee                                      max. Sph /Zufahrt:               OST     458 KFZ/h 16:30
+                                                                                                                             SÜD      44 KFZ/h 8:00
+
+                                                                                              DATUM :                     WEST       293 KFZ/h 8:00
+                                                                                  603 KFZ/h 29.09.2016
+                                                            Kfz-Stromverteilung in der FSp 320                   G.-Scholl-Str./Kastanienallee
+
+
+
+       StromPlan (FSp)320kp9-16.xls                               Seite 2
+       SVP, 461                                                                                                                                   27.10.2016
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD    FSp   188                  53       73                   314      34,2
+                                                                                                   NSp    73                  68       86                   227      22,9
+                                                                                                   6h    533                 302      384                  1219      25,5
+                                                                                            NFZ    FSp    53                   7      38                     98      16,3
+
+                                      Geschw.-Scholl-Str.                                          NSp
+                                                                                                   6h
+                                                                                                          38
+                                                                                                         260
+                                                                                                                               0
+                                                                                                                              19
+                                                                                                                                      20
+                                                                                                                                     164
+                                                                                                                                                             58
+                                                                                                                                                            443
+                                                                                                                                                                      7,6
+                                                                                                                                                                     12,4
+                                                                                            SV     FSp    17                   1      15                     33       5,5
+                                                                                                   NSp     8                   0        7                    15       2,0
+                                                                                                   6h     73                   3       61                   137       3,8
+                                                                                            KFZ FSp 266                       44     293                    603      100
+                                                                                                   NSp 458                    36     271                    765      100
+                                                                                                   6h   1933                 220    1414                   3567      100
+            627       356                                             320                   FZ     FSp   454                  97     366                    917      100
+                                                                            458   OST              NSp   531                 104     357                    992      100
+
+WEST
+                                                                      138                          6h   2466                 522    1798                   4786      100
+                      271                                                                   Q DTVw: 2,4 4543                5177    7045
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                            Bemerkungen :
+                                                                                            - Baustelle in Kastanienallee zw. Haeckelstr. und Zeppelinstr. -
+                                                                                             Einbahnstraße in Ri. Zeppelinstr.
+                                                                                            - Wetter: früh 16ºC bewölkt, trocken; nachmittag 21ºC trocken
+
+                                         409   36                                               Sph-Beginn:         7.30 Uhr und   16.00 Uhr
+                                                                                            SUMME Zufahrten: [FSp]:                  603 KFZ/h 8:00
+                                         445                                                                 (NSp):                  765 KFZ/h 16:30
+                                                    SÜD                                                         6h :                3567 KFZ
+                                        Kastanienallee                                      max. Sph /Zufahrt:               OST     458 KFZ/h 16:30
+                                                                                                                             SÜD      44 KFZ/h 8:00
+
+                                                                                              DATUM :                     WEST       293 KFZ/h 8:00
+                                                                                  765 KFZ/h 29.09.2016
+                                                            Kfz-Stromverteilung in der NSp 320                   G.-Scholl-Str./Kastanienallee
+
+
+
+       StromPlan (NSp)320kp9-16.xls                               Seite 3
+

@@ -1,0 +1,54 @@
+Landeshauptstadt Potsdam                                                                                                                                     12.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                              Nuthestr./Neuend. Str. - Q WEST -                                             Zufahrt:      OST     WEST SUMME %
+                                                                                                      RAD * FSp                        34                   27           61
+                                                 2019                                                       NSp                        34                   31           65
+                                                                                                            6h                        204                  194          398
+                                                                                                      NFZ   FSp                      651                  357         1008      15,4
+                                                                                                            NSp                      477                  389          866      13,9
+                                                                                                            6h                      3007                 2014         5021      14,5
+                                                                                                      SV    FSp                      149                  141          290        4,4
+                                                                                                            NSp                       89                   87          176        2,8
+                                                                                                            6h                       736                  645         1381        4,0
+                                                                                                      KFZ FSp                       3718                 2810         6528       100
+                                             stadteinwärts                                                  NSp                     2777                 3463         6240       100
+                                                                                                            6h                     17512                17080        34592       100
+                                                                                                      FZ    FSp                     3718                 2810         6528       100
+                                                                                     3.718                  NSp                     2777                 3463         6240       100
+                                                                        17.512                                   6h                17512                17080        34592
+                                                                                     2.777                                                                                       100
+
+WEST                                                                                         OST      DTVw:       2,35             41153                40138
+                                                                                                      DTVw=24h KFZ werktags
+
+                     2.810                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+        17.080
+                     3.463                                                                            *) = Räder auf Heiztrassenweg
+                                                                                                      Bemerkungen :
+                                                                                                      - Ermittelte Räder auf Heiztrassenweg fahrend, siehe Radtabelle!
+                                            stadtauswärts                                             - Wetter früh 14ºC bewölkt, trocken; nachmittag 17ºC bewölkt, trocken
+
+
+
+
+                                         Radfahrer (Heiztrasse)                                            Sph-Beginn:        7:30 Uhr und    15:30 Uhr
+                                                                                                      SUMME Zufahrten: [FSp] :  6528 KFZ/h                        8:00         ###
+                                                                         34                                                     6240 KFZ/h
+                                                                                                                                   (NSp):                         16:00
+                                                                  204
+                                                                         34                                               6h : 34592 KFZ
+                              27                                                                      max. Sph /Zufahrt: OST : 3718 KFZ/h                         8:00
+                                   194
+                              31                                                                                        WEST : 3463 KFZ/h                         16:00
+                                                                                                       DATUM :
+                                                                                             6h Werte 12.09.2019
+                                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 507QW                Nuthestr./Neuend. Str. - Q WEST -
+
+
+ StromPlan507QWest9-19.xlsx                                                Seite 1
+

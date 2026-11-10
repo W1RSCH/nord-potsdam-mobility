@@ -1,0 +1,162 @@
+       Landeshauptstadt Potsdam                                                                                                                                                 18.10.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                      RAD    FSp      3                      0       2         0         5 0,9
+                                                                                                                               NSp      7                      0     11          0       18  2,8
+                                                       L20                                                                     6h      43                      3      44         0        90 2,7
+                                              1.546                                                                     NFZ    FSp    55                       1     53          1      110 18,9
+                                                                     3.256                                                     NSp    53                       0     69          0      122 19,5
+                                                                                                                               6h    303                       3    315         11      632 19,2
+                                      15       1.528                  1.710                                             SV     FSp    18                       0     16          0       34
+                                                             3                                                                                                                               5,8
+                                                                                                                               NSp      6                      0       4         0       10  1,6
+                                                                                                                               6h     67                       0     65          0      132 4,0
+                                                                                                                        KFZ FSp 294                            2    285          1      582 100
+                                                                                                                               NSp 271                         3    349          4      627 100
+                                                                                                                               6h   1546                      16   1712         22     3296 100
+
+
+
+
+        Eichengrund                                                                                       Eichengrund
+                                                                                                                        FZ     FSp   297                       2    287          1      587 100
+                      51    29                                                            7                                    NSp   278                       3    360          4      645 100
+                            11                                                            4    16   OST                        6h   1589                      19   1756         22     3386 100
+
+WEST
+                      22    0                                                              5                            Q DTVw: 2,2 7163                      64   7163        112
+                            11                                                            13   29                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                        Bemerkungen :
+                                                                                                                        - Wetter früh 15ºC sonnig, trocken; nachm. 35ºC sonnig, trocken
+
+
+
+                                                                                                                            Sph-Beginn:      7.30     Uhr und      16.30 Uhr
+
+                                      1.544    10            1.692    10                                                SUMME Zufahrten: [FSp] :                    582 KFZ/h 8:00
+                                                                                                                                                     (NSp):         627 KFZ/h 17:00
+                                     3.256                                                                                                   6h :                  3296 KFZ
+                                                         1.712                                                          max. Sph /Zufahrt: NORD :                   294 KFZ/h 8:00
+                                                         SÜD                                                                                OST :                     4 KFZ/h 15:30
+                                                       L20                                                                DATUM :                      SÜD :        349 KFZ/h 15:30
+                                                                                                    6h Werte 23.08.2018                              WEST :          11 KFZ/h 16:30
+                                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 291                   L20 / Grüner Weg OT Groß Glienicke
+
+
+
+       StromPlan291kp8-18.xlsx                                                  Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                       18.10.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                             RAD    FSp      3                      0       2         0         5 0,9
+                                                                                                                     NSp      7                      0     11          0       18  2,8
+                                                    L20                                                              6h      43                      3      44         0        90 2,7
+                                             294                                                              NFZ    FSp    55                       1     53          1      110 18,9
+                                                                581                                                  NSp    53                       0     69          0      122 19,5
+                                                                                                                     6h    303                       3    315         11      632 19,2
+                                       0      293         1     287                                           SV     FSp    18                       0     16          0       34  5,8
+                                                                                                                     NSp      6                      0       4         0       10  1,6
+                                                                                                                     6h     67                       0     65          0      132 4,0
+                                                                                                              KFZ FSp 294                            2    285          1      582 100
+                                                                                                                     NSp 271                         3    349          4      627 100
+                                                                                                                     6h   1546                      16   1712         22     3296 100
+
+
+
+
+        Eichengrund                                                                             Eichengrund
+                                                                                                              FZ     FSp   297                       2    287          1      587 100
+                      2      1                                                   2                                   NSp   278                       3    360          4      645 100
+                             1                                                   0    2   OST                        6h   1589                      19   1756         22     3386 100
+
+WEST
+                      1      0                                                   0                            Q DTVw: 2,2 7163                      64   7163        112
+                             0                                                   1    3                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Wetter früh 15ºC sonnig, trocken; nachm. 35ºC sonnig, trocken
+
+
+
+                                                                                                                  Sph-Beginn:      7.30     Uhr und      16.30 Uhr
+                                       293    1           284   0                                             SUMME Zufahrten: [FSp] :                    582 KFZ/h 8:00
+                                                                                                                                           (NSp):         627 KFZ/h 17:00
+                                       578                                                                                         6h :                  3296 KFZ
+                                                      285                                                     max. Sph /Zufahrt: NORD :                   294 KFZ/h 8:00
+                                                      SÜD                                                                         OST :                     4 KFZ/h 15:30
+                                                    L20                                                         DATUM :                      SÜD :        349 KFZ/h 15:30
+                                                                                          582 KFZ/h 23.08.2018                             WEST :          11 KFZ/h 16:30
+                                                                      Kfz-Stromverteilung in der FSp 291                    L20 / Grüner Weg OT Groß Glienicke
+
+
+
+       StromPlan (FSp)291kp8-18.xlsx                                   Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                       18.10.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                             RAD    FSp      3                      0       2         0         5 0,9
+                                                                                                                     NSp      7                      0     11          0       18  2,8
+                                                    L20                                                              6h      43                      3      44         0        90 2,7
+                                             271                                                              NFZ    FSp    55                       1     53          1      110 18,9
+                                                                618                                                  NSp    53                       0     69          0      122 19,5
+                                                                                                                     6h    303                       3    315         11      632 19,2
+                                       3      268         0     347                                           SV     FSp    18                       0     16          0       34  5,8
+                                                                                                                     NSp      6                      0       4         0       10  1,6
+                                                                                                                     6h     67                       0     65          0      132 4,0
+                                                                                                              KFZ FSp 294                            2    285          1      582 100
+                                                                                                                     NSp 271                         3    349          4      627 100
+                                                                                                                     6h   1546                      16   1712         22     3296 100
+
+
+
+
+        Eichengrund                                                                             Eichengrund
+                                                                                                              FZ     FSp   297                       2    287          1      587 100
+                      8      4                                                    2                                  NSp   278                       3    360          4      645 100
+                             1                                                    0   3   OST                        6h   1589                      19   1756         22     3386 100
+
+WEST
+                      4      0                                                    1                           Q DTVw: 2,2 7163                      64   7163        112
+                             3                                                    4   7                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Wetter früh 15ºC sonnig, trocken; nachm. 35ºC sonnig, trocken
+
+
+
+                                                                                                                  Sph-Beginn:      7.30     Uhr und      16.30 Uhr
+                                       272    1           344   4                                             SUMME Zufahrten: [FSp] :                    582 KFZ/h 8:00
+                                                                                                                                           (NSp):         627 KFZ/h 17:00
+                                       621                                                                                         6h :                  3296 KFZ
+                                                      349                                                     max. Sph /Zufahrt: NORD :                   294 KFZ/h 8:00
+                                                      SÜD                                                                         OST :                     4 KFZ/h 15:30
+                                                    L20                                                         DATUM :                      SÜD :        349 KFZ/h 15:30
+                                                                                          627 KFZ/h 23.08.2018                             WEST :          11 KFZ/h 16:30
+                                                                      Kfz-Stromverteilung in der NSp 291                    L20 / Grüner Weg OT Groß Glienicke
+
+
+
+       StromPlan (NSp)291kp8-18.xlsx                                    Seite 3
+

@@ -1,0 +1,178 @@
+       SVP, 461                                                                                                                                                                      17.04.2015
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                                 NORD OST SÜD WEST SUMME %
+                                                       NORD                                                                   RAD        FSp         94         7         4        26        131        27,2
+
+                                             Gr. Weinmeisterstr.                                                                         NSp         42         8         4        59        113        26,3
+
+                                                                                                                                         6h   372             41        19        220         652       27,0
+                                                       1.015         1.015                                                    NFZ        FSp   28              1       35           0         64        18,3
+                                                                                                                                         NSp   36              0       14           0         50        15,8
+                                                                                                                                         6h   150              9      130           1        290        16,4
+                                               881      115    19                                                             SV         FSp    4              0         7          0         11         3,1
+                                                                                                                                         NSp   14              0         8          0         22         7,0
+                                                                                                                                         6h    44              0        42          0          86        4,9
+                                                                                                                              KFZ
+
+
+
+
+       Gr. Weinmeisterstr.
+                                                                                                                                         FSp 208               8      132           2        350        100
+
+
+
+
+                                                                                                            Am Neuen Garten
+                                                                                                                                         NSp 186               5      124           1        316        100
+                                                                                                                                         6h  1015             48      694           6       1763        100
+                                                                                                                              FZ         FSp  302             15      136          28        481        100
+                             1.036   1.030                                                                                               NSp  228             13      128          60        429        100
+                                                                                          43     48   OST                                6h  1387             89       713        226       2415        100
+
+WEST
+                              6       6                                                    5                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         613   661                            Bemerkungen :
+                                                                                                                              Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                                                                   Sph-Beginn:    7.30    Uhr und   15.00 Uhr
+                                                                                                                              SUMME Zufahrten: [FSp] :                350 KFZ/h 8:00
+                                               120      106           588                                                                                 (NSp):      316 KFZ/h 15:30
+                                                                                                                                                   6h :              1763 KFZ
+                                               814                                                                            max. Sph /Zufahrt: NORD :               215 KFZ/h 7:30
+                                                               694                                                                                OST :                12 KFZ/h 8:30
+                                                               SÜD                                                             DATUM :            SÜD :               132 KFZ/h 8:00
+                                                     Am Neuen Garten                                  6h Werte 03.07.2014                                WEST :           3 KFZ/h 17:00
+                                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 186                             Am Neuen Garten/Gr. Weinmeisterstr.
+
+
+
+
+       StromPlan186kp7-14.xls                                                  Seite 1
+       SVP, 461                                                                                                                                                                  17.04.2015
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD OST SÜD WEST SUMME %
+                                                   NORD                                                                   RAD        FSp         94         7         4        26        131        27,2
+
+                                         Gr. Weinmeisterstr.                                                                         NSp         42         8         4        59        113        26,3
+
+                                                                                                                                     6h   372             41        19        220         652       27,0
+                                                    208         208                                                       NFZ        FSp   28              1       35           0         64        18,3
+                                                                                                                                     NSp   36              0       14           0         50        15,8
+                                                                                                                                     6h   150              9      130           1        290        16,4
+                                           176      25    7                                                               SV         FSp    4              0         7          0         11         3,1
+                                                                                                                                     NSp   14              0         8          0         22         7,0
+                                                                                                                                     6h    44              0        42          0          86        4,9
+                                                                                                                          KFZ
+
+
+
+
+       Gr. Weinmeisterstr.
+                                                                                                                                     FSp 208               8      132           2        350        100
+
+
+
+
+                                                                                                        Am Neuen Garten
+                                                                                                                                     NSp 186               5      124           1        316        100
+                                                                                                                                     6h  1015             48      694           6       1763        100
+                                                                                                                          FZ         FSp  302             15      136          28        481        100
+                             209   207                                                                                               NSp  228             13      128          60        429        100
+                                                                                    8         8   OST                                6h  1387             89       713        226       2415        100
+
+WEST
+                             2     2                                                0                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                  118   126                               Bemerkungen :
+                                                                                                                          Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                                                               Sph-Beginn:    7.30    Uhr und   15.00 Uhr
+                                                                                                                          SUMME Zufahrten: [FSp] :                350 KFZ/h 8:00
+                                           25       23          109                                                                                   (NSp):      316 KFZ/h 15:30
+                                                                                                                                               6h :              1763 KFZ
+                                           157                                                                            max. Sph /Zufahrt: NORD :               215 KFZ/h 7:30
+                                                          132                                                                                 OST :                12 KFZ/h 8:30
+                                                          SÜD                                                              DATUM :            SÜD :               132 KFZ/h 8:00
+                                                 Am Neuen Garten                                  350 KFZ/h 03.07.2014                               WEST :           3 KFZ/h 17:00
+                                                                      Kfz-Stromverteilung in der FSp 186                                   Am Neuen Garten/Gr. Weinmeisterstr.
+
+
+
+
+       StromPlan FSp186kp7-14.xls                                       Seite 2
+       SVP, 461                                                                                                                                                                  17.04.2015
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD OST SÜD WEST SUMME %
+                                                   NORD                                                                   RAD        FSp         94         7         4        26        131        27,2
+
+                                         Gr. Weinmeisterstr.                                                                         NSp         42         8         4        59        113        26,3
+
+                                                                                                                                     6h   372             41        19        220         652       27,0
+                                                    186         186                                                       NFZ        FSp   28              1       35           0         64        18,3
+                                                                                                                                     NSp   36              0       14           0         50        15,8
+                                                                                                                                     6h   150              9      130           1        290        16,4
+                                           167      17    2                                                               SV         FSp    4              0         7          0         11         3,1
+                                                                                                                                     NSp   14              0         8          0         22         7,0
+                                                                                                                                     6h    44              0        42          0          86        4,9
+                                                                                                                          KFZ
+
+
+
+
+       Gr. Weinmeisterstr.
+                                                                                                                                     FSp 208               8      132           2        350        100
+
+
+
+
+                                                                                                        Am Neuen Garten
+                                                                                                                                     NSp 186               5      124           1        316        100
+                                                                                                                                     6h  1015             48      694           6       1763        100
+                                                                                                                          FZ         FSp  302             15      136          28        481        100
+                             185   184                                                                                               NSp  228             13      128          60        429        100
+                                                                                    5         5   OST                                6h  1387             89       713        226       2415        100
+
+WEST
+                             1     1                                                0                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                  115   120                               Bemerkungen :
+                                                                                                                          Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                                                               Sph-Beginn:    7.30    Uhr und   15.00 Uhr
+                                                                                                                          SUMME Zufahrten: [FSp] :                350 KFZ/h 8:00
+                                           17       12          112                                                                                   (NSp):      316 KFZ/h 15:30
+                                                                                                                                               6h :              1763 KFZ
+                                           141                                                                            max. Sph /Zufahrt: NORD :               215 KFZ/h 7:30
+                                                          124                                                                                 OST :                12 KFZ/h 8:30
+                                                          SÜD                                                              DATUM :            SÜD :               132 KFZ/h 8:00
+                                                 Am Neuen Garten                                  316 KFZ/h 03.07.2014                               WEST :           3 KFZ/h 17:00
+                                                                      Kfz-Stromverteilung in der NSp 186                                   Am Neuen Garten/Gr. Weinmeisterstr.
+
+
+
+
+       StromPlan NSp186kp7-14.xls                                       Seite 3
+

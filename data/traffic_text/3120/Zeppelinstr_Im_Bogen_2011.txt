@@ -1,0 +1,144 @@
+SVP, 461                                                                                                               29.11.2012
+
+
+                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                          NORD SÜD WEST     SUMME %
+                                                                       RAD        FSp        60       51          34           145    7,8
+                                             NORD                                 NSp        92       64          23           179    7,7
+
+                               Zeppelinstraße                                     6h    335          314      114              763    6,9
+                                          5.309                        NFZ        FSp 111            92         8             211    12,4
+                                                          9.985                   NSp 115            55        10             180     8,4
+                                                                                  6h    577         352        46             975     9,5
+                                  213             5.096    4.676       SV         FSp    40          31         1              72     4,2
+                                                                                  NSp    20          16         0              36     1,7
+                                                                                  6h    158         139         6             303     3,0
+                                                                       KFZ        FSp 621           989        96           1706     100
+                                                                                  NSp 1375          675        94           2144     100
+                                                                                  6h  5309         4438       471          10218     100
+
+
+
+
+       Im Bogen
+                                                                       FZ         FSp   681        1040       130            1851    100
+                  766    295                                                      NSp 1467          739       117            2323    100
+                         320                                                      6h   5644        4752       585           10981    100
+                  471
+WEST
+                         151                                           Bemerkungen :
+
+                                                                       - Neueröffnung Kaufland
+                                                                       - Wetter früh bewölkt, mild und trocken;
+                                                                        nachmittags 25ºC sonnig
+
+
+
+                                                                            Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+
+                                  5.247           82       4.356       SUMME Zufahrten: FSp : 1706 KFZ/h                7:30
+                                                                                          NSp : 2144 KFZ/h              16:00
+                                 9.685                                                      6h : 10218 KFZ
+                                                 4.438                 max. Sph /Zufahrt: NORD 1375 KFZ/h               16:00
+                                              SÜD                                          SÜD     989 KFZ/h            7:30
+                               Zeppelinstraße                            DATUM :                  WEST        111 KFZ/h 8:00
+                                                                       25.08.2011
+                                                                        312                    Zeppelinstr./Im Bogen
+
+StromPlan312kp8-11.xls                                             1
+SVP, 461                                                                                                                             29.11.2012
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                        NORD SÜD WEST     SUMME %
+                                                                                     RAD        FSp        60       51          34           145    7,8
+                                           NORD                                                 NSp        92       64          23           179    7,7
+
+                                Zeppelinstraße                                                  6h    335          314      114              763    6,9
+                                         621                                         NFZ        FSp 111            92         8             211    12,4
+                                                       1.652                                    NSp 115            55        10             180     8,4
+                                                                                                6h    577         352        46             975     9,5
+                                   24          597         1.031                     SV         FSp    40          31         1              72     4,2
+                                                                                                NSp    20          16         0              36     1,7
+                                                                                                6h    158         139         6             303     3,0
+                                                                                     KFZ        FSp 621           989        96           1706     100
+                                                                                                NSp 1375          675        94           2144     100
+                                                                                                6h  5309         4438       471          10218     100
+
+
+
+
+       Im Bogen
+                                                                                     FZ         FSp   681        1040       130            1851    100
+                  142      46                                                                   NSp 1467          739       117            2323    100
+                           64                                                                   6h   5644        4752       585           10981    100
+                  96
+WEST
+                           32                                                        Bemerkungen :
+
+                                                                                     - Neueröffnung Kaufland
+                                                                                     - Wetter früh bewölkt, mild und trocken;
+                                                                                      nachmittags 25ºC sonnig
+
+
+
+                                                                                          Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+                                   629         22          967                       SUMME Zufahrten: FSp : 1706 KFZ/h                7:30
+                                                                                                        NSp : 2144 KFZ/h              16:00
+                                  1.618                                                                   6h : 10218 KFZ
+                                                     989                             max. Sph /Zufahrt: NORD 1375 KFZ/h               16:00
+                                               SÜD                                                       SÜD     989 KFZ/h            7:30
+                                Zeppelinstraße                                         DATUM :                  WEST        111 KFZ/h 8:00
+                                                                       1.706 KFZ/h   25.08.2011
+                                     Kfz-Stromverteilung in der FSp                   312                    Zeppelinstr./Im Bogen
+
+StromPlan (FSp)312kp8-11.xls                                       2
+SVP, 461                                                                                                                                 29.11.2012
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                            NORD SÜD WEST     SUMME %
+                                                                                         RAD        FSp        60       51          34           145    7,8
+                                              NORD                                                  NSp        92       64          23           179    7,7
+
+                                Zeppelinstraße                                                      6h    335          314      114              763    6,9
+                                           1.375                                         NFZ        FSp 111            92         8             211    12,4
+                                                             2.089                                  NSp 115            55        10             180     8,4
+                                                                                                    6h    577         352        46             975     9,5
+                                   47              1.328         714                     SV         FSp    40          31         1              72     4,2
+                                                                                                    NSp    20          16         0              36     1,7
+                                                                                                    6h    158         139         6             303     3,0
+                                                                                         KFZ        FSp 621           989        96           1706     100
+                                                                                                    NSp 1375          675        94           2144     100
+                                                                                                    6h  5309         4438       471          10218     100
+
+
+
+
+       Im Bogen
+                                                                                         FZ         FSp   681        1040       130            1851    100
+                  157      63                                                                       NSp 1467          739       117            2323    100
+                           55                                                                       6h   5644        4752       585           10981    100
+                  94
+WEST
+                           39                                                            Bemerkungen :
+
+                                                                                         - Neueröffnung Kaufland
+                                                                                         - Wetter früh bewölkt, mild und trocken;
+                                                                                          nachmittags 25ºC sonnig
+
+
+
+                                                                                              Sph-Beginn:       7.00 Uhr und 15.30 Uhr
+
+                                   1.367           16            659                     SUMME Zufahrten: FSp : 1706 KFZ/h                7:30
+                                                                                                            NSp : 2144 KFZ/h              16:00
+                                  2.042                                                                       6h : 10218 KFZ
+                                                           675                           max. Sph /Zufahrt: NORD 1375 KFZ/h               16:00
+                                               SÜD                                                           SÜD     989 KFZ/h            7:30
+                                Zeppelinstraße                                             DATUM :                  WEST        111 KFZ/h 8:00
+                                                                           2.144 KFZ/h   25.08.2011
+                                      Kfz-Stromverteilung in der NSp                      312                    Zeppelinstr./Im Bogen
+
+StromPlan (NSp)312kp8-11.xls                                           3
+

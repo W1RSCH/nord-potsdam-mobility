@@ -1,0 +1,172 @@
+       SVP, 461                                                                                                                                                                  06.07.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                          RAD    FSp     21                    5    14         25          65 4,0
+                                                                                                                                  NSp     34                   17    26         13          90 4,0
+                                            Zeppelinstr.                                                                          6h     170                   69   135        140         514 4,7
+                                             4.367                                                                         NFZ    FSp 113                       3   89         29         234 15,1
+                                                               9.147                                                              NSp 148                       7   60         25         240 11,1
+                                                                                                                                  6h     673                   35  448        131        1287 12,3
+                                    571       3.535    261      4.780                                                      SV     FSp     50                    2   38         16         106  6,8
+                                                                                                                                  NSp     71                    1   25         10         107  5,0
+                                                                                                                                  6h     267                   10  161          67        505 4,8
+                                                                                                                           KFZ FSp 568                        33   789        158        1548 100
+
+
+
+
+                                                                                                      Am Luftschiffhafen
+                                                                                                                                  NSp 1078                   135   727        216        2156 100
+                                                                                                                                  6h    4367                 522 4497        1095       10481 100
+                                                                                                                           FZ     FSp    589                   38  803        183        1613 100
+
+
+
+
+       Forststr.
+                   2.257   1.162                                                    273                                           NSp 1112                   152   753        229        2246 100
+                            546                                                     156   522   OST                               6h    4537                  591 4632       1235       10995 100
+
+WEST
+                   1.095    104                                                      93                                    Q DTVw: 2,4 21495                2322 20140       5304
+                            445                                                     466   988                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                           Bemerkungen :
+                                                                                                                           - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                                            Verkehr
+                                                                                                                           - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                                                               Sph-Beginn:      8.30     Uhr und   15.00 Uhr
+
+                                    4.073     435      3.961    101                                                        SUMME Zufahrten: [FSp] :                1548 KFZ/h 9:00
+                                                                                                                                                        (NSp):     2156 KFZ/h 15:30
+                                   8.570                                                                                                                     6h : 10481 KFZ
+                                                      4.497                                                                max. Sph /Zufahrt: NORD :               1078 KFZ/h 15:30
+                                                      SÜD                                                                                      OST :                154 KFZ/h 16:00
+                                            Zeppelinstr.                                                                     DATUM :                      SÜD :      805 KFZ/h 8:30
+                                                                                                6h Werte 21.04.2016                                     WEST :       238 KFZ/h 16:00
+                                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 313                                       Zeppelinstr./Forststr.
+
+
+
+       StromPlan313kp4-16.xls                                             Seite 1
+       SVP, 461                                                                                                                                                              06.07.2016
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                            Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                                    RAD    FSp     21                    5    14         25          65 4,0
+                                                                                                                              NSp     34                   17    26         13          90 4,0
+                                              Zeppelinstr.                                                                    6h     170                   69   135        140         514 4,7
+                                                568                                                                    NFZ    FSp 113                       3   89         29         234 15,1
+                                                             1.412                                                            NSp 148                       7   60         25         240 11,1
+                                                                                                                              6h     673                   35  448        131        1287 12,3
+                                       57       476   35      844                                                      SV     FSp     50                    2   38         16         106  6,8
+                                                                                                                              NSp     71                    1   25         10         107  5,0
+                                                                                                                              6h     267                   10  161          67        505 4,8
+                                                                                                                       KFZ FSp 568                        33   789        158        1548 100
+
+
+
+
+                                                                                                  Am Luftschiffhafen
+                                                                                                                              NSp 1078                   135   727        216        2156 100
+                                                                                                                              6h    4367                 522 4497        1095       10481 100
+                                                                                                                       FZ     FSp    589                   38  803        183        1613 100
+
+
+
+
+       Forststr.
+                   256      98                                                  24                                            NSp 1112                   152   753        229        2246 100
+                            87                                                  4    33     OST                               6h    4537                  591 4632       1235       10995 100
+
+WEST
+                   158      20                                                   5                                     Q DTVw: 2,4 21495                2322 20140       5304
+                            51                                                  74   107                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                       Bemerkungen :
+                                                                                                                       - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                                        Verkehr
+                                                                                                                       - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                                                           Sph-Beginn:      8.30     Uhr und   15.00 Uhr
+                                       532      37    733     19                                                       SUMME Zufahrten: [FSp] :                1548 KFZ/h 9:00
+                                                                                                                                                    (NSp):     2156 KFZ/h 15:30
+                                      1.321                                                                                                              6h : 10481 KFZ
+                                                      789                                                              max. Sph /Zufahrt: NORD :               1078 KFZ/h 15:30
+                                                      SÜD                                                                                  OST :                154 KFZ/h 16:00
+                                              Zeppelinstr.                                                               DATUM :                      SÜD :      805 KFZ/h 8:30
+                                                                                          1.548 KFZ/h 21.04.2016                                    WEST :       238 KFZ/h 16:00
+                                                                     Kfz-Stromverteilung in der FSp 313                                         Zeppelinstr./Forststr.
+
+
+
+       StromPlan (FSp)313kp4-16.xls                                   Seite 2
+       SVP, 461                                                                                                                                                               06.07.2016
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                    RAD    FSp     21                    5    14         25          65 4,0
+                                                                                                                               NSp     34                   17    26         13          90 4,0
+                                               Zeppelinstr.                                                                    6h     170                   69   135        140         514 4,7
+                                                1.078                                                                   NFZ    FSp 113                       3   89         29         234 15,1
+                                                              1.829                                                            NSp 148                       7   60         25         240 11,1
+                                                                                                                               6h     673                   35  448        131        1287 12,3
+                                       106       937    35     751                                                      SV     FSp     50                    2   38         16         106  6,8
+                                                                                                                               NSp     71                    1   25         10         107  5,0
+                                                                                                                               6h     267                   10  161          67        505 4,8
+                                                                                                                        KFZ FSp 568                        33   789        158        1548 100
+
+
+
+
+                                                                                                   Am Luftschiffhafen
+                                                                                                                               NSp 1078                   135   727        216        2156 100
+                                                                                                                               6h    4367                 522 4497        1095       10481 100
+                                                                                                                        FZ     FSp    589                   38  803        183        1613 100
+
+
+
+
+       Forststr.
+                   471     255                                                    57                                           NSp 1112                   152   753        229        2246 100
+                           89                                                     35   135   OST                               6h    4537                  591 4632       1235       10995 100
+
+WEST
+                   216     11                                                     43                                    Q DTVw: 2,4 21495                2322 20140       5304
+                           116                                                    54   189                              Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                        Bemerkungen :
+                                                                                                                        - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                                         Verkehr
+                                                                                                                        - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                                                            Sph-Beginn:      8.30     Uhr und   15.00 Uhr
+
+                                       1.096     114    605                                                             SUMME Zufahrten: [FSp] :                1548 KFZ/h 9:00
+                                                               8
+                                                                                                                                                     (NSp):     2156 KFZ/h 15:30
+                                      1.823                                                                                                               6h : 10481 KFZ
+                                                        727                                                             max. Sph /Zufahrt: NORD :               1078 KFZ/h 15:30
+                                                        SÜD                                                                                 OST :                154 KFZ/h 16:00
+                                               Zeppelinstr.                                                               DATUM :                      SÜD :      805 KFZ/h 8:30
+                                                                                         2.156 KFZ/h 21.04.2016                                      WEST :       238 KFZ/h 16:00
+                                                                      Kfz-Stromverteilung in der NSp 313                                         Zeppelinstr./Forststr.
+
+
+
+       StromPlan (NSp)313kp4-16.xls                                     Seite 3
+

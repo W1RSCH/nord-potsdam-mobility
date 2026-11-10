@@ -1,0 +1,145 @@
+  SVP, 461                                                                                                                                       09.12.2016
+
+
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                Zufahrt:            OST WEST                                   SUMME %
+                                                                              RAD   FSp             125    31                                    156           7,5
+                                                                                    NSp             123    71                                    194           9,7
+                                                                                    6h               597  311                                    908           7,7
+
+                           Kurfürstenstr.                                     NFZ         FSp 176              100                              276           14,4
+                                                                                          NSp 104               61                              165            9,1
+                                                                                          6h   937             524                             1461           13,4
+                   WEST                            OST                        SV          FSp   42              25                               67            3,5
+                                                                                          NSp   20              11                               31            1,7
+                                                                                          6h   255             107                              362            3,3
+                                                                              KFZ         FSp 1201             712                             1913           100
+
+6.602   2.611                                             2.611                           NSp 1176             631                             1807           100
+                                                                     6.884
+                                                          4.273                           6h       6884       3991                           10875            100
+
+         298                                                                  FZ          FSp      1326        743                             2069           100
+3.991
+        3.693                                              298       7.182           NSp 1299     702                                          2001           100
+                                                                                     6h    7481 4302                                          11783           100
+                                                                              Q DTVw: 2,5 17955 16505
+                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                              Bemerkungen :
+
+                                  7.966
+                                                                              - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                               Verkehr
+                                                                              - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                   Sph-Beginn:       7.00 Uhr und    17.00 Uhr
+
+                           H.-Thoma-Str.                                      SUMME Zufahrten: [FSp]: 1913 KFZ/h 7:30
+                                                                                                 (NSp): 1807 KFZ/h 17:30
+                                SÜD                                                                6h : 10875 KFZ
+                                                                              max. Sph /Zufahrt:   OST 1201 KFZ/h 7:30
+
+                                                                                DATUM :                     WEST       725 KFZ/h 8:00
+                                                                   6h Werte    21.04.2016
+                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 187                       Kurfürstenstr./H.-Thoma-Str.
+
+  StromPlan187kp4-16.xls                                 Seite 1
+  SVP, 461                                                                                                                                          09.12.2016
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                   Zufahrt:            OST WEST                                   SUMME %
+                                                                                 RAD   FSp             125    31                                    156           7,5
+                                                                                       NSp             123    71                                    194           9,7
+                                                                                       6h               597  311                                    908           7,7
+
+                                 Kurfürstenstr.                                  NFZ         FSp 176              100                              276           14,4
+                                                                                             NSp 104               61                              165            9,1
+                                                                                             6h   937             524                             1461           13,4
+                    WEST                                 OST                     SV          FSp   42              25                               67            3,5
+                                                                                             NSp   20              11                               31            1,7
+                                                                                             6h   255             107                              362            3,3
+                                                                                 KFZ         FSp 1201             712                             1913           100
+
+1.121     409                                                    409                         NSp 1176             631                             1807           100
+                                                                         1.201
+                                                                 792                         6h       6884       3991                           10875            100
+
+          53                                                                     FZ          FSp      1326        743                             2069           100
+712
+          659                                                     53     1.254          NSp 1299     702                                          2001           100
+                                                                                        6h    7481 4302                                          11783           100
+                                                                                 Q DTVw: 2,5 17955 16505
+                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                 Bemerkungen :
+
+                                        1.451
+                                                                                 - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                  Verkehr
+                                                                                 - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                      Sph-Beginn:       7.00 Uhr und    17.00 Uhr
+
+                                 H.-Thoma-Str.                                   SUMME Zufahrten: [FSp]: 1913 KFZ/h 7:30
+                                                                                                    (NSp): 1807 KFZ/h 17:30
+                                      SÜD                                                             6h : 10875 KFZ
+                                                                                 max. Sph /Zufahrt:   OST 1201 KFZ/h 7:30
+
+                                                                                   DATUM :                     WEST       725 KFZ/h 8:00
+                                                                   1.913 KFZ/h    21.04.2016
+                                                Kfz-Stromverteilung in der FSp 187                      Kurfürstenstr./H.-Thoma-Str.
+
+  StromPlan (FSp)187kp4-16.xls                                 Seite 2
+  SVP, 461                                                                                                                                          09.12.2016
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                   Zufahrt:            OST WEST                                   SUMME %
+                                                                                 RAD   FSp             125    31                                    156           7,5
+                                                                                       NSp             123    71                                    194           9,7
+                                                                                       6h               597  311                                    908           7,7
+
+                                 Kurfürstenstr.                                  NFZ         FSp 176              100                              276           14,4
+                                                                                             NSp 104               61                              165            9,1
+                                                                                             6h   937             524                             1461           13,4
+                    WEST                                 OST                     SV          FSp   42              25                               67            3,5
+                                                                                             NSp   20              11                               31            1,7
+                                                                                             6h   255             107                              362            3,3
+                                                                                 KFZ         FSp 1201             712                             1913           100
+
+1.079     448                                                    448                         NSp 1176             631                             1807           100
+                                                                         1.176
+                                                                 728                         6h       6884       3991                           10875            100
+
+          35                                                                     FZ          FSp      1326        743                             2069           100
+631
+          596                                                     35     1.211          NSp 1299     702                                          2001           100
+                                                                                        6h    7481 4302                                          11783           100
+                                                                                 Q DTVw: 2,5 17955 16505
+                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                 Bemerkungen :
+
+                                        1.324
+                                                                                 - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                  Verkehr
+                                                                                 - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                      Sph-Beginn:       7.00 Uhr und    17.00 Uhr
+
+                                 H.-Thoma-Str.                                   SUMME Zufahrten: [FSp]: 1913 KFZ/h 7:30
+                                                                                                    (NSp): 1807 KFZ/h 17:30
+                                      SÜD                                                             6h : 10875 KFZ
+                                                                                 max. Sph /Zufahrt:   OST 1201 KFZ/h 7:30
+
+                                                                                   DATUM :                     WEST       725 KFZ/h 8:00
+                                                                   1.807 KFZ/h    21.04.2016
+                                                Kfz-Stromverteilung in der NSp 187                      Kurfürstenstr./H.-Thoma-Str.
+
+  StromPlan (NSp)187kp4-16.xls                                 Seite 3
+

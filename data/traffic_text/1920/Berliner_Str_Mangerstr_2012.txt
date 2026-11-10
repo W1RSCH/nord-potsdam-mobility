@@ -1,0 +1,143 @@
+SVP, 461                                                                                                                                    28.11.2012
+
+
+
+                                                                                            FAHRZEUG-VERTEILUNG
+                                         NORD                                               NORD SÜD WEST     SUMME %
+                                Berliner Str.                        RAD           FSp            60           51          8                      119     8,0
+                                                                                   NSp            59           61        24                       144    10,2
+                                         3.545                                     6h            369          370         93                      832    10,1
+                                                            6.956    NFZ           FSp           56           79           4                     139     10,2
+                                                                                   NSp           52           33           2                       87     6,9
+                                 76       3.452    17        3.411                 6h           322          319         16                       657     8,9
+                                                                     SV            FSp           23           25           0                       48     3,5
+                                                                                   NSp           17             6          0                       23     1,8
+                                                                                   6h           121            93          3                      217     2,9
+                                                                     KFZ           FSp          639          694         32                     1365     100
+                                                                                   NSp          625          584         56                     1265     100
+
+
+
+
+       Mangerstr.
+                                                                                   6h          3545         3618        230                     7393     100
+                    432   202                                        FZ            FSp          699          745         40                     1484     100
+                          106                                                      NSp          684          645         80                     1409     100
+
+WEST
+                    230
+                          124                                                      6h          3914         3988        323                      8225    100
+                                                                     Bemerkungen :
+                                                                     - Humboldtbrücke seit Sommer 2007 Baustelle; beidseitig nur 2 Spuren
+                                                                     - Fr.-Ebert-Str. seit März 2008 gesperrt
+                                                                     - Wetter früh 15ºC sonnig; nachmittags 19ºC bewölkt, trocken
+
+
+                                                                          Sph-Beginn:                8.00 Uhr und 16.30 Uhr
+
+                                 3.780    126      204       3.288   SUMME Zufahrten: [FSp] :  1365 KFZ/h                                    8:30
+                                                                                               1265 KFZ/h(NSp):                              17:00
+                                7.398                                                     6h : 7393 KFZ
+                                                  3.618              max. Sph /Zufahrt: NORD    650 KFZ/h                                    15:30
+                                         SÜD                                             SÜD    707 KFZ/h                                    8:00
+                                Berliner Str.                           DATUM :                          WEST             56 KFZ/h 17:00
+                                                                     10.05.2012
+                                                                       192                      Berliner Str. / Mangerstr.
+
+
+192kp5-12.xls                                            Seite 1
+SVP, 461                                                                                                                                   28.11.2012
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                      NORD                                                 NORD SÜD WEST     SUMME %
+                              Berliner Str.                         RAD           FSp            60           51          8                      119     8,0
+                                                                                  NSp            59           61        24                       144    10,2
+                                      639                                         6h            369          370         93                      832    10,1
+                                                      1.273         NFZ           FSp           56           79           4                     139     10,2
+                                                                                  NSp           52           33           2                       87     6,9
+                               12      626    1        634                        6h           322          319         16                       657     8,9
+                                                                    SV            FSp           23           25           0                       48     3,5
+                                                                                  NSp           17             6          0                       23     1,8
+                                                                                  6h           121            93          3                      217     2,9
+                                                                    KFZ           FSp          639          694         32                     1365     100
+                                                                                  NSp          625          584         56                     1265     100
+
+
+
+
+       Mangerstr.
+                                                                                  6h          3545         3618        230                     7393     100
+                    75   43                                         FZ            FSp          699          745         40                     1484     100
+                         17                                                       NSp          684          645         80                     1409     100
+
+WEST
+                    32
+                         15                                                       6h          3914         3988        323                      8225    100
+                                                                    Bemerkungen :
+                                                                    - Humboldtbrücke seit Sommer 2007 Baustelle; beidseitig nur 2 Spuren
+                                                                    - Fr.-Ebert-Str. seit März 2008 gesperrt
+                                                                    - Wetter früh 15ºC sonnig; nachmittags 19ºC bewölkt, trocken
+
+
+                                                                         Sph-Beginn:                8.00 Uhr und 16.30 Uhr
+                               688     31     47       616          SUMME Zufahrten: [FSp] :  1365 KFZ/h                                    8:30
+                                                                                              1265 KFZ/h(NSp):                              17:00
+                              1.382                                                      6h : 7393 KFZ
+                                             694                    max. Sph /Zufahrt: NORD    650 KFZ/h                                    15:30
+                                      SÜD                                               SÜD    707 KFZ/h                                    8:00
+                              Berliner Str.                            DATUM :                          WEST             56 KFZ/h 17:00
+                                                      1.365 KFZ/h   10.05.2012
+                                 Kfz-Stromverteilung in der FSp       192                      Berliner Str. / Mangerstr.
+
+
+192kp5-12.xls                                      Seite 2
+SVP, 461                                                                                                                                   28.11.2012
+
+
+
+                                                                                           FAHRZEUG-VERTEILUNG
+                                      NORD                                                 NORD SÜD WEST     SUMME %
+                              Berliner Str.                         RAD           FSp            60           51          8                      119     8,0
+                                                                                  NSp            59           61        24                       144    10,2
+                                      625                                         6h            369          370         93                      832    10,1
+                                                      1.194         NFZ           FSp           56           79           4                     139     10,2
+                                                                                  NSp           52           33           2                       87     6,9
+                               17      604    4        569                        6h           322          319         16                       657     8,9
+                                                                    SV            FSp           23           25           0                       48     3,5
+                                                                                  NSp           17             6          0                       23     1,8
+                                                                                  6h           121            93          3                      217     2,9
+                                                                    KFZ           FSp          639          694         32                     1365     100
+                                                                                  NSp          625          584         56                     1265     100
+
+
+
+
+       Mangerstr.
+                                                                                  6h          3545         3618        230                     7393     100
+                    88   32                                         FZ            FSp          699          745         40                     1484     100
+                         28                                                       NSp          684          645         80                     1409     100
+
+WEST
+                    56
+                         28                                                       6h          3914         3988        323                      8225    100
+                                                                    Bemerkungen :
+                                                                    - Humboldtbrücke seit Sommer 2007 Baustelle; beidseitig nur 2 Spuren
+                                                                    - Fr.-Ebert-Str. seit März 2008 gesperrt
+                                                                    - Wetter früh 15ºC sonnig; nachmittags 19ºC bewölkt, trocken
+
+
+                                                                         Sph-Beginn:                8.00 Uhr und 16.30 Uhr
+                               664     15     32       537          SUMME Zufahrten: [FSp] :  1365 KFZ/h                                    8:30
+                                                                                              1265 KFZ/h(NSp):                              17:00
+                              1.248                                                      6h : 7393 KFZ
+                                             584                    max. Sph /Zufahrt: NORD    650 KFZ/h                                    15:30
+                                      SÜD                                               SÜD    707 KFZ/h                                    8:00
+                              Berliner Str.                            DATUM :                          WEST             56 KFZ/h 17:00
+                                                      1.265 KFZ/h   10.05.2012
+                                 Kfz-Stromverteilung in der NSp       192                      Berliner Str. / Mangerstr.
+
+
+192kp5-12.xls                                      Seite 3
+

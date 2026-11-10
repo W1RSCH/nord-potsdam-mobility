@@ -1,0 +1,173 @@
+       SVP, 461                                                                                                                                                            10.02.2017
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                                      RAD    FSp     80                    9    26         11         126 9,4
+                                                                                                                            NSp     31                  15     99         10         155 9,1
+                                         Nedlitzer Str.                                                                     6h     391                   37   329          54        811 9,4
+                                           3.673                                                                     NFZ    FSp 101                       1  107            1       210 17,2
+                                                             7.532                                                          NSp     95                    3  102            7       207 13,5
+                                                                                                                            6h     568                  17   600          26       1211 15,4
+                                 100        3.338    235      3.859                                                  SV     FSp     41                    0   44            1         86 7,0
+                                                                                                                            NSp     24                    1   31            3         59 3,8
+                                                                                                                            6h     214                    5  207          14         440 5,6
+                                                                                                                     KFZ FSp 668                        35   502          15       1220 100
+                                                                                                                            NSp 594                     56   855          34       1539 100
+
+
+
+
+                                                                                                    Am Pfingstberg
+                                                                                                                            6h    3673                 236 3795          148       7852 100
+
+
+
+
+       Esplanade
+                                                                                                                     FZ     FSp    748                  44   528          26       1346 100
+                   353    205                                                     127                                       NSp    625                  71   954          44       1694 100
+                          64                                                      45    236   OST                           6h    4064                 273 4124          202        8663 100
+
+WEST
+                   148    38                                                       64                                Q DTVw: 2,4 17700                1354 17021         830
+                          46                                                      340   576                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                     Bemerkungen :
+                                                                                                                     - Wetter früh 16ºC leicht bewölkt, trocken;
+                                                                                                                      nachmittag 28ºC sonnig bis bewölkt, trocken
+
+
+                                                                                                                         Sph-Beginn:      8.00     Uhr und   15.30 Uhr
+
+                                 3.448      60       3.668    67                                                     SUMME Zufahrten: [FSp] :               1220 KFZ/h 8:30
+                                                                                                                                                  (NSp):    1539 KFZ/h 16:00
+                                7.243                                                                                                                  6h : 7852 KFZ
+                                                    3.795                                                            max. Sph /Zufahrt: NORD :                 712 KFZ/h 7:30
+                                                    SÜD                                                                                  OST :                  57 KFZ/h 16:30
+                                         Nedlitzer Str.                                                                DATUM :                      SÜD :      855 KFZ/h 16:00
+                                                                                              6h Werte 30.06.2016                                 WEST :        34 KFZ/h 16:00
+                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 220                          Nedlitzer Str./Am Pfingstberg
+
+
+
+       StromPlan220kp6-16.xls                                           Seite 1
+       SVP, 461                                                                                                                                                         10.02.2017
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                               RAD    FSp     80                    9    26         11         126 9,4
+                                                                                                                         NSp     31                  15     99         10         155 9,1
+                                             Nedlitzer Str.                                                              6h     391                   37   329          54        811 9,4
+                                                668                                                               NFZ    FSp 101                       1  107            1       210 17,2
+                                                            1.165                                                        NSp     95                    3  102            7       207 13,5
+                                                                                                                         6h     568                  17   600          26       1211 15,4
+                                       25       590   53      497                                                 SV     FSp     41                    0   44            1         86 7,0
+                                                                                                                         NSp     24                    1   31            3         59 3,8
+                                                                                                                         6h     214                    5  207          14         440 5,6
+                                                                                                                  KFZ FSp 668                        35   502          15       1220 100
+                                                                                                                         NSp 594                     56   855          34       1539 100
+
+
+
+
+                                                                                                 Am Pfingstberg
+                                                                                                                         6h    3673                 236 3795          148       7852 100
+
+
+
+
+       Esplanade
+                                                                                                                  FZ     FSp    748                  44   528          26       1346 100
+                   64       49                                                 17                                        NSp    625                  71   954          44       1694 100
+                            7                                                  10   35     OST                           6h    4064                 273 4124          202        8663 100
+
+WEST
+                   15       8                                                   8                                 Q DTVw: 2,4 17700                1354 17021         830
+                            0                                                  76   111                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - Wetter früh 16ºC leicht bewölkt, trocken;
+                                                                                                                   nachmittag 28ºC sonnig bis bewölkt, trocken
+
+
+                                                                                                                      Sph-Beginn:      8.00     Uhr und   15.30 Uhr
+                                       598      14    473     15                                                  SUMME Zufahrten: [FSp] :               1220 KFZ/h 8:30
+                                                                                                                                               (NSp):    1539 KFZ/h 16:00
+                                      1.100                                                                                                         6h : 7852 KFZ
+                                                      502                                                         max. Sph /Zufahrt: NORD :                 712 KFZ/h 7:30
+                                                      SÜD                                                                             OST :                  57 KFZ/h 16:30
+                                             Nedlitzer Str.                                                         DATUM :                      SÜD :      855 KFZ/h 16:00
+                                                                                         1.220 KFZ/h 30.06.2016                                WEST :        34 KFZ/h 16:00
+                                                                    Kfz-Stromverteilung in der FSp 220                            Nedlitzer Str./Am Pfingstberg
+
+
+
+       StromPlan (FSp)220kp6-16.xls                                  Seite 2
+       SVP, 461                                                                                                                                                          10.02.2017
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                                RAD    FSp     80                    9    26         11         126 9,4
+                                                                                                                          NSp     31                  15     99         10         155 9,1
+                                             Nedlitzer Str.                                                               6h     391                   37   329          54        811 9,4
+                                                594                                                                NFZ    FSp 101                       1  107            1       210 17,2
+                                                            1.466                                                         NSp     95                    3  102            7       207 13,5
+                                                                                                                          6h     568                  17   600          26       1211 15,4
+                                       15       542   37      872                                                  SV     FSp     41                    0   44            1         86 7,0
+                                                                                                                          NSp     24                    1   31            3         59 3,8
+                                                                                                                          6h     214                    5  207          14         440 5,6
+                                                                                                                   KFZ FSp 668                        35   502          15       1220 100
+                                                                                                                          NSp 594                     56   855          34       1539 100
+
+
+
+
+                                                                                                  Am Pfingstberg
+                                                                                                                          6h    3673                 236 3795          148       7852 100
+
+
+
+
+       Esplanade
+                                                                                                                   FZ     FSp    748                  44   528          26       1346 100
+                   74      40                                                   27                                        NSp    625                  71   954          44       1694 100
+                           14                                                   12   56     OST                           6h    4064                 273 4124          202        8663 100
+
+WEST
+                   34      5                                                    17                                 Q DTVw: 2,4 17700                1354 17021         830
+                           15                                                   53   109                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                   Bemerkungen :
+                                                                                                                   - Wetter früh 16ºC leicht bewölkt, trocken;
+                                                                                                                    nachmittag 28ºC sonnig bis bewölkt, trocken
+
+
+                                                                                                                       Sph-Beginn:      8.00     Uhr und   15.30 Uhr
+                                       574      13    831     11                                                   SUMME Zufahrten: [FSp] :               1220 KFZ/h 8:30
+                                                                                                                                                (NSp):    1539 KFZ/h 16:00
+                                      1.429                                                                                                          6h : 7852 KFZ
+                                                      855                                                          max. Sph /Zufahrt: NORD :                 712 KFZ/h 7:30
+                                                      SÜD                                                                              OST :                  57 KFZ/h 16:30
+                                             Nedlitzer Str.                                                          DATUM :                      SÜD :      855 KFZ/h 16:00
+                                                                                          1.539 KFZ/h 30.06.2016                                WEST :        34 KFZ/h 16:00
+                                                                    Kfz-Stromverteilung in der NSp 220                             Nedlitzer Str./Am Pfingstberg
+
+
+
+       StromPlan (NSp)220kp6-16.xls                                   Seite 3
+

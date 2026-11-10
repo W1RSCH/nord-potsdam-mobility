@@ -1,0 +1,173 @@
+       Landeshauptstadt Potsdam                                                                                                                                                   12.02.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                      RAD    FSp    24     29                    29    34             116  8,4
+                                                                                                                                   NSp    37     39                    21    39             136  8,7
+                                             E.-Weinert-Str.                                                                       6h    152    177                   130   203             662 8,3
+                                                   630                                                                      NFZ    FSp    22    55                    28    58             163 12,9
+                                                                 1.262                                                             NSp    13    41                    14    63             131   9,2
+                                                                                                                                   6h     83   312                   125   364              884 12,1
+                                         216       241    173     632                                                       SV     FSp     7    18                      5   16               46  3,6
+                                                                                                                                   NSp     4      5                     1   12               22  1,5
+                                                                                                                                   6h     32     74                    16    83             205 2,8
+                                                                                                                            KFZ FSp 117        444                   238   466            1265 100
+                                                                                                                                   NSp 124     432                   202   666            1424 100
+
+
+
+
+        H.-Mann-Allee
+                                                                                                                                   6h    630 2439                   1146 3108             7323 100
+
+
+
+
+                                                                                                            H.-Mann-Allee
+                                                                                                                            FZ     FSp   141   473                   267   500            1381 100
+                        5.835   2.727                                                  206                                         NSp   161   471                   223   705            1560 100
+                                 220                                                  1.923   2.439   OST                          6h    782  2616                  1276  3311             7985 100
+
+WEST
+                        3.108   2.111                                                  310                                  Q DTVw: 2,4 2966 11926                  5814 13712
+                                 777                                                  2.636   5.075                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                            Bemerkungen :
+                                                                                                                            - Baustelle L40 stadtauswärts
+                                                                                                                            - Auf- Abfahrt L40 Horstweg Südknoten gesperrt
+                                                                                                                            - Wetter früh 10ºC bewölkt, trocken; nachm. 19ºC leicht bewölkt, sonnig
+                                                                                                                                Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+
+                                         1.328     588    206     352                                                       SUMME Zufahrten: [FSp] :               1265 KFZ/h 8:00
+                                                                                                                                                         (NSp):    1424 KFZ/h 16:30
+                                        2.474                                                                                                                 6h : 7323 KFZ
+                                                         1.146                                                              max. Sph /Zufahrt: NORD :                 132 KFZ/h 16:00
+                                                         SÜD                                                                                    OST :                 480 KFZ/h 7:30
+                                                 Am Moosfenn                                                                  DATUM :                      SÜD :      238 KFZ/h 8:00
+                                                                                                      6h Werte 03.05.2018                                WEST :       666 KFZ/h 16:30
+                                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 434                             H.-Mann-Allee/E.-Weinert-Str.
+
+
+
+       StromPlan434kp5-18.xlsx                                              Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                     12.02.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                            RAD    FSp    24     29                    29    34             116  8,4
+                                                                                                                     NSp    37     39                    21    39             136  8,7
+                                         E.-Weinert-Str.                                                             6h    152    177                   130   203             662 8,3
+                                               117                                                            NFZ    FSp    22    55                    28    58             163 12,9
+                                                           251                                                       NSp    13    41                    14    63             131   9,2
+                                                                                                                     6h     83   312                   125   364              884 12,1
+                                       54      35    28    134                                                SV     FSp     7    18                      5   16               46  3,6
+                                                                                                                     NSp     4      5                     1   12               22  1,5
+                                                                                                                     6h     32     74                    16    83             205 2,8
+                                                                                                              KFZ FSp 117        444                   238   466            1265 100
+                                                                                                                     NSp 124     432                   202   666            1424 100
+
+
+
+
+        H.-Mann-Allee
+                                                                                                                     6h    630 2439                   1146 3108             7323 100
+
+
+
+
+                                                                                              H.-Mann-Allee
+                                                                                                              FZ     FSp   141   473                   267   500            1381 100
+                        1.002   536                                         42                                       NSp   161   471                   223   705            1560 100
+                                46                                          350   444   OST                          6h    782  2616                  1276  3311             7985 100
+
+WEST
+                        466     301                                          52                               Q DTVw: 2,4 2966 11926                  5814 13712
+                                119                                         389   833                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Baustelle L40 stadtauswärts
+                                                                                                              - Auf- Abfahrt L40 Horstweg Südknoten gesperrt
+                                                                                                              - Wetter früh 10ºC bewölkt, trocken; nachm. 19ºC leicht bewölkt, sonnig
+                                                                                                                  Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                       206     132   46    60                                                 SUMME Zufahrten: [FSp] :               1265 KFZ/h 8:00
+                                                                                                                                           (NSp):    1424 KFZ/h 16:30
+                                       444                                                                                                      6h : 7323 KFZ
+                                                     238                                                      max. Sph /Zufahrt: NORD :                 132 KFZ/h 16:00
+                                                     SÜD                                                                          OST :                 480 KFZ/h 7:30
+                                             Am Moosfenn                                                        DATUM :                      SÜD :      238 KFZ/h 8:00
+                                                                                    1.265 KFZ/h 03.05.2018                                 WEST :       666 KFZ/h 16:30
+                                                                 Kfz-Stromverteilung in der FSp 434                           H.-Mann-Allee/E.-Weinert-Str.
+
+
+
+       StromPlan (FSp)434kp5-18.xlsx                              Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                        12.02.2019
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                               RAD    FSp    24     29                    29    34             116  8,4
+                                                                                                                        NSp    37     39                    21    39             136  8,7
+                                         E.-Weinert-Str.                                                                6h    152    177                   130   203             662 8,3
+                                               124                                                               NFZ    FSp    22    55                    28    58             163 12,9
+                                                           225                                                          NSp    13    41                    14    63             131   9,2
+                                                                                                                        6h     83   312                   125   364              884 12,1
+                                       33      59    32    101                                                   SV     FSp     7    18                      5   16               46  3,6
+                                                                                                                        NSp     4      5                     1   12               22  1,5
+                                                                                                                        6h     32     74                    16    83             205 2,8
+                                                                                                                 KFZ FSp 117        444                   238   466            1265 100
+                                                                                                                        NSp 124     432                   202   666            1424 100
+
+
+
+
+        H.-Mann-Allee
+                                                                                                                        6h    630 2439                   1146 3108             7323 100
+
+
+
+
+                                                                                                 H.-Mann-Allee
+                                                                                                                 FZ     FSp   141   473                   267   500            1381 100
+                        1.130   464                                          36                                         NSp   161   471                   223   705            1560 100
+                                39                                           330   432     OST                          6h    782  2616                  1276  3311             7985 100
+
+WEST
+                        666     465                                           66                                 Q DTVw: 2,4 2966 11926                  5814 13712
+                                162                                          572   1.004                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Baustelle L40 stadtauswärts
+                                                                                                                 - Auf- Abfahrt L40 Horstweg Südknoten gesperrt
+                                                                                                                 - Wetter früh 10ºC bewölkt, trocken; nachm. 19ºC leicht bewölkt, sonnig
+                                                                                                                     Sph-Beginn:      7.30     Uhr und   16.00 Uhr
+                                       287     101   26    75                                                    SUMME Zufahrten: [FSp] :               1265 KFZ/h 8:00
+                                                                                                                                              (NSp):    1424 KFZ/h 16:30
+                                       489                                                                                                         6h : 7323 KFZ
+                                                     202                                                         max. Sph /Zufahrt: NORD :                 132 KFZ/h 16:00
+                                                     SÜD                                                                             OST :                 480 KFZ/h 7:30
+                                             Am Moosfenn                                                           DATUM :                      SÜD :      238 KFZ/h 8:00
+                                                                                      1.424 KFZ/h 03.05.2018                                  WEST :       666 KFZ/h 16:30
+                                                                 Kfz-Stromverteilung in der NSp 434                              H.-Mann-Allee/E.-Weinert-Str.
+
+
+
+       StromPlan (NSp)434kp5-18.xlsx                               Seite 3
+

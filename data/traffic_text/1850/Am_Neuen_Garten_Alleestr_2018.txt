@@ -1,0 +1,164 @@
+Landeshauptstadt Potsdam                                                                                                                                               26.06.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                       NORD                                              Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                         Am Neuen Garten                                            RAD    FSp    14     26                        38                     78         4,8
+                                                                                                           NSp    44     80                        52                    176         9,7
+                                                                                                           6h    194    294                       247                    735         7,5
+                                                     109
+                                                                       718                          NFZ    FSp     7   193                       116                    316         20,6
+                                                                                                           NSp     2   129                        62                    193         11,8
+                                             38            71              609                             6h     29   963                       570                   1562         17,1
+                                                                                                    SV     FSp     3    66                        45                    114          7,4
+                                                                                                           NSp     2    31                        17                      50         3,1
+                                                                                                           6h     21   304                       181                     506         5,6
+                                                                                                    KFZ FSp       13   779                       743                   1535         100
+                                                                                                           NSp    15   924                       695                   1634         100
+                                                                                                           6h    109 4965                       4040                   9114         100
+
+
+
+
+             Alleestr.
+                         8.660   4.620                                                              FZ     FSp    27   805                       781                   1613         100
+                                  226                                                                      NSp    59  1004                       747                   1810         100
+
+      WEST
+                         4.040
+                                 3.814                                                                     6h    303  5259                      4287                    9849        100
+                                                                                                    Q DTVw: 2,5 1795 22125                     21650
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                    Bemerkungen :
+                                                                                                    - Wetter früh 13ºC leicht bewölkt, trocken;
+                                                                                                      nachmittag 19ºC leicht bewölkt, trocken
+
+                                             3.885         4.582           383
+                                                                                                        Sph-Beginn:      9.00     Uhr und     17.00     Uhr
+                                            8.850                                                   SUMME Zufahrten: FSp :                        1535 KFZ/h        9:30
+                                                                   4.965
+                                                                                                                     NSp :                        1634 KFZ/h        17:30
+                                                           SÜD                                                        6h :                        9114 KFZ
+                                         Am Neuen Garten                                            max. Sph /Zufahrt:             NORD               31 KFZ/h      7:30
+                                                                                                                                     SÜD           924 KFZ/h        17:30
+
+                                                                                                      DATUM :                      WEST            743 KFZ/h        9:30
+                                                                                           6h Werte 27.09.2018
+                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 185                                      Am Neuen Garten/Alleestr.
+
+
+
+StromPlan185kp9-18.xls                                                           Seite 1
+Landeshauptstadt Potsdam                                                                                                                                          26.06.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                   NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                       Am Neuen Garten                                         RAD    FSp    14     26                        38                     78         4,8
+                                                                                                      NSp    44     80                        52                    176         9,7
+                                                                                                      6h    194    294                       247                    735         7,5
+                                                  13
+                                                                   127                         NFZ    FSp     7   193                       116                    316         20,6
+                                                                                                      NSp     2   129                        62                    193         11,8
+                                           6           7           114                                6h     29   963                       570                   1562         17,1
+                                                                                               SV     FSp     3    66                        45                    114          7,4
+                                                                                                      NSp     2    31                        17                      50         3,1
+                                                                                                      6h     21   304                       181                     506         5,6
+                                                                                               KFZ FSp       13   779                       743                   1535         100
+                                                                                                      NSp    15   924                       695                   1634         100
+                                                                                                      6h    109 4965                       4040                   9114         100
+
+
+
+
+             Alleestr.
+                         1.463   720                                                           FZ     FSp    27   805                       781                   1613         100
+                                 49                                                                   NSp    59  1004                       747                   1810         100
+
+      WEST
+                         743
+                                 694                                                                  6h    303  5259                      4287                    9849        100
+                                                                                               Q DTVw: 2,5 1795 22125                     21650
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                               Bemerkungen :
+                                                                                               - Wetter früh 13ºC leicht bewölkt, trocken;
+                                                                                                 nachmittag 19ºC leicht bewölkt, trocken
+                                           701         714         65
+                                                                                                   Sph-Beginn:      9.00     Uhr und     17.00     Uhr
+                                          1.480                                                SUMME Zufahrten: FSp :                        1535 KFZ/h        9:30
+                                                             779
+                                                                                                                NSp :                        1634 KFZ/h        17:30
+                                                       SÜD                                                       6h :                        9114 KFZ
+                                       Am Neuen Garten                                         max. Sph /Zufahrt:             NORD               31 KFZ/h      7:30
+                                                                                                                                SÜD           924 KFZ/h        17:30
+
+                                                                                                 DATUM :                      WEST            743 KFZ/h        9:30
+                                                                                   1.535 KFZ/h 27.09.2018
+                                                         Kfz-Stromverteilung in der FSp 185                                Am Neuen Garten/Alleestr.
+
+
+
+StromPlan (FSp)185kp9-18.xls                                             Seite 2
+Landeshauptstadt Potsdam                                                                                                                                          26.06.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                   NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                       Am Neuen Garten                                         RAD    FSp    14     26                        38                     78         4,8
+                                                                                                      NSp    44     80                        52                    176         9,7
+                                                                                                      6h    194    294                       247                    735         7,5
+                                                  15
+                                                                   152                         NFZ    FSp     7   193                       116                    316         20,6
+                                                                                                      NSp     2   129                        62                    193         11,8
+                                           3           12          137                                6h     29   963                       570                   1562         17,1
+                                                                                               SV     FSp     3    66                        45                    114          7,4
+                                                                                                      NSp     2    31                        17                      50         3,1
+                                                                                                      6h     21   304                       181                     506         5,6
+                                                                                               KFZ FSp       13   779                       743                   1535         100
+                                                                                                      NSp    15   924                       695                   1634         100
+                                                                                                      6h    109 4965                       4040                   9114         100
+
+
+
+
+             Alleestr.
+                         1.538   843                                                           FZ     FSp    27   805                       781                   1613         100
+                                 53                                                                   NSp    59  1004                       747                   1810         100
+
+      WEST
+                         695
+                                 642                                                                  6h    303  5259                      4287                    9849        100
+                                                                                               Q DTVw: 2,5 1795 22125                     21650
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                               Bemerkungen :
+                                                                                               - Wetter früh 13ºC leicht bewölkt, trocken;
+                                                                                                 nachmittag 19ºC leicht bewölkt, trocken
+                                           654         840         84
+                                                                                                   Sph-Beginn:      9.00     Uhr und     17.00     Uhr
+                                          1.578                                                SUMME Zufahrten: FSp :                        1535 KFZ/h        9:30
+                                                             924
+                                                                                                                NSp :                        1634 KFZ/h        17:30
+                                                       SÜD                                                       6h :                        9114 KFZ
+                                       Am Neuen Garten                                         max. Sph /Zufahrt:             NORD               31 KFZ/h      7:30
+                                                                                                                                SÜD           924 KFZ/h        17:30
+
+                                                                                                 DATUM :                      WEST            743 KFZ/h        9:30
+                                                                                   1.634 KFZ/h 27.09.2018
+                                                        Kfz-Stromverteilung in der NSp 185                                 Am Neuen Garten/Alleestr.
+
+
+
+StromPlan (NSp)185kp9-18.xls                                             Seite 3
+

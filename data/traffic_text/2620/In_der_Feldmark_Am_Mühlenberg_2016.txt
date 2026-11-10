@@ -1,0 +1,154 @@
+SVP, 461                                                                                                                                                            10.02.2017
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                        NORD                                            Zufahrt: NORD SÜD WEST     SUMME %
+                                             In der Feldmark                                       RAD    FSp    36                   41      18                    95     24,4
+                                                                                                          NSp    21                   16      32                    69     15,4
+                                                      656                                                 6h    170                  160     191                   521     21,6
+                                                                    1.349                          NFZ    FSp    12                    7     14                    33      11,2
+                                                                                                          NSp     7                  16      14                    37       9,7
+                                                385         271         693                               6h     57                   73      70                  200      11,0
+                                                                                                   SV     FSp     5                    4       8                   17       5,8
+                                                                                                          NSp     4                    8       8                   20       5,3
+                                                                                                          6h     27                   40      46                  113       6,2
+                                                                                                   KFZ FSp 101                       83     111                   295       100
+
+
+
+
+              Am Mühlenberg
+                                                                                                          NSp 131                   137     112                   380       100
+                                                                                                          6h    656                 572     592                  1820       100
+                              1.206   614                                                          FZ     FSp   137                 124     129                   390       100
+                                      350                                                                 NSp   152                 153     154                   449       100
+
+       WEST
+                              592                                                                         6h    826                  732     851                 2409       100
+                                      242
+                                                                                                   Q DTVw:2,35 3170                2550    2834
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Wetter früh 19°C sonnig;
+                                                                                                     nachmittag 35ºC leicht bewölkt bis sonnig, trocken
+                                                513         229         343                            Sph-Beginn:      8.30     Uhr und   15.00 Uhr
+                                                                                                   SUMME Zufahrten: [FSp]: 295 KFZ/h 9:00
+                                               1.085                                                                  (NSp): 380 KFZ/h 15:30
+                                                                  572                                                   6h : 1820 KFZ
+                                                            SÜD                                    max. Sph /Zufahrt: NORD    138 KFZ/h 16:30
+                                            K.-Liebknecht-Str.                                                                    SÜD       137 KFZ/h 15:30
+                                                                                                     DATUM :                     WEST       112 KFZ/h 15:30
+                                                                                        6h Werte    23.06.2016
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 262                   In der Feldmark/Am Mühlenberg -OT Golm-
+
+
+
+
+StromPlan262kp6-16.xls                                                        Seite 1
+SVP, 461                                                                                                                                                          10.02.2017
+
+
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                      NORD                                            Zufahrt: NORD SÜD WEST     SUMME %
+                                           In der Feldmark                                       RAD    FSp    36                   41      18                    95     24,4
+                                                                                                        NSp    21                   16      32                    69     15,4
+                                                    101                                                 6h    170                  160     191                   521     21,6
+                                                                     200                         NFZ    FSp    12                    7     14                    33      11,2
+                                                                                                        NSp     7                  16      14                    37       9,7
+                                              55          46         99                                 6h     57                   73      70                  200      11,0
+                                                                                                 SV     FSp     5                    4       8                   17       5,8
+                                                                                                        NSp     4                    8       8                   20       5,3
+                                                                                                        6h     27                   40      46                  113       6,2
+                                                                                                 KFZ FSp 101                       83     111                   295       100
+
+
+
+
+              Am Mühlenberg
+                                                                                                        NSp 131                   137     112                   380       100
+                                                                                                        6h    656                 572     592                  1820       100
+                              214   103                                                          FZ     FSp   137                 124     129                   390       100
+                                    64                                                                  NSp   152                 153     154                   449       100
+
+       WEST
+                              111                                                                       6h    826                  732     851                 2409       100
+                                    47
+                                                                                                 Q DTVw:2,35 3170                2550    2834
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                                                                                 - Wetter früh 19°C sonnig;
+                                                                                                   nachmittag 35ºC leicht bewölkt bis sonnig, trocken
+                                              93          48         35                              Sph-Beginn:      8.30     Uhr und   15.00 Uhr
+                                                                                                 SUMME Zufahrten: [FSp]: 295 KFZ/h 9:00
+                                              176                                                                   (NSp): 380 KFZ/h 15:30
+                                                                83                                                    6h : 1820 KFZ
+                                                          SÜD                                    max. Sph /Zufahrt: NORD    138 KFZ/h 16:30
+                                          K.-Liebknecht-Str.                                                                    SÜD       137 KFZ/h 15:30
+                                                                                                   DATUM :                     WEST       112 KFZ/h 15:30
+                                                                                     295 KFZ/h    23.06.2016
+                                                           Kfz-Stromverteilung in der FSp 262                 In der Feldmark/Am Mühlenberg -OT Golm-
+
+
+
+
+StromPlan (FSp)262kp6-16.xls                                               Seite 2
+SVP, 461                                                                                                                                                           10.02.2017
+
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                      NORD                                             Zufahrt: NORD SÜD WEST     SUMME %
+                                           In der Feldmark                                        RAD    FSp    36                   41      18                    95     24,4
+                                                                                                         NSp    21                   16      32                    69     15,4
+                                                    131                                                  6h    170                  160     191                   521     21,6
+                                                                      278                         NFZ    FSp    12                    7     14                    33      11,2
+                                                                                                         NSp     7                  16      14                    37       9,7
+                                              77          54          147                                6h     57                   73      70                  200      11,0
+                                                                                                  SV     FSp     5                    4       8                   17       5,8
+                                                                                                         NSp     4                    8       8                   20       5,3
+                                                                                                         6h     27                   40      46                  113       6,2
+                                                                                                  KFZ FSp 101                       83     111                   295       100
+
+
+
+
+              Am Mühlenberg
+                                                                                                         NSp 131                   137     112                   380       100
+                                                                                                         6h    656                 572     592                  1820       100
+                              249   137                                                           FZ     FSp   137                 124     129                   390       100
+                                    70                                                                   NSp   152                 153     154                   449       100
+
+       WEST
+                              112                                                                        6h    826                  732     851                 2409       100
+                                    42
+                                                                                                  Q DTVw:2,35 3170                2550    2834
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - Wetter früh 19°C sonnig;
+                                                                                                    nachmittag 35ºC leicht bewölkt bis sonnig, trocken
+                                              96          60          77                              Sph-Beginn:      8.30     Uhr und   15.00 Uhr
+                                                                                                  SUMME Zufahrten: [FSp]: 295 KFZ/h 9:00
+                                              233                                                                    (NSp): 380 KFZ/h 15:30
+                                                                137                                                    6h : 1820 KFZ
+                                                          SÜD                                     max. Sph /Zufahrt: NORD    138 KFZ/h 16:30
+                                          K.-Liebknecht-Str.                                                                     SÜD       137 KFZ/h 15:30
+                                                                                                    DATUM :                     WEST       112 KFZ/h 15:30
+                                                                                      380 KFZ/h    23.06.2016
+                                                           Kfz-Stromverteilung in der NSp 262                  In der Feldmark/Am Mühlenberg -OT Golm-
+
+
+
+
+StromPlan (NSp)262kp6-16.xls                                                Seite 3
+

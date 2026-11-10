@@ -1,0 +1,175 @@
+         SVP, 461                                                                                                                                                     20.06.2012
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                   NORD   OST SÜD WEST SUMME %
+                                                                                                                    RAD        FSp   158           65       231       149          603 100,0
+                                                                                                                               NSp   147          145       262       155          709 100,0
+                                            NORD                                                                    NFZ        FSp     0            0         0         0            0 ####
+                                                                                                                               NSp     0            0         0         0            0 ####
+                                      F.-Ebert-Str.                                                                            6h      0            0         0         0            0 ####
+                                            771          1.544                                                      SV         FSp         0         0         0         0           0 ####
+                                                                                                                               NSp         0         0         0         0           0 ####
+                                      *                                                                                        6h          0         0         0         0           0 ####
+                                      376   328    67    773                                                        KFZ        FSp         0         0         0         0           0 100
+                                                                                                                               NSp         0         0         0         0           0 100
+                                                                                                                               6h          0         0         0         0           0 100
+                                                                                                                    FZ         FSp         0         0         0         0         603 100
+                                                                                 146                                           NSp         0         0         0         0         709 100
+                                                                                 232 516
+
+
+
+
+                                                                                                   Kurfürstenstr.
+                                                                                                                               6h          0         0         0         0        3240 100
+                                                                                 138
+
+
+
+       Hegelallee
+                                                                                                                    Bemerkungen :
+                                                                                     1.029                          - es wurden nur Räder gezählt
+
+                    1.053                                                                                           - Wetter früh 12ºC bewölkt, trocken;
+
+WEST                                                                                         OST                     nachmittags 19ºC, bewölkt, teilweise kurzer leichter Regen
+
+                                                                                 513                                - es sind nicht alle möglichen Abfahrten mit enthalten
+                                                                                                                    * incl. Räder die über FGÜ geradeaus fahren
+
+
+        1.823
+                      27                    Nauener Tor                                                                    Sph-Beginn:          7.30 Uhr und 15.30 Uhr
+          770        308                                                                                            SUMME Zufahrten: [FSp] :                   0 KFZ/h       8:00
+                     435                                                                                                                       (NSp):          0 KFZ/h       16:00
+                                                                                                                                         6h :                  0 KFZ
+                                            360    85    600     138   901                                          max. Sph /Zufahrt: NORD :                  0 KFZ/h       ######
+                                                                                                                                               OST :           0 KFZ/h       ######
+                                                     1.183             2.084                                          DATUM :                  SÜD :           0 KFZ/h       ######
+                                                   SÜD                                                              03.05.2012               WEST :            0 KFZ/h       ######
+                                             F.-Ebert-Str.                                                           155                            Nauener Tor
+
+
+
+
+         StromPlan155kp5-12_Rad.xls                                    Seite 1
+         SVP, 461                                                                                                                                                                      20.06.2012
+
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                                      NORD OST SÜD WEST SUMME %
+                                                                                                                                     RAD        FSp       158       65       231       149          603 100,0
+                                                                                                                                                NSp       147      145       262       155          709 100,0
+                                                 NORD                                                                                NFZ        FSp         0        0         0         0            0 ####
+                                                                                                                                                NSp         0        0         0         0            0 ####
+                                            F.-Ebert-Str.                                                                                       6h          0        0         0         0            0 ####
+                                                 158                297                                                              SV         FSp         0         0         0         0           0 ####
+                                                                                                                                                NSp         0         0         0         0           0 ####
+                                            *                                                                                                   6h          0         0         0         0           0 ####
+                                            69   75     14         139                                                               KFZ        FSp         0         0         0         0           0 100
+                                                                                                                                                NSp         0         0         0         0           0 100
+                                                                                                                                                6h          0         0         0         0           0 100
+                                                                                                                                     FZ         FSp         0         0         0         0         603 100
+                                                                                                   17                                           NSp         0         0         0         0         709 100
+                                                                                                   31
+
+
+
+
+                                                                                                                    Kurfürstenstr.
+                                                                                                        65                                      6h          0         0         0         0        3240 100
+                                                                                                   17
+
+
+
+       Hegelallee
+                                                                                                                                     Bemerkungen :
+                                                                                                        175                          - es wurden nur Räder gezählt
+
+                    187                                                                                                              - Wetter früh 12ºC bewölkt, trocken;
+
+WEST                                                                                                          OST                     nachmittags 19ºC, bewölkt, teilweise kurzer leichter Regen
+
+                                                                                                  110                                - es sind nicht alle möglichen Abfahrten mit enthalten
+                                                                                                                                     * incl. Räder die über FGÜ geradeaus fahren
+
+
+          336
+                      4                          Nauener Tor                                                                                Sph-Beginn:          7.30 Uhr und 15.30 Uhr
+          149        70                                                                                                              SUMME Zufahrten: [FSp] :                   0 KFZ/h       8:00
+                     75                                                                                                                                         (NSp):          0 KFZ/h       16:00
+                                                 57     30                                                                                                6h :                  0 KFZ
+                                                                   118    26   167                                                   max. Sph /Zufahrt: NORD :                  0 KFZ/h       ######
+                                                                                                                                                                OST :           0 KFZ/h       ######
+                                                             231                 398                                                   DATUM :                  SÜD :           0 KFZ/h       ######
+                                                        SÜD                                             603 Räder/h                  03.05.2012               WEST :            0 KFZ/h       ######
+                                                  F.-Ebert-Str.                      Räder-Stromverteilung in der FSp                 155                            Nauener Tor
+
+
+
+
+         StromPlan (FSp)155kp5-12_Rad.xls                                      Seite 2
+         SVP, 461                                                                                                                                                                      20.06.2012
+
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                                      NORD OST SÜD WEST SUMME %
+                                                                                                                                     RAD        FSp       158       65       231       149          603 100,0
+                                                                                                                                                NSp       147      145       262       155          709 100,0
+                                                 NORD                                                                                NFZ        FSp         0        0         0         0            0 ####
+                                                                                                                                                NSp         0        0         0         0            0 ####
+                                            F.-Ebert-Str.                                                                                       6h          0        0         0         0            0 ####
+                                                 147                325                                                              SV         FSp         0         0         0         0           0 ####
+                                                                                                                                                NSp         0         0         0         0           0 ####
+                                            *                                                                                                   6h          0         0         0         0           0 ####
+                                            90   47     10         178                                                               KFZ        FSp         0         0         0         0           0 100
+                                                                                                                                                NSp         0         0         0         0           0 100
+                                                                                                                                                6h          0         0         0         0           0 100
+                                                                                                                                     FZ         FSp         0         0         0         0         603 100
+                                                                                                    41                                          NSp         0         0         0         0         709 100
+                                                                                                    55 145
+
+
+
+
+                                                                                                                    Kurfürstenstr.
+                                                                                                                                                6h          0         0         0         0        3240 100
+                                                                                                    49
+
+
+
+       Hegelallee
+                                                                                                                                     Bemerkungen :
+                                                                                                        256                          - es wurden nur Räder gezählt
+
+                    231                                                                                                              - Wetter früh 12ºC bewölkt, trocken;
+
+WEST                                                                                                          OST                     nachmittags 19ºC, bewölkt, teilweise kurzer leichter Regen
+
+                                                                                                  111                                - es sind nicht alle möglichen Abfahrten mit enthalten
+                                                                                                                                     * incl. Räder die über FGÜ geradeaus fahren
+
+
+          386
+                      2                          Nauener Tor                                                                                Sph-Beginn:          7.30 Uhr und 15.30 Uhr
+          155        60                                                                                                              SUMME Zufahrten: [FSp] :                   0 KFZ/h       8:00
+                     93                                                                                                                                         (NSp):          0 KFZ/h       16:00
+                                                 80     6                                                                                                 6h :                  0 KFZ
+                                                                   135    41   189                                                   max. Sph /Zufahrt: NORD :                  0 KFZ/h       ######
+                                                                                                                                                                OST :           0 KFZ/h       ######
+                                                             262                 451                                                   DATUM :                  SÜD :           0 KFZ/h       ######
+                                                        SÜD                                              709 Räder/h                 03.05.2012               WEST :            0 KFZ/h       ######
+                                                  F.-Ebert-Str.                      Räder-Stromverteilung in der NSp                 155                            Nauener Tor
+
+
+
+
+         StromPlan (NSp)155kp5-12_Rad.xls                                      Seite 3
+

@@ -1,0 +1,132 @@
+SVP, 461                                                                                                                                        17.09.2014
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                               NORD                                                                          NORD OST SÜD      SUMME %
+              Potsdamer Str.                                                              RAD        FSp        34       13       14                 61       3,9
+
+                                                                                                     NSp   21            45       26                  92      4,8
+                            4.646                                                                    6h   169           133      155                 457      4,6
+                                            9.581                                         NFZ        FSp 121            74       63                 258      17,0
+                                                                                                     NSp   98          105       74                 277      15,0
+
+                    2.682           1.964    4.935                                                   6h   685          515      394               1594       16,6
+                                                                                          SV         FSp   66           26       20                 112       7,4
+                                                                                                     NSp   41           20       19                  80       4,3
+                                                                                                     6h   310          162      122                 594       6,2
+                                                                                          KFZ        FSp 851           381      290               1522       100
+
+
+
+
+                                                                            Pappelallee
+                                                                                                     NSp 799           560      484               1843       100
+                                                                                                     6h  4646         2702     2233               9581       100
+                                                                                          FZ         FSp  885          394      304                1583      100
+                                                                      OST
+                                                     2702
+                                                                                                     NSp  820          605      510                1935      100
+                                                                                                     6h  4815         2835     2388               10038      100
+                                                     1964   4666                          Bemerkungen :
+                                                                                          Wetter:    früh 12°C bewölkt, vereinzelt Regen;
+                                                                                                     nachmittag 17°C bewölkt, ab 17 Uhr Regen
+
+
+
+
+                    2.682           2.233                                                      Sph-Beginn:    7:30   Uhr und   16:00 Uhr
+                                                                                          SUMME Zufahrten: FSp : 1522 KFZ/h 8:00
+                  4.915                                                                                      NSp : 1843 KFZ/h 16:30
+                                  2.233                                                                        6h : 9581 KFZ
+                                SÜD                                                       max. Sph /Zufahrt: NORD    860 KFZ/h 16:00
+              Potsdamer Str.                                                                                          OST        569 KFZ/h 17:00
+                                                                                            DATUM :                   SÜD        492 KFZ/h 16:00
+                                                                                          31.05.2012
+                                                                                           204               Potsdamer Str. / Schulplatz
+StromPlan204kp5-12_pr.xls                                    Seite1
+SVP, 461                                                                                                                                        17.09.2014
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                            NORD                                                                             NORD OST SÜD      SUMME %
+              Potsdamer Str.                                                              RAD        FSp        34       13       14                 61       3,9
+
+                                                                                                     NSp   21            45       26                  92      4,8
+                          851                                                                        6h   169           133      155                 457      4,6
+                                      1.522                                               NFZ        FSp 121            74       63                 258      17,0
+                                                                                                     NSp   98          105       74                 277      15,0
+                    478         373    671                                                           6h   685          515      394               1594       16,6
+                                                                                          SV         FSp   66           26       20                 112       7,4
+                                                                                                     NSp   41           20       19                  80       4,3
+                                                                                                     6h   310          162      122                 594       6,2
+                                                                                          KFZ        FSp 851           381      290               1522       100
+
+
+
+
+                                                                            Pappelallee
+                                                                                                     NSp 799           560      484               1843       100
+                                                                                                     6h  4646         2702     2233               9581       100
+                                                                                          FZ         FSp  885          394      304                1583      100
+                                                                      OST
+                                                      381
+                                                                                                     NSp  820          605      510                1935      100
+                                                                                                     6h  4815         2835     2388               10038      100
+                                                      373   754                           Bemerkungen :
+                                                                                          Wetter:    früh 12°C bewölkt, vereinzelt Regen;
+                                                                                                     nachmittag 17°C bewölkt, ab 17 Uhr Regen
+
+
+
+                    478         290                                                            Sph-Beginn:    7:30   Uhr und   16:00 Uhr
+                                                                                          SUMME Zufahrten: FSp : 1522 KFZ/h 8:00
+                   768                                                                                       NSp : 1843 KFZ/h 16:30
+                               290                                                                             6h : 9581 KFZ
+                            SÜD                                                           max. Sph /Zufahrt: NORD    860 KFZ/h 16:00
+              Potsdamer Str.                                                                                          OST        569 KFZ/h 17:00
+                                                                                            DATUM :                   SÜD        492 KFZ/h 16:00
+                                                            1.522 KFZ/h                   31.05.2012
+                                              Kfz-Stromverteilung in der FSp 204                             Potsdamer Str. / Schulplatz
+StromPlan Fsp204kp5-12_pr.xls                                Seite2
+SVP, 461                                                                                                                                         17.09.2014
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                            NORD                                                                              NORD OST SÜD      SUMME %
+              Potsdamer Str.                                                               RAD        FSp        34       13       14                 61       3,9
+
+                                                                                                      NSp   21            45       26                  92      4,8
+                          799                                                                         6h   169           133      155                 457      4,6
+                                      1.843                                                NFZ        FSp 121            74       63                 258      17,0
+                                                                                                      NSp   98          105       74                 277      15,0
+                    469         330    1.044                                                          6h   685          515      394               1594       16,6
+                                                                                           SV         FSp   66           26       20                 112       7,4
+                                                                                                      NSp   41           20       19                  80       4,3
+                                                                                                      6h   310          162      122                 594       6,2
+                                                                                           KFZ        FSp 851           381      290               1522       100
+
+
+
+
+                                                                             Pappelallee
+                                                                                                      NSp 799           560      484               1843       100
+                                                                                                      6h  4646         2702     2233               9581       100
+                                                                                           FZ         FSp  885          394      304                1583      100
+                                                                       OST
+                                                       560
+                                                                                                      NSp  820          605      510                1935      100
+                                                                                                      6h  4815         2835     2388               10038      100
+                                                       330   890                           Bemerkungen :
+                                                                                           Wetter:    früh 12°C bewölkt, vereinzelt Regen;
+                                                                                                      nachmittag 17°C bewölkt, ab 17 Uhr Regen
+
+
+
+                    469         484                                                             Sph-Beginn:    7:30   Uhr und   16:00 Uhr
+                                                                                           SUMME Zufahrten: FSp : 1522 KFZ/h 8:00
+                   953                                                                                        NSp : 1843 KFZ/h 16:30
+                               484                                                                              6h : 9581 KFZ
+                            SÜD                                                            max. Sph /Zufahrt: NORD    860 KFZ/h 16:00
+             Potsdamer Str.                                                                                            OST        569 KFZ/h 17:00
+                                                                                             DATUM :                   SÜD        492 KFZ/h 16:00
+                                                             1.843 KFZ/h                   31.05.2012
+                                               Kfz-Stromverteilung in der NSp 204                             Potsdamer Str. / Schulplatz
+StromPlan Nsp204kp5-12_pr.xls                                 Seite3
+

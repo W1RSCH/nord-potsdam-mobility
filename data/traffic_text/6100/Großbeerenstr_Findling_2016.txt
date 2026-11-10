@@ -1,0 +1,144 @@
+SVP, 461                                                                                                                                                    28.10.2016
+
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                            Zufahrt: NORD OST WEST     SUMME %
+                                                                                                       RAD         FSp         21        124    128                    273     19,1
+                                                                                                                   NSp           6       147    154                    307     17,7
+                                                                                                                   6h           73       790    854                   1717     19,0
+                                                                                                       NFZ         FSp         16         74     59                   149      12,9
+                                         NORD                                                                      NSp         14         32     37                     83      5,8
+                                                                                                                   6h          98        410    368                    876     12,0
+                         Pestalozzi- / Kopernikusstr.                                                  SV          FSp           3        20     19                     42      3,6
+                                                                                                                   NSp           1         9     13                     23      1,6
+                                       926         1.944                                                           6h           13       115    108                      236    3,2
+
+                                                                                                       KFZ    FSp 177     471   508                                  1156
+                                                    1.018
+                                                                                                                                                                               100
+                                 310         616                                                              NSp 141     639   646                                  1426      100
+                                                                                                              6h    926 3247 3126                                    7299      100
+                                                                                                       FZ     FSp   198   595   636                                  1429      100
+                                                                                                              NSp   147   786   800                                  1733      100
+                                                                                                              6h    999 4037 3980                                     9016     100
+                                                                                                       Q DTVw: 2,4 4568 15747 13990
+    5.953     2.827                                                                730                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                          3.247
+               288                                                                2.517                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+    3.126
+              2.838                                                               3.454   6.701        Bemerkungen :
+                                                                                                       - Baustelle im der R.-Breitscheid-Str. zw. K.-Liebknecht-Str. und
+                                                                                                        Wattstr. - gesperrt in Ri. Wattstr. - Umleitung über Schulstr.
+
+                                                                                                       - ab 17.00 Uhr Unfall auf Nuthestr.
+
+               WEST            Großbeerenstr.                                     OST                      Sph-Beginn:      8:30     Uhr und   17:00 Uhr
+                                                                                                       SUMME Zufahrten: [FSp] :                1156 KFZ/h       9:00
+                                                                                                                                     (NSp):    1426 KFZ/h       17:30
+                                                                                                                            6h :               7299 KFZ
+                                                                                                       max. Sph /Zufahrt: NORD :                183 KFZ/h       8:00
+                                                                                                                           OST :                694 KFZ/h       16:30
+                                                                                                        DATUM :           WEST :                646 KFZ/h       17:30
+                                                                                              6h Werte 19.05.2016
+                                                            von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 610                  Großbeerenstr. / Findling
+
+
+
+StromPlan610kp5-16.xls                                                  Seite 1
+SVP, 461                                                                                                                                           28.10.2016
+
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt: NORD OST WEST     SUMME %
+                                                                                              RAD         FSp         21        124    128                    273     19,1
+                                                                                                          NSp           6       147    154                    307     17,7
+                                                                                                          6h           73       790    854                   1717     19,0
+                                                                                              NFZ         FSp         16         74     59                   149      12,9
+                                              NORD                                                        NSp         14         32     37                     83      5,8
+                                                                                                          6h          98        410    368                    876     12,0
+                               Pestalozzi- / Kopernikusstr.                                   SV          FSp           3        20     19                     42      3,6
+                                                                                                          NSp           1         9     13                     23      1,6
+                                            177         316                                               6h           13       115    108                      236    3,2
+
+                                                                                              KFZ    FSp 177     471   508                                  1156      100
+                                       63         114   139                                          NSp 141     639   646                                  1426      100
+                                                                                                     6h    926 3247 3126                                    7299      100
+                                                                                              FZ     FSp   198   595   636                                  1429      100
+                                                                                                     NSp   147   786   800                                  1733      100
+                                                                                                     6h    999 4037 3980                                     9016     100
+                                                                                              Q DTVw: 2,4 4568 15747 13990
+     922        414                                                        120                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                 471
+                 19                                                        351                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     508
+                489                                                        603   1.074        Bemerkungen :
+                                                                                              - Baustelle im der R.-Breitscheid-Str. zw. K.-Liebknecht-Str. und
+                                                                                               Wattstr. - gesperrt in Ri. Wattstr. - Umleitung über Schulstr.
+
+                                                                                              - ab 17.00 Uhr Unfall auf Nuthestr.
+
+               WEST                  Großbeerenstr.                        OST                    Sph-Beginn:      8:30     Uhr und   17:00 Uhr
+                                                                                              SUMME Zufahrten: [FSp] :                1156 KFZ/h       9:00
+                                                                                                                            (NSp):    1426 KFZ/h       17:30
+                                                                                                                   6h :               7299 KFZ
+                                                                                              max. Sph /Zufahrt: NORD :                183 KFZ/h       8:00
+                                                                                                                  OST :                694 KFZ/h       16:30
+                                                                                               DATUM :           WEST :                646 KFZ/h       17:30
+                                                                                  1.156 KFZ/h 19.05.2016
+                                                              Kfz-Stromverteilung in der FSp 610                  Großbeerenstr. / Findling
+
+
+
+StromPlan (FSp)610kp5-16.xls                                     Seite 2
+SVP, 461                                                                                                                                          28.10.2016
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt: NORD OST WEST     SUMME %
+                                                                                             RAD         FSp         21        124    128                    273     19,1
+                                                                                                         NSp           6       147    154                    307     17,7
+                                                                                                         6h           73       790    854                   1717     19,0
+                                                                                             NFZ         FSp         16         74     59                   149      12,9
+                                              NORD                                                       NSp         14         32     37                     83      5,8
+                                                                                                         6h          98        410    368                    876     12,0
+                               Pestalozzi- / Kopernikusstr.                                  SV          FSp           3        20     19                     42      3,6
+                                                                                                         NSp           1         9     13                     23      1,6
+                                            141        341                                               6h           13       115    108                      236    3,2
+
+                                                                                             KFZ    FSp 177     471   508                                  1156      100
+                                       47         94   200                                          NSp 141     639   646                                  1426      100
+                                                                                                    6h    926 3247 3126                                    7299      100
+                                                                                             FZ     FSp   198   595   636                                  1429      100
+                                                                                                    NSp   147   786   800                                  1733      100
+                                                                                                    6h    999 4037 3980                                     9016     100
+                                                                                             Q DTVw: 2,4 4568 15747 13990
+    1.193       547                                                       139                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                639
+                 61                                                       500                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     646
+                585                                                       679   1.318        Bemerkungen :
+                                                                                             - Baustelle im der R.-Breitscheid-Str. zw. K.-Liebknecht-Str. und
+                                                                                              Wattstr. - gesperrt in Ri. Wattstr. - Umleitung über Schulstr.
+
+                                                                                             - ab 17.00 Uhr Unfall auf Nuthestr.
+
+               WEST                  Großbeerenstr.                       OST                    Sph-Beginn:      8:30     Uhr und   17:00 Uhr
+                                                                                             SUMME Zufahrten: [FSp] :                1156 KFZ/h       9:00
+                                                                                                                           (NSp):    1426 KFZ/h       17:30
+                                                                                                                  6h :               7299 KFZ
+                                                                                             max. Sph /Zufahrt: NORD :                183 KFZ/h       8:00
+                                                                                                                 OST :                694 KFZ/h       16:30
+                                                                                              DATUM :           WEST :                646 KFZ/h       17:30
+                                                                                 1.426 KFZ/h 19.05.2016
+                                                             Kfz-Stromverteilung in der NSp 610                  Großbeerenstr. / Findling
+
+
+
+StromPlan (NSp)610kp5-16.xls                                    Seite 3
+

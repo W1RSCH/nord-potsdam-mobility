@@ -1,0 +1,181 @@
+       SVP, 461                                                                                                                                                        23.01.2014
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                             NORD                                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                     RAD        FSp      122     145       139      156         562   13,7
+
+                                        Zeppelinstr.                                                                            NSp      226     273       137      105         741   16,3
+
+                                                                                                                                6h    939 1281   699                609        3528   14,3
+                                             5.505             10.141                                                NFZ        FSp 125    238  115                   0        478    13,5
+                                                                                                                                NSp 125    187    86                  0        398    10,5
+                                                                                                                                6h    650 1318   581                  0       2549    12,1
+                                     159      1.493    3.853    4.636                                                SV         FSp    55    65   46                  0        166     4,7
+                                                                                                                                NSp    29    26    8                  0          63    1,7
+                                                                                                                                6h    220   287  145                  0         652    3,1
+                                                                                                                     KFZ        FSp 956 1329 1265                     0       3550    100
+                                                                                                                                NSp 1003 1686 1117                    0       3806    100
+
+
+
+
+        Feuerbachstr.
+                                                                                                                                6h  5505 8857 6733                    0      21095    100
+
+
+
+
+                                                                                                       Breite Str.
+                                                                                                                     FZ         FSp 1078 1474 1404                  156       4112    100
+                        563   563                                                 3.343                                         NSp 1229 1959 1254                  105       4547    100
+                               0                                                    404 8.857    OST                            6h   6444 10138 7432                609      24623    100
+
+WEST
+                        0      0                                                  5.110                              Bemerkungen :
+                               0                                                  9.293 18.150                       - Humboldtbrücke seit Sommer 2007 Baustelle
+                                                                                                                     - Die Zählung der Räder erfolgte nicht richtungsweise, sondern
+                                                                                                                       jeweis als gesamte Zu- und Abfahrt (extra Tabelle).
+                                                                                                                       Daher ist ein Defizit von 219 Rädern zwichen SU Zufahrten
+                                                                                                                       und SU Abfahrten vorhanden.
+                                                                                                                     - ohne Busse auf Gleiskörper
+                                                                                                                     - Zufahrt West nur Räder, da Feuerbachstr. Einbahnstr.
+                                     6.603             1.293    5.440                                                - Pförtnerampeln seit 17.04.2012 in Betrieb
+                                                                                                                     - Wetter früh 14ºC sonnig; nachmittags 23ºC bewölkt, trocken
+                                    13.336
+                                                      6.733                                                               Sph-Beginn:      7.30 Uhr und 15.30 Uhr
+                                                      SÜD                                                            SUMME Zufahrten: [FSp] :            3550 KFZ/h 8:00
+                                                                                                                                               (NSp):    3806 KFZ/h 16:00
+                                             Zeppelinstr.                                                                                 6h : 21095 KFZ
+                                                                                                                     max. Sph /Zufahrt: NORD 1035 KFZ/h 16:30
+                                                                                                                                         OST 1720 KFZ/h 17:30
+                                                                                                                      DATUM :            SÜD 1311 KFZ/h 7:30
+                                                                                                                     18.04.2013             WEST :            0 KFZ/h 0:00
+
+                                                                                                                      106                Breite Str./Zeppelinstr.
+
+
+       StromPlan106kp4-13.xls                                           Seite 1
+       SVP, 461                                                                                                                                                         23.01.2014
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                              NORD                                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                      RAD        FSp      122     145       139      156         562   13,7
+
+                                         Zeppelinstr.                                                                            NSp      226     273       137      105         741   16,3
+
+                                                                                                                                 6h    939 1281   699                609        3528   14,3
+                                              956            1.688                                                    NFZ        FSp 125    238  115                   0        478    13,5
+                                                                                                                                 NSp 125    187    86                  0        398    10,5
+                                                                                                                                 6h    650 1318   581                  0       2549    12,1
+                                       27      198    731     732                                                     SV         FSp    55    65   46                  0        166     4,7
+                                                                                                                                 NSp    29    26    8                  0          63    1,7
+                                                                                                                                 6h    220   287  145                  0         652    3,1
+                                                                                                                      KFZ        FSp 956 1329 1265                     0       3550    100
+                                                                                                                                 NSp 1003 1686 1117                    0       3806    100
+
+
+
+
+        Feuerbachstr.
+                                                                                                                                 6h  5505 8857 6733                    0      21095    100
+
+
+
+
+                                                                                                        Breite Str.
+                                                                                                                      FZ         FSp 1078 1474 1404                  156       4112    100
+                        59   59                                                       532                                        NSp 1229 1959 1254                  105       4547    100
+                             0                                                         32 1.329   OST                            6h   6444 10138 7432                609      24623    100
+
+WEST
+                        0    0                                                        765                             Bemerkungen :
+                             0                                                      1.796 3.125                       - Humboldtbrücke seit Sommer 2007 Baustelle
+                                                                                                                      - Die Zählung der Räder erfolgte nicht richtungsweise, sondern
+                                                                                                                        jeweis als gesamte Zu- und Abfahrt (extra Tabelle).
+                                                                                                                        Daher ist ein Defizit von 219 Rädern zwichen SU Zufahrten
+                                                                                                                        und SU Abfahrten vorhanden.
+                                                                                                                      - ohne Busse auf Gleiskörper
+                                                                                                                      - Zufahrt West nur Räder, da Feuerbachstr. Einbahnstr.
+                                       963            200     1.065                                                   - Pförtnerampeln seit 17.04.2012 in Betrieb
+                                                                                                                      - Wetter früh 14ºC sonnig; nachmittags 23ºC bewölkt, trocken
+                                      2.228
+                                                     1.265                                                                 Sph-Beginn:      7.30 Uhr und 15.30 Uhr
+                                                     SÜD                                                              SUMME Zufahrten: [FSp] :            3550 KFZ/h 8:00
+                                                                                                                                                (NSp):    3806 KFZ/h 16:00
+                                              Zeppelinstr.                                                                                 6h : 21095 KFZ
+                                                                                                                      max. Sph /Zufahrt: NORD 1035 KFZ/h 16:30
+                                                                                                                                          OST 1720 KFZ/h 17:30
+                                                                                                                       DATUM :            SÜD 1311 KFZ/h 7:30
+                                                                                         3.550 KFZ/h                  18.04.2013             WEST :            0 KFZ/h 0:00
+
+                                                                      Kfz-Stromverteilung in der FSp                   106                Breite Str./Zeppelinstr.
+
+
+       StromPlan (FSp)106kp4-13.xls                                       Seite 2
+       SVP, 461                                                                                                                                                          23.01.2014
+
+
+
+
+                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                               NORD                                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                       RAD        FSp      122     145       139      156         562   13,7
+
+                                          Zeppelinstr.                                                                            NSp      226     273       137      105         741   16,3
+
+                                                                                                                                  6h    939 1281   699                609        3528   14,3
+                                               1.003           1.818                                                   NFZ        FSp 125    238  115                   0        478    13,5
+                                                                                                                                  NSp 125    187    86                  0        398    10,5
+                                                                                                                                  6h    650 1318   581                  0       2549    12,1
+                                       27       331     645     815                                                    SV         FSp    55    65   46                  0        166     4,7
+                                                                                                                                  NSp    29    26    8                  0          63    1,7
+                                                                                                                                  6h    220   287  145                  0         652    3,1
+                                                                                                                       KFZ        FSp 956 1329 1265                     0       3550    100
+                                                                                                                                  NSp 1003 1686 1117                    0       3806    100
+
+
+
+
+        Feuerbachstr.
+                                                                                                                                  6h  5505 8857 6733                    0      21095    100
+
+
+
+
+                                                                                                         Breite Str.
+                                                                                                                       FZ         FSp 1078 1474 1404                  156       4112    100
+                        114   114                                                      599                                        NSp 1229 1959 1254                  105       4547    100
+                               0                                                        87 1.686   OST                            6h   6444 10138 7432                609      24623    100
+
+WEST
+                        0      0                                                     1.000                             Bemerkungen :
+                               0                                                     1.546 3.232                       - Humboldtbrücke seit Sommer 2007 Baustelle
+                                                                                                                       - Die Zählung der Räder erfolgte nicht richtungsweise, sondern
+                                                                                                                         jeweis als gesamte Zu- und Abfahrt (extra Tabelle).
+                                                                                                                         Daher ist ein Defizit von 219 Rädern zwichen SU Zufahrten
+                                                                                                                         und SU Abfahrten vorhanden.
+                                                                                                                       - ohne Busse auf Gleiskörper
+                                                                                                                       - Zufahrt West nur Räder, da Feuerbachstr. Einbahnstr.
+                                       1.331            216     901                                                    - Pförtnerampeln seit 17.04.2012 in Betrieb
+                                                                                                                       - Wetter früh 14ºC sonnig; nachmittags 23ºC bewölkt, trocken
+                                      2.448
+                                                       1.117                                                                Sph-Beginn:      7.30 Uhr und 15.30 Uhr
+                                                       SÜD                                                             SUMME Zufahrten: [FSp] :            3550 KFZ/h 8:00
+                                                                                                                                                 (NSp):    3806 KFZ/h 16:00
+                                               Zeppelinstr.                                                                                 6h : 21095 KFZ
+                                                                                                                       max. Sph /Zufahrt: NORD 1035 KFZ/h 16:30
+                                                                                                                                           OST 1720 KFZ/h 17:30
+                                                                                                                        DATUM :            SÜD 1311 KFZ/h 7:30
+                                                                                          3.806 KFZ/h                  18.04.2013             WEST :            0 KFZ/h 0:00
+
+                                                                       Kfz-Stromverteilung in der NSp                   106                Breite Str./Zeppelinstr.
+
+
+       StromPlan (NSp)106kp4-13.xls                                        Seite 3
+

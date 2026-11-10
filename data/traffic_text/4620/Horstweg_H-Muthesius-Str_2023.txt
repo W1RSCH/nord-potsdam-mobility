@@ -1,0 +1,170 @@
+       Landeshauptstadt Potsdam                                                                                                                                                    03.05.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                          RAD    FSp     88                    9    46           7        150       12,9
+                                                                                                                                   NSp     56                    4    58         18         136       10,8
+                                              Horstweg                                                                             6h     274                   28   275          41        618       10,0
+                                              2.656                                                                         NFZ    FSp     56                    7   85            2       150        14,8
+                                                                5.146                                                              NSp     58                    8   78            7       151        13,4
+                                                                                                                                   6h     296                  36   420          25         777       13,9
+                                      77       2.439    140      2.490                                                      SV     FSp     19                    2   25            0         46        4,5
+                                                                                                                                   NSp     11                    0     8           0         19        1,7
+                                                                                                                                   6h      93                    2    75           2        172        3,1
+                                                                                                                            KFZ FSp 468                        36   503            4      1011        100
+                                                                                                                                   NSp 569                     66   454          36       1125        100
+
+
+
+
+                                                                                                        H.-Muthesius-Str.
+                                                                                                                                   6h    2656                 283 2527          104       5570        100
+                                                                                                                            FZ     FSp    556                  45   549          11       1161        100
+                  228      124                                                        136                                          NSp    625                  70   512          54       1261        100
+
+
+
+        Polizei
+                           86                                                         13    283   OST                              6h    2930                 311 2802          145        6188       100
+
+WEST              104       1                                                         134                                   Q DTVw: 2,4 12093                1525 12025         536
+                           17                                                         366   649                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                            Bemerkungen :
+                                                                                                                            - keine Corona-Einschränkungen
+                                                                                                                            - Ukraine-Krieg
+                                                                                                                            - keine Corona-Einschränkungen
+                                                                                                                            - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                                             nachmittag 15ºC bewölkt bis sonnig, trocken
+
+                                      2.590    34       2.268    225                                                            Sph-Beginn:      7.30     Uhr und   15.30 Uhr
+                                                                                                                            SUMME Zufahrten: [FSp] :                1011 KFZ/h 8:00
+                                     5.117                                                                                                               (NSp):     1125 KFZ/h 16:00
+                                                       2.527                                                                                     6h :               5570 KFZ
+                                                       SÜD                                                                  max. Sph /Zufahrt: NORD :                569 KFZ/h 16:00
+                                              Horstweg                                                                                                     OST :       66 KFZ/h 16:00
+
+                                                                                                                              DATUM :                      SÜD :      503 KFZ/h 8:00
+                                                                                                  6h Werte 20.04.2023                                    WEST :        36 KFZ/h 16:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 4620                                Horstweg/H.-Muthesius-Str.
+
+       StromPlan4620kp4-23                                                  Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                         03.05.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                                  RAD    FSp     88                    9    46           7        150       12,9
+                                                                                                                        NSp     56                    4    58         18         136       10,8
+                                           Horstweg                                                                     6h     274                   28   275          41        618       10,0
+                                           468                                                                   NFZ    FSp     56                    7   85            2       150        14,8
+                                                        950                                                             NSp     58                    8   78            7       151        13,4
+                                                                                                                        6h     296                  36   420          25         777       13,9
+                                     22     414   32    482                                                      SV     FSp     19                    2   25            0         46        4,5
+                                                                                                                        NSp     11                    0     8           0         19        1,7
+                                                                                                                        6h      93                    2    75           2        172        3,1
+                                                                                                                 KFZ FSp 468                        36   503            4      1011        100
+                                                                                                                        NSp 569                     66   454          36       1125        100
+
+
+
+
+                                                                                             H.-Muthesius-Str.
+                                                                                                                        6h    2656                 283 2527          104       5570        100
+                                                                                                                 FZ     FSp    556                  45   549          11       1161        100
+                  37        33                                            19                                            NSp    625                  70   512          54       1261        100
+
+
+
+        Polizei
+                            4                                             2    36      OST                              6h    2930                 311 2802          145        6188       100
+
+WEST               4        0                                             15                                     Q DTVw: 2,4 12093                1525 12025         536
+                            0                                             67   103                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - keine Corona-Einschränkungen
+                                                                                                                 - Ukraine-Krieg
+                                                                                                                 - keine Corona-Einschränkungen
+                                                                                                                 - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                                  nachmittag 15ºC bewölkt bis sonnig, trocken
+                                     429    9     459   35                                                           Sph-Beginn:      7.30     Uhr und   15.30 Uhr
+                                                                                                                 SUMME Zufahrten: [FSp] :                1011 KFZ/h 8:00
+                                     932                                                                                                      (NSp):     1125 KFZ/h 16:00
+                                                  503                                                                                 6h :               5570 KFZ
+                                                  SÜD                                                            max. Sph /Zufahrt: NORD :                569 KFZ/h 16:00
+                                           Horstweg                                                                                             OST :       66 KFZ/h 16:00
+
+                                                                                                                   DATUM :                      SÜD :      503 KFZ/h 8:00
+                                                                                    1.011 KFZ/h 20.04.2023                                    WEST :        36 KFZ/h 16:00
+                                                              Kfz-Stromverteilung in der FSp 4620                                   Horstweg/H.-Muthesius-Str.
+
+       StromPlan (FSp)4620kp4-23                                Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                             03.05.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                          Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                    RAD    FSp     88                    9    46           7        150       12,9
+                                                                                                                            NSp     56                    4    58         18         136       10,8
+                                             Horstweg                                                                       6h     274                   28   275          41        618       10,0
+                                             569                                                                     NFZ    FSp     56                    7   85            2       150        14,8
+                                                          1.035                                                             NSp     58                    8   78            7       151        13,4
+                                                                                                                            6h     296                  36   420          25         777       13,9
+                                      10      538   21     466                                                       SV     FSp     19                    2   25            0         46        4,5
+                                                                                                                            NSp     11                    0     8           0         19        1,7
+                                                                                                                            6h      93                    2    75           2        172        3,1
+                                                                                                                     KFZ FSp 468                        36   503            4      1011        100
+                                                                                                                            NSp 569                     66   454          36       1125        100
+
+
+
+
+                                                                                                 H.-Muthesius-Str.
+                                                                                                                            6h    2656                 283 2527          104       5570        100
+                                                                                                                     FZ     FSp    556                  45   549          11       1161        100
+                  51        15                                                30                                            NSp    625                  70   512          54       1261        100
+
+
+
+        Polizei
+                            29                                                0    66      OST                              6h    2930                 311 2802          145        6188       100
+
+WEST              36        0                                                 36                                     Q DTVw: 2,4 12093                1525 12025         536
+                            7                                                 63   129                               Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                     Bemerkungen :
+                                                                                                                     - keine Corona-Einschränkungen
+                                                                                                                     - Ukraine-Krieg
+                                                                                                                     - keine Corona-Einschränkungen
+                                                                                                                     - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                                      nachmittag 15ºC bewölkt bis sonnig, trocken
+                                      581     5     407    42                                                            Sph-Beginn:      7.30     Uhr und   15.30 Uhr
+                                                                                                                     SUMME Zufahrten: [FSp] :                1011 KFZ/h 8:00
+                                     1.035                                                                                                        (NSp):     1125 KFZ/h 16:00
+                                                    454                                                                                   6h :               5570 KFZ
+                                                    SÜD                                                              max. Sph /Zufahrt: NORD :                569 KFZ/h 16:00
+                                             Horstweg                                                                                               OST :       66 KFZ/h 16:00
+
+                                                                                                                       DATUM :                      SÜD :      503 KFZ/h 8:00
+                                                                                        1.125 KFZ/h 20.04.2023                                    WEST :        36 KFZ/h 16:00
+                                                                  Kfz-Stromverteilung in der NSp 4620                                   Horstweg/H.-Muthesius-Str.
+
+       StromPlan (NSp)4620kp4-23                                    Seite 3
+

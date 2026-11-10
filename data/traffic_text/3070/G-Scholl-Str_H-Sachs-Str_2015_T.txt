@@ -1,0 +1,133 @@
+SVP, 461                                                                                                                                                13.04.2016
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                              NORD OST WEST     SUMME %
+                                                                                         RAD         FSp          111          10          4                      125    63,8
+                                                                                                     NSp           64          26         48                      138    59,5
+                                                                                                     6h           369          83        172                      624    59,0
+                                                                                         NFZ         FSp            5           2          2                        9    12,7
+                                   Nord                                                              NSp             3          3          1                         7    7,4
+                                                                                                     6h             27         22          5                        54   12,4
+                          H.-Sachs.Str.                                                  SV          FSp             0          0          1                         1    1,4
+                                 223                                                                 NSp             0          0          0                         0    0,0
+                                               434                                                   6h              3          0          3                         6    1,4
+
+                           103         120      211                                      KFZ         FSp           47         12         12                        71    100
+                                                                                                     NSp           33         35         26                        94    100
+                                                                                                     6h           223        126          85                      434    100
+                                                                                         FZ          FSp          158         22          16                      196    100
+                                                                                                     NSp           97         61          74                      232    100
+                                                                                                     6h           592        209         257                     1058    100
+                                                                                         NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+            85                                                            126
+                                                                                         - Aufbereitung ohne die Richtungen OG + WG, daher nur Teilzählung
+                                                                                         - Wetter früh 4°C sonnig, trockem; nachmittag 22°C sonnig, trocken
+
+
+
+                                                                                               Sph-Beginn:         7.30 Uhr und       17.00 Uhr
+                                                                                         SUMME Zufahrten:                 FSp :           71 KFZ/h 8:00
+           WEST           G.-Scholl-Str.                                  OST                                            NSp :           94 KFZ/h          17:30
+                                                                                                                           6h :         434 KFZ
+                                                                                         max. Sph /Zufahrt:              NORD            47 KFZ/h          8:00
+                                                                                                                          OST            35 KFZ/h          17:30
+                                                                                            DATUM :                      WEST            26 KFZ/h          17:30
+                                                                                6h Werte 23.04.2015
+                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 307 G.-Scholl-Str. / H.-Sachs-Str. - Teilzählung
+
+
+StromPlan307Tkp4-15.xls                                         Seite 1
+SVP, 461                                                                                                                                                13.04.2016
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                              NORD OST WEST     SUMME %
+                                                                                         RAD         FSp          111          10          4                      125    63,8
+                                                                                                     NSp           64          26         48                      138    59,5
+                                                                                                     6h           369          83        172                      624    59,0
+                                                                                         NFZ         FSp            5           2          2                        9    12,7
+                                           Nord                                                      NSp             3          3          1                         7    7,4
+                                                                                                     6h             27         22          5                        54   12,4
+                                H.-Sachs.Str.                                            SV          FSp             0          0          1                         1    1,4
+                                      47                                                             NSp             0          0          0                         0    0,0
+                                                  71                                                 6h              3          0          3                         6    1,4
+
+                                 25        22     24                                     KFZ         FSp           47         12         12                        71    100
+                                                                                                     NSp           33         35         26                        94    100
+                                                                                                     6h           223        126          85                      434    100
+                                                                                         FZ          FSp          158         22          16                      196    100
+                                                                                                     NSp           97         61          74                      232    100
+                                                                                                     6h           592        209         257                     1058    100
+                                                                                         NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+            12                                                            12
+                                                                                         - Aufbereitung ohne die Richtungen OG + WG, daher nur Teilzählung
+                                                                                         - Wetter früh 4°C sonnig, trockem; nachmittag 22°C sonnig, trocken
+
+
+
+                                                                                               Sph-Beginn:         7.30 Uhr und       17.00 Uhr
+                                                                                         SUMME Zufahrten:                 FSp :           71 KFZ/h 8:00
+           WEST                 G.-Scholl-Str.                            OST                                            NSp :           94 KFZ/h          17:30
+                                                                                                                           6h :         434 KFZ
+                                                                                         max. Sph /Zufahrt:              NORD            47 KFZ/h          8:00
+                                                                                                                          OST            35 KFZ/h          17:30
+                                                                                            DATUM :                      WEST            26 KFZ/h          17:30
+                                                                                71 KFZ/h 23.04.2015
+                                                       Kfz-Stromverteilung in der FSp 307 G.-Scholl-Str. / H.-Sachs-Str. - Teilzählung
+
+
+StromPlan (FSp)307Tkp4-15.xls                                   Seite 2
+SVP, 461                                                                                                                                                 13.04.2016
+
+
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                               NORD OST WEST     SUMME %
+                                                                                          RAD         FSp          111          10          4                      125    63,8
+                                                                                                      NSp           64          26         48                      138    59,5
+                                                                                                      6h           369          83        172                      624    59,0
+                                                                                          NFZ         FSp            5           2          2                        9    12,7
+                                           Nord                                                       NSp             3          3          1                         7    7,4
+                                                                                                      6h             27         22          5                        54   12,4
+                                H.-Sachs.Str.                                             SV          FSp             0          0          1                         1    1,4
+                                      33                                                              NSp             0          0          0                         0    0,0
+                                                  94                                                  6h              3          0          3                         6    1,4
+
+                                 14        19     61                                      KFZ         FSp           47         12         12                        71    100
+                                                                                                      NSp           33         35         26                        94    100
+                                                                                                      6h           223        126          85                      434    100
+                                                                                          FZ          FSp          158         22          16                      196    100
+                                                                                                      NSp           97         61          74                      232    100
+                                                                                                      6h           592        209         257                     1058    100
+                                                                                          NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                          Bemerkungen :
+            26                                                             35
+                                                                                          - Aufbereitung ohne die Richtungen OG + WG, daher nur Teilzählung
+                                                                                          - Wetter früh 4°C sonnig, trockem; nachmittag 22°C sonnig, trocken
+
+
+
+                                                                                                Sph-Beginn:         7.30 Uhr und       17.00 Uhr
+                                                                                          SUMME Zufahrten:                 FSp :           71 KFZ/h 8:00
+           WEST                 G.-Scholl-Str.                             OST                                            NSp :           94 KFZ/h          17:30
+                                                                                                                            6h :         434 KFZ
+                                                                                          max. Sph /Zufahrt:              NORD            47 KFZ/h          8:00
+                                                                                                                           OST            35 KFZ/h          17:30
+                                                                                             DATUM :                      WEST            26 KFZ/h          17:30
+                                                                                 94 KFZ/h 23.04.2015
+                                                       Kfz-Stromverteilung in der NSp 307 G.-Scholl-Str. / H.-Sachs-Str. - Teilzählung
+
+
+StromPlan (NSp)307Tkp4-15.xls                                    Seite 3
+

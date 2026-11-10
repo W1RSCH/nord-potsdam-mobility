@@ -1,0 +1,167 @@
+Landeshauptstadt Potsdam                                                                                                                                                                  09.06.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD       SUMME %
+                                          NORD                                                             RAD         FSp                1        1       7                      9          0,9
+
+                              Michenddorfer Ch.                                                                        NSp                9        0       2                    11           0,8
+
+                                                                                                                   6h                   29    3     33                           65          1,0
+                                        241                                                                NFZ     FSp                 10    84    67                         161           15,5
+                                                      3.323                                                        NSp                   5   94    40                         139           10,8
+                                                                                                                   6h                  43   433   307                          783          12,2
+                                130           111      3.082                                               SV      FSp                   8   22    18                           48           4,6
+                                                                                                                   NSp                   4    8    10                           22           1,7
+                                                                                                                   6h                  29    89    68                          186           2,9
+                                                                                                           KFZ FSp                     52   371   616                        1039            100
+                                                                                                                   NSp                 36   894   354                        1284
+
+
+
+
+                                                                                            Brauhausberg
+                                                                                                                                                                                             100
+                                                                                                                   6h                 241 3566 2600                          6407            100
+                                                                                                           FZ      FSp                 53   372   623                        1048            100
+                                                                        1461                                       NSp                 45   894   356                        1295            100
+                                                                               3566
+                                                                        2105          OST
+                                                                                                                   6h                 270 3569 2633                           6472           100
+                                                                                                           Q DTVw:    2,35           7809 10942 11362
+                                                                        1090   4656                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                                           - Wetter früh 7ºC bewölkt, Regen;
+
+                                2.235         1.621    979                                                   nachmittag 11ºC bewölkt, vereinzelt Regen
+                                                                                                                   Sph-Beginn:       7.00     Uhr und   16.00 Uhr
+                               4.835                                                                       SUMME Zufahrten:                   [FSp]: 1039 KFZ/h 7:30
+                                            2.600                                                                                             (NSp): 1284 KFZ/h 16:30
+                                          SÜD                                                                                                    6h : 6407 KFZ
+                              Michendorfer Ch.                                                             max. Sph /Zufahrt:                 NORD        58 KFZ/h 8:00
+                                                                                                                                               OST       894 KFZ/h 16:30
+                                                                                                                DATUM :                        SÜD       616 KFZ/h 7:30
+                                                                                        6h Werte 16.05.2019
+                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 470       Michendorf. Ch.(B2)/Brauh.berg
+
+
+
+StromPlan470kp5-19.xlsx                                                          Seite 1
+Landeshauptstadt Potsdam                                                                                                                                                           09.06.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                             Zufahrt: NORD OST SÜD       SUMME %
+                                       NORD                                                         RAD         FSp                1        1       7                      9          0,9
+
+                              Michenddorfer Ch.                                                                 NSp                9        0       2                    11           0,8
+
+                                                                                                            6h                   29    3     33                           65          1,0
+                                      52                                                            NFZ     FSp                 10    84    67                         161           15,5
+                                                    573                                                     NSp                   5   94    40                         139           10,8
+                                                                                                            6h                  43   433   307                          783          12,2
+                                16         36       521                                             SV      FSp                   8   22    18                           48           4,6
+                                                                                                            NSp                   4    8    10                           22           1,7
+                                                                                                            6h                  29    89    68                          186           2,9
+                                                                                                    KFZ FSp                     52   371   616                        1039            100
+                                                                                                            NSp                 36   894   354                        1284
+
+
+
+
+                                                                                     Brauhausberg
+                                                                                                                                                                                      100
+                                                                                                            6h                 241 3566 2600                          6407            100
+                                                                                                    FZ      FSp                 53   372   623                        1048            100
+                                                                  177                                       NSp                 45   894   356                        1295            100
+                                                                        371
+                                                                  194          OST
+                                                                                                            6h                 270 3569 2633                           6472           100
+                                                                                                    Q DTVw:    2,35           7809 10942 11362
+                                                                  308   679                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                                    - Wetter früh 7ºC bewölkt, Regen;
+                                210        344      272                                               nachmittag 11ºC bewölkt, vereinzelt Regen
+                                                                                                            Sph-Beginn:       7.00     Uhr und   16.00 Uhr
+                                826                                                                 SUMME Zufahrten:                   [FSp]: 1039 KFZ/h 7:30
+                                              616                                                                                      (NSp): 1284 KFZ/h 16:30
+                                           SÜD                                                                                            6h : 6407 KFZ
+                              Michendorfer Ch.                                                      max. Sph /Zufahrt:                 NORD        58 KFZ/h 8:00
+                                                                                                                                        OST       894 KFZ/h 16:30
+                                                                                                         DATUM :                        SÜD       616 KFZ/h 7:30
+                                                                            1.039 KFZ/h 16.05.2019
+                                                          Kfz-Stromverteilung in der FSp 470       Michendorf. Ch.(B2)/Brauh.berg
+
+
+
+StromPlan (FSp)470kp5-19.xlsx                                             Seite 2
+Landeshauptstadt Potsdam                                                                                                                                                           09.06.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                             Zufahrt: NORD OST SÜD       SUMME %
+                                       NORD                                                         RAD         FSp                1        1       7                      9          0,9
+
+                              Michenddorfer Ch.                                                                 NSp                9        0       2                    11           0,8
+
+                                                                                                            6h                   29    3     33                           65          1,0
+                                      36                                                            NFZ     FSp                 10    84    67                         161           15,5
+                                                    608                                                     NSp                   5   94    40                         139           10,8
+                                                                                                            6h                  43   433   307                          783          12,2
+                                28         8        572                                             SV      FSp                   8   22    18                           48           4,6
+                                                                                                            NSp                   4    8    10                           22           1,7
+                                                                                                            6h                  29    89    68                          186           2,9
+                                                                                                    KFZ FSp                     52   371   616                        1039            100
+                                                                                                            NSp                 36   894   354                        1284
+
+
+
+
+                                                                                     Brauhausberg
+                                                                                                                                                                                      100
+                                                                                                            6h                 241 3566 2600                          6407            100
+                                                                                                    FZ      FSp                 53   372   623                        1048            100
+                                                                  335                                       NSp                 45   894   356                        1295            100
+                                                                        894
+                                                                  559          OST
+                                                                                                            6h                 270 3569 2633                           6472           100
+                                                                                                    Q DTVw:    2,35           7809 10942 11362
+                                                                  125   1019                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+                                                                                                    - Wetter früh 7ºC bewölkt, Regen;
+                                587        237      117                                               nachmittag 11ºC bewölkt, vereinzelt Regen
+                                                                                                            Sph-Beginn:       7.00     Uhr und   16.00 Uhr
+                                941                                                                 SUMME Zufahrten:                   [FSp]: 1039 KFZ/h 7:30
+                                              354                                                                                      (NSp): 1284 KFZ/h 16:30
+                                           SÜD                                                                                            6h : 6407 KFZ
+                              Michendorfer Ch.                                                      max. Sph /Zufahrt:                 NORD        58 KFZ/h 8:00
+                                                                                                                                        OST       894 KFZ/h 16:30
+                                                                                                         DATUM :                        SÜD       616 KFZ/h 7:30
+                                                                            1.284 KFZ/h 16.05.2019
+                                                          Kfz-Stromverteilung in der NSp 470       Michendorf. Ch.(B2)/Brauh.berg
+
+
+
+StromPlan (NSp)470kp5-19.xlsx                                             Seite 3
+

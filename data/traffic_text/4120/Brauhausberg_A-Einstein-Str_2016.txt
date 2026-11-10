@@ -1,0 +1,150 @@
+SVP, 461                                                                                                                                                                               31.08.2016
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                      NORD                                                                   Zufahrt: NORD              OST     SÜD                    SUMME %
+                         Brauhausberg                                                                   RAD         FSp    55              40     14                     109              12,4
+                                                                                                                    NSp    31              63      -2                      92              6,3
+                                   5.287                                                                            6h    214             291      12                     517              7,9
+                                             5.941                                                      NFZ         FSp   81              11      25                     117              15,2
+                                                                                                                    NSp   80              22      12                     114               8,4
+
+                           4.776       511      654                                                                 6h   429               85     86                     600              10,0
+                                                                                                        SV          FSp   53                6       6                     65               8,5
+                                                                                                                    NSp   32                3       1                     36               2,6
+                                                                                                                    6h   248               26     16                     290               4,8
+                                                                                                        KFZ         FSp 670               57      41                     768              100
+                                                                                                                    NSp 1172             156      36                    1364              100
+
+
+
+
+                                                                                     A.-Einstein-Str.
+                                                                                                                    6h  5287             546     193                    6026              100
+                                                                  468                                   FZ          FSp       725          97     55                      877             100
+                                                                         546
+                                                                  78           OST                                  NSp      1203         219     34                     1456             100
+                                                                                                                    6h       5501         837    205                     6543             100
+                                                                  518   1064                            Q DTVw: 2,5 14853               2660 12618
+                                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                        Bemerkungen :
+                                                                                                        - halbs. Sperrung in Straße Am Brhb. - stadteinw. über Leipz. Str. umgel.
+                                                                                                        - Teilzählung - Zuf. NG+SG durch KP411 errechnet
+                           4.854       186      7                                                       - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+
+
+                          5.047                                                                           Sph-Beginn: 7:30 Uhr und 15:30 Uhr
+                                          193                                                           SUMME Zufahrten: [FSp]: 768 KFZ/h 8:00
+                                       SÜD                                                                                 (NSp): 1364 KFZ/h 16:00
+                         Brauhausberg                                                                         6h :                              6026 KFZ
+                                                                                         max. Sph /Zufahrt: NORD                                1172 KFZ/h 16:00
+                                                                                                             OST                                 156 KFZ/h 16:00
+                                                                                          DATUM :            SÜD                                  58 KFZ/h 15:30
+                                                                                6h Werte 09.06.2016
+                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 412                              Brauhausberg /A.-Einstein-Str.
+
+StromPlan412kp6-16.xls                                                     Seite1
+SVP, 461                                                                                                                                                                                    31.08.2016
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                       NORD                                                                       Zufahrt: NORD              OST     SÜD                    SUMME %
+                         Brauhausberg                                                                        RAD         FSp    55              40     14                     109              12,4
+                                                                                                                         NSp    31              63      -2                      92              6,3
+                                     670                                                                                 6h    214             291      12                     517              7,9
+                                                      763                                                    NFZ         FSp   81              11      25                     117              15,2
+                                                                                                                         NSp   80              22      12                     114               8,4
+                               547         123        93                                                                 6h   429               85     86                     600              10,0
+                                                                                                             SV          FSp   53                6       6                     65               8,5
+                                                                                                                         NSp   32                3       1                     36               2,6
+                                                                                                                         6h   248               26     16                     290               4,8
+                                                                                                             KFZ         FSp 670               57      41                     768              100
+                                                                                                                         NSp 1172             156      36                    1364              100
+
+
+
+
+                                                                                          A.-Einstein-Str.
+                                                                                                                         6h  5287             546     193                    6026              100
+                                                                    54                                       FZ          FSp       725          97     55                      877             100
+                                                                           57
+                                                                    3               OST                                  NSp      1203         219     34                     1456             100
+                                                                                                                         6h       5501         837    205                     6543             100
+                                                                    125   182                                Q DTVw: 2,5 14853               2660 12618
+                                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                             Bemerkungen :
+                                                                                                             - halbs. Sperrung in Straße Am Brhb. - stadteinw. über Leipz. Str. umgel.
+                                                                                                             - Teilzählung - Zuf. NG+SG durch KP411 errechnet
+                               550         39         2                                                      - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+
+
+                               591                                                                             Sph-Beginn: 7:30 Uhr und 15:30 Uhr
+                                                 41                                                          SUMME Zufahrten: [FSp]: 768 KFZ/h 8:00
+                                       SÜD                                                                                      (NSp): 1364 KFZ/h 16:00
+                         Brauhausberg                                                                           6h :                                 6026 KFZ
+                                                                                           max. Sph /Zufahrt: NORD                                   1172 KFZ/h 16:00
+                                                                                                               OST                                    156 KFZ/h 16:00
+                                                                                             DATUM :           SÜD                                     58 KFZ/h 15:30
+                                                                                  768 KFZ/h 09.06.2016
+                                                            Kfz-Stromverteilung in der FSp 412                                   Brauhausberg /A.-Einstein-Str.
+
+StromPlan (FSp)412kp6-16.xls                                                    Seite2
+SVP, 461                                                                                                                                                                                    31.08.2016
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                           NORD                                                                   Zufahrt: NORD              OST     SÜD                    SUMME %
+                         Brauhausberg                                                                        RAD         FSp    55              40     14                     109              12,4
+                                                                                                                         NSp    31              63      -2                      92              6,3
+                                        1.172                                                                            6h    214             291      12                     517              7,9
+                                                       1.334                                                 NFZ         FSp   81              11      25                     117              15,2
+                                                                                                                         NSp   80              22      12                     114               8,4
+
+                                1.122       50          162                                                              6h   429               85     86                     600              10,0
+                                                                                                             SV          FSp   53                6       6                     65               8,5
+                                                                                                                         NSp   32                3       1                     36               2,6
+                                                                                                                         6h   248               26     16                     290               4,8
+                                                                                                             KFZ         FSp 670               57      41                     768              100
+                                                                                                                         NSp 1172             156      36                    1364              100
+
+
+
+
+                                                                                          A.-Einstein-Str.
+                                                                                                                         6h  5287             546     193                    6026              100
+                                                                       127                                   FZ          FSp       725          97     55                      877             100
+                                                                             156
+                                                                       29           OST                                  NSp      1203         219     34                     1456             100
+                                                                                                                         6h       5501         837    205                     6543             100
+                                                                       51    207                             Q DTVw: 2,5 14853               2660 12618
+                                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                             Bemerkungen :
+                                                                                                             - halbs. Sperrung in Straße Am Brhb. - stadteinw. über Leipz. Str. umgel.
+                                                                                                             - Teilzählung - Zuf. NG+SG durch KP411 errechnet
+                                1.151       35          1                                                    - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+
+
+                               1.187                                                                           Sph-Beginn: 7:30 Uhr und 15:30 Uhr
+                                                  36                                                         SUMME Zufahrten: [FSp]: 768 KFZ/h 8:00
+                                            SÜD                                                                                 (NSp): 1364 KFZ/h 16:00
+                         Brauhausberg                                                                           6h :                                 6026 KFZ
+                                                                                           max. Sph /Zufahrt: NORD                                   1172 KFZ/h 16:00
+                                                                                                               OST                                    156 KFZ/h 16:00
+                                                                                             DATUM :           SÜD                                     58 KFZ/h 15:30
+                                                                                1.364 KFZ/h 09.06.2016
+                                                               Kfz-Stromverteilung in der NSp 412                                Brauhausberg /A.-Einstein-Str.
+
+StromPlan (NSp)412kp6-16.xls                                                    Seite3
+

@@ -1,0 +1,161 @@
+                                                                                                                                                                                 27.12.2016
+
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                * = neuer dreigeteilter Knotenpunkt: 7051, 7052, 7053 (Kreisel extra)                                   NORD    OST SÜD WEST SUMME %
+                                                                                                                        RAD         FSp    2                0          3          0            5    0,1
+                                                              NORD                                                                  NSp    6                0          4          0           10    0,3
+
+                                                  Potsdamer Damm                                                                    6h           28          0        26          0           54    0,3
+
+                                                                                                                        NFZ         FSp   65  380                   48       234          727      18,3
+                                                              3.382         6.463                                                   NSp   73  221                     3      332          629      16,0
+                                                                                                                                    6h   371 1496                  152      1505         3524      17,5
+                                                                                                                        SV          FSp   26  145                   12         70         253       6,4
+
+                                                     2.603     137    642    3.081                                                  NSp   23   64                     0        92         179       4,5
+                                                                                                                                    6h   137  551                    51       505        1244       6,2
+                                                                                                                        KFZ         FSp 531 1847                   236      1354         3968      100
+                                                                                                                                    NSp 743 1316                    53      1824         3936      100
+
+
+
+
+        L40 Nuthestraße
+                                                                                                                                    6h  3382 7789                  746      8248        20165      100
+                                                                                                                        FZ          FSp  533 1847                  239      1354         3973      100
+                                                                                                                                    NSp  749 1316                    57     1824         3946      100
+                          18.433 10.185                                                        631                                  6h  3410 7789                   772      8248       20219      100
+                                  2.185                                                      7.140 7.789    OST   L40
+WEST
+                                                                                                                        Bemerkungen :
+                           8.248 5.826                                                          18                      - früh A115 Ri Berlin zw. AS Drewitz-AS Babelsbg. gesperrt wegen Unfall
+                                   237                                                       6.507 14.296               - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+
+
+                                                                                                                             Sph-Beginn:    7.00 Uhr und 16.30 Uhr
+                                                                                                                        SUMME Zufahrten: [FSp] :   3968 KFZ/h                         8:00
+                                                     392       442    265    39                                                                    3936 KFZ/h
+                                                                                                                                                      (NSp):                          16:30
+                                                                                                                                             6h : 20165 KFZ
+                                                   1.138                                                                max. Sph /Zufahrt: NORD     785 KFZ/h                         16:00
+                                                                      746                                                                   OST 1847 KFZ/h                            8:00
+                                                                      SÜD                                               DATUM :             SÜD     236 KFZ/h                         8:00
+                                                             Potsdamer Str.                                             18.09.2014                 WEST :         1824 KFZ/h 16:30
+                                                                                                                          705                         Güterfelder Eck *
+
+
+
+
+       SVP, 461                                                                                                                                                    StromPlan705kp9-14.xls
+                                                                                                                                                                                  27.12.2016
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                  * = neuer dreigeteilter Knotenpunkt: 7051, 7052, 7053 (Kreisel extra)                                  NORD    OST SÜD WEST SUMME %
+                                                                                                                         RAD         FSp    2                0          3          0            5    0,1
+                                                              NORD                                                                   NSp    6                0          4          0           10    0,3
+
+                                                    Potsdamer Damm                                                                   6h           28          0        26          0           54    0,3
+
+                                                                                                                         NFZ         FSp   65  380                   48       234          727      18,3
+                                                               531         1.203                                                     NSp   73  221                     3      332          629      16,0
+                                                                                                                                     6h   371 1496                  152      1505         3524      17,5
+                                                                                                                         SV          FSp   26  145                   12         70         253       6,4
+                                                       406     22    103     672                                                     NSp   23   64                     0        92         179       4,5
+                                                                                                                                     6h   137  551                    51       505        1244       6,2
+                                                                                                                         KFZ         FSp 531 1847                   236      1354         3968      100
+                                                                                                                                     NSp 743 1316                    53      1824         3936      100
+
+
+
+
+        L40 Nuthestraße
+                                                                                                                                     6h  3382 7789                  746      8248        20165      100
+                                                                                                                         FZ          FSp  533 1847                  239      1354         3973      100
+                                                                                                                                     NSp  749 1316                    57     1824         3946      100
+                          3.577   2.223                                                          171                                 6h  3410 7789                   772      8248       20219      100
+                                   413                                                         1.673 1.847   OST   L40
+WEST
+                                                                                                                         Bemerkungen :
+                          1.354    916                                                             3                     - früh A115 Ri Berlin zw. AS Drewitz-AS Babelsbg. gesperrt wegen Unfall
+                                    25                                                         1.023 2.870               - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+
+
+                                                                                                                              Sph-Beginn:    7.00 Uhr und 16.30 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :   3968 KFZ/h                         8:00
+                                                       50      144   88      4                                                                      3936 KFZ/h
+                                                                                                                                                       (NSp):                          16:30
+                                                                                                                                              6h : 20165 KFZ
+                                                      286                                                                max. Sph /Zufahrt: NORD     785 KFZ/h                         16:00
+                                                                     236                                                                     OST 1847 KFZ/h                            8:00
+                                                                     SÜD                                                 DATUM :             SÜD     236 KFZ/h                         8:00
+                                                             Potsdamer Str.                          3.968 KFZ/h         18.09.2014                 WEST :         1824 KFZ/h 16:30
+                                                                                   Kfz-Stromverteilung in der FSp          705                         Güterfelder Eck *
+
+
+
+
+       SVP, 461                                                                                                                                               StromPlan FSp705kp9-14.xls
+                                                                                                                                                                                  27.12.2016
+
+
+
+
+                                                                                                                                            FAHRZEUG-VERTEILUNG
+                                  * = neuer dreigeteilter Knotenpunkt: 7051, 7052, 7053 (Kreisel extra)                                  NORD    OST SÜD WEST SUMME %
+                                                                                                                         RAD         FSp    2                0          3          0            5    0,1
+                                                              NORD                                                                   NSp    6                0          4          0           10    0,3
+
+                                                    Potsdamer Damm                                                                   6h           28          0        26          0           54    0,3
+
+                                                                                                                         NFZ         FSp   65  380                   48       234          727      18,3
+                                                               743         1.286                                                     NSp   73  221                     3      332          629      16,0
+                                                                                                                                     6h   371 1496                  152      1505         3524      17,5
+                                                                                                                         SV          FSp   26  145                   12         70         253       6,4
+                                                       567     36    140     543                                                     NSp   23   64                     0        92         179       4,5
+                                                                                                                                     6h   137  551                    51       505        1244       6,2
+                                                                                                                         KFZ         FSp 531 1847                   236      1354         3968      100
+                                                                                                                                     NSp 743 1316                    53      1824         3936      100
+
+
+
+
+        L40 Nuthestraße
+                                                                                                                                     6h  3382 7789                  746      8248        20165      100
+                                                                                                                         FZ          FSp  533 1847                  239      1354         3973      100
+                                                                                                                                     NSp  749 1316                    57     1824         3946      100
+                          3.640   1.816                                                          100                                 6h  3410 7789                   772      8248       20219      100
+                                   431                                                         1.213 1.316   OST   L40
+WEST
+                                                                                                                         Bemerkungen :
+                          1.824   1.348                                                            3                     - früh A115 Ri Berlin zw. AS Drewitz-AS Babelsbg. gesperrt wegen Unfall
+                                    45                                                         1.493 2.809               - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+
+
+                                                                                                                              Sph-Beginn:    7.00 Uhr und 16.30 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :   3968 KFZ/h                         8:00
+                                                       84      36    12      5                                                                      3936 KFZ/h
+                                                                                                                                                       (NSp):                          16:30
+                                                                                                                                              6h : 20165 KFZ
+                                                      137                                                                max. Sph /Zufahrt: NORD     785 KFZ/h                         16:00
+                                                                      53                                                                     OST 1847 KFZ/h                            8:00
+                                                                     SÜD                                                 DATUM :             SÜD     236 KFZ/h                         8:00
+                                                             Potsdamer Str.                          3.936 KFZ/h         18.09.2014                 WEST :         1824 KFZ/h 16:30
+                                                                                   Kfz-Stromverteilung in der NSp          705                         Güterfelder Eck *
+
+
+
+
+       SVP, 461                                                                                                                                               StromPlan NSp705kp9-14.xls
+

@@ -1,0 +1,159 @@
+       SVP, 461                                                                                                                                                                06.07.2017
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                           Zufahrt: NORD OST SÜD WEST SUMME %
+                                                NORD                                                                  RAD    FSp               4      9            0           0         13  1,3
+                                                                                                                             NSp               1    13             0           4         18  2,2
+                                               Am Golplatz                                                                   6h                8     34            0          21          63 1,4
+                                                 150                                                                  NFZ    FSp              10   102             0         10         122 12,6
+                                                              150                                                            NSp               2    77             0         11          90 11,4
+                                                                                                                             6h               20   488             0          66        574 12,5
+                                       0         150   0      0                                                       SV     FSp               2    18             0           2         22  2,3
+                                                                                                                             NSp               0    20             0           3         23  2,9
+                                                                                                                             6h                3   114             0          13        130 2,8
+                                                                                                                      KFZ FSp                 40   799             0        129         968 100
+                                                                                                                             NSp              25   613             0        151         789 100
+
+
+
+
+       Amundsenstr.                                                                                    Amundsenstr.
+                                                                                                                             6h              150 3720              0        719        4589 100
+                                                                                                                      FZ     FSp              44   808             0        129         981 100
+                      2.607   1.888                                                0                                         NSp              26   626             0        155         807 100
+                                0                                                1.888   3.720   OST                         6h              158  3754             0         740       4652 100
+
+WEST
+                      719      719                                               1.832                                Q DTVw: 2,4            353 10432          4658       6126
+                                0                                                 719    4.439                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Nedlitzer Str. Ri. Stadteinw. Gesperrt - Umleitung über Amudsenstr.
+                                                                                                                       Potsdamer Str.      Pappelallee (Am Vogelherd gesperrt)
+                                                                                                                      - Aufgrund von Schleichverkehr über Am Golfplatz       Viereckremise
+                                                                                                                       G.-Hermann-Allee        Nedlitzer Str. nur Zuf. NG, OG, OL, WG gezählt
+
+                                       1.982
+                                                 0     0      0                                                       - Wetter früh 14ºC bewölkt, trocken; nachm. 25ºC sonnig bis bewölkt
+                                                                                                                          Sph-Beginn:      7.00     Uhr und    16.00 Uhr
+                                      1.982                                                                           SUMME Zufahrten: [FSp] :                   968 KFZ/h 7:30
+                                                        0                                                                                          (NSp):        789 KFZ/h 16:30
+                                                       SÜD                                                                                              6h :    4589 KFZ
+                                               Am Golfplatz                                                           max. Sph /Zufahrt: NORD :                    40 KFZ/h 7:30
+                                                                                                                                                     OST :       799 KFZ/h 7:30
+                                                                                                                        DATUM :                      SÜD :           0 KFZ/h 7:30
+                                                                                              6h Werte 08.06.2017    WEST : 151 KFZ/h 16:30
+                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 231      Amundsenstr. / Am Golfplatz
+
+
+       StromPlan231kp6-17.xls                                          Seite 1
+       SVP, 461                                                                                                                                                      06.07.2017
+
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                           RAD    FSp               4      9            0           0         13  1,3
+                                                                                                                   NSp               1    13             0           4         18  2,2
+                                            Am Golplatz                                                            6h                8     34            0          21          63 1,4
+                                              40                                                            NFZ    FSp              10   102             0         10         122 12,6
+                                                           40                                                      NSp               2    77             0         11          90 11,4
+                                                                                                                   6h               20   488             0          66        574 12,5
+                                      0       40    0      0                                                SV     FSp               2    18             0           2         22  2,3
+                                                                                                                   NSp               0    20             0           3         23  2,9
+                                                                                                                   6h                3   114             0          13        130 2,8
+                                                                                                            KFZ FSp                 40   799             0        129         968 100
+                                                                                                                   NSp              25   613             0        151         789 100
+
+
+
+
+       Amundsenstr.                                                                          Amundsenstr.
+                                                                                                                   6h              150 3720              0        719        4589 100
+                                                                                                            FZ     FSp              44   808             0        129         981 100
+                      447   318                                             0                                      NSp              26   626             0        155         807 100
+                             0                                             318   799   OST                         6h              158  3754             0         740       4652 100
+
+WEST
+                      129   129                                            481                              Q DTVw: 2,4            353 10432          4658       6126
+                             0                                             129   928                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+                                                                                                            - Nedlitzer Str. Ri. Stadteinw. Gesperrt - Umleitung über Amudsenstr.
+                                                                                                             Potsdamer Str.      Pappelallee (Am Vogelherd gesperrt)
+                                                                                                            - Aufgrund von Schleichverkehr über Am Golfplatz       Viereckremise
+                                                                                                             G.-Hermann-Allee        Nedlitzer Str. nur Zuf. NG, OG, OL, WG gezählt
+                                      521     0     0      0                                                - Wetter früh 14ºC bewölkt, trocken; nachm. 25ºC sonnig bis bewölkt
+                                                                                                                Sph-Beginn:      7.00     Uhr und    16.00 Uhr
+                                      521                                                                   SUMME Zufahrten: [FSp] :                   968 KFZ/h 7:30
+                                                     0                                                                                   (NSp):        789 KFZ/h 16:30
+                                                    SÜD                                                                                       6h :    4589 KFZ
+                                            Am Golfplatz                                                    max. Sph /Zufahrt: NORD :                    40 KFZ/h 7:30
+                                                                                                                                           OST :       799 KFZ/h 7:30
+                                                                                                              DATUM :                      SÜD :           0 KFZ/h 7:30
+                                                                                     968 KFZ/h 08.06.2017    WEST : 151 KFZ/h 16:30
+                                                                Kfz-Stromverteilung in der FSp 231       Amundsenstr. / Am Golfplatz
+
+
+       StromPlan (FSp)231kp6-17.xls                              Seite 2
+       SVP, 461                                                                                                                                                       06.07.2017
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                            RAD    FSp               4      9            0           0         13  1,3
+                                                                                                                    NSp               1    13             0           4         18  2,2
+                                            Am Golplatz                                                             6h                8     34            0          21          63 1,4
+                                              25                                                             NFZ    FSp              10   102             0         10         122 12,6
+                                                           25                                                       NSp               2    77             0         11          90 11,4
+                                                                                                                    6h               20   488             0          66        574 12,5
+                                      0       25    0      0                                                 SV     FSp               2    18             0           2         22  2,3
+                                                                                                                    NSp               0    20             0           3         23  2,9
+                                                                                                                    6h                3   114             0          13        130 2,8
+                                                                                                             KFZ FSp                 40   799             0        129         968 100
+                                                                                                                    NSp              25   613             0        151         789 100
+
+
+
+
+       Amundsenstr.                                                                           Amundsenstr.
+                                                                                                                    6h              150 3720              0        719        4589 100
+                                                                                                             FZ     FSp              44   808             0        129         981 100
+                      489   338                                              0                                      NSp              26   626             0        155         807 100
+                             0                                              338   613   OST                         6h              158  3754             0         740       4652 100
+
+WEST
+                      151   151                                             275                              Q DTVw: 2,4            353 10432          4658       6126
+                             0                                              151   764                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                             Bemerkungen :
+                                                                                                             - Nedlitzer Str. Ri. Stadteinw. Gesperrt - Umleitung über Amudsenstr.
+                                                                                                              Potsdamer Str.      Pappelallee (Am Vogelherd gesperrt)
+                                                                                                             - Aufgrund von Schleichverkehr über Am Golfplatz       Viereckremise
+                                                                                                              G.-Hermann-Allee        Nedlitzer Str. nur Zuf. NG, OG, OL, WG gezählt
+                                      300     0     0      0                                                 - Wetter früh 14ºC bewölkt, trocken; nachm. 25ºC sonnig bis bewölkt
+                                                                                                                 Sph-Beginn:      7.00     Uhr und    16.00 Uhr
+                                      300                                                                    SUMME Zufahrten: [FSp] :                   968 KFZ/h 7:30
+                                                     0                                                                                    (NSp):        789 KFZ/h 16:30
+                                                    SÜD                                                                                        6h :    4589 KFZ
+                                            Am Golfplatz                                                     max. Sph /Zufahrt: NORD :                    40 KFZ/h 7:30
+                                                                                                                                            OST :       799 KFZ/h 7:30
+                                                                                                               DATUM :                      SÜD :           0 KFZ/h 7:30
+                                                                                     789 KFZ/h 08.06.2017    WEST : 151 KFZ/h 16:30
+                                                                Kfz-Stromverteilung in der NSp 231       Amundsenstr. / Am Golfplatz
+
+
+       StromPlan (NSp)231kp6-17.xls                               Seite 3
+

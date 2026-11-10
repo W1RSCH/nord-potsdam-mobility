@@ -1,0 +1,163 @@
+       Landeshauptstadt Potsdam                                                                                                                                                    06.05.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                       RAD         FSp         61       102      60         91         314    26,6
+
+                                            Hebbelstr.                                                                               NSp         92       108     107         95         402    29,3
+
+                                                                                                                                6h    458                 642     473        591       2164 30,0
+                                              1.076            3.418                                                     NFZ    FSp    21                   6     54         31         112 12,9
+                                                                                                                                NSp    24                   5     37         13          79  8,1
+                                                                                                                                6h    112                  17    244        132         505 10,0
+                                      147      735     194      2.342                                                    SV     FSp     8                   1     10           1         20  2,3
+                                                                                                                                NSp     6                   0     10           3         19  2,0
+                                                                                                                                6h     41                   1      51         14        107 2,1
+                                                                                                                         KFZ FSp 203                       31    389        244         867 100
+                                                                                                                                NSp 192                    56    563        160         971 100
+
+
+
+
+       Gutenbergstr.                                                                                     Gutenbergstr.
+                                                                                                                                6h   1076                 221   2578       1181        5056 100
+                                                                                                                         FZ     FSp   264                 133    449        335        1181 100
+                       1.522   341                                                  123                                         NSp   284                 164    670        255        1373 100
+                               248                                                  29     221     OST                          6h   1534                 863   3051       1772        7220 100
+
+WEST
+                       1.181   817                                                   69                                  Q DTVw: 2,5 8545                4185   8745       3805
+                               116                                                 1.453   1.674                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                         Bemerkungen :
+                                                                                                                         - Wetter früh 15°C bewölkt anfangs leichter Regen, sonst trocken;
+                                                                                                                           nachmittag 28°C bewölkt, vereinzelt Regen
+
+
+                                                                                                                             Sph-Beginn:      8:30    Uhr und   15:00 Uhr
+                                      920      165     1.971    442                                                      SUMME Zufahrten:[FSp] :                 867 KFZ/h 9:00
+                                                                                                                                             (NSp):              971 KFZ/h 15:30
+                                     3.498                                                                                                      6h :            5056 KFZ
+                                                      2.578                                                              max. Sph /Zufahrt: NORD :               220 KFZ/h 9:30
+                                                      SÜD                                                                                     OST :               56 KFZ/h 15:30
+                                               Hebbelstr.                                                                  DATUM :                     SÜD :      563 KFZ/h 15:30
+                                                                                               6h Werte 13.06.2019   WEST : 291 KFZ/h 8:00
+                                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 140       Gutenbergstr./Hebbelstr.
+
+
+
+       StromPlan140kp6-19.xlsx                                           Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                            06.05.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                              RAD         FSp         61       102      60         91         314    26,6
+
+                                             Hebbelstr.                                                                      NSp         92       108     107         95         402    29,3
+
+                                                                                                                        6h    458                 642     473        591       2164 30,0
+                                                203          542                                                 NFZ    FSp    21                   6     54         31         112 12,9
+                                                                                                                        NSp    24                   5     37         13          79  8,1
+                                                                                                                        6h    112                  17    244        132         505 10,0
+                                       29       141   33     339                                                 SV     FSp     8                   1     10           1         20  2,3
+                                                                                                                        NSp     6                   0     10           3         19  2,0
+                                                                                                                        6h     41                   1      51         14        107 2,1
+                                                                                                                 KFZ FSp 203                       31    389        244         867 100
+                                                                                                                        NSp 192                    56    563        160         971 100
+
+
+
+
+       Gutenbergstr.                                                                             Gutenbergstr.
+                                                                                                                        6h   1076                 221   2578       1181        5056 100
+                                                                                                                 FZ     FSp   264                 133    449        335        1181 100
+                       310   66                                                16                                       NSp   284                 164    670        255        1373 100
+                             44                                                 3    31    OST                          6h   1534                 863   3051       1772        7220 100
+
+WEST
+                       244   173                                                12                               Q DTVw: 2,5 8545                4185   8745       3805
+                             27                                                282   313                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Wetter früh 15°C bewölkt anfangs leichter Regen, sonst trocken;
+                                                                                                                   nachmittag 28°C bewölkt, vereinzelt Regen
+
+
+                                                                                                                     Sph-Beginn:      8:30    Uhr und   15:00 Uhr
+                                       180      34    279    76                                                  SUMME Zufahrten:[FSp] :                 867 KFZ/h 9:00
+                                                                                                                                     (NSp):              971 KFZ/h 15:30
+                                       569                                                                                              6h :            5056 KFZ
+                                                      389                                                        max. Sph /Zufahrt: NORD :               220 KFZ/h 9:30
+                                                      SÜD                                                                             OST :               56 KFZ/h 15:30
+                                                Hebbelstr.                                                         DATUM :                     SÜD :      563 KFZ/h 15:30
+                                                                                        867 KFZ/h 13.06.2019   WEST : 291 KFZ/h 8:00
+                                                                   Kfz-Stromverteilung in der FSp 140        Gutenbergstr./Hebbelstr.
+
+
+
+       StromPlan (FSp)140kp6-19.xlsx                                 Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                            06.05.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                              RAD         FSp         61       102      60         91         314    26,6
+
+                                             Hebbelstr.                                                                      NSp         92       108     107         95         402    29,3
+
+                                                                                                                        6h    458                 642     473        591       2164 30,0
+                                                192          728                                                 NFZ    FSp    21                   6     54         31         112 12,9
+                                                                                                                        NSp    24                   5     37         13          79  8,1
+                                                                                                                        6h    112                  17    244        132         505 10,0
+                                       24       131   37     536                                                 SV     FSp     8                   1     10           1         20  2,3
+                                                                                                                        NSp     6                   0     10           3         19  2,0
+                                                                                                                        6h     41                   1      51         14        107 2,1
+                                                                                                                 KFZ FSp 203                       31    389        244         867 100
+                                                                                                                        NSp 192                    56    563        160         971 100
+
+
+
+
+       Gutenbergstr.                                                                             Gutenbergstr.
+                                                                                                                        6h   1076                 221   2578       1181        5056 100
+                                                                                                                 FZ     FSp   264                 133    449        335        1181 100
+                       220   60                                                33                                       NSp   284                 164    670        255        1373 100
+                             46                                                 8    56    OST                          6h   1534                 863   3051       1772        7220 100
+
+WEST
+                       160   89                                                 15                               Q DTVw: 2,5 8545                4185   8745       3805
+                             25                                                204   260                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Wetter früh 15°C bewölkt anfangs leichter Regen, sonst trocken;
+                                                                                                                   nachmittag 28°C bewölkt, vereinzelt Regen
+
+
+                                                                                                                     Sph-Beginn:      8:30    Uhr und   15:00 Uhr
+                                       171      28    457    78                                                  SUMME Zufahrten:[FSp] :                 867 KFZ/h 9:00
+                                                                                                                                     (NSp):              971 KFZ/h 15:30
+                                       734                                                                                              6h :            5056 KFZ
+                                                      563                                                        max. Sph /Zufahrt: NORD :               220 KFZ/h 9:30
+                                                      SÜD                                                                             OST :               56 KFZ/h 15:30
+                                                Hebbelstr.                                                         DATUM :                     SÜD :      563 KFZ/h 15:30
+                                                                                        971 KFZ/h 13.06.2019   WEST : 291 KFZ/h 8:00
+                                                                   Kfz-Stromverteilung in der NSp 140        Gutenbergstr./Hebbelstr.
+
+
+
+       StromPlan (NSp)140kp6-19.xlsx                                 Seite 3
+

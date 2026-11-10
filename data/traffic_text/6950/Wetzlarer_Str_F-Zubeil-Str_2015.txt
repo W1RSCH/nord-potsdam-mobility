@@ -1,0 +1,164 @@
+Landeshauptstadt Potsdam                                                                                                                                                      21.02.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                           NORD                                                 Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                              Wetzlarer Str.                                               RAD    FSp     18     42                         2                    62         5,2
+                                                                                                                  NSp     45     41                       10                     96         6,6
+                                                                                                                  6h     218    271                        71                   560         7,4
+                                                        2.388
+                                                                            5.430                          NFZ    FSp     93    55                        79                   227         19,9
+                                                                                                                  NSp     81    45                        51                   177         12,9
+                                                967             1.421           3.042                             6h     544   350                       427                  1321         18,9
+                                                                                                           SV     FSp     28    18                        31                     77         6,8
+                                                                                                                  NSp     33    10                        19                     62         4,5
+                                                                                                                  6h     154     85                      162                    401         5,7
+                                                                                                           KFZ FSp 306         369                       465                  1140         100
+
+
+
+
+             F.-Zubeil-Str.
+                                                                                                                  NSp 549      418                       401                  1368         100
+                                                                                                                  6h    2388 2032                       2571                  6991         100
+                              4.049   1.478                                                                FZ     FSp    324   411                       467                  1202         100
+                                      1.521                                                                       NSp    594   459                       411                  1464         100
+
+      WEST
+                              2.571
+                                      1.050                                                                       6h    2606  2303                      2642                   7551        100
+                                                                                                           Q DTVw: 2,4 12761 10582                      9515
+                                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                           Bemerkungen :
+                                                                                                           - Baustelle L40 - zw. A115 und Neuend. Str. jeweils nur 1 Spur
+                                                                                                           - Teilzählung - Zuf NG + SG durch KP696 außer Räder errechnet
+
+                                                2.471           511             1.521                      - Wetter früh 12ºC sonnig, trocken; nachm. 25ºC sonnig bis leicht bewölkt
+                                                                                                               Sph-Beginn:      8.30     Uhr und     16.30      Uhr
+                                               4.503                                                       SUMME Zufahrten: FSp :                      1140 KFZ/h          9:00
+                                                                        2.032
+                                                                                                                            NSp :                      1368 KFZ/h          17:00
+                                                            SÜD                                                              6h :                      6991 KFZ
+                                              Wetzlarer Str.                                               max. Sph /Zufahrt:             NORD           549 KFZ/h         17:00
+                                                                                                                                            SÜD          428 KFZ/h         16:30
+
+                                                                                                             DATUM :                      WEST           494 KFZ/h         8:30
+                                                                                                  6h Werte 11.06.2015
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 695                                          Nuthestr. / Wetzlarer Str. (S)
+
+
+
+StromPlan695kp6-15.xlsx                                                                 Seite 1
+Landeshauptstadt Potsdam                                                                                                                                           21.02.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                    NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                          Wetzlarer Str.                                        RAD    FSp     18     42                         2                    62         5,2
+                                                                                                       NSp     45     41                       10                     96         6,6
+                                                                                                       6h     218    271                        71                   560         7,4
+                                                  306
+                                                                    915                         NFZ    FSp     93    55                        79                   227         19,9
+                                                                                                       NSp     81    45                        51                   177         12,9
+                                            111         195         609                                6h     544   350                       427                  1321         18,9
+                                                                                                SV     FSp     28    18                        31                     77         6,8
+                                                                                                       NSp     33    10                        19                     62         4,5
+                                                                                                       6h     154     85                      162                    401         5,7
+                                                                                                KFZ FSp 306         369                       465                  1140         100
+
+
+
+
+             F.-Zubeil-Str.
+                                                                                                       NSp 549      418                       401                  1368         100
+                                                                                                       6h    2388 2032                       2571                  6991         100
+                              656   191                                                         FZ     FSp    324   411                       467                  1202         100
+                                    320                                                                NSp    594   459                       411                  1464         100
+
+      WEST
+                              465
+                                    145                                                                6h    2606  2303                      2642                   7551        100
+                                                                                                Q DTVw: 2,4 12761 10582                      9515
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                Bemerkungen :
+                                                                                                - Baustelle L40 - zw. A115 und Neuend. Str. jeweils nur 1 Spur
+                                                                                                - Teilzählung - Zuf NG + SG durch KP696 außer Räder errechnet
+                                            340         80          289                         - Wetter früh 12ºC sonnig, trocken; nachm. 25ºC sonnig bis leicht bewölkt
+                                                                                                    Sph-Beginn:      8.30     Uhr und     16.30      Uhr
+                                            709                                                 SUMME Zufahrten: FSp :                      1140 KFZ/h          9:00
+                                                              369
+                                                                                                                 NSp :                      1368 KFZ/h          17:00
+                                                        SÜD                                                       6h :                      6991 KFZ
+                                          Wetzlarer Str.                                        max. Sph /Zufahrt:             NORD           549 KFZ/h         17:00
+                                                                                                                                 SÜD          428 KFZ/h         16:30
+
+                                                                                                  DATUM :                      WEST           494 KFZ/h         8:30
+                                                                                    1.140 KFZ/h 11.06.2015
+                                                          Kfz-Stromverteilung in der FSp 695                                Nuthestr. / Wetzlarer Str. (S)
+
+
+
+StromPlan (FSp)695kp6-15.xlsx                                             Seite 2
+Landeshauptstadt Potsdam                                                                                                                                           21.02.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                    NORD                                             Zufahrt: NORD               SÜD       WEST                    SUMME %
+                                          Wetzlarer Str.                                        RAD    FSp     18     42                         2                    62         5,2
+                                                                                                       NSp     45     41                       10                     96         6,6
+                                                                                                       6h     218    271                        71                   560         7,4
+                                                  549
+                                                                1.067                           NFZ    FSp     93    55                        79                   227         19,9
+                                                                                                       NSp     81    45                        51                   177         12,9
+                                            189         360         518                                6h     544   350                       427                  1321         18,9
+                                                                                                SV     FSp     28    18                        31                     77         6,8
+                                                                                                       NSp     33    10                        19                     62         4,5
+                                                                                                       6h     154     85                      162                    401         5,7
+                                                                                                KFZ FSp 306         369                       465                  1140         100
+
+
+
+
+             F.-Zubeil-Str.
+                                                                                                       NSp 549      418                       401                  1368         100
+                                                                                                       6h    2388 2032                       2571                  6991         100
+                              698   297                                                         FZ     FSp    324   411                       467                  1202         100
+                                    208                                                                NSp    594   459                       411                  1464         100
+
+      WEST
+                              401
+                                    193                                                                6h    2606  2303                      2642                   7551        100
+                                                                                                Q DTVw: 2,4 12761 10582                      9515
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                Bemerkungen :
+                                                                                                - Baustelle L40 - zw. A115 und Neuend. Str. jeweils nur 1 Spur
+                                                                                                - Teilzählung - Zuf NG + SG durch KP696 außer Räder errechnet
+                                            553         108         310                         - Wetter früh 12ºC sonnig, trocken; nachm. 25ºC sonnig bis leicht bewölkt
+                                                                                                    Sph-Beginn:      8.30     Uhr und     16.30      Uhr
+                                            971                                                 SUMME Zufahrten: FSp :                      1140 KFZ/h          9:00
+                                                              418
+                                                                                                                 NSp :                      1368 KFZ/h          17:00
+                                                        SÜD                                                       6h :                      6991 KFZ
+                                          Wetzlarer Str.                                        max. Sph /Zufahrt:             NORD           549 KFZ/h         17:00
+                                                                                                                                 SÜD          428 KFZ/h         16:30
+
+                                                                                                  DATUM :                      WEST           494 KFZ/h         8:30
+                                                                                    1.368 KFZ/h 11.06.2015
+                                                         Kfz-Stromverteilung in der NSp 695                                 Nuthestr. / Wetzlarer Str. (S)
+
+
+
+StromPlan (NSp)695kp6-15.xlsx                                             Seite 3
+

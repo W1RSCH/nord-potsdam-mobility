@@ -1,0 +1,132 @@
+ SVP, 461                                                                                                                                            19.10.2018
+
+
+
+                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                   Zufahrt:           OST WEST                                   SUMME %
+                                                                                RAD    FSp              35   29                                      64            6,0
+                                                                                       NSp             104   58                                    162            14,2
+                                                                                       6h              395  181                                     576            9,1
+                                                                                NFZ    FSp              86  69                                     155            15,5
+                                 NORD                                                  NSp              46  47                                      93             9,5
+                                                                                       6h             405  364                                     769            13,4
+                          Platz der Einheit-Ost                                 SV     FSp              21    6                                     27             2,7
+                                                                                       NSp               5    2                                       7            0,7
+                                                                                       6h               78   52                                    130             2,3
+                                                                                KFZ    FSp 471      529                                           1000
+                                          1.804
+                                                                                                                                                                  100
+                                                                                       NSp 552      428                                            980            100
+                                                                                       6h    2998 2731                                            5729            100
+                                                                                FZ     FSp    506   558                                           1064            100
+                                                                                       NSp    656   486                                           1142            100
+                                                                                       6h    3393 2912                                             6305           100
+                                                                                Q DTVw: ### 11703 12433
+
+4.973 2.242                                                   756               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                        2.998
+        1.048                                               2.242               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+2.731
+        1.683                                               1.683       4.681 Bemerkungen :
+                                                                                - Teilzählung - Zuf. OG+WG durch KP120 errechnet!
+                                                                                - Wetter früh 9ºC stark bewölkt, Regen;
+                                                                                  nachmittag 11ºC bewölkt, ab 17.00 Uhr leicht bewölkt bis sonnig, trocken
+
+        WEST                   Am Kanal                      OST                    Sph-Beginn:       7.30    Uhr und   15.30   Uhr
+                                                                                SUMME Zufahrten: [FSp]: 1000 KFZ/h 8:00
+                                                                                                   (NSp):  980 KFZ/h 16:00
+                                                                                                     6h : 5729 KFZ
+                                                                                max. Sph /Zufahrt:   OST   578 KFZ/h 17:30
+                                                                                                              WEST        534 KFZ/h 7:30
+                                                                               DATUM :
+                                                                     6h Werte 14.04.2016
+                                   von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 124                       Am Kanal/Platz d.Einheit-Ost
+
+ StromPlan124kp4-16.xls                                    Seite 1
+SVP, 461                                                                                                                                           19.10.2018
+
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                 Zufahrt:           OST WEST                                   SUMME %
+                                                                              RAD    FSp              35   29                                      64            6,0
+                                                                                     NSp             104   58                                    162            14,2
+                                                                                     6h              395  181                                     576            9,1
+                                                                              NFZ    FSp              86  69                                     155            15,5
+                                      NORD                                           NSp              46  47                                      93             9,5
+                                                                                     6h             405  364                                     769            13,4
+                               Platz der Einheit-Ost                          SV     FSp              21    6                                     27             2,7
+                                                                                     NSp               5    2                                       7            0,7
+                                                                                     6h               78   52                                    130             2,3
+                                                                              KFZ    FSp 471      529                                           1000            100
+                                              323                                    NSp 552      428                                            980            100
+                                                                                     6h    2998 2731                                            5729            100
+                                                                              FZ     FSp    506   558                                           1064            100
+                                                                                     NSp    656   486                                           1142            100
+                                                                                     6h    3393 2912                                             6305           100
+                                                                              Q DTVw: ### 11703 12433
+
+892        363                                                   108          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                        471
+           215                                                   363          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+529
+           314                                                   314    785   Bemerkungen :
+                                                                              - Teilzählung - Zuf. OG+WG durch KP120 errechnet!
+                                                                              - Wetter früh 9ºC stark bewölkt, Regen;
+                                                                                nachmittag 11ºC bewölkt, ab 17.00 Uhr leicht bewölkt bis sonnig, trocken
+
+       WEST                         Am Kanal                    OST               Sph-Beginn:       7.30    Uhr und   15.30   Uhr
+                                                                              SUMME Zufahrten: [FSp]: 1000 KFZ/h 8:00
+                                                                                                 (NSp):  980 KFZ/h 16:00
+                                                                                                   6h : 5729 KFZ
+                                                                              max. Sph /Zufahrt:   OST   578 KFZ/h 17:30
+                                                                                                            WEST        534 KFZ/h 7:30
+                                                                              DATUM :
+                                                                 1.000 KFZ/h 14.04.2016
+                                               Kfz-Stromverteilung in der FSp 124                    Am Kanal/Platz d.Einheit-Ost
+
+StromPlan (FSp)124kp4-16.xls                                  Seite 2
+SVP, 461                                                                                                                                            19.10.2018
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                  Zufahrt:           OST WEST                                   SUMME %
+                                                                               RAD    FSp              35   29                                      64            6,0
+                                                                                      NSp             104   58                                    162            14,2
+                                                                                      6h              395  181                                     576            9,1
+                                                                               NFZ    FSp              86  69                                     155            15,5
+                                      NORD                                            NSp              46  47                                      93             9,5
+                                                                                      6h             405  364                                     769            13,4
+                               Platz der Einheit-Ost                           SV     FSp              21    6                                     27             2,7
+                                                                                      NSp               5    2                                       7            0,7
+                                                                                      6h               78   52                                    130             2,3
+                                                                               KFZ    FSp 471      529                                           1000            100
+                                              297                                     NSp 552      428                                            980            100
+                                                                                      6h    2998 2731                                            5729            100
+                                                                               FZ     FSp    506   558                                           1064            100
+                                                                                      NSp    656   486                                           1142            100
+                                                                                      6h    3393 2912                                             6305           100
+                                                                               Q DTVw: ### 11703 12433
+
+841        413                                                   139           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                         552
+           158                                                   413           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+428
+           270                                                   270     822   Bemerkungen :
+                                                                               - Teilzählung - Zuf. OG+WG durch KP120 errechnet!
+                                                                               - Wetter früh 9ºC stark bewölkt, Regen;
+                                                                                 nachmittag 11ºC bewölkt, ab 17.00 Uhr leicht bewölkt bis sonnig, trocken
+
+       WEST                         Am Kanal                    OST                Sph-Beginn:       7.30    Uhr und   15.30   Uhr
+                                                                               SUMME Zufahrten: [FSp]: 1000 KFZ/h 8:00
+                                                                                                  (NSp):  980 KFZ/h 16:00
+                                                                                                    6h : 5729 KFZ
+                                                                               max. Sph /Zufahrt:   OST   578 KFZ/h 17:30
+                                                                                                             WEST        534 KFZ/h 7:30
+                                                                               DATUM :
+                                                                    980 KFZ/h 14.04.2016
+                                               Kfz-Stromverteilung in der NSp 124                     Am Kanal/Platz d.Einheit-Ost
+
+StromPlan (NSp)124kp4-16.xls                                  Seite 3
+

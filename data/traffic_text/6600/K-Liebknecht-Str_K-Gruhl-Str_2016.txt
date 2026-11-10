@@ -1,0 +1,176 @@
+         SVP, 461                                                                                                                                                     06.07.2016
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                                  RAD    FSp             76          39      22         34        171      30,1
+                                                                                                                        NSp             63          42      68         46        219      31,3
+                                  K.-Liebknecht-Str.                                                                    6h             333         233     323        208       1097      31,4
+                                           503          900                                                      NFZ    FSp              9         18      22           4         53      13,3
+                                                                                                                        NSp              7           9     16           8         40       8,3
+                                                                                                                        6h              68          65    111          50        294      12,2
+                                   21       435   47    397                                                      SV     FSp              3           4       9          2         18       4,5
+                                                                                                                        NSp              3           5       6          0         14       2,9
+                                                                                                                        6h              20          23      40          5         88       3,7
+                                                                                                                 KFZ FSp                71        104      97        126         398       100
+                                                                                                                        NSp             91         91     148        150         480       100
+
+
+
+
+                                                                                               Karl-Gruhl-Str.
+                                                                                                                        6h             503        585     689        625        2402       100
+
+
+
+
+       Spindelstr.
+                                                                                                                 FZ     FSp            147        143     119        160         569       100
+                     883   258                                             36                                           NSp            154        133     216        196         699       100
+                            35                                             164   585     OST                            6h             836         818   1012         833       3499       100
+
+WEST
+                     625   286                                             385                                   Q DTVw: 2,4          2115       2839    4261       2075
+                           304                                             623   1.208                           Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - ab 17.00 Uhr Unfall auf Nuthestraße
+                                                                                                                 - Wetter früh 14ºC bewölkt, trocken; nachm. 25ºC leicht bewölkt, trocken
+
+
+                                                                                                                     Sph-Beginn:      7:00    Uhr und    17:00 Uhr
+
+                                   1.124    73    326   290                                                      SUMME Zufahrten: [FSp] :                 398 KFZ/h         7:30
+                                                                                                                                              (NSp):      480 KFZ/h         17:30
+                                  1.813                                                                                               6h :               2402 KFZ
+                                                  689                                                            max. Sph /Zufahrt: NORD :                103 KFZ/h         16:00
+                                                  SÜD                                                                                OST :                107 KFZ/h         15:30
+                                  K.-Liebknecht-Str.                                                               DATUM :                    SÜD :        148 KFZ/h 17:30
+                                                                                         6h Werte 19.05.2016                                 WEST :        150 KFZ/h 17:30
+                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 660                          K.-Liebknecht-Str./K.-Gruhl-Str.
+
+
+
+         StromPlan660kp5-16.xls                                  Seite 1
+         SVP, 461                                                                                                                                                   06.07.2016
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                             RAD    FSp             76          39      22         34        171      30,1
+                                                                                                                      NSp             63          42      68         46        219      31,3
+                                        K.-Liebknecht-Str.                                                            6h             333         233     323        208       1097      31,4
+                                               71          114                                                 NFZ    FSp              9         18      22           4         53      13,3
+                                                                                                                      NSp              7           9     16           8         40       8,3
+                                                                                                                      6h              68          65    111          50        294      12,2
+                                        2      62    7     43                                                  SV     FSp              3           4       9          2         18       4,5
+                                                                                                                      NSp              3           5       6          0         14       2,9
+                                                                                                                      6h              20          23      40          5         88       3,7
+                                                                                                               KFZ FSp                71        104      97        126         398       100
+                                                                                                                      NSp             91         91     148        150         480       100
+
+
+
+
+                                                                                             Karl-Gruhl-Str.
+                                                                                                                      6h             503        585     689        625        2402       100
+
+
+
+
+       Spindelstr.
+                                                                                                               FZ     FSp            147        143     119        160         569       100
+                     165    39                                               3                                        NSp            154        133     216        196         699       100
+                            1                                               26   104   OST                            6h             836         818   1012         833       3499       100
+
+WEST
+                     126    26                                              75                                 Q DTVw: 2,4          2115       2839    4261       2075
+                            99                                              80   184                           Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - ab 17.00 Uhr Unfall auf Nuthestraße
+                                                                                                               - Wetter früh 14ºC bewölkt, trocken; nachm. 25ºC leicht bewölkt, trocken
+
+
+                                                                                                                   Sph-Beginn:      7:00    Uhr und    17:00 Uhr
+                                        236    11    39    47                                                  SUMME Zufahrten: [FSp] :                 398 KFZ/h         7:30
+                                                                                                                                            (NSp):      480 KFZ/h         17:30
+                                        333                                                                                         6h :               2402 KFZ
+                                                      97                                                       max. Sph /Zufahrt: NORD :                103 KFZ/h         16:00
+                                                     SÜD                                                                           OST :                107 KFZ/h         15:30
+                                        K.-Liebknecht-Str.                                                       DATUM :                    SÜD :        148 KFZ/h 17:30
+                                                                                       398 KFZ/h 19.05.2016                                WEST :        150 KFZ/h 17:30
+                                                                 Kfz-Stromverteilung in der FSp 660                          K.-Liebknecht-Str./K.-Gruhl-Str.
+
+
+
+         StromPlan (FSp)660kp5-16.xls                             Seite 2
+         SVP, 461                                                                                                                                                    06.07.2016
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                     Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                              RAD    FSp             76          39      22         34        171      30,1
+                                                                                                                       NSp             63          42      68         46        219      31,3
+                                        K.-Liebknecht-Str.                                                             6h             333         233     323        208       1097      31,4
+                                               91          170                                                  NFZ    FSp              9         18      22           4         53      13,3
+                                                                                                                       NSp              7           9     16           8         40       8,3
+                                                                                                                       6h              68          65    111          50        294      12,2
+                                        1      72    18    79                                                   SV     FSp              3           4       9          2         18       4,5
+                                                                                                                       NSp              3           5       6          0         14       2,9
+                                                                                                                       6h              20          23      40          5         88       3,7
+                                                                                                                KFZ FSp                71        104      97        126         398       100
+                                                                                                                       NSp             91         91     148        150         480       100
+
+
+
+
+                                                                                              Karl-Gruhl-Str.
+                                                                                                                       6h             503        585     689        625        2402       100
+
+
+
+
+       Spindelstr.
+                                                                                                                FZ     FSp            147        143     119        160         569       100
+                     196    46                                               6                                         NSp            154        133     216        196         699       100
+                            11                                              28    91    OST                            6h             836         818   1012         833       3499       100
+
+WEST
+                     150    85                                              57                                  Q DTVw: 2,4          2115       2839    4261       2075
+                            54                                              172   263                           Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - ab 17.00 Uhr Unfall auf Nuthestraße
+                                                                                                                - Wetter früh 14ºC bewölkt, trocken; nachm. 25ºC leicht bewölkt, trocken
+
+
+                                                                                                                    Sph-Beginn:      7:00    Uhr und    17:00 Uhr
+                                        183    17    62    69                                                   SUMME Zufahrten: [FSp] :                 398 KFZ/h         7:30
+                                                                                                                                             (NSp):      480 KFZ/h         17:30
+                                        331                                                                                          6h :               2402 KFZ
+                                                     148                                                        max. Sph /Zufahrt: NORD :                103 KFZ/h         16:00
+                                                     SÜD                                                                            OST :                107 KFZ/h         15:30
+                                        K.-Liebknecht-Str.                                                        DATUM :                    SÜD :        148 KFZ/h 17:30
+                                                                                        480 KFZ/h 19.05.2016                                WEST :        150 KFZ/h 17:30
+                                                                 Kfz-Stromverteilung in der NSp 660                           K.-Liebknecht-Str./K.-Gruhl-Str.
+
+
+
+         StromPlan (NSp)660kp5-16.xls                             Seite 3
+

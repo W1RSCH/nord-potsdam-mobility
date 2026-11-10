@@ -1,0 +1,146 @@
+SVP, 461                                                                                                                                                              11.01.2017
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD OST SÜD      SUMME %
+                                 NORD                                                                      RAD         FSp         52            2    22                     76      5,5
+
+                          Nedlitzer Str.                                                                          NSp     29                   4    47                      80  5,6
+                                                                                                                  6h     165                   7   140                     312 4,1
+                              3.517                                                                        NFZ    FSp 148                      0  126                     274 20,9
+                                              7.233                                                               NSp 100                      1  131                     232 17,4
+                                                                                                                  6h     594                 22   625                    1241 17,0
+                      3.488           29       3.716                                                       SV     FSp     43                   0   50                       93  7,1
+                                                                                                                  NSp     24                   0   34                       58  4,3
+                                                                                                                  6h     182                   2  214                      398 5,5
+
+
+
+
+                                                                                        Konrad-Zuse-Ring
+                                                                                                           KFZ FSp 843                         6  463                    1312 100
+                                                                                                                  NSp 534                    15   787                    1336 100
+                                                                                                                  6h    3517                 87 3688                     7292 100
+                                                                                                           FZ     FSp    895                   8  485                    1388 100
+                                                                  57                                              NSp    563                 19   834                    1416 100
+                                                                                  OST
+                                                                         87                                       6h    3682                  94 3828                     7604 100
+                                                                  30
+                                                                                                           Q DTVw: 2,4 16998                341 16934
+                                                                  58    145                                Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Teilzählung - Zuf. NG + SG errechnet durch KP230
+                                                                                                           - Wetter früh 12°C leicht bewölkt, trocken;
+
+                      3.518           3.659    29                                                            nachmittag 25ºC leicht bewölkt, trocken
+                                                                                                               Sph-Beginn: 7.00 Uhr und 15.30 Uhr
+                    7.206                                                                                  SUMME Zufahrten: [FSp]: 1312 KFZ/h 7:30
+                                    3.688                                                                                   (NSp): 1336 KFZ/h 16:00
+                                  SÜD                                                                                          6h : 7292 KFZ
+                          Nedlitzer Str.                                                                   max. Sph /Zufahrt: NORD                   843 KFZ/h 7:30
+                                                                                                                               OST                    30 KFZ/h 17:30
+                                                                                                            DATUM :            SÜD                   802 KFZ/h 17:30
+                                                                                  6h Werte 07.07.2016
+                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 229 Nedlitzer Str./Konrad-Zuse-Ring (Nord)
+
+StromPlan2302kp7-16.xls                                                 Seite 1
+SVP, 461                                                                                                                                                    11.01.2017
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt: NORD OST SÜD      SUMME %
+                                NORD                                                             RAD         FSp         52            2    22                     76      5,5
+
+                       Nedlitzer Str.                                                                   NSp     29                   4    47                      80  5,6
+                                                                                                        6h     165                   7   140                     312 4,1
+                            843                                                                  NFZ    FSp 148                      0  126                     274 20,9
+                                        1.306                                                           NSp 100                      1  131                     232 17,4
+                                                                                                        6h     594                 22   625                    1241 17,0
+                      837         6      463                                                     SV     FSp     43                   0   50                       93  7,1
+                                                                                                        NSp     24                   0   34                       58  4,3
+                                                                                                        6h     182                   2  214                      398 5,5
+
+
+
+
+                                                                              Konrad-Zuse-Ring
+                                                                                                 KFZ FSp 843                         6  463                    1312 100
+                                                                                                        NSp 534                    15   787                    1336 100
+                                                                                                        6h    3517                 87 3688                     7292 100
+                                                                                                 FZ     FSp    895                   8  485                    1388 100
+                                                         4                                              NSp    563                 19   834                    1416 100
+                                                                        OST
+                                                               6                                        6h    3682                  94 3828                     7604 100
+                                                         2
+                                                                                                 Q DTVw: 2,4 16998                341 16934
+                                                        10     16                                Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                                                                                 - Teilzählung - Zuf. NG + SG errechnet durch KP230
+                                                                                                 - Wetter früh 12°C leicht bewölkt, trocken;
+                      839         459    4                                                         nachmittag 25ºC leicht bewölkt, trocken
+                                                                                                     Sph-Beginn: 7.00 Uhr und 15.30 Uhr
+                    1.302                                                                        SUMME Zufahrten: [FSp]: 1312 KFZ/h 7:30
+                                   463                                                                            (NSp): 1336 KFZ/h 16:00
+                                SÜD                                                                                  6h : 7292 KFZ
+                       Nedlitzer Str.                                                            max. Sph /Zufahrt: NORD                   843 KFZ/h 7:30
+                                                                                                                     OST                    30 KFZ/h 17:30
+                                                                                                  DATUM :            SÜD                   802 KFZ/h 17:30
+                                                                  1.312 KFZ/h 07.07.2016
+                                                Kfz-Stromverteilung in der FSp 229 Nedlitzer Str./Konrad-Zuse-Ring (Nord)
+
+StromPlan (FSp)2302kp7-16.xls                                 Seite 2
+SVP, 461                                                                                                                                                    11.01.2017
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt: NORD OST SÜD      SUMME %
+                                NORD                                                             RAD         FSp         52            2    22                     76      5,5
+
+                       Nedlitzer Str.                                                                   NSp     29                   4    47                      80  5,6
+                                                                                                        6h     165                   7   140                     312 4,1
+                            534                                                                  NFZ    FSp 148                      0  126                     274 20,9
+                                        1.327                                                           NSp 100                      1  131                     232 17,4
+                                                                                                        6h     594                 22   625                    1241 17,0
+                      533         1      793                                                     SV     FSp     43                   0   50                       93  7,1
+                                                                                                        NSp     24                   0   34                       58  4,3
+                                                                                                        6h     182                   2  214                      398 5,5
+
+
+
+
+                                                                              Konrad-Zuse-Ring
+                                                                                                 KFZ FSp 843                         6  463                    1312 100
+                                                                                                        NSp 534                    15   787                    1336 100
+                                                                                                        6h    3517                 87 3688                     7292 100
+                                                                                                 FZ     FSp    895                   8  485                    1388 100
+                                                         8                                              NSp    563                 19   834                    1416 100
+                                                                        OST
+                                                               15                                       6h    3682                  94 3828                     7604 100
+                                                         7
+                                                                                                 Q DTVw: 2,4 16998                341 16934
+                                                         3     18                                Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                                                                                 - Teilzählung - Zuf. NG + SG errechnet durch KP230
+                                                                                                 - Wetter früh 12°C leicht bewölkt, trocken;
+                      540         785    2                                                         nachmittag 25ºC leicht bewölkt, trocken
+                                                                                                     Sph-Beginn: 7.00 Uhr und 15.30 Uhr
+                    1.327                                                                        SUMME Zufahrten: [FSp]: 1312 KFZ/h 7:30
+                                   787                                                                            (NSp): 1336 KFZ/h 16:00
+                                SÜD                                                                                  6h : 7292 KFZ
+                       Nedlitzer Str.                                                            max. Sph /Zufahrt: NORD                   843 KFZ/h 7:30
+                                                                                                                     OST                    30 KFZ/h 17:30
+                                                                                                  DATUM :            SÜD                   802 KFZ/h 17:30
+                                                                  1.336 KFZ/h 07.07.2016
+                                                Kfz-Stromverteilung in der NSp 229 Nedlitzer Str./Konrad-Zuse-Ring (Nord)
+
+StromPlan (NSp)2302kp7-16.xls                                 Seite 3
+

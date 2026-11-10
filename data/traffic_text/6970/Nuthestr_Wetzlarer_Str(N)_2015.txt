@@ -1,0 +1,126 @@
+   Landeshauptstadt Potsdam                                                                                                                                21.02.2019
+   Bereich Verkehrsentwicklung
+                                                (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                         Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                    RAD         FSp           8           0     16                    24     2,5
+                                                                                                                NSp          21           0     13                    34     3,3
+                                                                                                                6h           80           0     66                   146     2,6
+
+F.-Zubeil-Str.                                                           F.-Zubeil-Str. NFZ                     FSp         68       123        50                 241      26,1
+                                                                                                                NSp         59        83        63                 205      20,4
+                                                                                                                6h         280       580       304                1164      21,0
+                     WEST                                           OST                             SV          FSp         16        40        18                  74       8,0
+                                                                                                                NSp         10        25         7                  42       4,2
+                                                                                                                6h          59       178        68                 305       5,5
+                                                                                                    KFZ         FSp        226       521       178                 925       100
+
+3.197     1.651                                                                  538                            NSp        271       388       344                1003       100
+                                                                                            1.467
+                                                                                 929                            6h       1467       2526      1546                5539       100
+
+          1.144                                                                                     FZ          FSp        234        521      194                  949      100
+1.546
+           402                                                                   2.557      4.024          NSp            292        388       357                 1037      100
+                                                                                                           6h            1547       2526      1612                 5685      100
+                                                                                                    Q DTVw: 2,4          9456       9064      7513
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+
+                                  1.331    1.113   1.413
+                                                                                                    - Baustelle Nuthestraße in beiden Richtungen
+                                                                                                    - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+                                 3.857                                                                   Sph-Beginn:       7.30 Uhr und       15.00 Uhr
+                                             2.526                                                  SUMME Zufahrten: [FSp]:                    925 KFZ/h 8:00
+                                  Nuthestr.                                                                            (NSp): 1003 KFZ/h                      15:30
+                                                                                                                         6h : 5539 KFZ
+                                          SÜD                                                       max. Sph /Zufahrt:   OST   296 KFZ/h                      17:30
+                                                                                                                         SÜD   521 KFZ/h                      8:00
+                                                                                                     DATUM :            WEST   347 KFZ/h                      16:00
+                                                                                         6h Werte 11.06.2015
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 697                               Nuthestr. / F.-Zubeil-Str. (N)
+   StromPlan697kp6-15.xlsx                                             Seite 1
+   Landeshauptstadt Potsdam                                                                                                                         21.02.2019
+   Bereich Verkehrsentwicklung
+                                               (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp           8           0     16                    24     2,5
+                                                                                                         NSp          21           0     13                    34     3,3
+                                                                                                         6h           80           0     66                   146     2,6
+
+F.-Zubeil-Str.                                                          F.-Zubeil-Str. NFZ               FSp         68       123        50                 241      26,1
+                                                                                                         NSp         59        83        63                 205      20,4
+                                                                                                         6h         280       580       304                1164      21,0
+                     WEST                                          OST                       SV          FSp         16        40        18                  74       8,0
+                                                                                                         NSp         10        25         7                  42       4,2
+                                                                                                         6h          59       178        68                 305       5,5
+                                                                                             KFZ         FSp        226       521       178                 925       100
+
+ 449       271                                                                   86                      NSp        271       388       344                1003       100
+                                                                                       226
+                                                                                140                      6h       1467       2526      1546                5539       100
+
+           140                                                                               FZ          FSp        234        521      194                  949      100
+ 178
+            38                                                                  476    702          NSp            292        388       357                 1037      100
+                                                                                                    6h            1547       2526      1612                 5685      100
+                                                                                             Q DTVw: 2,4          9456       9064      7513
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                   178    185     336                                        - Baustelle Nuthestraße in beiden Richtungen
+                                                                                             - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+                                   699                                                            Sph-Beginn:       7.30 Uhr und       15.00 Uhr
+                                               521                                           SUMME Zufahrten: [FSp]:                    925 KFZ/h 8:00
+                                   Nuthestr.                                                                    (NSp): 1003 KFZ/h                      15:30
+                                                                                                                  6h : 5539 KFZ
+                                         SÜD                                                 max. Sph /Zufahrt:   OST   296 KFZ/h                      17:30
+                                                                                                                  SÜD   521 KFZ/h                      8:00
+                                                                                              DATUM :            WEST   347 KFZ/h                      16:00
+                                                                                  925 KFZ/h 11.06.2015
+                                                        Kfz-Stromverteilung in der FSp 697                      Nuthestr. / F.-Zubeil-Str. (N)
+   StromPlan (FSp)697kp6-15.xlsx                                      Seite 2
+   Landeshauptstadt Potsdam                                                                                                                         21.02.2019
+   Bereich Verkehrsentwicklung
+                                               (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp           8           0     16                    24     2,5
+                                                                                                         NSp          21           0     13                    34     3,3
+                                                                                                         6h           80           0     66                   146     2,6
+
+F.-Zubeil-Str.                                                          F.-Zubeil-Str. NFZ               FSp         68       123        50                 241      26,1
+                                                                                                         NSp         59        83        63                 205      20,4
+                                                                                                         6h         280       580       304                1164      21,0
+                     WEST                                          OST                       SV          FSp         16        40        18                  74       8,0
+                                                                                                         NSp         10        25         7                  42       4,2
+                                                                                                         6h          59       178        68                 305       5,5
+                                                                                             KFZ         FSp        226       521       178                 925       100
+
+ 630       286                                                                   80                      NSp        271       388       344                1003       100
+                                                                                       271
+                                                                                191                      6h       1467       2526      1546                5539       100
+
+           247                                                                               FZ          FSp        234        521      194                  949      100
+ 344
+            97                                                                  429    700          NSp            292        388       357                 1037      100
+                                                                                                    6h            1547       2526      1612                 5685      100
+                                                                                             Q DTVw: 2,4          9456       9064      7513
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                   288    206     182                                        - Baustelle Nuthestraße in beiden Richtungen
+                                                                                             - Wetter früh 12°C sonnig, trocken; nachmittag 26°C sonnig, trocken
+                                   676                                                            Sph-Beginn:       7.30 Uhr und       15.00 Uhr
+                                               388                                           SUMME Zufahrten: [FSp]:                    925 KFZ/h 8:00
+                                   Nuthestr.                                                                    (NSp): 1003 KFZ/h                      15:30
+                                                                                                                  6h : 5539 KFZ
+                                         SÜD                                                 max. Sph /Zufahrt:   OST   296 KFZ/h                      17:30
+                                                                                                                  SÜD   521 KFZ/h                      8:00
+                                                                                              DATUM :            WEST   347 KFZ/h                      16:00
+                                                                                1.003 KFZ/h 11.06.2015
+                                                        Kfz-Stromverteilung in der NSp 697                      Nuthestr. / F.-Zubeil-Str. (N)
+   StromPlan (NSp)697kp6-15.xlsx                                      Seite 3
+

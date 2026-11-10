@@ -1,0 +1,137 @@
+                                                                                                                   12.09.2014
+
+
+
+
+                                                                                    FAHRZEUG-VERTEILUNG
+                                                 NG                                   NG  SG WEST     SUMME %
+                                     Am Neuen Garten             RAD        FSp       17         15       5                 37    2,5
+
+                                                                            NSp         8       17        3                 28    1,9
+                                                                            6h         71      102       32                205    2,5
+                                                 6.769           NFZ        FSp       57      190       16                263    18,4
+                                                                            NSp       38      106       11                155    11,0
+                                         1.888           4.881              6h       271      840      115               1226    15,2
+                                                                 SV         FSp       18       46         7                 71    5,0
+                                                                            NSp       15       24         0                 39    2,8
+                                                                            6h       112      277       12                 401    5,0
+                                                                 KFZ        FSp      385      813      228               1426    100
+                                                                            NSp      310      867      234               1411    100
+
+
+
+
+       Behlertstr.
+                                                                            6h      1888     4817     1352               8057    100
+                              64                                 FZ         FSp      402      828      233               1463    100
+                     1.352                                                  NSp      318      884      237               1439    100
+
+WEST                         1.288                                          6h      1959     4919     1384                8262   100
+                                                                 Bemerkungen :
+                                                                 stetigeStauerscheinungen in R. Am Neuen Garten
+                                                                 + nachmittag in Behlertstraße
+                                                                 - Wetter: früh 17C°, nachmittag 20C° - Regentag
+
+
+                                                                      Sph-Beginn:       7.00 Uhr und 16.30 Uhr
+
+                                         3.176           4.817   SUMME Zufahrten: FSp : 1426 KFZ/h 7:30
+                                                                                    NSp : 1411 KFZ/h 17:00
+                                                 7.993                               6h : 8057 KFZ
+                                                                 max. Sph /Zufahrt:   NG   385 KFZ/h 7:30
+                                                  SG                                  SG   867 KFZ/h 17:00
+                                        Behlertstr.                DATUM :                  WEST       246 KFZ/h 16:30
+                                                                 26.08.2010
+                                                                  182            Behlertstr./Am Neuen Garten
+   SVP, 461                                                                                             StromPlan182kp8-10.xls
+                                                                                                                                12.09.2014
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                               NG                                                NG  SG WEST     SUMME %
+                                 Am Neuen Garten                            RAD        FSp       17         15        5                 37    2,5
+
+                                                                                       NSp         8       17         3                 28    1,9
+                                                                                       6h         71      102        32                205    2,5
+                                              1.211                         NFZ        FSp       57      190        16                263    18,4
+                                                                                       NSp       38      106        11                155    11,0
+                                     385              826                              6h       271      840       115               1226    15,2
+                                                                            SV         FSp       18       46          7                 71    5,0
+                                                                                       NSp       15       24          0                 39    2,8
+                                                                                       6h       112      277        12                 401    5,0
+                                                                            KFZ        FSp      385      813       228               1426    100
+                                                                                       NSp      310      867       234               1411    100
+
+
+
+
+       Behlertstr.
+                                                                                       6h      1888     4817      1352               8057    100
+                           13                                               FZ         FSp      402      828       233               1463    100
+                     228                                                               NSp      318      884       237               1439    100
+
+WEST                       215                                                         6h      1959     4919      1384                8262   100
+                                                                            Bemerkungen :
+                                                                            stetigeStauerscheinungen in R. Am Neuen Garten
+                                                                            + nachmittag in Behlertstraße
+                                                                            - Wetter: früh 17C°, nachmittag 20C° - Regentag
+
+
+                                                                                 Sph-Beginn:       7.00 Uhr und 16.30 Uhr
+                                     600              813                   SUMME Zufahrten: FSp : 1426 KFZ/h 7:30
+                                                                                               NSp : 1411 KFZ/h 17:00
+                                              1.413                                             6h : 8057 KFZ
+                                                                            max. Sph /Zufahrt:   NG   385 KFZ/h 7:30
+                                               SG                                                SG   867 KFZ/h 17:00
+                                    Behlertstr.                               DATUM :                  WEST        246 KFZ/h 16:30
+                                                             1426 KFZ/h     26.08.2010
+                                           Kfz-Stromverteilung in der FSp    182            Behlertstr./Am Neuen Garten
+   SVP, 461                                                                                                      StromPlanFsp182kp8-10.xls
+                                                                                                                                12.09.2014
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                               NG                                                NG  SG WEST     SUMME %
+                                 Am Neuen Garten                            RAD        FSp       17         15        5                 37    2,5
+
+                                                                                       NSp         8       17         3                 28    1,9
+                                                                                       6h         71      102        32                205    2,5
+                                              1.189                         NFZ        FSp       57      190        16                263    18,4
+                                                                                       NSp       38      106        11                155    11,0
+                                     310              879                              6h       271      840       115               1226    15,2
+                                                                            SV         FSp       18       46          7                 71    5,0
+                                                                                       NSp       15       24          0                 39    2,8
+                                                                                       6h       112      277        12                 401    5,0
+                                                                            KFZ        FSp      385      813       228               1426    100
+                                                                                       NSp      310      867       234               1411    100
+
+
+
+
+       Behlertstr.
+                                                                                       6h      1888     4817      1352               8057    100
+                           12                                               FZ         FSp      402      828       233               1463    100
+                     234                                                               NSp      318      884       237               1439    100
+
+WEST                       222                                                         6h      1959     4919      1384                8262   100
+                                                                            Bemerkungen :
+                                                                            stetigeStauerscheinungen in R. Am Neuen Garten
+                                                                            + nachmittag in Behlertstraße
+                                                                            - Wetter: früh 17C°, nachmittag 20C° - Regentag
+
+
+                                                                                 Sph-Beginn:       7.00 Uhr und 16.30 Uhr
+                                     532              867                   SUMME Zufahrten: FSp : 1426 KFZ/h 7:30
+                                                                                               NSp : 1411 KFZ/h 17:00
+                                              1.399                                             6h : 8057 KFZ
+                                                                            max. Sph /Zufahrt:   NG   385 KFZ/h 7:30
+                                               SG                                                SG   867 KFZ/h 17:00
+                                    Behlertstr.                               DATUM :                  WEST        246 KFZ/h 16:30
+                                                             1411 KFZ/h     26.08.2010
+                                           Kfz-Stromverteilung in der NSp    182            Behlertstr./Am Neuen Garten
+   SVP, 461                                                                                                      StromPlanNsp182kp8-10.xls
+

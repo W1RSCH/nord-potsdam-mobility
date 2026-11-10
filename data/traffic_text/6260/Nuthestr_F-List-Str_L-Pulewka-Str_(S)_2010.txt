@@ -1,0 +1,165 @@
+              SVP, 461                                                                                                                                                            13.02.2013
+
+
+
+
+                                                                                                                                                  FAHRZEUG-VERTEILUNG
+       Abfahrt Nuthestr.                            NORD                                                                                          NORD SÜD WEST     SUMME %
+                                                                                                                               RAD        FSp        70       58      12                   140       8,4
+                         255                      F.-List-Str.                                                                            NSp        65     105       34                   204      11,5
+                                  77                                                                                                      6h        338      491     129                   958      10,0
+                                  63                 4.625            5.713                                                    NFZ        FSp       90       48       21                  159       10,4
+                                                                                                                                          NSp       60       48       13                  121        7,7
+                                 115                                                                                                      6h       438      231       84                   753       8,7
+                                          864         2.935    826     1.088                                                   SV         FSp       32       19        4                    55       3,6
+                                                                                                                                          NSp       10       14        6                    30       1,9
+                                                                                                                                          6h       133        83      36                   252       2,9
+
+
+
+
+                                                                                                      Auffahrt zur Nuthestr.
+                                                                                                                               KFZ        FSp      895      480     150                  1525       100
+                                                                                                                                          NSp      652      695     221                  1568       100
+
+
+
+
+       L.-Pulewka-Str.
+                                                                                                                                          6h      4625     3104      922                 8651       100
+                                                                                                                               FZ         FSp      965      538      162                 1665       100
+                         1.958   1.036                                                                                                    NSp      717      800      255                 1772       100
+                                  312                                                           OST                                       6h      4963     3595     1051                  9609      100
+
+WEST
+                         922      534                                                   3.708                                  Bemerkungen :
+                                   76                                                                                          Wetter: früh 14°C,leicht bewölkt, trocken; nachmittag: 26°C sonnig
+
+
+
+
+                                                                                                                                    Sph-Beginn:      7.00 Uhr und 16.00 Uhr
+                                                                                                                               SUMME Zufahrten: [FSp] :            1525 KFZ/h        7:30
+                                          3.011       57       699     2.348                                                                              (NSp):   1568 KFZ/h        16:30
+                                                                                                                                                    6h :           8651 KFZ
+                                         6.115                                                                                 max. Sph /Zufahrt: NORD :            895 KFZ/h        7:30
+                                                              3.104                                                                                SÜD :            695 KFZ/h        16:30
+                                                              SÜD                                                               DATUM :           WEST :            221 KFZ/h        16:30
+                                                                                                                               03.06.2010
+                                                     F.-List-Str.                                                               626            Nuthestr./F.-List-Str./L.-Pulewka-Str.(S)
+
+
+
+
+              StromPlan626kp6-10.xls                                           Seite1
+              SVP, 461                                                                                                                                                                13.02.2013
+
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+       Abfahrt Nuthestr.                             NORD                                                                                             NORD SÜD WEST     SUMME %
+                                                                                                                                   RAD        FSp        70       58      12                   140       8,4
+                         34                        F.-List-Str.                                                                               NSp        65     105       34                   204      11,5
+                                9                                                                                                             6h        338      491     129                   958      10,0
+                                12                    895          1.059                                                           NFZ        FSp       90       48       21                  159       10,4
+                                                                                                                                              NSp       60       48       13                  121        7,7
+                                13                                                                                                            6h       438      231       84                   753       8,7
+                                             246      500   149     164                                                            SV         FSp       32       19        4                    55       3,6
+                                                                                                                                              NSp       10       14        6                    30       1,9
+                                                                                                                                              6h       133        83      36                   252       2,9
+
+
+
+
+                                                                                                          Auffahrt zur Nuthestr.
+                                                                                                                                   KFZ        FSp      895      480     150                  1525       100
+                                                                                                                                              NSp      652      695     221                  1568       100
+
+
+
+
+       L.-Pulewka-Str.
+                                                                                                                                              6h      4625     3104      922                 8651       100
+                                                                                                                                   FZ         FSp      965      538      162                 1665       100
+                         416   266                                                                                                            NSp      717      800      255                 1772       100
+                                58                                                                  OST                                       6h      4963     3595     1051                  9609      100
+
+WEST
+                         150    87                                                       612                                       Bemerkungen :
+                                5                                                                                                  Wetter: früh 14°C,leicht bewölkt, trocken; nachmittag: 26°C sonnig
+
+
+
+
+                                                                                                                                        Sph-Beginn:      7.00 Uhr und 16.00 Uhr
+                                             505      7     97      376                                                            SUMME Zufahrten: [FSp] :  1525 KFZ/h                  7:30
+                                                                                                                                                             1568 KFZ/h
+                                                                                                                                                              (NSp):                     16:30
+                                             985                                                                                                        6h : 8651 KFZ
+                                                            480                                                                    max. Sph /Zufahrt: NORD :  895 KFZ/h                  7:30
+                                                            SÜD                                                                                        SÜD :  695 KFZ/h                  16:30
+
+                                                                                                                                     DATUM :               WEST :        221 KFZ/h 16:30
+                                                    F.-List-Str.                               1.525 KFZ/h                         03.06.2010
+                                                                           Kfz-Stromverteilung in der FSp                           626            Nuthestr./F.-List-Str./L.-Pulewka-Str.(S)
+
+
+
+              StromPlan (FSp)626kp6-10.xls                                      Seite2
+              SVP, 461                                                                                                                                                                13.02.2013
+
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+       Abfahrt Nuthestr.                              NORD                                                                                            NORD SÜD WEST     SUMME %
+                                                                                                                                   RAD        FSp        70       58      12                   140       8,4
+                         56                         F.-List-Str.                                                                              NSp        65     105       34                   204      11,5
+                                19                                                                                                            6h        338      491     129                   958      10,0
+                                13                     652          907                                                            NFZ        FSp       90       48       21                  159       10,4
+                                                                                                                                              NSp       60       48       13                  121        7,7
+                                24                                                                                                            6h       438      231       84                   753       8,7
+                                              150      322   180    255                                                            SV         FSp       32       19        4                    55       3,6
+                                                                                                                                              NSp       10       14        6                    30       1,9
+                                                                                                                                              6h       133        83      36                   252       2,9
+
+
+
+
+                                                                                                          Auffahrt zur Nuthestr.
+                                                                                                                                   KFZ        FSp      895      480     150                  1525       100
+                                                                                                                                              NSp      652      695     221                  1568       100
+
+
+
+
+       L.-Pulewka-Str.
+                                                                                                                                              6h      4625     3104      922                 8651       100
+                                                                                                                                   FZ         FSp      965      538      162                 1665       100
+                         410   189                                                                                                            NSp      717      800      255                 1772       100
+                                69                                                                  OST                                       6h      4963     3595     1051                  9609      100
+
+WEST
+                         221   137                                                       830                                       Bemerkungen :
+                                15                                                                                                 Wetter: früh 14°C,leicht bewölkt, trocken; nachmittag: 26°C sonnig
+
+
+
+
+                                                                                                                                        Sph-Beginn:      7.00 Uhr und 16.00 Uhr
+                                              337      15    167    513                                                            SUMME Zufahrten: [FSp] :  1525 KFZ/h                  7:30
+                                                                                                                                                             1568 KFZ/h
+                                                                                                                                                              (NSp):                     16:30
+                                             1.032                                                                                                      6h : 8651 KFZ
+                                                             695                                                                   max. Sph /Zufahrt: NORD :  895 KFZ/h                  7:30
+                                                             SÜD                                                                                       SÜD :  695 KFZ/h                  16:30
+
+                                                                                                                                     DATUM :               WEST :        221 KFZ/h 16:30
+                                                     F.-List-Str.                              1.568 KFZ/h                         03.06.2010
+                                                                          Kfz-Stromverteilung in der NSp                            626            Nuthestr./F.-List-Str./L.-Pulewka-Str.(S)
+
+
+
+              StromPlan (NSp)626kp6-10.xls                                      Seite3
+

@@ -1,0 +1,128 @@
+  SVP, 461                                                                                                                                            13.02.2017
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                    Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                               RAD         FSp          11           0       8                   19     1,4
+                                                                                                           NSp           9           0       5                   14     1,0
+                                                                                                           6h           31           0      30                   61     0,8
+
+Potsdamer Chaussee                                   Potsdamer Chaussee NFZ                                FSp         66        44        88                 198      15,1
+                                                                                                           NSp         48        37        47                 132       9,6
+                                                                                                           6h         300       274       426                1000      12,9
+                    WEST                                       OST                             SV          FSp         30        18        13                  61       4,6
+                                                                                                           NSp         12         5         6                  23       1,7
+                                                                                                           6h          92        74        73                 239       3,1
+                                                                                               KFZ         FSp        329       409       575                1313       100
+
+5.763    2.741                                                              1.449                          NSp        564       339       478                1381       100
+                                                                                       2.450
+                                                                            1.001                          6h       2450       2279      3022                7751       100
+
+         1.658                                                                                 FZ          FSp        340        409      583                 1332      100
+3.022
+         1.364                                                              2.645      5.095          NSp    573   339   483                                  1395      100
+                                                                                                      6h    2481 2279 3052                                    7812      100
+                                                                                               Q DTVw: 2,2 11209 10217 12679
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Bemerkungen :
+
+                             2.365    1.292   987                                              - Wetter früh 13°C bewölkt, trocken; nachmittag 17°C bewölkt, trocken
+                                                                                                    Sph-Beginn:       7.30 Uhr und       16.30 Uhr
+                            4.644                                                              SUMME Zufahrten: [FSp]:                   1313 KFZ/h 8:00
+                                        2.279                                                                   (NSp):                   1381 KFZ/h 17:00
+                           Ritterfelddamm                                                                                     6h :       7751 KFZ
+                                                                                               max. Sph /Zufahrt:             OST         588 KFZ/h 16:30
+                                     SÜD                                                                                      SÜD         437 KFZ/h 9:30
+                                                                                                 DATUM :                     WEST         635 KFZ/h 7:30
+                                                                                    6h Werte 25.06.2016
+                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 297                           Potsdamer Ch./Ritterfelddamm
+
+  StromPlan297kp5-16.xls                                          Seite 1
+  SVP, 461                                                                                                                                          13.02.2017
+
+
+                                               (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp          11           0       8                   19     1,4
+                                                                                                         NSp           9           0       5                   14     1,0
+                                                                                                         6h           31           0      30                   61     0,8
+
+Potsdamer Chaussee                                        Potsdamer Chaussee NFZ                         FSp         66        44        88                 198      15,1
+                                                                                                         NSp         48        37        47                 132       9,6
+                                                                                                         6h         300       274       426                1000      12,9
+                    WEST                                           OST                       SV          FSp         30        18        13                  61       4,6
+                                                                                                         NSp         12         5         6                  23       1,7
+                                                                                                         6h          92        74        73                 239       3,1
+                                                                                             KFZ         FSp        329       409       575                1313       100
+
+ 966      391                                                                   199                      NSp        564       339       478                1381       100
+                                                                                       329
+                                                                                130                      6h       2450       2279      3022                7751       100
+
+          324                                                                                FZ          FSp        340        409      583                 1332      100
+ 575
+          251                                                                   541    870          NSp    573   339   483                                  1395      100
+                                                                                                    6h    2481 2279 3052                                    7812      100
+                                                                                             Q DTVw: 2,2 11209 10217 12679
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                   381    192     217                                        - Wetter früh 13°C bewölkt, trocken; nachmittag 17°C bewölkt, trocken
+                                                                                                  Sph-Beginn:       7.30 Uhr und       16.30 Uhr
+                                   790                                                       SUMME Zufahrten: [FSp]:                   1313 KFZ/h 8:00
+                                               409                                                            (NSp):                   1381 KFZ/h 17:00
+                                 Ritterfelddamm                                                                             6h :       7751 KFZ
+                                                                                             max. Sph /Zufahrt:             OST         588 KFZ/h 16:30
+                                         SÜD                                                                                SÜD         437 KFZ/h 9:30
+                                                                                               DATUM :                     WEST         635 KFZ/h 7:30
+                                                                                1.313 KFZ/h 25.06.2016
+                                                        Kfz-Stromverteilung in der FSp 297                  Potsdamer Ch./Ritterfelddamm
+
+  StromPlan (FSp)297kp5-16.xls                                        Seite 2
+  SVP, 461                                                                                                                                          13.02.2017
+
+
+                                               (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                             RAD         FSp          11           0       8                   19     1,4
+                                                                                                         NSp           9           0       5                   14     1,0
+                                                                                                         6h           31           0      30                   61     0,8
+
+Potsdamer Chaussee                                       Potsdamer Chaussee NFZ                          FSp         66        44        88                 198      15,1
+                                                                                                         NSp         48        37        47                 132       9,6
+                                                                                                         6h         300       274       426                1000      12,9
+                    WEST                                           OST                       SV          FSp         30        18        13                  61       4,6
+                                                                                                         NSp         12         5         6                  23       1,7
+                                                                                                         6h          92        74        73                 239       3,1
+                                                                                             KFZ         FSp        329       409       575                1313       100
+
+1.059     581                                                                   340                      NSp        564       339       478                1381       100
+                                                                                       564
+                                                                                224                      6h       2450       2279      3022                7751       100
+
+          258                                                                                FZ          FSp        340        409      583                 1332      100
+ 478
+          220                                                                   356    920          NSp    573   339   483                                  1395      100
+                                                                                                    6h    2481 2279 3052                                    7812      100
+                                                                                             Q DTVw: 2,2 11209 10217 12679
+                                                                                             Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                   444    241     98                                         - Wetter früh 13°C bewölkt, trocken; nachmittag 17°C bewölkt, trocken
+                                                                                                  Sph-Beginn:       7.30 Uhr und       16.30 Uhr
+                                   783                                                       SUMME Zufahrten: [FSp]:                   1313 KFZ/h 8:00
+                                               339                                                            (NSp):                   1381 KFZ/h 17:00
+                                 Ritterfelddamm                                                                             6h :       7751 KFZ
+                                                                                             max. Sph /Zufahrt:             OST         588 KFZ/h 16:30
+                                         SÜD                                                                                SÜD         437 KFZ/h 9:30
+                                                                                               DATUM :                     WEST         635 KFZ/h 7:30
+                                                                                1.381 KFZ/h 25.06.2016
+                                                       Kfz-Stromverteilung in der NSp 297                   Potsdamer Ch./Ritterfelddamm
+
+  StromPlan (NSp)297kp5-16.xls                                        Seite 3
+

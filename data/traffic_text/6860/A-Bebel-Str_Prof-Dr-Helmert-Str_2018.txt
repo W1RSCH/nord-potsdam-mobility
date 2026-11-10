@@ -1,0 +1,153 @@
+Landeshauptstadt Potsdam                                                                                                                                                                      12.08.2019
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                           Zufahrt:            NORD            OST     SÜD             SUMME %
+                                          NORD                                                                           RAD   FSp               84              6      91                   181        24,3
+
+                                  A.-Bebel-Str.                                                                                 NSp                  83          12       76                171         21,2
+                                                                                                                                6h                  407           78     367                 852        20,9
+                                       1.305                                                                             NFZ    FSp                 21           16      64                 101         17,9
+                                                   2.807                                                                        NSp                 29           12      38                  79         12,4
+                                                                                                                                6h                 156           94     256                 506         15,7
+
+                               1.244       61       1.502                                                                SV     FSp                   7          12      15                  34          6,0
+                                                                                                                                NSp                   3          11      13                  27          4,3
+                                                                                                                                6h                   35          74       81                190          5,9
+
+
+
+
+                                                                                                Prof.-Dr.-Helmert-Str.
+                                                                                                                         KFZ FSp                   228           30     306                 564         100
+                                                                                                                                NSp                253           60     322                 635         100
+                                                                                                                                6h                1305          259    1666                3230         100
+                                                                                                                         FZ     FSp                312           36     397                 745         100
+                                                                        55                                                      NSp                336           72     398                 806         100
+                                                                               259
+                                                                        204               OST                                   6h                1712          337    2033                4082         100
+                                                                                                                         Q DTVw: 2,4              6596         1267    7318
+                                                                        280    539                                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - Teilzählung - die Zufahrten NG + SG wurden durch KP640 errechnet
+                                                                                                                         - Wetter früh 16ºC sonnig bis bewölkt, trocken;
+
+                               1.448       1.447    219                                                                   nachm. 26ºC leicht bewölkt, trocken
+
+
+                              3.114                                                                                          Sph-Beginn:        7.30      Uhr und      16.00   Uhr
+                                             1.666                                                                       SUMME Zufahrten:                 [FSp]:        564 KFZ/h 8:00
+                                           SÜD                                                                                                            (NSp):        635 KFZ/h 16:30
+                                  A.-Bebel-Str.                                                                                                             6h :       3230 KFZ
+                                                                                                                         max. Sph /Zufahrt:               NORD          255 KFZ/h 16:00
+                                                                                                                                                           OST           62 KFZ/h 16:00
+                                                                                                                           DATUM :                         SÜD          322 KFZ/h 16:30
+                                                                                           6h Werte 28.06.2018
+                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 686                                      A.-Bebel-Str./Prof.-Dr.-Helmert-Str.
+
+StromPlan686kp6-18.xls                                                          Seite 1
+Landeshauptstadt Potsdam                                                                                                                                                           12.08.2019
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt:            NORD            OST     SÜD             SUMME %
+                                       NORD                                                                   RAD   FSp               84              6      91                   181        24,3
+
+                                 A.-Bebel-Str.                                                                       NSp                  83          12       76                171         21,2
+                                                                                                                     6h                  407           78     367                 852        20,9
+                                     228                                                                      NFZ    FSp                 21           16      64                 101         17,9
+                                                 497                                                                 NSp                 29           12      38                  79         12,4
+                                                                                                                     6h                 156           94     256                 506         15,7
+                               218         10    269                                                          SV     FSp                   7          12      15                  34          6,0
+                                                                                                                     NSp                   3          11      13                  27          4,3
+                                                                                                                     6h                   35          74       81                190          5,9
+
+
+
+
+                                                                                     Prof.-Dr.-Helmert-Str.
+                                                                                                              KFZ FSp                   228           30     306                 564         100
+                                                                                                                     NSp                253           60     322                 635         100
+                                                                                                                     6h                1305          259    1666                3230         100
+                                                                                                              FZ     FSp                312           36     397                 745         100
+                                                                9                                                    NSp                336           72     398                 806         100
+                                                                     30
+                                                               21              OST                                   6h                1712          337    2033                4082         100
+                                                                                                              Q DTVw: 2,4              6596         1267    7318
+                                                               56    86                                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Teilzählung - die Zufahrten NG + SG wurden durch KP640 errechnet
+                                                                                                              - Wetter früh 16ºC sonnig bis bewölkt, trocken;
+                               239         260   46                                                            nachm. 26ºC leicht bewölkt, trocken
+
+
+                               545                                                                                Sph-Beginn:        7.30      Uhr und      16.00   Uhr
+                                          306                                                                 SUMME Zufahrten:                 [FSp]:        564 KFZ/h 8:00
+                                       SÜD                                                                                                     (NSp):        635 KFZ/h 16:30
+                                 A.-Bebel-Str.                                                                                                   6h :       3230 KFZ
+                                                                                                              max. Sph /Zufahrt:               NORD          255 KFZ/h 16:00
+                                                                                                                                                OST           62 KFZ/h 16:00
+                                                                                                                DATUM :                         SÜD          322 KFZ/h 16:30
+                                                                           564 KFZ/h 28.06.2018
+                                                       Kfz-Stromverteilung in der FSp 686                                       A.-Bebel-Str./Prof.-Dr.-Helmert-Str.
+
+StromPlan (FSp)686kp6-18.xls                                         Seite 2
+Landeshauptstadt Potsdam                                                                                                                                                           12.08.2019
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt:            NORD            OST     SÜD             SUMME %
+                                       NORD                                                                   RAD   FSp               84              6      91                   181        24,3
+
+                                 A.-Bebel-Str.                                                                       NSp                  83          12       76                171         21,2
+                                                                                                                     6h                  407           78     367                 852        20,9
+                                     253                                                                      NFZ    FSp                 21           16      64                 101         17,9
+                                                 558                                                                 NSp                 29           12      38                  79         12,4
+                                                                                                                     6h                 156           94     256                 506         15,7
+                               239         14    305                                                          SV     FSp                   7          12      15                  34          6,0
+                                                                                                                     NSp                   3          11      13                  27          4,3
+                                                                                                                     6h                   35          74       81                190          5,9
+
+
+
+
+                                                                                     Prof.-Dr.-Helmert-Str.
+                                                                                                              KFZ FSp                   228           30     306                 564         100
+                                                                                                                     NSp                253           60     322                 635         100
+                                                                                                                     6h                1305          259    1666                3230         100
+                                                                                                              FZ     FSp                312           36     397                 745         100
+                                                               13                                                    NSp                336           72     398                 806         100
+                                                                     60
+                                                               47              OST                                   6h                1712          337    2033                4082         100
+                                                                                                              Q DTVw: 2,4              6596         1267    7318
+                                                               44    104                                      Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Teilzählung - die Zufahrten NG + SG wurden durch KP640 errechnet
+                                                                                                              - Wetter früh 16ºC sonnig bis bewölkt, trocken;
+                               286         292   30                                                            nachm. 26ºC leicht bewölkt, trocken
+
+
+                              608                                                                                 Sph-Beginn:        7.30      Uhr und      16.00   Uhr
+                                          322                                                                 SUMME Zufahrten:                 [FSp]:        564 KFZ/h 8:00
+                                       SÜD                                                                                                     (NSp):        635 KFZ/h 16:30
+                                 A.-Bebel-Str.                                                                                                   6h :       3230 KFZ
+                                                                                                              max. Sph /Zufahrt:               NORD          255 KFZ/h 16:00
+                                                                                                                                                OST           62 KFZ/h 16:00
+                                                                                                                DATUM :                         SÜD          322 KFZ/h 16:30
+                                                                           635 KFZ/h 28.06.2018
+                                                       Kfz-Stromverteilung in der NSp 686                                       A.-Bebel-Str./Prof.-Dr.-Helmert-Str.
+
+StromPlan (NSp)686kp6-18.xls                                         Seite 3
+

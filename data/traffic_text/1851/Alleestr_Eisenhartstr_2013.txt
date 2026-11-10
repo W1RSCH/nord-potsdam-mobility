@@ -1,0 +1,173 @@
+SVP, 461                                                                                                                                                                29.10.2013
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                       NORD              OST     SÜD         WG     SUMME %
+                                            NORD                                                       RAD         FSp    0                12       1         17        30           1,8
+                                                                                                                   NSp    3                15       1         14        33           1,9
+                                 Große Weinmeisterstr.                                                             6h     4               106      12         73       195           2,0
+                                            192                                                        NFZ         FSp    3              143        5        97       248        15,6
+                                                                                                                   NSp             4     130         7        121    262         15,5
+                                                                                                                   6h             27     804        34        608   1473         15,5
+                                     192              0
+                                                   nicht gezählt                                       SV          FSp             1      67         1         33    200         12,6
+                                                                                                                   NSp             3      56         3         32      94            5,6
+                                                                                                                   6h             11     300         5        212     528            5,6
+                                                                                                       KFZ         FSp            28     740        38        786   1592             100
+                                                                                                                   NSp            46     901        43        696   1686             100
+                                                                                                                   6h            192    4829       237       4223   9481             100
+                                                                                                       FZ          FSp            28     752        39        803   1622             100
+
+
+
+
+      Alleestr.                                                                            Alleestr.
+                  9.368 5.145                                                                                      NSp            49     916        44        710   1719             100
+                                                                       4.829         OST                           6h            196    4935       249       4296    9676            100
+
+WG
+                                                                                                       Bemerkungen:
+                         4.223
+                                                                       4.336 9.165                     - Baustelle/Sperrung F.-Ebert-Str.
+
+                                                                                                       - Zuf NL nicht gezählt
+                                                                                                       - Teilzählung: Zuf OG & WG mit KP185 errechnet
+                                                                                                       - Wetter: früh 5ºC bewölkt, trocken;
+
+                                                                                                       nachmittag 13ºC bewölkt bis leicht bewölkt, trocken
+                                                                                                       tagsüber bewölkt und Regen
+
+
+                                             124               113
+                                                                                                            Sph-Beginn:         8.00 Uhr und 15.00 Uhr
+                                                                                                       SUMME Zufahrten: [FSp]: 1592 KFZ/h 8:30
+                                                     237                                                                               (NSp): 1686 KFZ/h 15:30
+                                                     SÜD                                                                                 6h : 9481 KFZ
+                                           Eisenhartstr.                                               max. Sph /Zufahrt: NORD                       52 KFZ/h 16:00
+                                                                                                                                         OST       938 KFZ/h 17:30
+
+                                                                                                         DATUM :                        SÜD         43 KFZ/h 15:30
+                                                                                                        11.04.2013                     WEST        786 KFZ/h 8:30
+                                                                                                        1851                           Alleestr./Eisenhartstr.
+
+
+
+
+StromPlan (6h)1851kp4-13.xls                                         Seite 1
+SVP, 461                                                                                                                                                                      29.10.2013
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                             NORD              OST     SÜD         WG     SUMME %
+                                         NORD                                                                RAD         FSp    0                12       1         17        30           1,8
+                                                                                                                         NSp    3                15       1         14        33           1,9
+                               Große Weinmeisterstr.                                                                     6h     4               106      12         73       195           2,0
+                                          28                                                                 NFZ         FSp    3              143        5        97       248        15,6
+                                                                                                                         NSp             4     130         7        121    262         15,5
+                                                                                                                         6h             27     804        34        608   1473         15,5
+                                   28              0
+                                                nicht gezählt                                                SV          FSp             1      67         1         33    200         12,6
+                                                                                                                         NSp             3      56         3         32      94            5,6
+                                                                                                                         6h             11     300         5        212     528            5,6
+                                                                                                             KFZ         FSp            28     740        38        786   1592             100
+                                                                                                                         NSp            46     901        43        696   1686             100
+                                                                                                                         6h            192    4829       237       4223   9481             100
+                                                                                                             FZ          FSp            28     752        39        803   1622             100
+
+
+
+
+     Alleestr.                                                                                   Alleestr.
+                 1.578   792                                                                                             NSp            49     916        44        710   1719             100
+                                                                               740         OST                           6h            196    4935       249       4296    9676            100
+
+WG
+                                                                                                             Bemerkungen:
+                         786
+                                                                               800 1.540                     - Baustelle/Sperrung F.-Ebert-Str.
+
+                                                                                                             - Zuf NL nicht gezählt
+                                                                                                             - Teilzählung: Zuf OG & WG mit KP185 errechnet
+                                                                                                             - Wetter: früh 5ºC bewölkt, trocken;
+
+                                                                                                             nachmittag 13ºC bewölkt bis leicht bewölkt, trocken
+                                                                                                             tagsüber bewölkt und Regen
+
+
+                                          24                14
+                                                                                                                  Sph-Beginn:         8.00 Uhr und 15.00 Uhr
+                                                                                                             SUMME Zufahrten: [FSp]: 1592 KFZ/h 8:30
+                                                   38                                                                                        (NSp): 1686 KFZ/h 15:30
+                                                  SÜD                                                                                          6h : 9481 KFZ
+                                        Eisenhartstr.                                                        max. Sph /Zufahrt: NORD                       52 KFZ/h 16:00
+                                                                                                                                               OST       938 KFZ/h 17:30
+
+                                                                                                               DATUM :                        SÜD         43 KFZ/h 15:30
+                                                                                     1.592 KFZ/h              11.04.2013                     WEST        786 KFZ/h 8:30
+                                                                 Kfz-Stromverteilung in der FSp               1851                           Alleestr./Eisenhartstr.
+
+
+
+StromPlan FSp1851kp4-13.xls                                               Seite 2
+SVP, 461                                                                                                                                                                          29.10.2013
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                 NORD              OST     SÜD         WG     SUMME %
+                                         NORD                                                                    RAD         FSp    0                12       1         17        30           1,8
+                                                                                                                             NSp    3                15       1         14        33           1,9
+                               Große Weinmeisterstr.                                                                         6h     4               106      12         73       195           2,0
+                                          46                                                                     NFZ         FSp    3              143        5        97       248        15,6
+                                                                                                                             NSp             4     130         7        121    262         15,5
+                                                                                                                             6h             27     804        34        608   1473         15,5
+                                   46           nicht gezählt
+                                                    0                                                            SV          FSp             1      67         1         33    200         12,6
+                                                                                                                             NSp             3      56         3         32      94            5,6
+                                                                                                                             6h             11     300         5        212     528            5,6
+                                                                                                                 KFZ         FSp            28     740        38        786   1592             100
+                                                                                                                             NSp            46     901        43        696   1686             100
+                                                                                                                             6h            192    4829       237       4223   9481             100
+                                                                                                                 FZ          FSp            28     752        39        803   1622             100
+
+
+
+
+     Alleestr.                                                                                       Alleestr.
+                 1.669   973                                                                                                 NSp            49     916        44        710   1719             100
+                                                                                   901         OST                           6h            196    4935       249       4296    9676            100
+
+WG
+                                                                                                                 Bemerkungen:
+                         696
+                                                                                   713 1.614                     - Baustelle/Sperrung F.-Ebert-Str.
+
+                                                                                                                 - Zuf NL nicht gezählt
+                                                                                                                 - Teilzählung: Zuf OG & WG mit KP185 errechnet
+                                                                                                                 - Wetter: früh 5ºC bewölkt, trocken;
+
+                                                                                                                 nachmittag 13ºC bewölkt bis leicht bewölkt, trocken
+                                                                                                                 tagsüber bewölkt und Regen
+
+
+                                          26                    17
+                                                                                                                      Sph-Beginn:         8.00 Uhr und 15.00 Uhr
+                                                                                                                 SUMME Zufahrten: [FSp]: 1592 KFZ/h 8:30
+                                                   43                                                                                            (NSp): 1686 KFZ/h 15:30
+                                                   SÜD                                                                                             6h : 9481 KFZ
+                                        Eisenhartstr.                                                            max. Sph /Zufahrt: NORD                       52 KFZ/h 16:00
+                                                                                                                                                   OST       938 KFZ/h 17:30
+
+                                                                                                                   DATUM :                        SÜD         43 KFZ/h 15:30
+                                                                                         1.686 KFZ/h              11.04.2013                     WEST        786 KFZ/h 8:30
+                                                                     Kfz-Stromverteilung in der NSp               1851                           Alleestr./Eisenhartstr.
+
+
+
+StromPlan NSp1851kp4-13.xls                                                   Seite 3
+

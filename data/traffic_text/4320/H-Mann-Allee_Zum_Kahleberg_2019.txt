@@ -1,0 +1,163 @@
+            Landeshauptstadt Potsdam                                                                                                                                            15.04.2020
+            Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                                    NORD                                                                 RAD    FSp              10     60          57    13              140     10,2
+                                                                                                                                NSp              14     45          18    29              106      6,7
+                                          J.-R.-Becher-Str.                                                                     6h                64   289         131   104              588      7,3
+                                                    159          301                                                     NFZ    FSp                3   63          12   154              232      18,8
+                                                                                                                                NSp                0   32          14   123              169      11,4
+                                                                                                                                6h               15   276           69  665             1025      13,8
+                                            98       38    23    142                                                     SV     FSp                0   12            2   43                57      4,6
+                                                                                                                                NSp                0     3           2   26                31      2,1
+                                                                                                                                6h                 3    54           6  166               229      3,1
+                                                                                                                         KFZ FSp                 34   466         125   611             1236       100
+                                                                                                                                NSp              19   428         137   896             1480       100
+
+
+
+
+       H.-Mann-Allee                                                                                     H.-Mann-Allee
+                                                                                                                                6h              159 2656          728 3909              7452       100
+                                                                                                                         FZ     FSp              44   526         182   624             1376       100
+                       6.993   3.084                                                     8                                      NSp              33   473         155   925             1586       100
+                                109                                                  2.479 2.656   OST                          6h              223 2945           859 4013              8040      100
+
+WEST
+                       3.909   3.210                                                   169                               Q DTVw: 2,4            707 14300        3584 16434
+                                590                                                  3.429 6.085                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - Wetter früh 15ºC sonnig, trocken; nachmittag 25ºC sonnig, trocken
+
+
+
+
+                                            797      507   25    196                                                         Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                                                         SUMME Zufahrten: [FSp] :  1236 KFZ/h 8:00
+                                           1.525                                                                                                   1480 KFZ/h 16:00
+                                                                                                                                                      (NSp):
+                                                           728                                                                                6h : 7452 KFZ
+                                                           SÜD                                                           max. Sph /Zufahrt: NORD :   39 KFZ/h 7:30
+                                                   Zum Kahleberg                                                                                       OST :       466 KFZ/h 8:00
+                                                                                                                           DATUM :                     SÜD :       147 KFZ/h 8:30
+                                                                                                  6h Werte 08.08.2019    WEST :  896 KFZ/h 16:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 432      H.-Mann-Allee/Zum Kahleberg
+
+
+             StromPlan432kp8-19.xls                                        Seite 1
+            Landeshauptstadt Potsdam                                                                                                                                         15.04.2020
+            Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                           Zufahrt: NORD OST SÜD WEST SUMME %
+                                                     NORD                                                             RAD    FSp              10     60          57    13              140     10,2
+                                                                                                                             NSp              14     45          18    29              106      6,7
+                                            J.-R.-Becher-Str.                                                                6h                64   289         131   104              588      7,3
+                                                      34          53                                                  NFZ    FSp                3   63          12   154              232      18,8
+                                                                                                                             NSp                0   32          14   123              169      11,4
+                                                                                                                             6h               15   276           69  665             1025      13,8
+                                              24      5     5     19                                                  SV     FSp                0   12            2   43                57      4,6
+                                                                                                                             NSp                0     3           2   26                31      2,1
+                                                                                                                             6h                 3    54           6  166               229      3,1
+                                                                                                                      KFZ FSp                 34   466         125   611             1236       100
+                                                                                                                             NSp              19   428         137   896             1480       100
+
+
+
+
+       H.-Mann-Allee                                                                                  H.-Mann-Allee
+                                                                                                                             6h              159 2656          728 3909              7452       100
+                                                                                                                      FZ     FSp              44   526         182   624             1376       100
+                       1.154   543                                                   0                                       NSp              33   473         155   925             1586       100
+                                14                                                 439    466   OST                          6h              223 2945           859 4013              8040      100
+
+WEST
+                       611     512                                                  27                                Q DTVw: 2,4            707 14300        3584 16434
+                                85                                                 557 1.023                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 15ºC sonnig, trocken; nachmittag 25ºC sonnig, trocken
+
+
+
+
+                                              117     80    5     40                                                      Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :  1236 KFZ/h 8:00
+                                              242                                                                                               1480 KFZ/h 16:00
+                                                                                                                                                   (NSp):
+                                                            125                                                                            6h : 7452 KFZ
+                                                            SÜD                                                       max. Sph /Zufahrt: NORD :   39 KFZ/h 7:30
+                                                    Zum Kahleberg                                                                                   OST :       466 KFZ/h 8:00
+                                                                                                                        DATUM :                     SÜD :       147 KFZ/h 8:30
+                                                                                         1.236 KFZ/h 08.08.2019    WEST :  896 KFZ/h 16:00
+                                                                       Kfz-Stromverteilung in der FSp 432     H.-Mann-Allee/Zum Kahleberg
+
+
+             StromPlan (FSp)432kp8-19.xls                                Seite 2
+            Landeshauptstadt Potsdam                                                                                                                                         15.04.2020
+            Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                           Zufahrt: NORD OST SÜD WEST SUMME %
+                                                     NORD                                                             RAD    FSp              10     60          57    13              140     10,2
+                                                                                                                             NSp              14     45          18    29              106      6,7
+                                            J.-R.-Becher-Str.                                                                6h                64   289         131   104              588      7,3
+                                                      19          51                                                  NFZ    FSp                3   63          12   154              232      18,8
+                                                                                                                             NSp                0   32          14   123              169      11,4
+                                                                                                                             6h               15   276           69  665             1025      13,8
+                                              12      6     1     32                                                  SV     FSp                0   12            2   43                57      4,6
+                                                                                                                             NSp                0     3           2   26                31      2,1
+                                                                                                                             6h                 3    54           6  166               229      3,1
+                                                                                                                      KFZ FSp                 34   466         125   611             1236       100
+                                                                                                                             NSp              19   428         137   896             1480       100
+
+
+
+
+       H.-Mann-Allee                                                                                  H.-Mann-Allee
+                                                                                                                             6h              159 2656          728 3909              7452       100
+                                                                                                                      FZ     FSp              44   526         182   624             1376       100
+                       1.396   500                                                   2                                       NSp              33   473         155   925             1586       100
+                                25                                                 394    428   OST                          6h              223 2945           859 4013              8040      100
+
+WEST
+                       896     742                                                  32                                Q DTVw: 2,4            707 14300        3584 16434
+                               129                                                 781 1.209                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 15ºC sonnig, trocken; nachmittag 25ºC sonnig, trocken
+
+
+
+
+                                              167     94    5     38                                                      Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :  1236 KFZ/h 8:00
+                                              304                                                                                               1480 KFZ/h 16:00
+                                                                                                                                                   (NSp):
+                                                            137                                                                            6h : 7452 KFZ
+                                                            SÜD                                                       max. Sph /Zufahrt: NORD :   39 KFZ/h 7:30
+                                                    Zum Kahleberg                                                                                   OST :       466 KFZ/h 8:00
+                                                                                                                        DATUM :                     SÜD :       147 KFZ/h 8:30
+                                                                                         1.480 KFZ/h 08.08.2019    WEST :  896 KFZ/h 16:00
+                                                                       Kfz-Stromverteilung in der NSp 432     H.-Mann-Allee/Zum Kahleberg
+
+
+             StromPlan (NSp)432kp8-19.xls                                Seite 3
+

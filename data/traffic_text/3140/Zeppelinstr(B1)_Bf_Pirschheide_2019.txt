@@ -1,0 +1,156 @@
+Landeshauptstadt Potsdam                                                                                                                                                                  22.05.2019
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                           RAD         FSp              16          1     44                    61           5,3
+                                          NORD                                                                         NSp              39          2     17                    58           3,9
+
+                                   Zeppelinstr.                                                                    6h         127                   9    136                   272           3,7
+                                                                                                           NFZ     FSp        79                    7    87                   173           16,0
+                                       3.603                                                                       NSp       100                    7    56                   163           11,5
+                                                   6.903                                                           6h        464                   42   403                    909          12,7
+                                                                                                           SV      FSp        30                    5    20                     55           5,1
+
+                               3.411       192      3.300                                                          NSp        27                    5    15                     47           3,3
+                                                                                                                   6h        161                   27   124                    312           4,4
+                                                                                                           KFZ FSp           425                   17   642                  1084            100
+                                                                                                                   NSp       811                   77   526                  1414            100
+
+
+
+
+                                                                                         Bhf. Pirscheide
+                                                                                                                   6h       3603                  263 3275                   7141            100
+                                                                                                           FZ      FSp       441                   18   686                  1145            100
+                                                                                                                   NSp       850                   79   543                  1472            100
+                                                                      135                                          6h       3730                  272 3411                    7413           100
+                                                                             263
+                                                                      128          OST                     Q DTVw:    2,35 16222                 1328 16013
+                                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                      302    565                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - seit dem 01.07.2017 Modellversuch Zeppelinstr. (Neuordnung der Fahrspuren)
+                                                                                                           - Teilz. - Zuf. NG+SG durch KP313 errechnet - Räder nicht extra erfasst
+                                                                                                           - Wetter früh 12ºC bewölkt, trocken;
+
+                               3.539       3.165    110                                                      nachmittag 16ºC leicht bewölkt bis sonnig, trocken
+                                                                                                           Sph-Beginn:               7.00    Uhr und    15.30 Uhr
+                              6.814                                                                        SUMME Zufahrten:                  FSp : 1084 KFZ/h 7:30
+                                             3.275                                                                                           NSp : 1414 KFZ/h 16:00
+                                           SÜD                                                                                                 6h : 7141 KFZ
+                                   Zeppelinstr.                                                            max. Sph /Zufahrt:                NORD    811 KFZ/h 16:00
+                                                                                                                                              OST     77 KFZ/h 16:00
+                                                                                                                DATUM :                       SÜD    642 KFZ/h 7:30
+                                                                                   6h Werte                  09.05.2019
+                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 314                              Zeppelinstr.(B1)/Bhf.Pirschh.
+
+
+StromPlan314kp5-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                               22.05.2019
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                        RAD         FSp              16          1     44                    61           5,3
+                                        NORD                                                                        NSp              39          2     17                    58           3,9
+
+                                  Zeppelinstr.                                                                  6h         127                   9    136                   272           3,7
+                                                                                                        NFZ     FSp        79                    7    87                   173           16,0
+                                      425                                                                       NSp       100                    7    56                   163           11,5
+                                                  1.047                                                         6h        464                   42   403                    909          12,7
+                                                                                                        SV      FSp        30                    5    20                     55           5,1
+                                372         53     622                                                          NSp        27                    5    15                     47           3,3
+                                                                                                                6h        161                   27   124                    312           4,4
+                                                                                                        KFZ FSp           425                   17   642                  1084            100
+                                                                                                                NSp       811                   77   526                  1414            100
+
+
+
+
+                                                                                      Bhf. Pirscheide
+                                                                                                                6h       3603                  263 3275                   7141            100
+                                                                                                        FZ      FSp       441                   18   686                  1145            100
+                                                                                                                NSp       850                   79   543                  1472            100
+                                                                  7                                             6h       3730                  272 3411                    7413           100
+                                                                         17
+                                                                  10            OST                     Q DTVw:    2,35 16222                 1328 16013
+                                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                  80     97                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                        Bemerkungen :
+                                                                                                        - seit dem 01.07.2017 Modellversuch Zeppelinstr. (Neuordnung der Fahrspuren)
+                                                                                                        - Teilz. - Zuf. NG+SG durch KP313 errechnet - Räder nicht extra erfasst
+                                                                                                        - Wetter früh 12ºC bewölkt, trocken;
+                                382         615    27                                                     nachmittag 16ºC leicht bewölkt bis sonnig, trocken
+                                                                                                        Sph-Beginn:               7.00    Uhr und    15.30 Uhr
+                               1.024                                                                    SUMME Zufahrten:                  FSp : 1084 KFZ/h 7:30
+                                           642                                                                                            NSp : 1414 KFZ/h 16:00
+                                        SÜD                                                                                                 6h : 7141 KFZ
+                                  Zeppelinstr.                                                          max. Sph /Zufahrt:                NORD    811 KFZ/h 16:00
+                                                                                                                                           OST     77 KFZ/h 16:00
+                                                                                                             DATUM :                       SÜD    642 KFZ/h 7:30
+                                                                              1.084 KFZ/h                 09.05.2019
+                                                          Kfz-Stromverteilung in der FSp 314                                 Zeppelinstr.(B1)/Bhf.Pirschh.
+
+
+StromPlan (FSp)314kp5-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                               22.05.2019
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                        RAD         FSp              16          1     44                    61           5,3
+                                        NORD                                                                        NSp              39          2     17                    58           3,9
+
+                                  Zeppelinstr.                                                                  6h         127                   9    136                   272           3,7
+                                                                                                        NFZ     FSp        79                    7    87                   173           16,0
+                                      811                                                                       NSp       100                    7    56                   163           11,5
+                                                  1.366                                                         6h        464                   42   403                    909          12,7
+                                                                                                        SV      FSp        30                    5    20                     55           5,1
+                                793         18     555                                                          NSp        27                    5    15                     47           3,3
+                                                                                                                6h        161                   27   124                    312           4,4
+                                                                                                        KFZ FSp           425                   17   642                  1084            100
+                                                                                                                NSp       811                   77   526                  1414            100
+
+
+
+
+                                                                                      Bhf. Pirscheide
+                                                                                                                6h       3603                  263 3275                   7141            100
+                                                                                                        FZ      FSp       441                   18   686                  1145            100
+                                                                                                                NSp       850                   79   543                  1472            100
+                                                                  41                                            6h       3730                  272 3411                    7413           100
+                                                                         77
+                                                                  36            OST                     Q DTVw:    2,35 16222                 1328 16013
+                                                                                                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                  30    107                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                        Bemerkungen :
+                                                                                                        - seit dem 01.07.2017 Modellversuch Zeppelinstr. (Neuordnung der Fahrspuren)
+                                                                                                        - Teilz. - Zuf. NG+SG durch KP313 errechnet - Räder nicht extra erfasst
+                                                                                                        - Wetter früh 12ºC bewölkt, trocken;
+                                829         514    12                                                     nachmittag 16ºC leicht bewölkt bis sonnig, trocken
+                                                                                                        Sph-Beginn:               7.00    Uhr und    15.30 Uhr
+                               1.355                                                                    SUMME Zufahrten:                  FSp : 1084 KFZ/h 7:30
+                                           526                                                                                            NSp : 1414 KFZ/h 16:00
+                                        SÜD                                                                                                 6h : 7141 KFZ
+                                  Zeppelinstr.                                                          max. Sph /Zufahrt:                NORD    811 KFZ/h 16:00
+                                                                                                                                           OST     77 KFZ/h 16:00
+                                                                                                             DATUM :                       SÜD    642 KFZ/h 7:30
+                                                                              1.414 KFZ/h                 09.05.2019
+                                                          Kfz-Stromverteilung in der NSp 314                                 Zeppelinstr.(B1)/Bhf.Pirschh.
+
+
+StromPlan (NSp)314kp5-19.xls
+

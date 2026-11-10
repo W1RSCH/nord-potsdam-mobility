@@ -1,0 +1,151 @@
+SVP, 461                                                                                                                              11.04.2016
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                 NG  SG WEST     SUMME %
+                                                  NG                        RAD         FSp         27            10     23                     60          3,7
+
+                                     Am Neuen Garten                                    NSp         46            35     12                     93          5,0
+
+                                                                                   6h     149    173                      77                   399          4,0
+                                                                            NFZ    FSp     84   188                      16                   288      18,6
+                                                 8.981                             NSp 149      148                      20                   317      18,0
+                                                                                   6h     641   922                       92                 1655      17,4
+                                         3.724           5.257              SV     FSp     20    52                        4                    76          4,9
+                                                                                   NSp     36    54                        1                    91          5,2
+                                                                                   6h     173   298                       11                   482          5,1
+                                                                            KFZ FSp 561 848                             141                  1550       100
+                                                                                   NSp 679      991                      93                  1763       100
+                                                                                   6h    3724 5227                      569                  9520       100
+
+
+
+
+           Behlertstr.
+                                                                            FZ     FSp    588   858                     164                  1610       100
+                               30                                                  NSp    725 1026                      105                  1856       100
+                         569                                                       6h    3873 5400                       646                  9919      100
+
+  WEST                         539                                          Q DTVw: 2,5 22453 23725                    1423
+                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+                                                                            Bemerkungen:
+                                                                            - Wetter: früh 16ºC bewölkt, ab 7.00 Uhr trocken;
+                                                                              nachmittag 21ºC bewölkt, ab 17.45 Uhr Regen
+
+
+                                         4.263           5.227                  Sph-Beginn:      7:30     Uhr und      15:00 Uhr
+                                                                            SUMME Zufahrten: FSp : 1550 KFZ/h 8:00
+                                                 9.490                                         NSp : 1763 KFZ/h 15:30
+                                                                                                6h : 9520 KFZ
+                                                  SG                        max. Sph /Zufahrt:   NG   683 KFZ/h 17:30
+                                        Behlertstr.                                              SG   991 KFZ/h 15:30
+                                                                              DATUM :                     WEST          141 KFZ/h 8:00
+                                                                        6h Werte 17.09.2016
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 182 Behlertstr./Am Neuen Garten
+
+StromPlan182kp9-15.xls                                           Seite 1
+SVP, 461                                                                                                                              11.04.2016
+
+
+
+
+                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                 NG  SG WEST     SUMME %
+                                                NG                          RAD         FSp         27            10     23                     60          3,7
+
+                                     Am Neuen Garten                                    NSp         46            35     12                     93          5,0
+
+                                                                                   6h     149    173                      77                   399          4,0
+                                                                            NFZ    FSp     84   188                      16                   288      18,6
+                                               1.413                               NSp 149      148                      20                   317      18,0
+                                                                                   6h     641   922                       92                 1655      17,4
+                                         561           852                  SV     FSp     20    52                        4                    76          4,9
+                                                                                   NSp     36    54                        1                    91          5,2
+                                                                                   6h     173   298                       11                   482          5,1
+                                                                            KFZ FSp 561 848                             141                  1550       100
+                                                                                   NSp 679      991                      93                  1763       100
+                                                                                   6h    3724 5227                      569                  9520       100
+
+
+
+
+           Behlertstr.
+                                                                            FZ     FSp    588   858                     164                  1610       100
+                                4                                                  NSp    725 1026                      105                  1856       100
+                         141                                                       6h    3873 5400                       646                  9919      100
+
+  WEST                         137                                          Q DTVw: 2,5 22453 23725                    1423
+                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                            NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+                                                                            Bemerkungen:
+                                                                            - Wetter: früh 16ºC bewölkt, ab 7.00 Uhr trocken;
+                                                                              nachmittag 21ºC bewölkt, ab 17.45 Uhr Regen
+
+
+                                         698           848                      Sph-Beginn:      7:30     Uhr und      15:00 Uhr
+                                                                            SUMME Zufahrten: FSp : 1550 KFZ/h 8:00
+                                               1.546                                           NSp : 1763 KFZ/h 15:30
+                                                                                                6h : 9520 KFZ
+                                                SG                          max. Sph /Zufahrt:   NG   683 KFZ/h 17:30
+                                        Behlertstr.                                              SG   991 KFZ/h 15:30
+                                                                              DATUM :                     WEST          141 KFZ/h 8:00
+                                                                   1.550 KFZ/h 17.09.2016
+                                                 Kfz-Stromverteilung in der FSp 182 Behlertstr./Am Neuen Garten
+
+StromPlan (FSp)182kp9-15.xls                                 Seite 2
+SVP, 461                                                                                                                             11.04.2016
+
+
+
+
+                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                NG  SG WEST     SUMME %
+                                               NG                          RAD         FSp         27            10     23                     60          3,7
+
+                                    Am Neuen Garten                                    NSp         46            35     12                     93          5,0
+
+                                                                                  6h     149    173                      77                   399          4,0
+                                                                           NFZ    FSp     84   188                      16                   288      18,6
+                                              1.677                               NSp 149      148                      20                   317      18,0
+                                                                                  6h     641   922                       92                 1655      17,4
+                                        679           998                  SV     FSp     20    52                        4                    76          4,9
+                                                                                  NSp     36    54                        1                    91          5,2
+                                                                                  6h     173   298                       11                   482          5,1
+                                                                           KFZ FSp 561 848                             141                  1550       100
+                                                                                  NSp 679      991                      93                  1763       100
+                                                                                  6h    3724 5227                      569                  9520       100
+
+
+
+
+           Behlertstr.
+                                                                           FZ     FSp    588   858                     164                  1610       100
+                               7                                                  NSp    725 1026                      105                  1856       100
+                         93                                                       6h    3873 5400                       646                  9919      100
+
+  WEST                         86                                          Q DTVw: 2,5 22453 23725                    1423
+                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                           NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+                                                                           Bemerkungen:
+                                                                           - Wetter: früh 16ºC bewölkt, ab 7.00 Uhr trocken;
+                                                                             nachmittag 21ºC bewölkt, ab 17.45 Uhr Regen
+
+
+                                        765           991                      Sph-Beginn:      7:30     Uhr und      15:00 Uhr
+                                                                           SUMME Zufahrten: FSp : 1550 KFZ/h 8:00
+                                              1.756                                           NSp : 1763 KFZ/h 15:30
+                                                                                               6h : 9520 KFZ
+                                               SG                          max. Sph /Zufahrt:   NG   683 KFZ/h 17:30
+                                       Behlertstr.                                              SG   991 KFZ/h 15:30
+                                                                             DATUM :                     WEST          141 KFZ/h 8:00
+                                                                  1.763 KFZ/h 17.09.2016
+                                                Kfz-Stromverteilung in der NSp 182 Behlertstr./Am Neuen Garten
+
+StromPlan (NSp)182kp9-15.xls                                Seite 3
+

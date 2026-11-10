@@ -1,0 +1,154 @@
+       SVP, 461                                                                                                                                                     11.01.2017
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD        OST SÜD WEST SUMME %
+                                           NORD                                                               RAD    FSp     12                    1      35        11          59     15,2
+                                                                                                                     NSp     32                  11       22          7         72     18,0
+                                          Flotowstraße                                                               6h       94                  55     124         41        314     18,4
+                                            448                                                               NFZ    FSp       5                   2     12           1        20       6,1
+                                                         775                                                         NSp       8                   2       9          1        20       6,1
+                                                                                                                     6h      29                    8      40          6         83      6,0
+                                    32       358   58    327                                                  SV     FSp       1                   1       3          0          5      1,5
+                                                                                                                     NSp       1                   0       2          0          3      0,9
+                                                                                                                     6h        3                   1       7          0         11      0,8
+                                                                                                              KFZ FSp        80                  51     168         30        329      100
+                                                                                                                     NSp 133                     42     133         20        328      100
+                                                                                                                     6h     448                 217     615        112       1392      100
+
+
+
+
+        Patrizierweg                                                                           Patrizierweg
+                                                                                                              FZ     FSp     92                  52     203         41        388      100
+                       239   127                                              48                                     NSp    165                  53     155         27        400      100
+                              13                                              39   217   OST                         6h     542                 272      739       153       1706      100
+
+WEST                   112    52                                             130                              Q DTVw: 2,4 1821                 1457    2703        562
+                              47                                             403   620                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - früh andere Zählzeiten: 06.00 - 09.00 Uhr !
+                                                                                                              - Zuf NG + SG errechnet durch KP701
+                                                                                                              - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                                                                                                  Sph-Beginn:      7.00     Uhr und    15.00 Uhr
+                                    535      56    266   293                                                  SUMME Zufahrten: [FSp] :                  329 KFZ/h 7:30
+                                                                                                                                           (NSp):       328 KFZ/h 15:30
+                                   1.150                                                                                           6h :                1392 KFZ
+                                                   615                                                        max. Sph /Zufahrt: NORD :                 133 KFZ/h 15:30
+                                                   SÜD                                                                            OST :                  51 KFZ/h 7:30
+                                          Flotowstraße                                                          DATUM :                      SÜD :      168 KFZ/h 7:30
+                                                                                          6h Werte 22.09.2016                              WEST :        30 KFZ/h 7:30
+                                                          von 6.00 - 9.00 Uhr u. 15.00 - 18.00 Uhr 734                                 Flotowstr./Patrizierweg
+
+
+
+
+       StromPlan734kp9-16.xls                                      Seite 1
+       SVP, 461                                                                                                                                                     11.01.2017
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                 Zufahrt: NORD        OST SÜD WEST SUMME %
+                                             NORD                                                             RAD    FSp     12                    1      35        11          59     15,2
+                                                                                                                     NSp     32                  11       22          7         72     18,0
+                                            Flotowstraße                                                             6h       94                  55     124         41        314     18,4
+                                              80                                                              NFZ    FSp       5                   2     12           1        20       6,1
+                                                           166                                                       NSp       8                   2       9          1        20       6,1
+                                                                                                                     6h      29                    8      40          6         83      6,0
+                                      6        59   15     86                                                 SV     FSp       1                   1       3          0          5      1,5
+                                                                                                                     NSp       1                   0       2          0          3      0,9
+                                                                                                                     6h        3                   1       7          0         11      0,8
+                                                                                                              KFZ FSp        80                  51     168         30        329      100
+                                                                                                                     NSp 133                     42     133         20        328      100
+                                                                                                                     6h     448                 217     615        112       1392      100
+
+
+
+
+        Patrizierweg                                                                           Patrizierweg
+                                                                                                              FZ     FSp     92                  52     203         41        388      100
+                       56   26                                                 9                                     NSp    165                  53     155         27        400      100
+                             3                                                10   51    OST                         6h     542                 272      739       153       1706      100
+
+WEST                   30   15                                                32                              Q DTVw: 2,4 1821                 1457    2703        562
+                            12                                               114   165                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - früh andere Zählzeiten: 06.00 - 09.00 Uhr !
+                                                                                                              - Zuf NG + SG errechnet durch KP701
+                                                                                                              - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                                                                                                  Sph-Beginn:      7.00     Uhr und    15.00 Uhr
+                                      103      10   74     84                                                 SUMME Zufahrten: [FSp] :                  329 KFZ/h 7:30
+                                                                                                                                           (NSp):       328 KFZ/h 15:30
+                                      271                                                                                          6h :                1392 KFZ
+                                                    168                                                       max. Sph /Zufahrt: NORD :                 133 KFZ/h 15:30
+                                                    SÜD                                                                           OST :                  51 KFZ/h 7:30
+                                            Flotowstraße                                                        DATUM :                      SÜD :      168 KFZ/h 7:30
+                                                                                      329 KFZ/h 22.09.2016                                 WEST :        30 KFZ/h 7:30
+                                                                 Kfz-Stromverteilung in der FSp 734                                    Flotowstr./Patrizierweg
+
+
+
+
+       StromPlan (FSp)734kp9-16.xls                                Seite 2
+       SVP, 461                                                                                                                                                    11.01.2017
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD        OST SÜD WEST SUMME %
+                                             NORD                                                            RAD    FSp     12                    1      35        11          59     15,2
+                                                                                                                    NSp     32                  11       22          7         72     18,0
+                                            Flotowstraße                                                            6h       94                  55     124         41        314     18,4
+                                              133                                                            NFZ    FSp       5                   2     12           1        20       6,1
+                                                           220                                                      NSp       8                   2       9          1        20       6,1
+                                                                                                                    6h      29                    8      40          6         83      6,0
+                                      10       109   14    87                                                SV     FSp       1                   1       3          0          5      1,5
+                                                                                                                    NSp       1                   0       2          0          3      0,9
+                                                                                                                    6h        3                   1       7          0         11      0,8
+                                                                                                             KFZ FSp        80                  51     168         30        329      100
+                                                                                                                    NSp 133                     42     133         20        328      100
+                                                                                                                    6h     448                 217     615        112       1392      100
+
+
+
+
+        Patrizierweg                                                                          Patrizierweg
+                                                                                                             FZ     FSp     92                  52     203         41        388      100
+                       46   26                                               12                                     NSp    165                  53     155         27        400      100
+                             3                                                8   42    OST                         6h     542                 272      739       153       1706      100
+
+WEST                   20   11                                               22                              Q DTVw: 2,4 1821                 1457    2703        562
+                             6                                               78   120                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                             Bemerkungen :
+                                                                                                             - früh andere Zählzeiten: 06.00 - 09.00 Uhr !
+                                                                                                             - Zuf NG + SG errechnet durch KP701
+                                                                                                             - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                                                                                                 Sph-Beginn:      7.00     Uhr und    15.00 Uhr
+                                      137      8     72    53                                                SUMME Zufahrten: [FSp] :                  329 KFZ/h 7:30
+                                                                                                                                          (NSp):       328 KFZ/h 15:30
+                                      270                                                                                         6h :                1392 KFZ
+                                                     133                                                     max. Sph /Zufahrt: NORD :                 133 KFZ/h 15:30
+                                                     SÜD                                                                         OST :                  51 KFZ/h 7:30
+                                            Flotowstraße                                                       DATUM :                      SÜD :      168 KFZ/h 7:30
+                                                                                      328 KFZ/h 22.09.2016                                WEST :        30 KFZ/h 7:30
+                                                                 Kfz-Stromverteilung in der NSp 734                                   Flotowstr./Patrizierweg
+
+
+
+
+       StromPlan (NSp)734kp9-16.xls                                Seite 3
+

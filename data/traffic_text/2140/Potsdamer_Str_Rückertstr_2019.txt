@@ -1,0 +1,164 @@
+Landeshauptstadt Potsdam                                                                                                                                                                  05.06.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD       SUMME %
+                                          NORD                                                             RAD         FSp                7       18      39                    64           4,3
+
+                                       Rückertstr.                                                                     NSp                4       29      24                    57           3,2
+
+                                                                                                                       6h            35   125             132                  292           3,2
+                                       3.398                                                               NFZ         FSp         153   130              29                  312           22,2
+                                                   6.763                                                               NSp         129   129              29                  287           16,9
+                                                                                                                       6h          727   748             177                 1652           18,5
+                               426         2.972    3.365                                                  SV          FSp          65    55                8                 128            9,1
+                                                                                                                       NSp          35    40                7                   82           4,8
+                                                                                                                       6h          263   275               44                  582           6,5
+                                                                                                           KFZ         FSp         574   548             286                 1408            100
+
+
+
+
+                                                                                          Potsdamer Str.
+                                                                                                                       NSp         620   797             282                 1699            100
+                                                                                                                       6h         3398 3950             1569                 8917            100
+                                                                                                           FZ          FSp         581   566             325                 1472            100
+                                                                     2949                                              NSp         624   826             306                 1756            100
+                                                                            3950
+                                                                     1001           OST
+                                                                                                                       6h         3433 4075             1701                  9209           100
+                                                                                                           Q DTVw:           2,2 14879 17765            6591
+                                                                     4125   8075                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Wetter früh 9ºC sonnig, trocken;
+                                                                                                             nachmittag 20ºC sonnig, trocken
+
+                               1.427       416      1.153
+                                                                                                                   Sph-Beginn:       7.30     Uhr und   15.00 Uhr
+                              2.996                                                                        SUMME Zufahrten:                   [FSp]: 1408 KFZ/h 8:00
+                                             1.569                                                                                            (NSp): 1699 KFZ/h 15:30
+                                           SÜD                                                                                                   6h : 8917 KFZ
+                                          Hugstr.                                                          max. Sph /Zufahrt:                 NORD       620 KFZ/h 15:30
+                                                                                                                                               OST       815 KFZ/h 16:00
+                                                                                                                DATUM :                        SÜD       299 KFZ/h 16:00
+                                                                                     6h Werte 23.05.2019
+                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 214                                     Potsdamer Str./Rückertstr.
+
+
+
+StromPlan214kp5-19.xls                                                         Seite 1
+Landeshauptstadt Potsdam                                                                                                                                                            05.06.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD       SUMME %
+                                       NORD                                                          RAD         FSp                7       18      39                    64           4,3
+
+                                     Rückertstr.                                                                 NSp                4       29      24                    57           3,2
+
+                                                                                                                 6h            35   125             132                  292           3,2
+                                     574                                                             NFZ         FSp         153   130              29                  312           22,2
+                                                 1.059                                                           NSp         129   129              29                  287           16,9
+                                                                                                                 6h          727   748             177                 1652           18,5
+                               80          494    485                                                SV          FSp          65    55                8                 128            9,1
+                                                                                                                 NSp          35    40                7                   82           4,8
+                                                                                                                 6h          263   275               44                  582           6,5
+                                                                                                     KFZ         FSp         574   548             286                 1408            100
+
+
+
+
+                                                                                    Potsdamer Str.
+                                                                                                                 NSp         620   797             282                 1699            100
+                                                                                                                 6h         3398 3950             1569                 8917            100
+                                                                                                     FZ          FSp         581   566             325                 1472            100
+                                                                 407                                             NSp         624   826             306                 1756            100
+                                                                       548
+                                                                 141          OST
+                                                                                                                 6h         3433 4075             1701                  9209           100
+                                                                                                     Q DTVw:           2,2 14879 17765            6591
+                                                                 702   1250                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Bemerkungen :
+                                                                                                     - Wetter früh 9ºC sonnig, trocken;
+                                                                                                       nachmittag 20ºC sonnig, trocken
+                               221         78     208
+                                                                                                             Sph-Beginn:       7.30     Uhr und   15.00 Uhr
+                               507                                                                   SUMME Zufahrten:                   [FSp]: 1408 KFZ/h 8:00
+                                          286                                                                                           (NSp): 1699 KFZ/h 15:30
+                                       SÜD                                                                                                 6h : 8917 KFZ
+                                       Hugstr.                                                       max. Sph /Zufahrt:                 NORD       620 KFZ/h 15:30
+                                                                                                                                         OST       815 KFZ/h 16:00
+                                                                                                          DATUM :                        SÜD       299 KFZ/h 16:00
+                                                                           1.408 KFZ/h 23.05.2019
+                                                         Kfz-Stromverteilung in der FSp 214                                      Potsdamer Str./Rückertstr.
+
+
+
+StromPlan (FSp)214kp5-19.xls                                             Seite 2
+Landeshauptstadt Potsdam                                                                                                                                                            05.06.2019
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD       SUMME %
+                                       NORD                                                          RAD         FSp                7       18      39                    64           4,3
+
+                                     Rückertstr.                                                                 NSp                4       29      24                    57           3,2
+
+                                                                                                                 6h            35   125             132                  292           3,2
+                                     620                                                             NFZ         FSp         153   130              29                  312           22,2
+                                                 1.283                                                           NSp         129   129              29                  287           16,9
+                                                                                                                 6h          727   748             177                 1652           18,5
+                               87          533    663                                                SV          FSp          65    55                8                 128            9,1
+                                                                                                                 NSp          35    40                7                   82           4,8
+                                                                                                                 6h          263   275               44                  582           6,5
+                                                                                                     KFZ         FSp         574   548             286                 1408            100
+
+
+
+
+                                                                                    Potsdamer Str.
+                                                                                                                 NSp         620   797             282                 1699            100
+                                                                                                                 6h         3398 3950             1569                 8917            100
+                                                                                                     FZ          FSp         581   566             325                 1472            100
+                                                                 585                                             NSp         624   826             306                 1756            100
+                                                                       797
+                                                                 212          OST
+                                                                                                                 6h         3433 4075             1701                  9209           100
+                                                                                                     Q DTVw:           2,2 14879 17765            6591
+                                                                 737   1534                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Bemerkungen :
+                                                                                                     - Wetter früh 9ºC sonnig, trocken;
+                                                                                                       nachmittag 20ºC sonnig, trocken
+                               299         78     204
+                                                                                                             Sph-Beginn:       7.30     Uhr und   15.00 Uhr
+                               581                                                                   SUMME Zufahrten:                   [FSp]: 1408 KFZ/h 8:00
+                                          282                                                                                           (NSp): 1699 KFZ/h 15:30
+                                       SÜD                                                                                                 6h : 8917 KFZ
+                                       Hugstr.                                                       max. Sph /Zufahrt:                 NORD       620 KFZ/h 15:30
+                                                                                                                                         OST       815 KFZ/h 16:00
+                                                                                                          DATUM :                        SÜD       299 KFZ/h 16:00
+                                                                           1.699 KFZ/h 23.05.2019
+                                                         Kfz-Stromverteilung in der NSp 214                                      Potsdamer Str./Rückertstr.
+
+
+
+StromPlan (NSp)214kp5-19.xls                                             Seite 3
+

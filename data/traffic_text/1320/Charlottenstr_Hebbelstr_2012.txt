@@ -1,0 +1,144 @@
+SVP, 461                                                                                                                                             07.01.2016
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                          Zufahrt: NORD                OST WEST                       SUMME %
+                                                                                       RAD    FSp     27                 36   54                         117          15,9
+                                                                                              NSp     48                 56   78                         182          18,4
+                                                                                              6h     227                242  406                          875         18,0
+                                                                                       NFZ    FSp     30                 40  36                          106          17,2
+                                Nord                                                          NSp     16                 24  21                           61           7,6
+                                                                                              6h     150                148 162                          460          11,5
+                         Hebbelstraße                                                  SV     FSp      9                  9  17                           35           5,7
+                                                                                              NSp      3                  2    8                          13           1,6
+                            1.081      3.164                                                       6h           44           22     66                   132           3,3
+
+                                                                                        KFZ   FSp 166                   226        225                   617
+                                        2.083
+                                                                                                                                                                      100
+                          477    604                                                          NSp 207                   320        279                   806          100
+                                                                                              6h   1081                1455       1455                  3991          100
+                                                                                       FZ     FSp   193                 262        279                   734          100
+                                                                                              NSp   255                 376        357                   988          100
+                                                                                              6h   1308                1697       1861                  4866          100
+                                                                                       Q DTVw: 2,5 2703                3638       3638
+    2.210       755                                               1.177                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                          1.455
+                906                                                278                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+    1.455
+                549                                               1.153   2.608        Bemerkungen:
+                                                                                       - Wetter: früh 17ºC sonnig, trocken; nachmittag 23ºC sonnig, trocken
+
+
+                                                                                           Sph-Beginn:      9:00     Uhr und      16:00 Uhr
+
+               WEST      Charlottenstr.                             OST               SUMME Zufahrten: [FSp]: 617 KFZ/h 9:30
+                                                                                                         (NSp): 806 KFZ/h 16:30
+                                                                                                           6h : 3991 KFZ
+                                                                                      max. Sph /Zufahrt: NORD    231 KFZ/h 15:30
+                                                                                                           OST   320 KFZ/h 16:30
+                                                                                        DATUM :          WEST    279 KFZ/h 16:30
+                                                                              6h Werte 09.08.2012
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 132                    Charlottenstr./Hebbelstr.
+
+
+
+
+StromPlan132kp8-12.xls                                         Seite 1
+SVP, 461                                                                                                                                          07.01.2016
+
+
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                       Zufahrt: NORD                OST WEST                       SUMME %
+                                                                                    RAD    FSp     27                 36   54                         117          15,9
+                                                                                           NSp     48                 56   78                         182          18,4
+                                                                                           6h     227                242  406                          875         18,0
+                                                                                    NFZ    FSp     30                 40  36                          106          17,2
+                                       Nord                                                NSp     16                 24  21                           61           7,6
+                                                                                           6h     150                148 162                          460          11,5
+                               Hebbelstraße                                         SV     FSp      9                  9  17                           35           5,7
+                                                                                           NSp      3                  2    8                          13           1,6
+                                     166        493                                             6h           44           22     66                   132           3,3
+
+                                                                                    KFZ    FSp 166                   226        225                   617          100
+                                78         88   327                                        NSp 207                   320        279                   806          100
+                                                                                           6h   1081                1455       1455                  3991          100
+                                                                                    FZ     FSp   193                 262        279                   734          100
+                                                                                           NSp   255                 376        357                   988          100
+                                                                                           6h   1308                1697       1861                  4866          100
+                                                                                    Q DTVw: 2,5 2703                3638       3638
+     351        126                                              178                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                       226
+                149                                               48                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     225
+                 76                                              164   390          Bemerkungen:
+                                                                                    - Wetter: früh 17ºC sonnig, trocken; nachmittag 23ºC sonnig, trocken
+
+
+                                                                                        Sph-Beginn:      9:00     Uhr und      16:00 Uhr
+
+               WEST            Charlottenstr.                    OST               SUMME Zufahrten: [FSp]: 617 KFZ/h 9:30
+                                                                                                      (NSp): 806 KFZ/h 16:30
+                                                                                                        6h : 3991 KFZ
+                                                                                   max. Sph /Zufahrt: NORD    231 KFZ/h 15:30
+                                                                                                        OST   320 KFZ/h 16:30
+                                                                                    DATUM :           WEST    279 KFZ/h 16:30
+                                                                         617 KFZ/h 09.08.2012
+                                                      Kfz-Stromverteilung in der FSp 132                      Charlottenstr./Hebbelstr.
+
+
+
+
+StromPlan (FSp)132kp8-12.xls                                Seite 2
+SVP, 461                                                                                                                                            07.01.2016
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                         Zufahrt: NORD                OST WEST                       SUMME %
+                                                                                      RAD    FSp     27                 36   54                         117          15,9
+                                                                                             NSp     48                 56   78                         182          18,4
+                                                                                             6h     227                242  406                          875         18,0
+                                                                                      NFZ    FSp     30                 40  36                          106          17,2
+                                        Nord                                                 NSp     16                 24  21                           61           7,6
+                                                                                             6h     150                148 162                          460          11,5
+                               Hebbelstraße                                           SV     FSp      9                  9  17                           35           5,7
+                                                                                             NSp      3                  2    8                          13           1,6
+                                      207         649                                             6h           44           22     66                   132           3,3
+
+                                                                                      KFZ    FSp 166                   226        225                   617          100
+                                106         101   442                                        NSp 207                   320        279                   806          100
+                                                                                             6h   1081                1455       1455                  3991          100
+                                                                                      FZ     FSp   193                 262        279                   734          100
+                                                                                             NSp   255                 376        357                   988          100
+                                                                                             6h   1308                1697       1861                  4866          100
+                                                                                      Q DTVw: 2,5 2703                3638       3638
+     444        165                                                261                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                         320
+                181                                                 59                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     279
+                 98                                                199   519          Bemerkungen:
+                                                                                      - Wetter: früh 17ºC sonnig, trocken; nachmittag 23ºC sonnig, trocken
+
+
+                                                                                          Sph-Beginn:      9:00     Uhr und      16:00 Uhr
+
+               WEST            Charlottenstr.                      OST               SUMME Zufahrten: [FSp]: 617 KFZ/h 9:30
+                                                                                                        (NSp): 806 KFZ/h 16:30
+                                                                                                          6h : 3991 KFZ
+                                                                                     max. Sph /Zufahrt: NORD    231 KFZ/h 15:30
+                                                                                                          OST   320 KFZ/h 16:30
+                                                                                      DATUM :           WEST    279 KFZ/h 16:30
+                                                                           806 KFZ/h 09.08.2012
+                                                        Kfz-Stromverteilung in der NSp 132                      Charlottenstr./Hebbelstr.
+
+
+
+
+StromPlan (NSp)132kp8-12.xls                                  Seite 3
+

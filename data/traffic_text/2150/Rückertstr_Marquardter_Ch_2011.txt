@@ -1,0 +1,155 @@
+SVP, 461                                                                                                                                             01.11.2012
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                               NORD                                        NORD SÜD WEST     SUMME %
+                                                    Rückertstr.                         RAD         FSp           0          2         5             7   0,6
+
+                                                                                                    NSp          5          1          6            12  1,0
+                                                             413                                    6h          11         13         28            52 0,8
+                                                                           868          NFZ         FSp        22         90        125           237 20,1
+                                                                                                    NSp        19        106         75           200 16,3
+                                                     91            322        455                   6h        101        589        501          1191 17,9
+                                                                                        SV          FSp          8        46         42             96  8,1
+                                                                                                    NSp          7        47         32             86  7,0
+                                                                                                    6h          42       270        199            511 7,7
+                                                                                        KFZ
+
+
+
+
+                  Marquardter Ch.
+                                                                                                    FSp        54        461        663          1178 100
+                                                                                                    NSp       119        660        451          1230 100
+                                                                                                    6h        413       3240       3007          6660 100
+                                    5.969   2.962                                       FZ          FSp         54       463        668          1185 100
+                                             86                                                     NSp       124        661        457          1242 100
+           WEST
+                                    3.007
+                                            2.921                                                   6h         424      3253       3035           6712 100
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh: 2°C sonnig; nachmittag: 16°C sonnig
+
+
+
+
+                                                                                             Sph-Beginn:          7.00 Uhr und 15.00 Uhr
+
+                                                     3.243         2.871      369       SUMME Zufahrten: FSp : 1178 KFZ/h 7:30
+                                                                                                           NSp : 1230 KFZ/h 15:30
+                                                    6.483                                                    6h : 6660 KFZ
+                                                                      3.240             max. Sph /Zufahrt: NORD    119 KFZ/h 15:30
+                                                                   SÜD                                      SÜD    718 KFZ/h 16:30
+                                                    Rückertstr.                           DATUM :                     WEST          663 KFZ/h 7:30
+                                                                                        05.05.2011
+                                                                                          215                 Rückertstr./Marquardter Ch.
+
+
+
+
+StromPlan215kp5-11.xls                                                              1
+SVP, 461                                                                                                                                                    01.11.2012
+
+
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                           NORD                                                   NORD SÜD WEST     SUMME %
+                                                  Rückertstr.                                  RAD         FSp           0          2         5             7   0,6
+
+                                                                                                           NSp          5          1          6            12  1,0
+                                                          54                                               6h          11         13         28            52 0,8
+                                                                           193                 NFZ         FSp        22         90        125           237 20,1
+                                                                                                           NSp        19        106         75           200 16,3
+                                                   10          44          139                             6h        101        589        501          1191 17,9
+                                                                                               SV          FSp          8        46         42             96  8,1
+                                                                                                           NSp          7        47         32             86  7,0
+                                                                                                           6h          42       270        199            511 7,7
+                                                                                               KFZ
+
+
+
+
+                  Marquardter Ch.
+                                                                                                           FSp        54        461        663          1178 100
+                                                                                                           NSp       119        660        451          1230 100
+                                                                                                           6h        413       3240       3007          6660 100
+                                    1.022   359                                                FZ          FSp         54       463        668          1185 100
+                                            27                                                             NSp       124        661        457          1242 100
+           WEST
+                                    663
+                                            636                                                            6h         424      3253       3035           6712 100
+                                                                                               Bemerkungen :
+                                                                                               - Wetter früh: 2°C sonnig; nachmittag: 16°C sonnig
+
+
+
+
+                                                                                                    Sph-Beginn:          7.00 Uhr und 15.00 Uhr
+                                                   680         349         112                 SUMME Zufahrten: FSp : 1178 KFZ/h 7:30
+                                                                                                                  NSp : 1230 KFZ/h 15:30
+                                                  1.141                                                             6h : 6660 KFZ
+                                                                     461                       max. Sph /Zufahrt: NORD    119 KFZ/h 15:30
+                                                               SÜD                                                 SÜD    718 KFZ/h 16:30
+                                                  Rückertstr.                                    DATUM :                     WEST          663 KFZ/h 7:30
+                                                                                 1.178 KFZ/h   05.05.2011
+                                                    Kfz-Stromverteilung in der FSp               215                 Rückertstr./Marquardter Ch.
+
+
+
+
+StromPlan (FSp)215kp5-11.xls                                                     2
+SVP, 461                                                                                                                                                    01.11.2012
+
+
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                           NORD                                                   NORD SÜD WEST     SUMME %
+                                                  Rückertstr.                                  RAD         FSp           0          2         5             7   0,6
+
+                                                                                                           NSp          5          1          6            12  1,0
+                                                         119                                               6h          11         13         28            52 0,8
+                                                                           178                 NFZ         FSp        22         90        125           237 20,1
+                                                                                                           NSp        19        106         75           200 16,3
+                                                   31          88          59                              6h        101        589        501          1191 17,9
+                                                                                               SV          FSp          8        46         42             96  8,1
+                                                                                                           NSp          7        47         32             86  7,0
+                                                                                                           6h          42       270        199            511 7,7
+                                                                                               KFZ
+
+
+
+
+                  Marquardter Ch.
+                                                                                                           FSp        54        461        663          1178 100
+                                                                                                           NSp       119        660        451          1230 100
+                                                                                                           6h        413       3240       3007          6660 100
+                                    1.089   638                                                FZ          FSp         54       463        668          1185 100
+                                             6                                                             NSp       124        661        457          1242 100
+           WEST
+                                    451
+                                            445                                                            6h         424      3253       3035           6712 100
+                                                                                               Bemerkungen :
+                                                                                               - Wetter früh: 2°C sonnig; nachmittag: 16°C sonnig
+
+
+
+
+                                                                                                    Sph-Beginn:          7.00 Uhr und 15.00 Uhr
+                                                   533         607         53                  SUMME Zufahrten: FSp : 1178 KFZ/h 7:30
+                                                                                                                  NSp : 1230 KFZ/h 15:30
+                                                  1.193                                                             6h : 6660 KFZ
+                                                                     660                       max. Sph /Zufahrt: NORD    119 KFZ/h 15:30
+                                                               SÜD                                                 SÜD    718 KFZ/h 16:30
+                                                  Rückertstr.                                    DATUM :                     WEST          663 KFZ/h 7:30
+                                                                                 1.230 KFZ/h   05.05.2011
+                                                    Kfz-Stromverteilung in der NSp               215                 Rückertstr./Marquardter Ch.
+
+
+
+
+StromPlan (NSp)215kp5-11.xls                                                     3
+

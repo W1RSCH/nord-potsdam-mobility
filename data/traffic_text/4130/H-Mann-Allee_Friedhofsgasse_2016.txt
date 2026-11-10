@@ -1,0 +1,172 @@
+       SVP, 461                                                                                                                                                                                    05.09.2016
+
+
+
+
+                                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                                           Zufahrt:   NG OST SÜD WEST SUMME %
+                                                             NG                                                                       RAD         FSp        201             8      267       10           486    31,7
+                                                                                                                                                  NSp        192            14      193        3           402    26,8
+                                                  H.-Mann-Allee                                                                                   6h         945            71     1047       32          2095    25,3
+                                                                             5.365                                                    NFZ         FSp       111             2      102         8           223    21,3
+
+                                                                                                                                                  NSp   83                3         78        13           177    16,1
+                                                                                                                                                  6h   551               28        443        50          1072
+                                                             2.983             2.382
+                                                                                                                                                                                                                  17,3
+                                                                                                                                      SV          FSp   30                0         30         5             65    6,2
+                                                                                                                                                  NSp   17                0         18         1             36    3,3
+
+
+
+
+       H.-Mann-Allee (Nebenfahrbahn)
+                                                                                                                                                  6h   142                3        123        14            282    4,5
+                                                                                                                                      KFZ         FSp 543                14        456        36          1049    100
+                                                                                                                                                  NSp 506                37        505        49          1097    100
+
+
+
+
+                                                                                                                     Friedhofsgasse
+                                                                                                                                                  6h  2983              188       2790       238          6199    100
+                                                                                                                                      FZ          FSp  744               22        723        46          1535    100
+                                       238                                                         67                                             NSp  698               51        698        52          1499    100
+                                             66                                                          188   OST
+                                                                                                                                                  6h  3928              259       3837       270           8294   100
+
+WEST                                   238   82                                                    121                                Q DTVw: 2,4 12608               1906 14062             559
+                                             90                                                    623   811                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                      Bemerkungen :
+                                                                                                                                      - halbs. Sperrung in Straße Am Brhb. - stadteinw. über Leipz. Str. umgel.
+                                                                                                                                      - Teilzählung - Zuf. NG+SG durch KP411 errechnet
+                                                                                                                                      - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+                                                                                                                                                  Sph-Beginn:         7:00       Uhr und   15:00    Uhr
+
+                                                   3.194             2.249     541                                                    SUMME Zufahrten: [FSp] : 1049 KFZ/h 7:30
+                                                                                                                                                       (NSp) : 1097 KFZ/h 15:30
+                                                  5.984                                                                                                                6h :       6199 KFZ
+                                                                         2.790                                                        max. Sph /Zufahrt:               NG           543 KFZ/h 7:30
+                                                                     SÜD                                                                                              OST            53 KFZ/h 17:00
+                                                           H.-Mann-Allee                                                                DATUM :                      SÜD            505 KFZ/h 15:30
+                                                                                                               6h Werte 09.06.2016                                  WEST             49 KFZ/h 15:30
+                                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 413                            H.-Mann-Allee/Friedhofsgasse
+
+
+       StromPlan413kp6-16.xls                                                             Seite1
+       SVP, 461                                                                                                                                                                                05.09.2016
+
+
+
+
+                                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                       Zufahrt:   NG OST SÜD WEST SUMME %
+                                                          NG                                                                      RAD         FSp        201             8      267       10           486    31,7
+                                                                                                                                              NSp        192            14      193        3           402    26,8
+                                                 H.-Mann-Allee                                                                                6h         945            71     1047       32          2095    25,3
+                                                                        897                                                       NFZ         FSp       111             2      102         8           223    21,3
+
+                                                                                                                                              NSp   83                3         78        13           177    16,1
+                                                                                                                                              6h   551               28        443        50          1072    17,3
+                                                          543               354                                                   SV          FSp   30                0         30         5             65    6,2
+                                                                                                                                              NSp   17                0         18         1             36    3,3
+
+
+
+
+       H.-Mann-Allee (Nebenfahrbahn)
+                                                                                                                                              6h   142                3        123        14            282    4,5
+                                                                                                                                  KFZ         FSp 543                14        456        36          1049    100
+                                                                                                                                              NSp 506                37        505        49          1097    100
+
+
+
+
+                                                                                                                 Friedhofsgasse
+                                                                                                                                              6h  2983              188       2790       238          6199    100
+                                                                                                                                  FZ          FSp  744               22        723        46          1535    100
+                                       36                                                       6                                             NSp  698               51        698        52          1499    100
+                                             9                                                       14    OST
+                                                                                                                                              6h  3928              259       3837       270           8294   100
+
+WEST                                   36   17                                                  8                                 Q DTVw: 2,4 12608               1906 14062             559
+                                            10                                                 134   148                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                  Bemerkungen :
+                                                                                                                                  - halbs. Sperrung in Straße Am Brhb. - stadteinw. über Leipz. Str. umgel.
+                                                                                                                                  - Teilzählung - Zuf. NG+SG durch KP411 errechnet
+                                                                                                                                  - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+                                                                                                                                              Sph-Beginn:         7:00       Uhr und   15:00    Uhr
+                                                  561           339         117                                                   SUMME Zufahrten: [FSp] : 1049 KFZ/h 7:30
+                                                                                                                                                   (NSp) : 1097 KFZ/h 15:30
+                                                 1.017                                                                                                             6h :       6199 KFZ
+                                                                      456                                                         max. Sph /Zufahrt:               NG           543 KFZ/h 7:30
+                                                                SÜD                                                                                               OST            53 KFZ/h 17:00
+                                                        H.-Mann-Allee                                                               DATUM :                      SÜD            505 KFZ/h 15:30
+                                                                                                       1.049 KFZ/h 09.06.2016                                   WEST             49 KFZ/h 15:30
+                                                                                  Kfz-Stromverteilung in der FSp 413                              H.-Mann-Allee/Friedhofsgasse
+
+
+       StromPlan (FSp)413kp6-16.xls                                                   Seite2
+       SVP, 461                                                                                                                                                                                 05.09.2016
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                        Zufahrt:   NG OST SÜD WEST SUMME %
+                                                          NG                                                                       RAD         FSp        201             8      267       10           486    31,7
+                                                                                                                                               NSp        192            14      193        3           402    26,8
+                                                 H.-Mann-Allee                                                                                 6h         945            71     1047       32          2095    25,3
+                                                                        939                                                        NFZ         FSp       111             2      102         8           223    21,3
+
+                                                                                                                                               NSp   83                3         78        13           177    16,1
+                                                                                                                                               6h   551               28        443        50          1072    17,3
+                                                          506               433                                                    SV          FSp   30                0         30         5             65    6,2
+                                                                                                                                               NSp   17                0         18         1             36    3,3
+
+
+
+
+       H.-Mann-Allee (Nebenfahrbahn)
+                                                                                                                                               6h   142                3        123        14            282    4,5
+                                                                                                                                   KFZ         FSp 543                14        456        36          1049    100
+                                                                                                                                               NSp 506                37        505        49          1097    100
+
+
+
+
+                                                                                                                  Friedhofsgasse
+                                                                                                                                               6h  2983              188       2790       238          6199    100
+                                                                                                                                   FZ          FSp  744               22        723        46          1535    100
+                                       49                                                       12                                             NSp  698               51        698        52          1499    100
+                                            16                                                        37    OST
+                                                                                                                                               6h  3928              259       3837       270           8294   100
+
+WEST                                   49   13                                                   25                                Q DTVw: 2,4 12608               1906 14062             559
+                                            20                                                  113   150                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                   Bemerkungen :
+                                                                                                                                   - halbs. Sperrung in Straße Am Brhb. - stadteinw. über Leipz. Str. umgel.
+                                                                                                                                   - Teilzählung - Zuf. NG+SG durch KP411 errechnet
+                                                                                                                                   - Wetter früh 17ºC bewölkt, trocken; nachmittag 26ºC sonnig bis bewölkt
+                                                                                                                                               Sph-Beginn:         7:00       Uhr und   15:00    Uhr
+                                                  551           405         100                                                    SUMME Zufahrten: [FSp] : 1049 KFZ/h 7:30
+                                                                                                                                                    (NSp) : 1097 KFZ/h 15:30
+                                                 1.056                                                                                                              6h :       6199 KFZ
+                                                                      505                                                          max. Sph /Zufahrt:               NG           543 KFZ/h 7:30
+                                                                SÜD                                                                                                OST            53 KFZ/h 17:00
+                                                        H.-Mann-Allee                                                                DATUM :                      SÜD            505 KFZ/h 15:30
+                                                                                                        1.097 KFZ/h 09.06.2016                                   WEST             49 KFZ/h 15:30
+                                                                                  Kfz-Stromverteilung in der NSp 413                               H.-Mann-Allee/Friedhofsgasse
+
+
+       StromPlan (NSp)413kp6-16.xls                                                    Seite3
+

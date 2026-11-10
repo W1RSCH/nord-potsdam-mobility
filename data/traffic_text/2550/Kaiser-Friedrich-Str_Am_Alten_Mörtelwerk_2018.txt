@@ -1,0 +1,142 @@
+SVP, 461                                                                                                                                                      27.08.2018
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt: NORD OST WEST     SUMME %
+                                                                                             RAD         FSp       138          63      56                   257     24,2
+                                                                                                         NSp        40          65      33                   138     14,2
+                                                                                                         6h        317         319     169                   805     15,6
+                                                                                             NFZ         FSp        25          50      53                   128     15,9
+
+                                     NORD                                                                NSp         26         44      20                     90 10,8
+                                                                                                         6h         113        245     193                    551 12,6
+                         Am Alten Mörtelwerk                                                 SV          FSp          5         22      19                     46  5,7
+                                                                                                         NSp          2         16       6                     24  2,9
+                                   951           1.755                                                   6h         22        101       65                    188     4,3
+                                                                                             KFZ         FSp       232        224      347                    803    100
+                             144         807       804                                                   NSp       138        478      217                    833    100
+                                                                                                         6h        951       1954     1456                   4361    100
+                                                                                             FZ          FSp       370        287      403                   1060    100
+                                                                                                         NSp       178        543      250                    971    100
+
+                                                                                                         6h       1268       2273     1625                   5166    100
+                                                                                             Q DTVw:2,35          4124       9579     6794
+    2.891     1.435                                                         663              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                     1.954
+               141                                                         1.291             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+    1.456
+              1.315                                                        2.122      4.076 Bemerkungen :
+                                                                                             - erste Woche nach den Sommerferien
+                                                                                             - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+
+
+               WEST      Kaiser Friedrich-Str.                             OST
+
+                                                                                                         Sph-Beginn:         7.00    Uhr und   15.30   Uhr
+                                                                                             SUMME Zufahrten:   [FSp] : 803 KFZ/h   7:30
+                                                                                                                [NSp] : 833 KFZ/h 16:00
+                                                                                                                 6h : 4361 KFZ
+                                                                                             max. Sph /Zufahrt: NORD    232 KFZ/h 7:30
+                                                                                                                  OST   478 KFZ/h 16:00
+                                                                                              DATUM :           WEST    347 KFZ/h 7:30
+                                                                                   6h Werte 23.08.2018
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 255               Kaiser-Friedr.-Str./Am Alten Mörtelwerk
+
+StromPlan255kp8-18.xls                                           Seite 1
+SVP, 461                                                                                                                                                   27.08.2018
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD OST WEST     SUMME %
+                                                                                          RAD         FSp       138          63      56                   257     24,2
+                                                                                                      NSp        40          65      33                   138     14,2
+                                                                                                      6h        317         319     169                   805     15,6
+                                                                                          NFZ         FSp        25          50      53                   128     15,9
+
+                                          NORD                                                        NSp         26         44      20                     90 10,8
+                                                                                                      6h         113        245     193                    551 12,6
+                               Am Alten Mörtelwerk                                        SV          FSp          5         22      19                     46  5,7
+                                                                                                      NSp          2         16       6                     24  2,9
+                                        232         331                                               6h         22        101       65                    188     4,3
+                                                                                          KFZ         FSp       232        224      347                    803    100
+                                   28         204   99                                                NSp       138        478      217                    833    100
+                                                                                                      6h        951       1954     1456                   4361    100
+                                                                                          FZ          FSp       370        287      403                   1060    100
+                                                                                                      NSp       178        543      250                    971    100
+
+                                                                                                      6h       1268       2273     1625                   5166    100
+                                                                                          Q DTVw:2,35          4124       9579     6794
+     523        176                                                           76          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                    224
+                 23                                                          148          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     347
+                324                                                          528    752   Bemerkungen :
+                                                                                          - erste Woche nach den Sommerferien
+                                                                                          - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+
+
+               WEST            Kaiser Friedrich-Str.                         OST
+
+                                                                                                      Sph-Beginn:         7.00    Uhr und   15.30   Uhr
+                                                                                          SUMME Zufahrten:   [FSp] : 803 KFZ/h   7:30
+                                                                                                             [NSp] : 833 KFZ/h 16:00
+                                                                                                              6h : 4361 KFZ
+                                                                                          max. Sph /Zufahrt: NORD    232 KFZ/h 7:30
+                                                                                                               OST   478 KFZ/h 16:00
+                                                                                           DATUM :           WEST    347 KFZ/h 7:30
+                                                                              803   KFZ/h 23.08.2018
+                                                          Kfz-Stromverteilung in der FSp 255            Kaiser-Friedr.-Str./Am Alten Mörtelwerk
+
+StromPlan (FSp)255kp8-18.xls                                       Seite 2
+SVP, 461                                                                                                                                                   27.08.2018
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD OST WEST     SUMME %
+                                                                                          RAD         FSp       138          63      56                   257     24,2
+                                                                                                      NSp        40          65      33                   138     14,2
+                                                                                                      6h        317         319     169                   805     15,6
+                                                                                          NFZ         FSp        25          50      53                   128     15,9
+
+                                          NORD                                                        NSp         26         44      20                     90 10,8
+                                                                                                      6h         113        245     193                    551 12,6
+                               Am Alten Mörtelwerk                                        SV          FSp          5         22      19                     46  5,7
+                                                                                                      NSp          2         16       6                     24  2,9
+                                        138         330                                               6h         22        101       65                    188     4,3
+                                                                                          KFZ         FSp       232        224      347                    803    100
+                                   23         115   192                                               NSp       138        478      217                    833    100
+                                                                                                      6h        951       1954     1456                   4361    100
+                                                                                          FZ          FSp       370        287      403                   1060    100
+                                                                                                      NSp       178        543      250                    971    100
+
+                                                                                                      6h       1268       2273     1625                   5166    100
+                                                                                          Q DTVw:2,35          4124       9579     6794
+     552        335                                                          166          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                    478
+                 26                                                          312          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+     217
+                191                                                          306    784   Bemerkungen :
+                                                                                          - erste Woche nach den Sommerferien
+                                                                                          - Wetter früh 15°C sonnig, trocken; nachmittag 32°C sonnig
+
+
+               WEST            Kaiser Friedrich-Str.                         OST
+
+                                                                                                      Sph-Beginn:         7.00    Uhr und   15.30   Uhr
+                                                                                          SUMME Zufahrten:   [FSp] : 803 KFZ/h   7:30
+                                                                                                             [NSp] : 833 KFZ/h 16:00
+                                                                                                              6h : 4361 KFZ
+                                                                                          max. Sph /Zufahrt: NORD    232 KFZ/h 7:30
+                                                                                                               OST   478 KFZ/h 16:00
+                                                                                           DATUM :           WEST    347 KFZ/h 7:30
+                                                                              833   KFZ/h 23.08.2018
+                                                          Kfz-Stromverteilung in der NSp 255            Kaiser-Friedr.-Str./Am Alten Mörtelwerk
+
+StromPlan (NSp)255kp8-18.xls                                       Seite 3
+

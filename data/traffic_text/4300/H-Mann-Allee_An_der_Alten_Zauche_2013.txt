@@ -1,0 +1,147 @@
+       SVP, 461                                                                                                                                                         15.07.2015
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                         NORD OST SÜD WEST SUMME %
+                                                NORD                                                                  RAD        FSp   13           130        12      86      241   13,2
+                                                                                                                                 NSp   25             76       19    131       251   12,9
+                                        An der Alten Zauche                                                                      6h   108            528      120     541     1297   12,3
+                                                1.537           3.941                                                 NFZ        FSp   62            60       30     109       261   16,5
+                                                                                                                                 NSp   50            24       22      84       180   10,6
+                                                                                                                                 6h   262           263      108     551      1184   12,8
+                                         804     185     548     2.404                                                SV         FSp   22            19         5     36        82    5,2
+                                                                                                                                 NSp   16              8        2     18        44    2,6
+                                                                                                                                 6h    95             79       15    134       323    3,5
+                                                                                                                      KFZ        FSp 255            547      219     559     1580    100
+                                                                                                                                 NSp 302            498      205     697     1702    100
+
+
+
+
+        H.-Mann-Allee                                                                                 H.-Mann-Allee
+                                                                                                                                 6h  1537          3087     1044    3602      9270   100
+                                                                                                                      FZ         FSp  268           677      231     645      1821   100
+                        6.479   2.877                                             1.072                                          NSp  327           574      224     828      1953   100
+                                 822                                              1.813 3.087   OST                              6h  1645          3615     1164    4143     10567   100
+
+WEST                    3.602   2.460                                               202                               Bemerkungen :
+                                 320                                              3.282 6.369
+
+
+
+
+                                         707     260     510     274                                                       Sph-Beginn:    7:30    Uhr und   15:30 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :  1580 KFZ/h 8:00
+                                        1.751                                                                                                   1702 KFZ/h 16:00
+                                                                                                                                                 (NSp):
+                                                        1.044                                                                              6h : 9270 KFZ
+                                                        SÜD                                                           max. Sph /Zufahrt: NORD :  302 KFZ/h 16:00
+                                         Am Försteracker                                                                                          OST :      561 KFZ/h 7:30
+                                                                                                                        DATUM :                   SÜD :      219 KFZ/h 8:00
+                                                                                                                       23.05.2013                WEST :      738 KFZ/h 16:30
+                                                                                                                       430               H.-Mann-Allee/An der Alten Zauche
+
+
+
+
+       StromPlan430kp5-13.xls                                            Seite1
+       SVP, 461                                                                                                                                                    15.07.2015
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                               NORD                                                                                 NORD OST SÜD WEST SUMME %
+                                                                                                                 RAD        FSp   13           130       12        86       241   13,2
+                                      An der Alten Zauche                                                                   NSp   25             76       19    131         251   12,9
+                                                                                                                            6h   108            528      120     541       1297   12,3
+                                               255          693                                                  NFZ        FSp   62            60       30     109         261   16,5
+                                                                                                                            NSp   50            24       22      84         180   10,6
+                                                                                                                            6h   262           263      108     551        1184   12,8
+                                         143    26    86    438                                                  SV         FSp   22            19         5     36          82    5,2
+                                                                                                                            NSp   16              8        2     18          44    2,6
+                                                                                                                            6h    95             79       15    134         323    3,5
+                                                                                                                 KFZ        FSp 255            547      219     559       1580    100
+                                                                                                                            NSp 302            498      205     697       1702    100
+
+
+
+
+       H.-Mann-Allee                                                                             H.-Mann-Allee
+                                                                                                                            6h  1537          3087     1044    3602        9270   100
+                                                                                                                 FZ         FSp  268           677      231     645        1821   100
+                       1.079   520                                            186                                           NSp  327           574      224     828        1953   100
+                               139                                            313    547   OST                              6h  1645          3615     1164    4143       10567   100
+
+WEST                   559     357                                             48                                Bemerkungen :
+                                63                                            485 1.032
+
+
+
+
+                                                                                                                      Sph-Beginn:    7:30    Uhr und   15:30 Uhr
+                                                                                                                 SUMME Zufahrten: [FSp] :              1580 KFZ/h       8:00
+                                         137    64    113   42                                                                              (NSp):     1702 KFZ/h       16:00
+                                                                                                                                      6h :             9270 KFZ
+                                        356                                                                      max. Sph /Zufahrt: NORD :              302 KFZ/h       16:00
+                                                      219                                                                            OST :              561 KFZ/h       7:30
+                                                      SÜD                                                         DATUM :            SÜD :              219 KFZ/h       8:00
+                                                                            1.580 KFZ/h                           23.05.2013                WEST :      738 KFZ/h 16:30
+                                         Am Försteracker          Kfz-Stromverteilung in der FSp 430                                H.-Mann-Allee/An der Alten Zauche
+
+
+
+
+       StromPlan (FSp)430kp5-13.xls                                Seite2
+       SVP, 461                                                                                                                                                    15.07.2015
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                               NORD                                                                                 NORD OST SÜD WEST SUMME %
+                                                                                                                 RAD        FSp        13      130       12        86       241   13,2
+
+                                      An der Alten Zauche                                                                   NSp   25             76       19    131         251   12,9
+                                                                                                                            6h   108            528      120     541       1297   12,3
+                                               302          726                                                  NFZ        FSp   62            60       30     109         261   16,5
+                                                                                                                            NSp   50            24       22      84         180   10,6
+                                                                                                                            6h   262           263      108     551        1184   12,8
+                                         153    46    103   424                                                  SV         FSp   22            19         5     36          82    5,2
+                                                                                                                            NSp   16              8        2     18          44    2,6
+                                                                                                                            6h    95             79       15    134         323    3,5
+                                                                                                                 KFZ        FSp 255            547      219     559       1580    100
+                                                                                                                            NSp 302            498      205     697       1702    100
+
+
+
+
+       H.-Mann-Allee                                                                             H.-Mann-Allee
+                                                                                                                            6h  1537          3087     1044    3602        9270   100
+                                                                                                                 FZ         FSp  268           677      231     645        1821   100
+                       1.171   474                                            174                                           NSp  327           574      224     828        1953   100
+                               139                                            283    498   OST                              6h  1645          3615     1164    4143       10567   100
+
+WEST                   697     489                                             41                                Bemerkungen :
+                                69                                            648 1.146
+
+
+
+
+                                                                                                                      Sph-Beginn:    7:30    Uhr und   15:30 Uhr
+                                                                                                                 SUMME Zufahrten: [FSp] :              1580 KFZ/h       8:00
+                                         156    38    111   56                                                                              (NSp):     1702 KFZ/h       16:00
+                                                                                                                                      6h :             9270 KFZ
+                                        361                                                                      max. Sph /Zufahrt: NORD :              302 KFZ/h       16:00
+                                                      205                                                                            OST :              561 KFZ/h       7:30
+                                                      SÜD                                                         DATUM :            SÜD :              219 KFZ/h       8:00
+                                                                            1.702 KFZ/h                           23.05.2013                WEST :      738 KFZ/h 16:30
+                                         Am Försteracker          Kfz-Stromverteilung in der NSp 430                                H.-Mann-Allee/An der Alten Zauche
+
+
+
+
+       StromPlan (NSp)430kp5-13.xls                                Seite3
+

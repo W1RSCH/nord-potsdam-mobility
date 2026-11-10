@@ -1,0 +1,154 @@
+Landeshauptstadt Potsdam                                                                                                                                                                20.10.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                         RAD         FSp                0        0       0                      0          0,0
+                                      NORD                                                                           NSp                0        4       0                      4         17,4
+
+                              Am Wiesenrand                                                                          6h                1         4       0                       5         5,9
+                                                                                                         NFZ         FSp               0         2       2                       4        28,6
+                                     13                                                                              NSp               1         0       1                       2        10,5
+                                                      33                                                             6h                2         5       6                     13         16,3
+                                                                                                         SV          FSp               0         2       2                       4        28,6
+                              n.g.        13          20                                                             NSp               0         0       0                       0         0,0
+                                                                                                                     6h                0         2       2                       4         5,0
+                                                                                                         KFZ         FSp               1         9       4                     14          100
+                                                                                                                     NSp               4         8       7                     19          100
+                                                                                                                     6h               13        41      26                     80          100
+
+
+
+
+                                                                                          H.-Heine-Weg
+                                                                                                         FZ          FSp               1         9       4                     14          100
+                                                                                                                     NSp               4        12       7                     23          100
+                                                                       20                                            6h               14        45      26                      85         100
+                                                                               41
+                                                                       21           OST                  Q DTVw:           2,2        73       176     103
+                                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                       39      80                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                         Bemerkungen :
+                                                                                                         - Zuf NG+SG nicht gezählt
+                                                                                                         - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                           nachmittag 12ºC leicht bewölkt, trocken
+                              21          n.g.        26
+                                                                                                         Sph-Beginn:               7.00     Uhr und   17.00 Uhr
+                              47                                                                         SUMME Zufahrten:                   FSp :       14 KFZ/h       7:30
+                                                 26                                                                                         NSp :       19 KFZ/h       17:30
+                                          SÜD                                                                                                 6h :      80 KFZ
+                              Am Wiesenrand                                                              max. Sph /Zufahrt:                 NORD         4 KFZ/h       15:30
+                                                                                                                                             OST        10 KFZ/h       16:00
+                                                                                                              DATUM :                        SÜD         7 KFZ/h       15:30
+                                                                                    6h Werte               24.10.2019
+                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2803                        Am Wiesenrand / H.-Heine-Weg
+
+
+StromPlan2803kp10-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                            20.10.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                     RAD         FSp                0        0       0                      0          0,0
+                                            NORD                                                                 NSp                0        4       0                      4         17,4
+
+                              Am Wiesenrand                                                                      6h                1         4       0                       5         5,9
+                                                                                                     NFZ         FSp               0         2       2                       4        28,6
+                                        1                                                                        NSp               1         0       1                       2        10,5
+                                                        7                                                        6h                2         5       6                     13         16,3
+                                                                                                     SV          FSp               0         2       2                       4        28,6
+                                 n.g.        1          6                                                        NSp               0         0       0                       0         0,0
+                                                                                                                 6h                0         2       2                       4         5,0
+                                                                                                     KFZ         FSp               1         9       4                     14          100
+                                                                                                                 NSp               4         8       7                     19          100
+                                                                                                                 6h               13        41      26                     80          100
+
+
+
+
+                                                                                      H.-Heine-Weg
+                                                                                                     FZ          FSp               1         9       4                     14          100
+                                                                                                                 NSp               4        12       7                     23          100
+                                                                     6                                           6h               14        45      26                      85         100
+                                                                           9
+                                                                     3          OST                  Q DTVw:           2,2        73       176     103
+                                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                     5     14                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Bemerkungen :
+                                                                                                     - Zuf NG+SG nicht gezählt
+                                                                                                     - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                       nachmittag 12ºC leicht bewölkt, trocken
+                                 3           n.g.       4
+                                                                                                     Sph-Beginn:               7.00     Uhr und   17.00 Uhr
+                                 7                                                                   SUMME Zufahrten:                   FSp :       14 KFZ/h       7:30
+                                                    4                                                                                   NSp :       19 KFZ/h       17:30
+                                            SÜD                                                                                           6h :      80 KFZ
+                              Am Wiesenrand                                                          max. Sph /Zufahrt:                 NORD         4 KFZ/h       15:30
+                                                                                                                                         OST        10 KFZ/h       16:00
+                                                                                                          DATUM :                        SÜD         7 KFZ/h       15:30
+                                                                                14 KFZ/h               24.10.2019
+                                                            Kfz-Stromverteilung in der FSp 2803                         Am Wiesenrand / H.-Heine-Weg
+
+
+StromPlan (FSp)2803kp10-19.xls
+Landeshauptstadt Potsdam                                                                                                                                                            20.10.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                     RAD         FSp                0        0       0                      0          0,0
+                                            NORD                                                                 NSp                0        4       0                      4         17,4
+
+                              Am Wiesenrand                                                                      6h                1         4       0                       5         5,9
+                                                                                                     NFZ         FSp               0         2       2                       4        28,6
+                                        4                                                                        NSp               1         0       1                       2        10,5
+                                                        8                                                        6h                2         5       6                     13         16,3
+                                                                                                     SV          FSp               0         2       2                       4        28,6
+                                 n.g.        4          4                                                        NSp               0         0       0                       0         0,0
+                                                                                                                 6h                0         2       2                       4         5,0
+                                                                                                     KFZ         FSp               1         9       4                     14          100
+                                                                                                                 NSp               4         8       7                     19          100
+                                                                                                                 6h               13        41      26                     80          100
+
+
+
+
+                                                                                      H.-Heine-Weg
+                                                                                                     FZ          FSp               1         9       4                     14          100
+                                                                                                                 NSp               4        12       7                     23          100
+                                                                     4                                           6h               14        45      26                      85         100
+                                                                           8
+                                                                     4          OST                  Q DTVw:           2,2        73       176     103
+                                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                    11     19                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Bemerkungen :
+                                                                                                     - Zuf NG+SG nicht gezählt
+                                                                                                     - Wetter früh 5ºC bewölkt, leichter Regen;
+                                                                                                       nachmittag 12ºC leicht bewölkt, trocken
+                                 4           n.g.       7
+                                                                                                     Sph-Beginn:               7.00     Uhr und   17.00 Uhr
+                                 11                                                                  SUMME Zufahrten:                   FSp :       14 KFZ/h       7:30
+                                                    7                                                                                   NSp :       19 KFZ/h       17:30
+                                            SÜD                                                                                           6h :      80 KFZ
+                              Am Wiesenrand                                                          max. Sph /Zufahrt:                 NORD         4 KFZ/h       15:30
+                                                                                                                                         OST        10 KFZ/h       16:00
+                                                                                                          DATUM :                        SÜD         7 KFZ/h       15:30
+                                                                                19 KFZ/h               24.10.2019
+                                                            Kfz-Stromverteilung in der NSp 2803                         Am Wiesenrand / H.-Heine-Weg
+
+
+StromPlan (NSp)2803kp10-19.xls
+

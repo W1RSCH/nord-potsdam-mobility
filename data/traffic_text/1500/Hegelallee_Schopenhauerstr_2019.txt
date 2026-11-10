@@ -1,0 +1,158 @@
+Landeshauptstadt Potsdam                                                                                                                                                             12.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                               Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                      RAD         FSp              93       49     133                    275          12,9
+                                          NORD                                                                    NSp             121       94     244                    459          17,2
+
+                              Schopenhauerstr.                                                                    6h           915   416   939                           2270          16,5
+                                                                                                      NFZ         FSp         111    81   104                            296           16,0
+                                       4.202                                                                      NSp          98    90    93                            281           12,8
+                                                   7.073                                                          6h          569   489   561                           1619           14,1
+                                                                                                      SV          FSp          38    25    28                              91           4,9
+
+                               2.158       2.044    2.871                                                         NSp          28    16    18                              62           2,8
+                                                                                                                  6h          193   137   138                             468           4,1
+                                                                                                      KFZ         FSp         666   584   601                           1851            100
+                                                                                                                  NSp         748   806   649                           2203            100
+                                                                                                                  6h         4202 3723 3557                            11482            100
+                                                                                                      FZ          FSp         759   633   734                           2126            100
+
+
+
+
+                                                                                         Hegelallee
+                                                                                                                  NSp         869   900   893                           2662            100
+                                                                     1290                                         6h         5117 4139 4496                            13752            100
+                                                                            3723
+                                                                     2433          OST                Q DTVw:           2,2 15561 17035 17926
+                                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                     4020   7743                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                      Bemerkungen :
+                                                                                                      - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                        nachmittag 23ºC leicht bewölkt, trocken
+
+
+                               4.591       1.581    1.976
+                                                                                                      Sph-Beginn:               9.00    Uhr und   15.30 Uhr
+                              8.148                                                                   SUMME Zufahrten:                  FSp : 1851 KFZ/h            9:30
+                                             3.557                                                                                      NSp : 2203 KFZ/h            16:00
+                                           SÜD                                                                                            6h : 11482 KFZ
+                              Schopenhauerstr.                                                        max. Sph /Zufahrt:                NORD     799 KFZ/h          7:30
+                                                                                                                                         OST     806 KFZ/h          16:00
+                                                                                                           DATUM :                       SÜD     673 KFZ/h          15:30
+                                                                                   6h Werte             15.08.2019
+                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 150                         Hegelallee/Schopenhauerstr.
+
+
+StromPlan150kp8-19.xlsx
+Landeshauptstadt Potsdam                                                                                                                                                          12.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                            Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                   RAD         FSp              93       49     133                    275          12,9
+                                         NORD                                                                  NSp             121       94     244                    459          17,2
+
+                              Schopenhauerstr.                                                                 6h           915   416   939                           2270          16,5
+                                                                                                   NFZ         FSp         111    81   104                            296           16,0
+                                       666                                                                     NSp          98    90    93                            281           12,8
+                                                   1.076                                                       6h          569   489   561                           1619           14,1
+                                                                                                   SV          FSp          38    25    28                              91           4,9
+                                 308         358    410                                                        NSp          28    16    18                              62           2,8
+                                                                                                               6h          193   137   138                             468           4,1
+                                                                                                   KFZ         FSp         666   584   601                           1851            100
+                                                                                                               NSp         748   806   649                           2203            100
+                                                                                                               6h         4202 3723 3557                            11482            100
+                                                                                                   FZ          FSp         759   633   734                           2126            100
+
+
+
+
+                                                                                      Hegelallee
+                                                                                                               NSp         869   900   893                           2662            100
+                                                                   179                                         6h         5117 4139 4496                            13752            100
+                                                                         584
+                                                                   405          OST                Q DTVw:           2,2 15561 17035 17926
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                   728   1312                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                     nachmittag 23ºC leicht bewölkt, trocken
+
+
+                                 713         231    370
+                                                                                                   Sph-Beginn:               9.00    Uhr und   15.30 Uhr
+                                1.314                                                              SUMME Zufahrten:                  FSp : 1851 KFZ/h            9:30
+                                            601                                                                                      NSp : 2203 KFZ/h            16:00
+                                         SÜD                                                                                           6h : 11482 KFZ
+                              Schopenhauerstr.                                                     max. Sph /Zufahrt:                NORD     799 KFZ/h          7:30
+                                                                                                                                      OST     806 KFZ/h          16:00
+                                                                                                        DATUM :                       SÜD     673 KFZ/h          15:30
+                                                                            1.851 KFZ/h              15.08.2019
+                                                           Kfz-Stromverteilung in der FSp 150                           Hegelallee/Schopenhauerstr.
+
+
+StromPlan (FSp)150kp8-19.xlsx
+Landeshauptstadt Potsdam                                                                                                                                                          12.05.2020
+Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                            Zufahrt: NORD OST SÜD       SUMME %
+                                                                                                   RAD         FSp              93       49     133                    275          12,9
+                                         NORD                                                                  NSp             121       94     244                    459          17,2
+
+                              Schopenhauerstr.                                                                 6h           915   416   939                           2270          16,5
+                                                                                                   NFZ         FSp         111    81   104                            296           16,0
+                                       748                                                                     NSp          98    90    93                            281           12,8
+                                                   1.315                                                       6h          569   489   561                           1619           14,1
+                                                                                                   SV          FSp          38    25    28                              91           4,9
+                                 411         337    567                                                        NSp          28    16    18                              62           2,8
+                                                                                                               6h          193   137   138                             468           4,1
+                                                                                                   KFZ         FSp         666   584   601                           1851            100
+                                                                                                               NSp         748   806   649                           2203            100
+                                                                                                               6h         4202 3723 3557                            11482            100
+                                                                                                   FZ          FSp         759   633   734                           2126            100
+
+
+
+
+                                                                                      Hegelallee
+                                                                                                               NSp         869   900   893                           2662            100
+                                                                   270                                         6h         5117 4139 4496                            13752            100
+                                                                         806
+                                                                   536          OST                Q DTVw:           2,2 15561 17035 17926
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                   689   1495                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Wetter früh 5ºC bewölkt, trocken;
+                                                                                                     nachmittag 23ºC leicht bewölkt, trocken
+
+
+                                 947         297    352
+                                                                                                   Sph-Beginn:               9.00    Uhr und   15.30 Uhr
+                                1.596                                                              SUMME Zufahrten:                  FSp : 1851 KFZ/h            9:30
+                                            649                                                                                      NSp : 2203 KFZ/h            16:00
+                                         SÜD                                                                                           6h : 11482 KFZ
+                              Schopenhauerstr.                                                     max. Sph /Zufahrt:                NORD     799 KFZ/h          7:30
+                                                                                                                                      OST     806 KFZ/h          16:00
+                                                                                                        DATUM :                       SÜD     673 KFZ/h          15:30
+                                                                            2.203 KFZ/h              15.08.2019
+                                                           Kfz-Stromverteilung in der NSp 150                           Hegelallee/Schopenhauerstr.
+
+
+StromPlan (NSp)150kp8-19.xlsx
+

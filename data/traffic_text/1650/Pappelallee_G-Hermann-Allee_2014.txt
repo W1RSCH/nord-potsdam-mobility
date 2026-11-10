@@ -1,0 +1,133 @@
+SVP, 461                                                                                                                                           03.12.2015
+
+
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                       Zufahrt: NORD                OST WEST                       SUMME %
+                                                                                    RAD    FSp     46                 52   73                         171          11,5
+                                                                                           NSp     39                 82   25                         146          10,5
+                                                                                           6h     209                384  230                          823         10,8
+                                                                                    NFZ    FSp    21                   9  71                          101           7,7
+                                   NORD                                                    NSp    11                  75  38                          124           9,9
+                                                                                           6h      83                327 261                          671           9,9
+                         G.-Hermann-Allee                                           SV     FSp    10                   2  20                           32           2,4
+                                                                                           NSp      2                 11  11                           24           1,9
+                                1.130     2.008                                                 6h           41           51     84                    176          2,6
+
+                                                                                    KFZ    FSp 264                   378        672                 1314           100
+                          316       814    878                                             NSp 166                   651        432                 1249           100
+                                                                                           6h   1130                3071       2602                 6803           100
+                                                                                    FZ     FSp   310                 430        745                 1485           100
+                                                                                           NSp   205                 733        457                 1395           100
+                                                                                           6h   1339                3455       2832                  7626          100
+                                                                                    Q DTVw: 2,4 2656                7217       6115
+ 5.556      2.954                                              433                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                       3.071
+             445                                             2.638                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+ 2.602
+            2.157                                            2.971     6.042        Bemerkungen :
+                                                                                    - Wetter früh 12ºC bewölkt, trocken; nachmittags 18ºC bewölkt, trocken
+                                                                                        Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+                                                                                    SUMME Zufahrten: [FSp]: 1314 KFZ/h 7:30
+            WEST            Pappelallee                       OST                                     (NSp): 1249 KFZ/h                      16:00
+                                                                                                        6h : 6803 KFZ
+                                                                                   max. Sph /Zufahrt: NORD    264 KFZ/h                      7:30
+                                                                                                        OST   657 KFZ/h                      16:30
+                                                                                    DATUM :           WEST    672 KFZ/h                      7:30
+                                                                          6h Werte 25.09.2014
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 165                 Pappelallee/G.-Hermann-Allee
+
+
+
+
+StromPlan165kp9-14.xls                                       Seite 1
+SVP, 461                                                                                                                                            03.12.2015
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                        Zufahrt: NORD                OST WEST                       SUMME %
+                                                                                     RAD    FSp     46                 52   73                         171          11,5
+                                                                                            NSp     39                 82   25                         146          10,5
+                                                                                            6h     209                384  230                          823         10,8
+                                                                                     NFZ    FSp    21                   9  71                          101           7,7
+                                       NORD                                                 NSp    11                  75  38                          124           9,9
+                                                                                            6h      83                327 261                          671           9,9
+                               G.-Hermann-Allee                                      SV     FSp    10                   2  20                           32           2,4
+                                                                                            NSp      2                 11  11                           24           1,9
+                                     264         506                                             6h           41           51     84                    176          2,6
+
+                                                                                     KFZ    FSp 264                   378        672                 1314           100
+                                47         217   242                                        NSp 166                   651        432                 1249           100
+                                                                                            6h   1130                3071       2602                 6803           100
+                                                                                     FZ     FSp   310                 430        745                 1485           100
+                                                                                            NSp   205                 733        457                 1395           100
+                                                                                            6h   1339                3455       2832                  7626          100
+                                                                                     Q DTVw: 2,4 2656                7217       6115
+ 1.009       337                                                 88                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                         378
+             154                                                 290                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+  672
+             518                                                 735     1.113       Bemerkungen :
+                                                                                     - Wetter früh 12ºC bewölkt, trocken; nachmittags 18ºC bewölkt, trocken
+                                                                                         Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+                                                                                     SUMME Zufahrten: [FSp]: 1314 KFZ/h 7:30
+            WEST                 Pappelallee                    OST                                    (NSp): 1249 KFZ/h                      16:00
+                                                                                                         6h : 6803 KFZ
+                                                                                    max. Sph /Zufahrt: NORD    264 KFZ/h                      7:30
+                                                                                                         OST   657 KFZ/h                      16:30
+                                                                                      DATUM :          WEST    672 KFZ/h                      7:30
+                                                                         1.314 KFZ/h 25.09.2014
+                                                       Kfz-Stromverteilung in der FSp 165                 Pappelallee/G.-Hermann-Allee
+
+
+
+
+StromPlan (FSp)165kp9-14.xls                                   Seite 2
+SVP, 461                                                                                                                                            03.12.2015
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                        Zufahrt: NORD                OST WEST                       SUMME %
+                                                                                     RAD    FSp     46                 52   73                         171          11,5
+                                                                                            NSp     39                 82   25                         146          10,5
+                                                                                            6h     209                384  230                          823         10,8
+                                                                                     NFZ    FSp    21                   9  71                          101           7,7
+                                       NORD                                                 NSp    11                  75  38                          124           9,9
+                                                                                            6h      83                327 261                          671           9,9
+                               G.-Hermann-Allee                                      SV     FSp    10                   2  20                           32           2,4
+                                                                                            NSp      2                 11  11                           24           1,9
+                                     166        320                                              6h           41           51     84                    176          2,6
+
+                                                                                     KFZ    FSp 264                   378        672                 1314           100
+                                76         90   154                                         NSp 166                   651        432                 1249           100
+                                                                                            6h   1130                3071       2602                 6803           100
+                                                                                     FZ     FSp   310                 430        745                 1485           100
+                                                                                            NSp   205                 733        457                 1395           100
+                                                                                            6h   1339                3455       2832                  7626          100
+                                                                                     Q DTVw: 2,4 2656                7217       6115
+ 1.082       650                                                 77                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                         651
+             77                                                  574                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+  432
+             355                                                 445     1.096       Bemerkungen :
+                                                                                     - Wetter früh 12ºC bewölkt, trocken; nachmittags 18ºC bewölkt, trocken
+                                                                                         Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+                                                                                     SUMME Zufahrten: [FSp]: 1314 KFZ/h 7:30
+            WEST                 Pappelallee                    OST                                    (NSp): 1249 KFZ/h                      16:00
+                                                                                                         6h : 6803 KFZ
+                                                                                    max. Sph /Zufahrt: NORD    264 KFZ/h                      7:30
+                                                                                                         OST   657 KFZ/h                      16:30
+                                                                                      DATUM :          WEST    672 KFZ/h                      7:30
+                                                                         1.249 KFZ/h 25.09.2014
+                                                      Kfz-Stromverteilung in der NSp 165                  Pappelallee/G.-Hermann-Allee
+
+
+
+
+StromPlan (NSp)165kp9-14.xls                                   Seite 3
+

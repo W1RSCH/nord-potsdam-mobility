@@ -1,0 +1,161 @@
+       Landeshauptstadt Potsdam                                                                                                                                                    28.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                       RAD    FSp    48                    64    36         80         228     17,0
+                                                                                                                                    NSp    23                    91    33       112          259     16,1
+                                          M.-Bartholdy-Str.                                                                         6h    170                   357   227        486        1240     15,4
+                                                  951                                                                        NFZ    FSp    15                   35    46         40         136      12,2
+                                                                 1.598                                                              NSp    11                   41    32         40         124       9,2
+                                                                                                                                    6h     58                  222   263        212          755     11,1
+                                          161      715    75      647                                                        SV     FSp     4                   17      8        12           41      3,7
+                                                                                                                                    NSp     1                   11    14         11           37      2,7
+                                                                                                                                    6h      7                    89    75         45         216      3,2
+                                                                                                                             KFZ FSp 210                       264   360        280        1114       100
+                                                                                                                                    NSp 168                    361   384        438        1351       100
+
+
+
+
+        Großbeerenstr.                                                                                      Großbeerenstr.
+                                                                                                                                    6h    951                 1743 2151        1943        6788       100
+                                                                                                                             FZ     FSp   258                  328   396        360        1342       100
+                         3.878   1.935                                                 43                                           NSp   191                  452   417        550        1610       100
+                                  135                                                  925    1.743   OST                           6h   1121                 2100 2378        2429         8028      100
+
+WEST
+                         1.943    974                                                  775                                   Q DTVw: 2,4 3755                 8519 10516       9113
+                                  834                                                 1.882   3.625                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                             Bemerkungen :
+                                                                                                                             - Wetter früh 11ºC sonnig, trocken; nachm. 26ºC sonnig, trocken
+
+
+
+                                                                                                                                 Sph-Beginn:      7.30     Uhr und   15.30 Uhr
+
+                                          2.324    849    469     833                                                        SUMME Zufahrten: [FSp] :               1114 KFZ/h 8:00
+                                                                                                                                                          (NSp):    1351 KFZ/h 16:00
+                                         4.475                                                                                                                 6h : 6788 KFZ
+                                                         2.151                                                               max. Sph /Zufahrt: NORD :                 210 KFZ/h 8:00
+                                                         SÜD                                                                                     OST :                 361 KFZ/h 16:00
+                                           Neuendorfer Str.                                                                    DATUM :                      SÜD :      418 KFZ/h 7:30
+                                                                                                      6h Werte 22.08.2019                                 WEST :       438 KFZ/h 16:00
+                                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 700                           Großbeerenstr. / Neuendorfer Str.
+
+
+
+       StromPlan700kp8-19.xlsx                                              Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                     28.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                             RAD    FSp    48                    64    36         80         228     17,0
+                                                                                                                     NSp    23                    91    33       112          259     16,1
+                                       M.-Bartholdy-Str.                                                             6h    170                   357   227        486        1240     15,4
+                                             210                                                              NFZ    FSp    15                   35    46         40         136      12,2
+                                                          307                                                        NSp    11                   41    32         40         124       9,2
+                                                                                                                     6h     58                  222   263        212          755     11,1
+                                       44     159   7     97                                                  SV     FSp     4                   17      8        12           41      3,7
+                                                                                                                     NSp     1                   11    14         11           37      2,7
+                                                                                                                     6h      7                    89    75         45         216      3,2
+                                                                                                              KFZ FSp 210                       264   360        280        1114       100
+                                                                                                                     NSp 168                    361   384        438        1351       100
+
+
+
+
+        Großbeerenstr.                                                                       Großbeerenstr.
+                                                                                                                     6h    951                 1743 2151        1943        6788       100
+                                                                                                              FZ     FSp   258                  328   396        360        1342       100
+                         619   339                                          6                                        NSp   191                  452   417        550        1610       100
+                               21                                          151   264   OST                           6h   1121                 2100 2378        2429         8028      100
+
+WEST
+                         280   129                                         107                                Q DTVw: 2,4 3755                 8519 10516       9113
+                               130                                         282   546                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Wetter früh 11ºC sonnig, trocken; nachm. 26ºC sonnig, trocken
+
+
+
+                                                                                                                  Sph-Beginn:      7.30     Uhr und   15.30 Uhr
+                                       396    144   70    146                                                 SUMME Zufahrten: [FSp] :               1114 KFZ/h 8:00
+                                                                                                                                           (NSp):    1351 KFZ/h 16:00
+                                       756                                                                                                      6h : 6788 KFZ
+                                                    360                                                       max. Sph /Zufahrt: NORD :                 210 KFZ/h 8:00
+                                                    SÜD                                                                           OST :                 361 KFZ/h 16:00
+                                       Neuendorfer Str.                                                         DATUM :                      SÜD :      418 KFZ/h 7:30
+                                                                                   1.114 KFZ/h 22.08.2019                                  WEST :       438 KFZ/h 16:00
+                                                                Kfz-Stromverteilung in der FSp 700                         Großbeerenstr. / Neuendorfer Str.
+
+
+
+       StromPlan (FSp)700kp8-19.xlsx                             Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                      28.04.2020
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                              RAD    FSp    48                    64    36         80         228     17,0
+                                                                                                                      NSp    23                    91    33       112          259     16,1
+                                       M.-Bartholdy-Str.                                                              6h    170                   357   227        486        1240     15,4
+                                             168                                                               NFZ    FSp    15                   35    46         40         136      12,2
+                                                          296                                                         NSp    11                   41    32         40         124       9,2
+                                                                                                                      6h     58                  222   263        212          755     11,1
+                                       28     123   17    128                                                  SV     FSp     4                   17      8        12           41      3,7
+                                                                                                                      NSp     1                   11    14         11           37      2,7
+                                                                                                                      6h      7                    89    75         45         216      3,2
+                                                                                                               KFZ FSp 210                       264   360        280        1114       100
+                                                                                                                      NSp 168                    361   384        438        1351       100
+
+
+
+
+        Großbeerenstr.                                                                        Großbeerenstr.
+                                                                                                                      6h    951                 1743 2151        1943        6788       100
+                                                                                                               FZ     FSp   258                  328   396        360        1342       100
+                         796   358                                           9                                        NSp   191                  452   417        550        1610       100
+                               26                                           172   361   OST                           6h   1121                 2100 2378        2429         8028      100
+
+WEST
+                         438   220                                          180                                Q DTVw: 2,4 3755                 8519 10516       9113
+                               192                                          370   731                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Wetter früh 11ºC sonnig, trocken; nachm. 26ºC sonnig, trocken
+
+
+
+                                                                                                                   Sph-Beginn:      7.30     Uhr und   15.30 Uhr
+                                       495    158   93    133                                                  SUMME Zufahrten: [FSp] :               1114 KFZ/h 8:00
+                                                                                                                                            (NSp):    1351 KFZ/h 16:00
+                                       879                                                                                                       6h : 6788 KFZ
+                                                    384                                                        max. Sph /Zufahrt: NORD :                 210 KFZ/h 8:00
+                                                    SÜD                                                                            OST :                 361 KFZ/h 16:00
+                                       Neuendorfer Str.                                                          DATUM :                      SÜD :      418 KFZ/h 7:30
+                                                                                    1.351 KFZ/h 22.08.2019                                  WEST :       438 KFZ/h 16:00
+                                                                Kfz-Stromverteilung in der NSp 700                          Großbeerenstr. / Neuendorfer Str.
+
+
+
+       StromPlan (NSp)700kp8-19.xlsx                              Seite 3
+

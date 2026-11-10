@@ -1,0 +1,151 @@
+                                                                                                                                                                    05.09.2011
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD OST SÜD WEST SUMME %
+                                                NORD                                                              RAD        FSp         34       46       28        57       165    19,2
+                                                                                                                             NSp         29       23       53        28       133    13,8
+                                       A.-Bebel-Str.                                                                         6h         180      238      241       252        911   17,9
+                                                1.648             3.335                                           NFZ        FSp        62       21       55          9       147    21,2
+                                                                                                                             NSp        34       11       41          5        91    11,0
+                                                                                                                             6h        277      103      234         51       665    15,9
+                                        74       1.239    335      1.687                                          SV         FSp        15         7      17          2        41     5,9
+                                                                                                                             NSp          7        4        6         0        17     2,0
+                                                                                                                             6h          80       36       66        14       196     4,7
+                                                                                                                  KFZ        FSp       298      110      223         63       694    100
+
+
+
+
+       Stahnsdorfer Str.                                                                      Stahnsdorfer Str.
+                                                                                                                             NSp       295      137      329         69       830    100
+                                                                                                                             6h       1648      733     1448        357      4186    100
+                                                                                                                  FZ         FSp       332      156      251        120       859    100
+                           625   268                                       428                                               NSp       324      160      382         97       963    100
+                                  67                                        94    733   OST                                  6h       1828       971    1689        609      5097    100
+
+WEST
+                           357   128                                       211                                    Bemerkungen :
+                                 162                                       619 1.352                              - Wetter: früh 15º C bewölkt, teileweise Regen;
+                                                                                                                  nachmittags 24º C leicht bewölkt, trocken
+
+
+
+
+                                                                                                                       Sph-Beginn:       7.30 Uhr und 17.00 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] :               694 KFZ/h        8:00
+                                        1.612    100      1.192    156                                                                        (NSp):     830 KFZ/h        17:30
+                                                                                                                                       6h :             4186 KFZ
+                                       3.060                                                                      max. Sph /Zufahrt: NORD :              333 KFZ/h        16:30
+                                                         1.448                                                                        OST :              150 KFZ/h        9:30
+                                                         SÜD                                                       DATUM :            SÜD :              329 KFZ/h        17:30
+                                                A.-Bebel-Str.                                                     27.05.2010               WEST :          82 KFZ/h 17:00
+                                                                                                                   685               Stahnsdorfer-/A.-Bebel-Str.
+
+
+
+
+          SVP, 461                                                                                                                                     StromPlan685kp5-10.xls
+                                                                                                                                                                    05.09.2011
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                     NORD OST SÜD WEST SUMME %
+                                           NORD                                                                   RAD        FSp         34       46       28        57       165    19,2
+                                                                                                                             NSp         29       23       53        28       133    13,8
+                                     A.-Bebel-Str.                                                                           6h         180      238      241       252        911   17,9
+                                           298          552                                                       NFZ        FSp        62       21       55          9       147    21,2
+                                                                                                                             NSp        34       11       41          5        91    11,0
+                                                                                                                             6h        277      103      234         51       665    15,9
+                                     6      219   73    254                                                       SV         FSp        15         7      17          2        41     5,9
+                                                                                                                             NSp          7        4        6         0        17     2,0
+                                                                                                                             6h          80       36       66        14       196     4,7
+                                                                                                                  KFZ        FSp       298      110      223         63       694    100
+
+
+
+
+       Stahnsdorfer Str.                                                                      Stahnsdorfer Str.
+                                                                                                                             NSp       295      137      329         69       830    100
+                                                                                                                             6h       1648      733     1448        357      4186    100
+                                                                                                                  FZ         FSp       332      156      251        120       859    100
+                           87   24                                          69                                               NSp       324      160      382         97       963    100
+                                5                                            8    110   OST                                  6h       1828       971    1689        609      5097    100
+
+WEST
+                           63   27                                          33                                    Bemerkungen :
+                                31                                         133   243                              - Wetter: früh 15º C bewölkt, teileweise Regen;
+                                                                                                                  nachmittags 24º C leicht bewölkt, trocken
+
+
+
+
+                                                                                                                       Sph-Beginn:       7.30 Uhr und 17.00 Uhr
+                                                                                                                  SUMME Zufahrten: [FSp] :               694 KFZ/h        8:00
+                                     283    10    180   33                                                                                    (NSp):     830 KFZ/h        17:30
+                                                                                                                                       6h :             4186 KFZ
+                                     506                                                                          max. Sph /Zufahrt: NORD :              333 KFZ/h        16:30
+                                                  223                                                                                 OST :              150 KFZ/h        9:30
+                                                  SÜD                                                              DATUM :            SÜD :              329 KFZ/h        17:30
+                                           A.-Bebel-Str.                         694 KFZ/h                        27.05.2010               WEST :          82 KFZ/h 17:00
+                                                              Kfz-Stromverteilung in der FSp                       685               Stahnsdorfer-/A.-Bebel-Str.
+
+
+
+
+          SVP, 461                                                                                                                                StromPlan FSp685kp5-10.xls
+                                                                                                                                                                     05.09.2011
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                      NORD OST SÜD WEST SUMME %
+                                            NORD                                                                   RAD        FSp         34       46       28        57       165    19,2
+                                                                                                                              NSp         29       23       53        28       133    13,8
+                                      A.-Bebel-Str.                                                                           6h         180      238      241       252        911   17,9
+                                            295          666                                                       NFZ        FSp        62       21       55          9       147    21,2
+                                                                                                                              NSp        34       11       41          5        91    11,0
+                                                                                                                              6h        277      103      234         51       665    15,9
+                                      17     223   55    371                                                       SV         FSp        15         7      17          2        41     5,9
+                                                                                                                              NSp          7        4        6         0        17     2,0
+                                                                                                                              6h          80       36       66        14       196     4,7
+                                                                                                                   KFZ        FSp       298      110      223         63       694    100
+
+
+
+
+       Stahnsdorfer Str.                                                                       Stahnsdorfer Str.
+                                                                                                                              NSp       295      137      329         69       830    100
+                                                                                                                              6h       1648      733     1448        357      4186    100
+                                                                                                                   FZ         FSp       332      156      251        120       859    100
+                           125   56                                          73                                               NSp       324      160      382         97       963    100
+                                 15                                          25    137   OST                                  6h       1828       971    1689        609      5097    100
+
+WEST
+                           69    18                                          39                                    Bemerkungen :
+                                 36                                         105   242                              - Wetter: früh 15º C bewölkt, teileweise Regen;
+                                                                                                                   nachmittags 24º C leicht bewölkt, trocken
+
+
+
+
+                                                                                                                        Sph-Beginn:       7.30 Uhr und 17.00 Uhr
+                                                                                                                   SUMME Zufahrten: [FSp] :               694 KFZ/h        8:00
+                                      298    14    283   32                                                                                    (NSp):     830 KFZ/h        17:30
+                                                                                                                                        6h :             4186 KFZ
+                                      627                                                                          max. Sph /Zufahrt: NORD :              333 KFZ/h        16:30
+                                                   329                                                                                 OST :              150 KFZ/h        9:30
+                                                   SÜD                                                              DATUM :            SÜD :              329 KFZ/h        17:30
+                                            A.-Bebel-Str.                         830 KFZ/h                        27.05.2010               WEST :          82 KFZ/h 17:00
+                                                               Kfz-Stromverteilung in der NSp                       685               Stahnsdorfer-/A.-Bebel-Str.
+
+
+
+
+          SVP, 461                                                                                                                                 StromPlan NSp685kp5-10.xls
+

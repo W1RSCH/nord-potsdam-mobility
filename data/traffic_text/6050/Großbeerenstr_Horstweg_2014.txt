@@ -1,0 +1,172 @@
+       SVP, 461                                                                                                                                                                   17.04.2015
+
+
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                               NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                      RAD        FSp         26     103         77         83        289     17,0
+                                                                                                                                       NSp         23     135         68       146         372     18,1
+                                             Fultonstr.                                                                                6h         132      662       377        633       1804     17,3
+                                                  557              1.104                                                    NFZ        FSp          5      95        85         65         250     17,7
+                                                                                                                                       NSp        10       55        81         56         202     12,0
+                                                                                                                                       6h          46     405       458        327        1236     14,4
+                                          108      381      108     547                                                     SV         FSp          2      30        25         23          80       5,7
+                                                                                                                                       NSp          0      10        20         15          45       2,7
+                                                                                                                                       6h           8     121       144        106         379       4,4
+                                                                                                                            KFZ        FSp       100      366       567        376       1409       100
+                                                                                                                                       NSp       123      551       601        406       1681       100
+
+
+
+
+        Großbeerenstr.
+                                                                                                                                       6h        557     2607      3217       2230        8611
+
+
+
+
+                                                                                                           Großbeerenstr.
+                                                                                                                                                                                                    100
+                                                                                                                            FZ         FSp       126      469       644        459        1698      100
+                         6.118   3.888                                                    35                                           NSp       146      686       669        552        2053      100
+                                  18                                                   1.879 2.607   OST                               6h         689    3269      3594       2863       10415      100
+
+WEST
+                         2.230   1.646                                                   693                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                  566                                                  2.536 5.143                          Bemerkungen :
+                                                                                                                            Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                                                                 Sph-Beginn:    7.30    Uhr und   16.00 Uhr
+                                                                                                                            SUMME Zufahrten: [FSp] :               1409 KFZ/h 8:00
+                                          1.640    1.901    494     822                                                                                 (NSp):     1681 KFZ/h 16:30
+                                                                                                                                                 6h :              8611 KFZ
+                                         4.857                                                                              max. Sph /Zufahrt: NORD :               135 KFZ/h 16:00
+                                                           3.217                                                                                OST :               551 KFZ/h 16:30
+                                                           SÜD                                                               DATUM :            SÜD :               601 KFZ/h 16:30
+                                                   Horstweg                                          6h Werte 03.07.2014                               WEST :        406 KFZ/h 16:30
+                                                                   von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 605                               Goßbeerenstr./Horstweg
+
+
+
+
+       StromPlan605kp7-14.xls                                                Seite 1
+       SVP, 461                                                                                                                                                   17.04.2015
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                               NORD OST SÜD WEST SUMME %
+                                           NORD                                                             RAD        FSp         26     103         77         83        289     17,0
+                                                                                                                       NSp         23     135         68       146         372     18,1
+                                       Fultonstr.                                                                      6h         132      662       377        633       1804     17,3
+                                           100          196                                                 NFZ        FSp          5      95        85         65         250     17,7
+                                                                                                                       NSp        10       55        81         56         202     12,0
+                                                                                                                       6h          46     405       458        327        1236     14,4
+                                     18     72    10    96                                                  SV         FSp          2      30        25         23          80       5,7
+                                                                                                                       NSp          0      10        20         15          45       2,7
+                                                                                                                       6h           8     121       144        106         379       4,4
+                                                                                                            KFZ        FSp       100      366       567        376       1409       100
+                                                                                                                       NSp       123      551       601        406       1681       100
+
+
+
+
+        Großbeerenstr.
+                                                                                                                       6h        557     2607      3217       2230        8611
+
+
+
+
+                                                                                           Großbeerenstr.
+                                                                                                                                                                                    100
+                                                                                                            FZ         FSp       126      469       644        459        1698      100
+                         997   621                                         5                                           NSp       146      686       669        552        2053      100
+                                3                                        251   366   OST                               6h         689    3269      3594       2863       10415      100
+
+WEST
+                         376   291                                       110                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                               82                                        428   794                          Bemerkungen :
+                                                                                                            Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                                                 Sph-Beginn:    7.30    Uhr und   16.00 Uhr
+                                                                                                            SUMME Zufahrten: [FSp] :               1409 KFZ/h 8:00
+                                     264    352   88    127                                                                             (NSp):     1681 KFZ/h 16:30
+                                                                                                                                 6h :              8611 KFZ
+                                     831                                                                    max. Sph /Zufahrt: NORD :               135 KFZ/h 16:00
+                                                  567                                                                           OST :               551 KFZ/h 16:30
+                                                  SÜD                                                        DATUM :            SÜD :               601 KFZ/h 16:30
+                                            Horstweg                             1.409 KFZ/h 03.07.2014                                WEST :        406 KFZ/h 16:30
+                                                              Kfz-Stromverteilung in der FSp 605                               Goßbeerenstr./Horstweg
+
+
+
+
+       StromPlan FSp605kp7-14.xls                              Seite 2
+       SVP, 461                                                                                                                                                     17.04.2015
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                 NORD OST SÜD WEST SUMME %
+                                             NORD                                                             RAD        FSp         26     103         77         83        289     17,0
+                                                                                                                         NSp         23     135         68       146         372     18,1
+                                         Fultonstr.                                                                      6h         132      662       377        633       1804     17,3
+                                             123          221                                                 NFZ        FSp          5      95        85         65         250     17,7
+                                                                                                                         NSp        10       55        81         56         202     12,0
+                                                                                                                         6h          46     405       458        327        1236     14,4
+                                       23     89    11    98                                                  SV         FSp          2      30        25         23          80       5,7
+                                                                                                                         NSp          0      10        20         15          45       2,7
+                                                                                                                         6h           8     121       144        106         379       4,4
+                                                                                                              KFZ        FSp       100      366       567        376       1409       100
+                                                                                                                         NSp       123      551       601        406       1681       100
+
+
+
+
+        Großbeerenstr.
+                                                                                                                         6h        557     2607      3217       2230        8611
+
+
+
+
+                                                                                             Großbeerenstr.
+                                                                                                                                                                                      100
+                                                                                                              FZ         FSp       126      469       644        459        1698      100
+                         1.201   795                                         7                                           NSp       146      686       669        552        2053      100
+                                  1                                        400   551   OST                               6h         689    3269      3594       2863       10415      100
+
+WEST
+                         406     291                                       144                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                 114                                       441   992                          Bemerkungen :
+                                                                                                              Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                                                   Sph-Beginn:    7.30    Uhr und   16.00 Uhr
+                                                                                                              SUMME Zufahrten: [FSp] :               1409 KFZ/h 8:00
+                                       347    372   90    139                                                                             (NSp):     1681 KFZ/h 16:30
+                                                                                                                                   6h :              8611 KFZ
+                                       948                                                                    max. Sph /Zufahrt: NORD :               135 KFZ/h 16:00
+                                                    601                                                                           OST :               551 KFZ/h 16:30
+                                                    SÜD                                                        DATUM :            SÜD :               601 KFZ/h 16:30
+                                              Horstweg                             1.681 KFZ/h 03.07.2014                                WEST :        406 KFZ/h 16:30
+                                                                Kfz-Stromverteilung in der NSp 605                               Goßbeerenstr./Horstweg
+
+
+
+
+       StromPlan NSp605kp7-14.xls                                Seite 3
+

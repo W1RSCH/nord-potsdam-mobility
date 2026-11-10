@@ -1,0 +1,123 @@
+                                                                                                             10.11.2014
+                                                                             FAHRZEUG-VERTEILUNG
+                                                                             NORD WEST OST     SUMME %
+                                                          RAD        FSp       89       41       29                   159    14,9
+                                                                     NSp       23       40       56                   119    11,0
+                                                                     6h       231      177      256                    664   11,4
+                                                          NFZ        FSp       26       62       57                   145    15,9
+                           NORD                                      NSp       18       32       61                   111    11,6
+                                                                     6h       102      221      375                   698    13,6
+                 Am Alten Mörtelwerk                      SV         FSp        9       22       18                    49     5,4
+                                                                     NSp        3        5       15                    23     2,4
+                       1.024      1.876                              6h         33       76     111                   220     4,3
+
+                     186    838    852
+                                                          KFZ        FSp      276      340      295                    911   100
+                                                                     NSp      135      347      479                    961   100
+                                                                     6h      1024     1658     2464                   5146   100
+                                                          FZ         FSp      365      381      324                   1070   100
+                                                                     NSp      158      387      535                   1080   100
+                                                                     6h      1255     1835     2720                   5810   100
+                                                          Bemerkungen : - Wetter früh 12°C bewölkt, trocken;
+3.611    1.953                             697                               nachmittag 20°C stark bewölkt, trocken
+                                                  2.464
+           155                            1.767
+1.658
+         1.503                            2.341   4.805
+
+                                                               Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                                                          SUMME Zufahrten: [FSp]:               911 KFZ/h 7:30
+        WEST     Kaiser Friedrich-Str.    OST                                (NSp) :            961 KFZ/h       16:30
+                                                                                6h :           5146 KFZ
+                                                          max. Sph /Zufahrt: NORD               276 KFZ/h       7:30
+                                                                              WEST              347 KFZ/h       16:30
+                                                           DATUM :              OST             487 KFZ/h       17:00
+                                                          26.04.2012
+                                                           255         Kaiser-Friedr.-Str./Am Alten Mörtelwerk
+
+
+
+
+   SVP, 461                                                                                StromPlan255kp4-12_Test.xls
+                                                                                                                                10.11.2014
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                NORD WEST OST     SUMME %
+                                                                             RAD        FSp       89       41       29                   159    14,9
+                                                                                        NSp       23       40       56                   119    11,0
+                                                                                        6h       231      177      256                    664   11,4
+                                                                             NFZ        FSp       26       62       57                   145    15,9
+                              NORD                                                      NSp       18       32       61                   111    11,6
+                                                                                        6h       102      221      375                   698    13,6
+                   Am Alten Mörtelwerk                                       SV         FSp        9       22       18                    49     5,4
+                                                                                        NSp        3        5       15                    23     2,4
+                            276         353                                             6h         33       76     111                   220     4,3
+
+                       37         239   77                                   KFZ        FSp      276      340      295                    911   100
+                                                                                        NSp      135      347      479                    961   100
+                                                                                        6h      1024     1658     2464                   5146   100
+                                                                             FZ         FSp      365      381      324                   1070   100
+                                                                                        NSp      158      387      535                   1080   100
+                                                                                        6h      1255     1835     2720                   5810   100
+                                                                             Bemerkungen : - Wetter früh 12°C bewölkt, trocken;
+612          272                                                60                              nachmittag 20°C stark bewölkt, trocken
+                                                                       295
+              17                                               235
+ 340
+             323                                               562     857
+
+                                                                                  Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                                                                             SUMME Zufahrten: [FSp]:               911 KFZ/h 7:30
+       WEST        Kaiser Friedrich-Str.                     OST                                (NSp) :            961 KFZ/h       16:30
+                                                                                                   6h :           5146 KFZ
+                                                                             max. Sph /Zufahrt: NORD               276 KFZ/h       7:30
+                                                                                                 WEST              347 KFZ/h       16:30
+                                                                              DATUM :              OST             487 KFZ/h       17:00
+                                                               911   KFZ/h 26.04.2012
+                                              Kfz-Stromverteilung in der FSp 255          Kaiser-Friedr.-Str./Am Alten Mörtelwerk
+
+
+
+
+  SVP, 461                                                                                               StromPlan FSp255kp4-12_Test.xls
+                                                                                                                               10.11.2014
+                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                               NORD WEST OST     SUMME %
+                                                                            RAD        FSp       89       41       29                   159    14,9
+                                                                                       NSp       23       40       56                   119    11,0
+                                                                                       6h       231      177      256                    664   11,4
+                                                                            NFZ        FSp       26       62       57                   145    15,9
+                              NORD                                                     NSp       18       32       61                   111    11,6
+                                                                                       6h       102      221      375                   698    13,6
+                   Am Alten Mörtelwerk                                      SV         FSp        9       22       18                    49     5,4
+                                                                                       NSp        3        5       15                    23     2,4
+                            135        350                                             6h         33       76     111                   220     4,3
+
+                       36         99   215
+                                                                            KFZ        FSp      276      340      295                    911   100
+                                                                                       NSp      135      347      479                    961   100
+                                                                                       6h      1024     1658     2464                   5146   100
+                                                                            FZ         FSp      365      381      324                   1070   100
+                                                                                       NSp      158      387      535                   1080   100
+                                                                                       6h      1255     1835     2720                   5810   100
+                                                                            Bemerkungen : - Wetter früh 12°C bewölkt, trocken;
+684          337                                              178                              nachmittag 20°C stark bewölkt, trocken
+                                                                      479
+              37                                              301
+ 347
+             310                                              409     888
+
+                                                                                 Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                                                                            SUMME Zufahrten: [FSp]:               911 KFZ/h 7:30
+       WEST        Kaiser Friedrich-Str.                    OST                                (NSp) :            961 KFZ/h       16:30
+                                                                                                  6h :           5146 KFZ
+                                                                            max. Sph /Zufahrt: NORD               276 KFZ/h       7:30
+                                                                                                WEST              347 KFZ/h       16:30
+                                                                             DATUM :              OST             487 KFZ/h       17:00
+                                                              961   KFZ/h 26.04.2012
+                                             Kfz-Stromverteilung in der NSp 255          Kaiser-Friedr.-Str./Am Alten Mörtelwerk
+
+
+
+
+  SVP, 461                                                                                              StromPlan NSp255kp4-12_Test.xls
+

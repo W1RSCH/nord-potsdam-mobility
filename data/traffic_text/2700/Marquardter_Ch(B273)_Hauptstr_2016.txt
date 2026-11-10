@@ -1,0 +1,155 @@
+SVP, 461                                                                                                                                                            13.02.2017
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                        NORD                                            Zufahrt: NORD SÜD WEST     SUMME %
+                                      Marquardter Ch. (B 273)                                      RAD    FSp      1      3                    7                    11      1,0
+                                                                                                          NSp      7    12                     8                    27      2,1
+                                                     2.618                                                6h      21     46                   32                    99      1,4
+                                                                     5.772                         NFZ    FSp 108      110                   11                   229      21,4
+                                                                                                          NSp     77   132                     7                  216      17,5
+                                             92              2.526    3.154                               6h     442   584                    50                 1076      17,0
+                                                                                                   SV     FSp     37    48                     6                    91      8,5
+                                                                                                          NSp     25    34                     3                    62      5,0
+                                                                                                          6h     172   219                    17                   408      6,4
+                                                                                                   KFZ FSp 521 449                          102                  1072       100
+                                                                                                          NSp 469      717                   45                  1231       100
+                                                                                                          6h    2618 3329                   380                  6327       100
+
+
+
+
+              Hauptstr.
+                          735   355                                                                FZ     FSp    522   452                  107                  1083       100
+                                88                                                                        NSp    476   729                  188                  1258       100
+
+       WEST
+                          380                                                                             6h    2639 3375                    851                  6865      100
+                                292
+                                                                                                   Q DTVw:2,20 12698 13523                 1617
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Wetter früh 13°C bewölkt, trocken;
+                                                                                                     nachmittag 17ºC bewölkt, trocken
+
+                                             2.818           263      3.066                            Sph-Beginn:      7.00     Uhr und   15.30 Uhr
+                                                                                                   SUMME Zufahrten: [FSp]: 1072 KFZ/h 7:30
+                                            6.147                                                                     (NSp): 1231 KFZ/h 16:00
+                                                            3.329                                                       6h : 6327 KFZ
+                                                         SÜD                                       max. Sph /Zufahrt: NORD    521 KFZ/h 7:30
+                                      Marquardter Ch. (B 273)                                                                     SÜD       723 KFZ/h 17:00
+                                                                                                     DATUM :                     WEST       102 KFZ/h 7:30
+                                                                                        6h Werte    26.05.2016
+                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 270                     Marquardter Ch.(B273)/Hauptstr. (Abzw. z. OT M.)
+
+
+
+
+StromPlan270kp5-16.xls                                                        Seite 1
+SVP, 461                                                                                                                                                           13.02.2017
+
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                    NORD                                               Zufahrt: NORD SÜD WEST     SUMME %
+                                     Marquardter Ch. (B 273)                                      RAD    FSp      1      3                    7                    11      1,0
+                                                                                                         NSp      7    12                     8                    27      2,1
+                                                  521                                                    6h      21     46                   32                    99      1,4
+                                                                    947                           NFZ    FSp 108      110                   11                   229      21,4
+                                                                                                         NSp     77   132                     7                  216      17,5
+                                            12          509         426                                  6h     442   584                    50                 1076      17,0
+                                                                                                  SV     FSp     37    48                     6                    91      8,5
+                                                                                                         NSp     25    34                     3                    62      5,0
+                                                                                                         6h     172   219                    17                   408      6,4
+                                                                                                  KFZ FSp 521 449                          102                  1072       100
+                                                                                                         NSp 469      717                   45                  1231       100
+                                                                                                         6h    2618 3329                   380                  6327       100
+
+
+
+
+              Hauptstr.
+                          155   53                                                                FZ     FSp    522   452                  107                  1083       100
+                                18                                                                       NSp    476   729                  188                  1258       100
+
+       WEST
+                          102                                                                            6h    2639 3375                    851                  6865      100
+                                84
+                                                                                                  Q DTVw:2,20 12698 13523                 1617
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - Wetter früh 13°C bewölkt, trocken;
+                                                                                                    nachmittag 17ºC bewölkt, trocken
+                                            593         41          408                               Sph-Beginn:      7.00     Uhr und   15.30 Uhr
+                                                                                                  SUMME Zufahrten: [FSp]: 1072 KFZ/h 7:30
+                                           1.042                                                                     (NSp): 1231 KFZ/h 16:00
+                                                              449                                                      6h : 6327 KFZ
+                                                        SÜD                                       max. Sph /Zufahrt: NORD    521 KFZ/h 7:30
+                                     Marquardter Ch. (B 273)                                                                     SÜD       723 KFZ/h 17:00
+                                                                                                    DATUM :                     WEST       102 KFZ/h 7:30
+                                                                                    1.072 KFZ/h    26.05.2016
+                                                          Kfz-Stromverteilung in der FSp 270                  Marquardter Ch.(B273)/Hauptstr. (Abzw. z. OT M.)
+
+
+
+
+StromPlan (FSp)270kp5-16.xls                                              Seite 2
+SVP, 461                                                                                                                                                           13.02.2017
+
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                    NORD                                               Zufahrt: NORD SÜD WEST     SUMME %
+                                     Marquardter Ch. (B 273)                                      RAD    FSp      1      3                    7                    11      1,0
+                                                                                                         NSp      7    12                     8                    27      2,1
+                                                  469                                                    6h      21     46                   32                    99      1,4
+                                                                1.151                             NFZ    FSp 108      110                   11                   229      21,4
+                                                                                                         NSp     77   132                     7                  216      17,5
+                                            23          446         682                                  6h     442   584                    50                 1076      17,0
+                                                                                                  SV     FSp     37    48                     6                    91      8,5
+                                                                                                         NSp     25    34                     3                    62      5,0
+                                                                                                         6h     172   219                    17                   408      6,4
+                                                                                                  KFZ FSp 521 449                          102                  1072       100
+                                                                                                         NSp 469      717                   45                  1231       100
+                                                                                                         6h    2618 3329                   380                  6327       100
+
+
+
+
+              Hauptstr.
+                          123   78                                                                FZ     FSp    522   452                  107                  1083       100
+                                20                                                                       NSp    476   729                  188                  1258       100
+
+       WEST
+                          45                                                                             6h    2639 3375                    851                  6865      100
+                                25
+                                                                                                  Q DTVw:2,20 12698 13523                 1617
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - Wetter früh 13°C bewölkt, trocken;
+                                                                                                    nachmittag 17ºC bewölkt, trocken
+                                            471         55          662                               Sph-Beginn:      7.00     Uhr und   15.30 Uhr
+                                                                                                  SUMME Zufahrten: [FSp]: 1072 KFZ/h 7:30
+                                           1.188                                                                     (NSp): 1231 KFZ/h 16:00
+                                                              717                                                      6h : 6327 KFZ
+                                                        SÜD                                       max. Sph /Zufahrt: NORD    521 KFZ/h 7:30
+                                     Marquardter Ch. (B 273)                                                                     SÜD       723 KFZ/h 17:00
+                                                                                                    DATUM :                     WEST       102 KFZ/h 7:30
+                                                                                    1.231 KFZ/h    26.05.2016
+                                                          Kfz-Stromverteilung in der NSp 270                  Marquardter Ch.(B273)/Hauptstr. (Abzw. z. OT M.)
+
+
+
+
+StromPlan (NSp)270kp5-16.xls                                              Seite 3
+

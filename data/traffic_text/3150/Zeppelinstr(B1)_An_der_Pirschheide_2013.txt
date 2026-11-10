@@ -1,0 +1,140 @@
+                                                                                                                                                             15.07.2015
+
+
+
+                                                                                                                        FAHRZEUG-VERTEILUNG
+                       NORD                                                                                             NORD OST SÜD      SUMME %
+            Zeppelinstr.                                                                                 RAD      FSp      8         0      69                    77       5,4
+
+                                                                                                                  NSp      36        1       17                  54        3,5
+                    3.988                                                                                         6h      163        7      164                 334        3,9
+                                    7.931                                                                NFZ      FSp     67         3      83                 153     11,4
+                                                                                                                  NSp     75         3      55                 133         8,9
+
+            3.620           368      3.943                                                                        6h     429        25     395                  849    10,4
+                                                                                                         SV       FSp     34         0      20                   54     4,0
+                                                                                                                  NSp     20         1      28                   49        3,3
+
+
+
+
+                                                                                    An der Pirschheide
+                                                                                                                  6h     175         3     120                  298        3,6
+                                                                                                         KFZ      FSp    410       17      911                1338         100
+                                                                                                                  NSp    898      104      494                1496         100
+                                                                                                                  6h    3988      380     3807                8175         100
+                                                              288                                        FZ       FSp    418        17     980                1415         100
+                                                                              OST
+                                                                       380
+                                                               92                                                 NSp    934      105      511                1550         100
+                                                                                                                  6h    4151       387    3971                 8509        100
+                                                              520      900                               Bemerkungen:
+
+
+
+
+            3.712           3.655    152                                                                 Sph-Beginn:    7:00    Uhr und   15:00 Uhr
+                                                                                                         SUMME Zufahrten: FSp : 1338 KFZ/h 7:30
+           7.519                                                                                                            NSp : 1496 KFZ/h 15:30
+                          3.807                                                                                               6h : 8175 KFZ
+                        SÜD                                                                              max. Sph /Zufahrt: NORD    923 KFZ/h 16:00
+            Zeppelinstr.                                                                                                          OST      123 KFZ/h 17:00
+                                                                                                           DATUM :                SÜD      911 KFZ/h 7:30
+                                                                                                         25.04.2013
+                                             Kfz-Stromverteilung in der NSp                               315      Zeppelinstr.(B1)/An der Pirschheide
+
+
+SVP, 461                                                                                                                                          StromPlan315kp4-13.xls
+                                                                                                                                         15.07.2015
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                    NORD                                                                              NORD OST SÜD      SUMME %
+            Zeppelinstr.                                                               RAD      FSp      8         0      69                  77       5,4
+
+                                                                                                NSp      36        1       17                 54       3,5
+                  410                                                                           6h      163        7      164                334       3,9
+                              1.319                                                    NFZ      FSp     67         3      83                153    11,4
+                                                                                                NSp     75         3      55                133        8,9
+            363         47     909                                                              6h     429        25     395                 849   10,4
+                                                                                       SV       FSp     34         0      20                  54    4,0
+                                                                                                NSp     20         1      28                  49       3,3
+
+
+
+
+                                                                  An der Pirschheide
+                                                                                                6h     175         3     120                 298       3,6
+                                                                                       KFZ      FSp    410       17      911               1338        100
+                                                                                                NSp    898      104      494               1496        100
+                                                                                                6h    3988      380     3807               8175        100
+                                               13                                      FZ       FSp    418        17     980               1415        100
+                                                            OST
+                                                      17
+                                                4                                               NSp    934      105      511               1550        100
+                                                                                                6h    4151       387    3971                8509       100
+                                               62     79                               Bemerkungen:
+
+
+
+
+            367         896    15                                                      Sph-Beginn:    7:00    Uhr und   15:00 Uhr
+                                                                                       SUMME Zufahrten: FSp : 1338 KFZ/h 7:30
+           1.278                                                                                          NSp : 1496 KFZ/h 15:30
+                       911                                                                                  6h : 8175 KFZ
+                    SÜD                                                                max. Sph /Zufahrt: NORD    923 KFZ/h 16:00
+            Zeppelinstr.                                                                                        OST      123 KFZ/h 17:00
+                                                                                         DATUM :                SÜD      911 KFZ/h 7:30
+                                                    1.338 KFZ/h      25.04.2013
+                                      Kfz-Stromverteilung in der FSp 315       Zeppelinstr.(B1)/An der Pirschheide
+
+
+SVP, 461                                                                                                                  StromPlan FSp315kp4-13.xls
+                                                                                                                                         15.07.2015
+
+
+
+                                                                                                      FAHRZEUG-VERTEILUNG
+                    NORD                                                                              NORD OST SÜD      SUMME %
+            Zeppelinstr.                                                               RAD      FSp      8         0      69                 77       5,4
+
+                                                                                                NSp      36        1       17                54       3,5
+                  898                                                                           6h      163        7      164               334       3,9
+                              1.447                                                    NFZ      FSp     67         3      83               153    11,4
+                                                                                                NSp     75         3      55               133        8,9
+            851         47     549                                                              6h     429        25     395                849   10,4
+                                                                                       SV       FSp     34         0      20                 54    4,0
+                                                                                                NSp     20         1      28                 49       3,3
+
+
+
+
+                                                                  An der Pirschheide
+                                                                                                6h     175         3     120                298       3,6
+                                                                                       KFZ      FSp    410       17      911              1338        100
+                                                                                                NSp    898      104      494              1496        100
+                                                                                                6h    3988      380     3807              8175        100
+                                               70                                      FZ       FSp    418        17     980              1415        100
+                                                            OST
+                                                      104
+                                               34                                               NSp    934      105      511              1550        100
+                                                                                                6h    4151       387    3971               8509       100
+                                               62     166                              Bemerkungen:
+
+
+
+
+            885         479    15                                                      Sph-Beginn:    7:00    Uhr und   15:00 Uhr
+                                                                                       SUMME Zufahrten: FSp : 1338 KFZ/h 7:30
+           1.379                                                                                          NSp : 1496 KFZ/h 15:30
+                       494                                                                                  6h : 8175 KFZ
+                    SÜD                                                                max. Sph /Zufahrt: NORD    923 KFZ/h 16:00
+            Zeppelinstr.                                                                                        OST      123 KFZ/h 17:00
+                                                                                         DATUM :                SÜD      911 KFZ/h 7:30
+                                                    1.496 KFZ/h      25.04.2013
+                                      Kfz-Stromverteilung in der NSp 315       Zeppelinstr.(B1)/An der Pirschheide
+
+
+SVP, 461                                                                                                                 StromPlan NSp315kp4-13.xls
+

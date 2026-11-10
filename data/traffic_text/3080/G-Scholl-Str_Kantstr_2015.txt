@@ -1,0 +1,130 @@
+SVP, 461                                                                                                                                            06.05.2015
+
+
+                                     (7:00 bis 10:00 u. 15:00 bis 18:00)                                FAHRZEUG-VERTEILUNG
+                                                                                                         OST SÜD          SUMME %
+                                                                                    RAD         FSp          170          24                                 194    28,9
+                                                                                                NSp          121          28                                 149    22,1
+                                                                                                6h           588         133                                 721    22,2
+
+                         G.-Scholl-Str.                                             NFZ         FSp           35         12                                   47     9,8
+                                                                                                NSp           35         16                                   51     9,7
+                                                                                                6h           194         57                                  251     9,9
+                  West                                   OST                        SV          FSp            8          0                                    8     1,7
+                                                                                                NSp            8          1                                    9     1,7
+                                                                                                6h            52          3                                   55     2,2
+                                                                                    KFZ         FSp          326        152                                  478    100
+        1.638                                                         1.551                     NSp         339         185                                  524    100
+                                                                            1.753
+                                                                        202                     6h         1753         772                                 2525    100
+
+                                                                                    FZ          FSp          496        176                                  672    100
+
+                                                                       685 2.438                NSp          460        213                                  673    100
+                                                                                                6h          2341        905                                 3246    100
+                                                                                    NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                    Bemerkungen :
+                                                                                    - Wetter früh 7ºC bewölkt, trocken;
+                                                                                               nachmittag 17ºC bewölkt, zw. 17.30 und 18.00 Uhr
+                                                                                               vereinzelt leichter Regen
+                         202    87      685                                         - ÖPNV-Streik
+                                                                                       Sph-Beginn:            7.30 Uhr und       15.30 Uhr
+
+                         974         772                                            SUMME Zufahrten: FSp :                         478 KFZ/h 8:00
+
+                          Kantstr.                                                                                   NSp :         524 KFZ/h 16:00
+                                                                                                                       6h :       2525 KFZ
+                               SÜD                                                  max. Sph /Zufahrt:                OST          339 KFZ/h 16:00
+                                                                                                                      SÜD          185 KFZ/h 16:00
+                                                                                       DATUM :
+                                                                           6h Werte 30.04.2015
+                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 308                                 G.-Scholl-Str./Kantstr.
+StromPlan308kp4-15.xls                                      Seite 1
+SVP, 461                                                                                                                                                06.05.2015
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                              FAHRZEUG-VERTEILUNG
+                                                                                                             OST SÜD          SUMME %
+                                                                                        RAD         FSp          170          24                                 194    28,9
+                                                                                                    NSp          121          28                                 149    22,1
+                                                                                                    6h           588         133                                 721    22,2
+
+                               G.-Scholl-Str.                                           NFZ         FSp           35         12                                   47     9,8
+                                                                                                    NSp           35         16                                   51     9,7
+                                                                                                    6h           194         57                                  251     9,9
+                   West                                        OST                      SV          FSp            8          0                                    8     1,7
+                                                                                                    NSp            8          1                                    9     1,7
+                                                                                                    6h            52          3                                   55     2,2
+                                                                                        KFZ         FSp          326        152                                  478    100
+           289                                                              278                     NSp         339         185                                  524    100
+                                                                                  326
+                                                                             48                     6h         1753         772                                 2525    100
+
+                                                                                        FZ          FSp          496        176                                  672    100
+
+                                                                            141   467               NSp          460        213                                  673    100
+                                                                                                    6h          2341        905                                 3246    100
+                                                                                        NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh 7ºC bewölkt, trocken;
+                                                                                                   nachmittag 17ºC bewölkt, zw. 17.30 und 18.00 Uhr
+                                                                                                   vereinzelt leichter Regen
+                                48    11      141                                       - ÖPNV-Streik
+                                                                                           Sph-Beginn:            7.30 Uhr und       15.30 Uhr
+
+                               200         152                                          SUMME Zufahrten: FSp :                         478 KFZ/h 8:00
+
+                                 Kantstr.                                                                                NSp :         524 KFZ/h 16:00
+                                                                                                                           6h :       2525 KFZ
+                                     SÜD                                                max. Sph /Zufahrt:                OST          339 KFZ/h 16:00
+                                                                                                                          SÜD          185 KFZ/h 16:00
+                                                                                           DATUM :
+                                                                            326 KFZ/h 30.04.2015
+                                                 Kfz-Stromverteilung in der FSp 308                              G.-Scholl-Str./Kantstr.
+StromPlan (FSp)308kp4-15.xls                                      Seite 2
+SVP, 461                                                                                                                                                06.05.2015
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                              FAHRZEUG-VERTEILUNG
+                                                                                                             OST SÜD          SUMME %
+                                                                                        RAD         FSp          170          24                                 194    28,9
+                                                                                                    NSp          121          28                                 149    22,1
+                                                                                                    6h           588         133                                 721    22,2
+
+                               G.-Scholl-Str.                                           NFZ         FSp           35         12                                   47     9,8
+                                                                                                    NSp           35         16                                   51     9,7
+                                                                                                    6h           194         57                                  251     9,9
+                  West                                         OST                      SV          FSp            8          0                                    8     1,7
+                                                                                                    NSp            8          1                                    9     1,7
+                                                                                                    6h            52          3                                   55     2,2
+                                                                                        KFZ         FSp          326        152                                  478    100
+           329                                                              308                     NSp         339         185                                  524    100
+                                                                                  339
+                                                                             31                     6h         1753         772                                 2525    100
+
+                                                                                        FZ          FSp          496        176                                  672    100
+
+                                                                            164   503               NSp          460        213                                  673    100
+                                                                                                    6h          2341        905                                 3246    100
+                                                                                        NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh 7ºC bewölkt, trocken;
+                                                                                                   nachmittag 17ºC bewölkt, zw. 17.30 und 18.00 Uhr
+                                                                                                   vereinzelt leichter Regen
+                                31    21      164                                       - ÖPNV-Streik
+                                                                                           Sph-Beginn:            7.30 Uhr und       15.30 Uhr
+
+                               216         185                                          SUMME Zufahrten: FSp :                         478 KFZ/h 8:00
+
+                                 Kantstr.                                                                                NSp :         524 KFZ/h 16:00
+                                                                                                                           6h :       2525 KFZ
+                                     SÜD                                                max. Sph /Zufahrt:                OST          339 KFZ/h 16:00
+                                                                                                                          SÜD          185 KFZ/h 16:00
+                                                                                           DATUM :
+                                                                            524 KFZ/h 30.04.2015
+                                                 Kfz-Stromverteilung in der NSp 308                              G.-Scholl-Str./Kantstr.
+StromPlan (NSp)308kp4-15.xls                                      Seite 3
+

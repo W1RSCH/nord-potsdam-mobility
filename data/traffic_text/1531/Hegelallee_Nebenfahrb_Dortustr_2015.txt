@@ -1,0 +1,157 @@
+        SVP, 461                                                                                                                                                         05.10.2015
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD OST SÜD WEST SUMME %
+                                         NORD                                                                  RAD        FSp          0        0         1          9         10             3,5
+                                                                                                                          NSp          3        0         0        15          18             5,5
+                                     Dortustr.                                                                            6h           7        2         3         69          81            4,8
+                                         836           1.361                                                   NFZ        FSp        18         1        14          5         38         13,8
+                                                                                                                          NSp        14         1        10          4         29             9,3
+                                                                                                                          6h          90        8        63        26         187         11,7
+                                   144    436    256    525                                                    SV         FSp          0        0         3          0           3            1,1
+                                                                                                                          NSp          2        0         0          2           4            1,3
+                                                                                                                          6h          10        0         6          4         20             1,3
+                                                                                                               KFZ        FSp       135       12         48        80         275             100
+                                                                                                                          NSp       171       21         71        49         312             100
+
+
+
+
+       Nebenfahrbahn                                                                           Nebenfahrbahn
+                                                                                                                          6h        836        98       336       325        1595             100
+                                                                                                               FZ         FSp       135        12        49        89         285             100
+                       488   163                                             69                                           NSp       174        21        71        64         330             100
+                             147                                              8     98   OST                              6h         843      100       339       394        1676             100
+
+WEST
+                       325   89                                              21                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                             89                                             361   459                          Bemerkungen :
+
+                                                                                                               - Wetter früh 12ºC sonnig; nachmittag 25ºC sonnig bis leicht bewölkt
+
+
+
+
+                                                                                                                    Sph-Beginn:     7:30 Uhr und     16:00 Uhr
+                                                                                                               SUMME Zufahrten: [FSp] :                275 KFZ/h 8:00
+                                   546    11     309    16                                                                                 (NSp):      312 KFZ/h 16:30
+                                                                                                                                    6h :              1595 KFZ
+                                   882                                                                         max. Sph /Zufahrt: NORD :               171 KFZ/h 16:30
+                                                336                                                                                OST :                27 KFZ/h 16:00
+                                                SÜD                                                             DATUM :            SÜD :                90 KFZ/h 17:30
+                                           Dortustr.                                   6h Werte 11.06.2015     WEST :     80 KFZ/h 8:00
+                                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1531      Hegelallee/Nebenfahrbahn/Dortustr.
+
+
+
+
+        StromPlan1531kp6-15.xls                                   Seite 1
+        SVP, 461                                                                                                                                                         05.10.2015
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD OST SÜD WEST SUMME %
+                                              NORD                                                             RAD        FSp          0        0         1          9         10             3,5
+                                                                                                                          NSp          3        0         0        15          18             5,5
+                                          Dortustr.                                                                       6h           7        2         3         69          81            4,8
+                                              135          212                                                 NFZ        FSp        18         1        14          5         38         13,8
+                                                                                                                          NSp        14         1        10          4         29             9,3
+                                                                                                                          6h          90        8        63        26         187         11,7
+                                        18     71     46   77                                                  SV         FSp          0        0         3          0           3            1,1
+                                                                                                                          NSp          2        0         0          2           4            1,3
+                                                                                                                          6h          10        0         6          4         20             1,3
+                                                                                                               KFZ        FSp       135       12         48        80         275             100
+                                                                                                                          NSp       171       21         71        49         312             100
+
+
+
+
+       Nebenfahrbahn                                                                           Nebenfahrbahn
+                                                                                                                          6h        836        98       336       325        1595             100
+                                                                                                               FZ         FSp       135        12        49        89         285             100
+                       100   20                                                9                                          NSp       174        21        71        64         330             100
+                             22                                                2    12   OST                              6h         843      100       339       394        1676             100
+
+WEST
+                       80    29                                                1                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                             29                                               77   89                          Bemerkungen :
+
+                                                                                                               - Wetter früh 12ºC sonnig; nachmittag 25ºC sonnig bis leicht bewölkt
+
+
+
+
+                                                                                                                    Sph-Beginn:     7:30 Uhr und     16:00 Uhr
+                                                                                                               SUMME Zufahrten: [FSp] :                275 KFZ/h 8:00
+                                        101    0      46   2                                                                               (NSp):      312 KFZ/h 16:30
+                                                                                                                                    6h :              1595 KFZ
+                                        149                                                                    max. Sph /Zufahrt: NORD :               171 KFZ/h 16:30
+                                                      48                                                                           OST :                27 KFZ/h 16:00
+                                                     SÜD                                                        DATUM :            SÜD :                90 KFZ/h 17:30
+                                               Dortustr.                              275 KFZ/h 11.06.2015     WEST :     80 KFZ/h 8:00
+                                                                 Kfz-Stromverteilung in der FSp 1531       Hegelallee/Nebenfahrbahn/Dortustr.
+
+
+
+
+        StromPlan (FSp)1531kp6-15.xls                               Seite 2
+        SVP, 461                                                                                                                                                         05.10.2015
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD OST SÜD WEST SUMME %
+                                              NORD                                                             RAD        FSp          0        0         1          9         10             3,5
+                                                                                                                          NSp          3        0         0        15          18             5,5
+                                          Dortustr.                                                                       6h           7        2         3         69          81            4,8
+                                              171          279                                                 NFZ        FSp        18         1        14          5         38         13,8
+                                                                                                                          NSp        14         1        10          4         29             9,3
+                                                                                                                          6h          90        8        63        26         187         11,7
+                                        31     93     47   108                                                 SV         FSp          0        0         3          0           3            1,1
+                                                                                                                          NSp          2        0         0          2           4            1,3
+                                                                                                                          6h          10        0         6          4         20             1,3
+                                                                                                               KFZ        FSp       135       12         48        80         275             100
+                                                                                                                          NSp       171       21         71        49         312             100
+
+
+
+
+       Nebenfahrbahn                                                                           Nebenfahrbahn
+                                                                                                                          6h        836        98       336       325        1595             100
+                                                                                                               FZ         FSp       135        12        49        89         285             100
+                       84   35                                                15                                          NSp       174        21        71        64         330             100
+                            29                                                 2    21   OST                              6h         843      100       339       394        1676             100
+
+WEST
+                       49   13                                                 4                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                            7                                                 65   86                          Bemerkungen :
+
+                                                                                                               - Wetter früh 12ºC sonnig; nachmittag 25ºC sonnig bis leicht bewölkt
+
+
+
+
+                                                                                                                    Sph-Beginn:     7:30 Uhr und     16:00 Uhr
+                                                                                                               SUMME Zufahrten: [FSp] :                275 KFZ/h 8:00
+                                        104    2      64   5                                                                               (NSp):      312 KFZ/h 16:30
+                                                                                                                                    6h :              1595 KFZ
+                                        175                                                                    max. Sph /Zufahrt: NORD :               171 KFZ/h 16:30
+                                                      71                                                                           OST :                27 KFZ/h 16:00
+                                                     SÜD                                                        DATUM :            SÜD :                90 KFZ/h 17:30
+                                               Dortustr.                              312 KFZ/h 11.06.2015     WEST :     80 KFZ/h 8:00
+                                                                 Kfz-Stromverteilung in der NSp 1531       Hegelallee/Nebenfahrbahn/Dortustr.
+
+
+
+
+        StromPlan (NSp)1531kp6-15.xls                               Seite 3
+

@@ -1,0 +1,172 @@
+       SVP, 461                                                                                                                                                                                  25.02.2015
+
+
+
+
+                                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                                                NORD            SÜD WEST                          SUMME %
+                                                      NORD                                                                       RAD        FSp   50             74   36                           160                7,7
+
+                                           Neuendorfer Str.                                                                                 NSp          53        68        17                    138                5,7
+
+                                                                                                                                            6h          273       348       149                     770               6,1
+
+                                                           2.872       7.668                                                     NFZ        FSp         75       192         82                    349               18,3
+
+                                                                                                                                            NSp   71             84        102                    257                11,2
+                                                                                                                                            6h   382            738        516                   1636
+                                                       1.964            4.796
+                                                                                                                                                                                                                     13,9
+                                                               908                                                               SV         FSp   19             44         19                     82                 4,3
+                                                                                                                                            NSp   19             11         12                     42                 1,8
+                                                                                                                                            6h   112            163        100                    375                 3,2
+                                                                                                                                 KFZ        FSp 427             995        490                   1912                 100
+
+
+
+
+       Nuthestr. - Rampe                                                                                     Nuthestr. - Rampe
+                                                                                                                                            NSp 608             823        866                   2297                 100
+                                                                                                                                            6h  2872           5062       3858                  11792                 100
+                                                                                                                                 FZ         FSp  477           1069        526                   2072                 100
+                                                                                                                                            NSp  661            891        883                   2435                 100
+                                   1.424                                                               OST
+                                                                                                                                            6h  3145           5410       4007                  12562                 100
+
+WEST
+                           3.858                                                             2.598                               NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ (Lastzüge); FZ=alle
+
+                                   2.434                                                                                         Bemerkungen:
+                                                                                                                                 - Baustelle Neuendorfer Str. fertig - aber noch Restarbeiten
+                                                                                                                                 - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+                                                                                                                                 #######
+                                                                                                                                      Sph-Beginn:      7.30 Uhr und      16.00 Uhr
+                                                                                                                                 SUMME Zufahrten: [FSp]: 1912 KFZ/h                         8:00
+                                            4.398              3.372    1.690
+                                                                                                                                                    (NSp): 2297 KFZ/h                       16:30
+                                                                                                                                                       6h : 11792 KFZ
+                                           9.460                   5.062                                                         max. Sph /Zufahrt: NORD      638 KFZ/h                     16:00
+                                                                                                                                                      SÜD     995 KFZ/h                     8:00
+                                                               SÜD                                                                DATUM :            WEST     872 KFZ/h                     16:00
+                                                    Neuendorfer Str.                                    6h Werte 18.09.2014
+                                                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 726                                Nuthestr./Neuendorfer Str.(S)
+
+
+
+
+       StromPlan726kp9-14.xls                                                      Seite 1
+       SVP, 461                                                                                                                                                                               25.02.2015
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD            SÜD WEST                          SUMME %
+                                                NORD                                                                          RAD        FSp   50             74   36                           160                7,7
+
+                                       Neuendorfer Str.                                                                                  NSp          53        68        17                    138                5,7
+
+                                                                                                                                         6h          273       348       149                     770               6,1
+
+                                                       427           1.217                                                    NFZ        FSp         75       192         82                    349               18,3
+
+                                                                                                                                         NSp   71             84        102                    257                11,2
+                                                                                                                                         6h   382            738        516                   1636                13,9
+                                                 260         167         790                                                  SV         FSp   19             44         19                     82                 4,3
+                                                                                                                                         NSp   19             11         12                     42                 1,8
+                                                                                                                                         6h   112            163        100                    375                 3,2
+                                                                                                                              KFZ        FSp 427             995        490                   1912                 100
+
+
+
+
+       Nuthestr. - Rampe                                                                                  Nuthestr. - Rampe
+                                                                                                                                         NSp 608             823        866                   2297                 100
+                                                                                                                                         6h  2872           5062       3858                  11792                 100
+                                                                                                                              FZ         FSp  477           1069        526                   2072                 100
+                                                                                                                                         NSp  661            891        883                   2435                 100
+                                 225                                                                OST
+                                                                                                                                         6h  3145           5410       4007                  12562                 100
+
+WEST
+                           490                                                             597                                NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ (Lastzüge); FZ=alle
+
+                                 265                                                                                          Bemerkungen:
+                                                                                                                              - Baustelle Neuendorfer Str. fertig - aber noch Restarbeiten
+                                                                                                                              - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+
+                                                                                                                                   Sph-Beginn:      7.30 Uhr und      16.00 Uhr
+                                                                                                                              SUMME Zufahrten: [FSp]: 1912 KFZ/h                         8:00
+                                        525                  565         430                                                                     (NSp): 2297 KFZ/h                       16:30
+                                                                                                                                                    6h : 11792 KFZ
+                                       1.520                       995                                                        max. Sph /Zufahrt: NORD      638 KFZ/h                     16:00
+                                                                                                                                                   SÜD     995 KFZ/h                     8:00
+                                                         SÜD                                                                   DATUM :            WEST     872 KFZ/h                     16:00
+                                              Neuendorfer Str.                                   1.912 KFZ/h 18.09.2014
+                                                                               Kfz-Stromverteilung in der FSp 726                                 Nuthestr./Neuendorfer Str.(S)
+
+
+
+
+       StromPlan FSp726kp9-14.xls                                                Seite 2
+       SVP, 461                                                                                                                                                                                 25.02.2015
+
+
+
+
+                                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                                               NORD            SÜD WEST                          SUMME %
+                                                  NORD                                                                          RAD        FSp   50             74   36                           160                7,7
+
+                                       Neuendorfer Str.                                                                                    NSp          53        68        17                    138                5,7
+
+                                                                                                                                           6h          273       348       149                     770               6,1
+
+                                                         608           1.522                                                    NFZ        FSp         75       192         82                    349               18,3
+
+                                                                                                                                           NSp   71             84        102                    257                11,2
+                                                                                                                                           6h   382            738        516                   1636                13,9
+                                                   450         158         914                                                  SV         FSp   19             44         19                     82                 4,3
+                                                                                                                                           NSp   19             11         12                     42                 1,8
+                                                                                                                                           6h   112            163        100                    375                 3,2
+                                                                                                                                KFZ        FSp 427             995        490                   1912                 100
+
+
+
+
+       Nuthestr. - Rampe                                                                                    Nuthestr. - Rampe
+                                                                                                                                           NSp 608             823        866                   2297                 100
+                                                                                                                                           6h  2872           5062       3858                  11792                 100
+                                                                                                                                FZ         FSp  477           1069        526                   2072                 100
+                                                                                                                                           NSp  661            891        883                   2435                 100
+                                 264                                                                  OST
+                                                                                                                                           6h  3145           5410       4007                  12562                 100
+
+WEST
+                           866                                                               331                                NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ (Lastzüge); FZ=alle
+
+                                 602                                                                                            Bemerkungen:
+                                                                                                                                - Baustelle Neuendorfer Str. fertig - aber noch Restarbeiten
+                                                                                                                                - Wetter früh 15ºC trocken; nachmittag 24ºC windig, trocken
+
+
+                                                                                                                                #######
+                                                                                                                                     Sph-Beginn:      7.30 Uhr und      16.00 Uhr
+                                                                                                                                SUMME Zufahrten: [FSp]: 1912 KFZ/h                         8:00
+                                        1.052                  650         173                                                                     (NSp): 2297 KFZ/h                       16:30
+                                                                                                                                                      6h : 11792 KFZ
+                                       1.875                         823                                                        max. Sph /Zufahrt: NORD      638 KFZ/h                     16:00
+                                                                                                                                                     SÜD     995 KFZ/h                     8:00
+                                                           SÜD                                                                   DATUM :            WEST     872 KFZ/h                     16:00
+                                                Neuendorfer Str.                                   2.297 KFZ/h 18.09.2014
+                                                                                 Kfz-Stromverteilung in der NSp 726                                 Nuthestr./Neuendorfer Str.(S)
+
+
+
+
+       StromPlan NSp726kp9-14.xls                                                  Seite 3
+

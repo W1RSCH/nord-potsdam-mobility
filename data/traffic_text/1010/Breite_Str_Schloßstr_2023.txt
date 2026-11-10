@@ -1,0 +1,172 @@
+       Landeshauptstadt Potsdam                                                                                                                                                 20.06.2023
+       Bereich Verkehrsentwicklung
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                              Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                   RAD    FSp    25   271                      3  589              888       24,3
+                                                                                                                                NSp    12   377                    10   345              744       19,2
+                                                 Schlossstr.                                                                    6h      90 1671                     44 2256             4061       19,9
+                                                   703                                                                   NFZ    FSp    17   177                      7  261             462        16,7
+                                                               827                                                              NSp    27   148                      9  279             463        14,8
+                                                                                                                                6h    114   860                    41 1450             2465        15,1
+                                           148     29    526   124                                                       SV     FSp      6   48                      2   34               90        3,3
+                                                                                                                                NSp      5   41                      0   34               80        2,6
+                                                                                                                                6h     25   215                      7  232              479        2,9
+                                                                                                                         KFZ FSp       84 1294                     20 1368             2766        100
+                                                                                                                                NSp 151 1351                       73 1547             3122        100
+                                                                                                                                6h    703 7359                    236 8035            16333        100
+
+
+
+
+        Breite Str.
+                                                                                                                         FZ     FSp   109  1565                    23  1957            3654
+
+
+
+
+                                                                                                           Breite Str.
+                                                                                                                                                                                                   100
+                      15.246 7.211                                                   55                                         NSp   163  1728                    83  1892            3866        100
+                              67                                                    7.010   7.359    OST                        6h    793  9030                   280 10291           20394        100
+
+WEST                  8.035 7.798                                                    294                                 Q DTVw: 2,5 2068 39660                  1823 38115
+                              170                                                   8.505   15.864                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - Baustelle Leipziger Dreieck
+                                                                                                                         - Aufgrund von Arbeiten an der Schutzplanke der Abfahrt zur Fr.-List-Str.
+                                                                                                                          Sperrung der stadtauswertigen Rechtsabbiegespur auf LB.
+                                                                                                                          Umleitung war ausgeschildert
+                                           493     53    2     181                                                       - Wetter früh 18ºC sonnig, trocken;
+                                                                                                                           nachmittag 29ºC bewölkt bis sonnig, trocken
+                                           729                                                                               Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+
+                                                         236                                                             SUMME Zufahrten: [FSp] :                2766 KFZ/h 8:00
+                                                         SÜD                                                                                          (NSp):     3122 KFZ/h 15:30
+                                                 Schlossstr.                                                                                               6h : 16333 KFZ
+                                                                                                                         max. Sph /Zufahrt: NORD :                 181 KFZ/h 16:00
+                                                                                                                                                        OST :    1351 KFZ/h 15:30
+
+                                                                                                                           DATUM :                      SÜD :       73 KFZ/h 15:30
+                                                                                                     6h Werte 08.06.2023                              WEST :     1547 KFZ/h 15:30
+                                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1010                                    Breite Str. / Schlossstr.
+       StromPlan1010kp6-23 inBearbeitung                                  Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                                   20.06.2023
+       Bereich Verkehrsentwicklung
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME %
+                                                        NORD                                                               RAD    FSp    25   271                      3  589              888       24,3
+                                                                                                                                  NSp    12   377                    10   345              744       19,2
+                                                       Schlossstr.                                                                6h      90 1671                     44 2256             4061       19,9
+                                                         84                                                                NFZ    FSp    17   177                      7  261             462        16,7
+                                                                     111                                                          NSp    27   148                      9  279             463        14,8
+                                                                                                                                  6h    114   860                    41 1450             2465        15,1
+                                                 14      9     61    27                                                    SV     FSp      6   48                      2   34               90        3,3
+                                                                                                                                  NSp      5   41                      0   34               80        2,6
+                                                                                                                                  6h     25   215                      7  232              479        2,9
+                                                                                                                           KFZ FSp       84 1294                     20 1368             2766        100
+                                                                                                                                  NSp 151 1351                       73 1547             3122        100
+                                                                                                                                  6h    703 7359                    236 8035            16333        100
+
+
+
+
+        Breite Str.
+                                                                                                                           FZ     FSp   109  1565                    23  1957            3654
+
+
+
+
+                                                                                                             Breite Str.
+                                                                                                                                                                                                     100
+                      2.588   1.220                                                     13                                        NSp   163  1728                    83  1892            3866        100
+                               14                                                      1.201   1.294   OST                        6h    793  9030                   280 10291           20394        100
+
+WEST                  1.368   1.327                                                      80                                Q DTVw: 2,5 2068 39660                  1823 38115
+                               27                                                      1.403   2.697                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                           Bemerkungen :
+                                                                                                                           - Baustelle Leipziger Dreieck
+                                                                                                                           - Aufgrund von Arbeiten an der Schutzplanke der Abfahrt zur Fr.-List-Str.
+                                                                                                                            Sperrung der stadtauswertigen Rechtsabbiegespur auf LB.
+                                                                                                                            Umleitung war ausgeschildert
+                                                 116     5     0     15                                                    - Wetter früh 18ºC sonnig, trocken;
+                                                                                                                             nachmittag 29ºC bewölkt bis sonnig, trocken
+                                                 136                                                                           Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+
+                                                                20                                                         SUMME Zufahrten: [FSp] :                2766 KFZ/h 8:00
+                                                               SÜD                                                                                      (NSp):     3122 KFZ/h 15:30
+                                                       Schlossstr.                                                                                           6h : 16333 KFZ
+                                                                                                                           max. Sph /Zufahrt: NORD :                 181 KFZ/h 16:00
+                                                                                                                                                          OST :    1351 KFZ/h 15:30
+
+                                                                                                                             DATUM :                      SÜD :       73 KFZ/h 15:30
+                                                                                                  2.766 KFZ/h 08.06.2023                                WEST :     1547 KFZ/h 15:30
+                                                                           Kfz-Stromverteilung in der FSp 1010                                     Breite Str. / Schlossstr.
+       StromPlan (FSp)1010kp6-23 inBearbeitung                               Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                                   20.06.2023
+       Bereich Verkehrsentwicklung
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME %
+                                                        NORD                                                               RAD    FSp    25   271                      3  589              888       24,3
+                                                                                                                                  NSp    12   377                    10   345              744       19,2
+                                                       Schlossstr.                                                                6h      90 1671                     44 2256             4061       19,9
+                                                         151                                                               NFZ    FSp    17   177                      7  261             462        16,7
+                                                                     164                                                          NSp    27   148                      9  279             463        14,8
+                                                                                                                                  6h    114   860                    41 1450             2465        15,1
+                                                 31      5     115   13                                                    SV     FSp      6   48                      2   34               90        3,3
+                                                                                                                                  NSp      5   41                      0   34               80        2,6
+                                                                                                                                  6h     25   215                      7  232              479        2,9
+                                                                                                                           KFZ FSp       84 1294                     20 1368             2766        100
+                                                                                                                                  NSp 151 1351                       73 1547             3122        100
+                                                                                                                                  6h    703 7359                    236 8035            16333        100
+
+
+
+
+        Breite Str.
+                                                                                                                           FZ     FSp   109  1565                    23  1957            3654
+
+
+
+
+                                                                                                             Breite Str.
+                                                                                                                                                                                                     100
+                      2.915   1.368                                                      7                                        NSp   163  1728                    83  1892            3866        100
+                                6                                                      1.318   1.351   OST                        6h    793  9030                   280 10291           20394        100
+
+WEST                  1.547   1.515                                                      26                                Q DTVw: 2,5 2068 39660                  1823 38115
+                               26                                                      1.684   3.035                       Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                           Bemerkungen :
+                                                                                                                           - Baustelle Leipziger Dreieck
+                                                                                                                           - Aufgrund von Arbeiten an der Schutzplanke der Abfahrt zur Fr.-List-Str.
+                                                                                                                            Sperrung der stadtauswertigen Rechtsabbiegespur auf LB.
+                                                                                                                            Umleitung war ausgeschildert
+                                                 57      19    0     54                                                    - Wetter früh 18ºC sonnig, trocken;
+                                                                                                                             nachmittag 29ºC bewölkt bis sonnig, trocken
+                                                 130                                                                           Sph-Beginn:      7.30     Uhr und   15.00 Uhr
+
+                                                                73                                                         SUMME Zufahrten: [FSp] :                2766 KFZ/h 8:00
+                                                               SÜD                                                                                      (NSp):     3122 KFZ/h 15:30
+                                                       Schlossstr.                                                                                           6h : 16333 KFZ
+                                                                                                                           max. Sph /Zufahrt: NORD :                 181 KFZ/h 16:00
+                                                                                                                                                          OST :    1351 KFZ/h 15:30
+
+                                                                                                                             DATUM :                      SÜD :       73 KFZ/h 15:30
+                                                                                                  3.122 KFZ/h 08.06.2023                                WEST :     1547 KFZ/h 15:30
+                                                                           Kfz-Stromverteilung in der NSp 1010                                     Breite Str. / Schlossstr.
+       StromPlan (NSp)1010kp6-23 inBearbeitung                               Seite 3
+

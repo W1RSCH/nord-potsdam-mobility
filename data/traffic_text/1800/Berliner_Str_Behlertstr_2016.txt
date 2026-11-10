@@ -1,0 +1,183 @@
+            SVP, 461                                                                                                                                                                                16.09.2016
+
+
+
+
+                                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                  NORD                                                                         RAD    FSp    143   213   103     77                             536     10,7
+                                                                                                                                                      NSp    179   168   174     61                             582     10,8
+                                                                 Berliner Str.                                                                        6h     902 1104    719    353                            3078     10,6
+                                                                  4.579            8.049                                                       NFZ    FSp     81   314    60   203                             658      14,7
+                                                                                                                                                      NSp     79   177    87   193                             536      11,2
+                                                                                                                                                      6h     489 1335    320 1090                             3234      12,5
+
+                                                         2.392     1.201            3.470
+
+
+
+
+       Gutenbergstraße / Behlertstraße
+                                                                            986                                                                SV     FSp     20    73    11    50                             154       3,4
+                                                                                                                                                      NSp     10    35    49    27                             121       2,5
+                                                                                                                                                      6h      96   268     97  238                              699      2,7
+                                                                                                                                               KFZ FSp 649 2008          438 1393                             4488       100
+
+
+
+
+                                                                                                                              Humboldtbrücke
+                                                                                                                                                      NSp 962 1576       679 1577                             4794       100
+                                                                                                                                                      6h    4579 10001 2816 8571                             25967       100
+                                                                                                                                               FZ     FSp    792 2221    541  1470                            5024       100
+                                         17.254 8.683                                                   944                                           NSp 1141 1744      853  1638                            5376       100
+                                                1.601                                                  5.977   10.001   OST                           6h    5481 11105 3535   8924                           29045       100
+
+WEST
+                                          8.571 6.515                                                  3.080                                   Q DTVw: 2,5 20123 47698 18880 43135
+                                                 455                                                   9.078   19.079                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                               Bemerkungen :
+                                                                                                                                               - Pförtnerampeln seit 17.04.2012 in Betrieb
+                                                                                                                                               - Wetter: früh 18ºC sonnig; nachmittag 30ºC sonnig
+
+
+
+
+                                                         4.736     314      925     1.577
+                                                                                                                                                     Sph-Beginn:    7.30 Uhr und 15.30 Uhr
+                                                        7.552                                                                                  SUMME Zufahrten: [FSp] : 4488 KFZ/h 8:00
+                                                                           2.816                                                                                 (NSp): 4794 KFZ/h 16:00
+                                                                           SÜD                                                                                     6h : 25967 KFZ
+                                                                 Berliner Str.                                                   max. Sph /Zufahrt: NORD :                              985 KFZ/h        16:30
+                                                                                                                                                     OST :                             2008 KFZ/h        8:00
+                                                                                                                                  DATUM :            SÜD :                              679 KFZ/h        16:00
+                                                                                                                        6h Werte 15.09.2016         WEST :                             1577 KFZ/h        16:00
+
+                                                                                    von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 180                                   Berliner Str. / Behlertstr.
+
+
+            StromPlan180kp9-16.xls                                                            Seite1
+            SVP, 461                                                                                                                                                                           16.09.2016
+
+
+
+
+                                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                               Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                  NORD                                                                    RAD    FSp    143   213   103     77                             536     10,7
+                                                                                                                                                 NSp    179   168   174     61                             582     10,8
+                                                                 Berliner Str.                                                                   6h     902 1104    719    353                            3078     10,6
+                                                                   649           1.361                                                    NFZ    FSp     81   314    60   203                             658      14,7
+                                                                                                                                                 NSp     79   177    87   193                             536      11,2
+                                                                                                                                                 6h     489 1335    320 1090                             3234      12,5
+
+
+
+
+       Gutenbergstraße / Behlertstraße
+                                                          341      196   112      712                                                     SV     FSp     20    73    11    50                             154       3,4
+                                                                                                                                                 NSp     10    35    49    27                             121       2,5
+                                                                                                                                                 6h      96   268     97  238                              699      2,7
+                                                                                                                                          KFZ FSp 649 2008          438 1393                             4488       100
+
+
+
+
+                                                                                                                         Humboldtbrücke
+                                                                                                                                                 NSp 962 1576       679 1577                             4794       100
+                                                                                                                                                 6h    4579 10001 2816 8571                             25967       100
+                                                                                                                                          FZ     FSp    792 2221    541  1470                            5024       100
+                                         3.046   1.653                                              218                                          NSp 1141 1744      853  1638                            5376       100
+                                                  303                                              1.257   2.008   OST                           6h    5481 11105 3535   8924                           29045       100
+
+WEST
+                                         1.393   1.004                                              533                                   Q DTVw: 2,5 20123 47698 18880 43135
+                                                   86                                              1.308   3.316                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                          Bemerkungen :
+                                                                                                                                          - Pförtnerampeln seit 17.04.2012 in Betrieb
+                                                                                                                                          - Wetter: früh 18ºC sonnig; nachmittag 30ºC sonnig
+
+
+
+
+                                                          815      55    191      192
+                                                                                                                                                Sph-Beginn:    7.30 Uhr und 15.30 Uhr
+                                                         1.253                                                                            SUMME Zufahrten: [FSp] : 4488 KFZ/h 8:00
+                                                                         438                                                                                (NSp): 4794 KFZ/h 16:00
+                                                                         SÜD                                                                                  6h : 25967 KFZ
+                                                                 Berliner Str.                                            max. Sph /Zufahrt: NORD :                                985 KFZ/h        16:30
+                                                                                                                                              OST :                               2008 KFZ/h        8:00
+                                                                                                                           DATUM :            SÜD :                                679 KFZ/h        16:00
+                                                                                                              4.488 KFZ/h 15.09.2016         WEST :                               1577 KFZ/h        16:00
+
+                                                                                         Kfz-Stromverteilung in der FSp 180                                    Berliner Str. / Behlertstr.
+
+
+            StromPlan (FSp)180kp9-16.xls                                                  Seite2
+            SVP, 461                                                                                                                                                                           16.09.2016
+
+
+
+
+                                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                               Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                  NORD                                                                    RAD    FSp    143   213   103     77                             536     10,7
+                                                                                                                                                 NSp    179   168   174     61                             582     10,8
+                                                                 Berliner Str.                                                                   6h     902 1104    719    353                            3078     10,6
+                                                                   962           1.472                                                    NFZ    FSp     81   314    60   203                             658      14,7
+                                                                                                                                                 NSp     79   177    87   193                             536      11,2
+                                                                                                                                                 6h     489 1335    320 1090                             3234      12,5
+
+
+
+
+       Gutenbergstraße / Behlertstraße
+                                                          498      241   223      510                                                     SV     FSp     20    73    11    50                             154       3,4
+                                                                                                                                                 NSp     10    35    49    27                             121       2,5
+                                                                                                                                                 6h      96   268     97  238                              699      2,7
+                                                                                                                                          KFZ FSp 649 2008          438 1393                             4488       100
+
+
+
+
+                                                                                                                         Humboldtbrücke
+                                                                                                                                                 NSp 962 1576       679 1577                             4794       100
+                                                                                                                                                 6h    4579 10001 2816 8571                             25967       100
+                                                                                                                                          FZ     FSp    792 2221    541  1470                            5024       100
+                                         2.952   1.375                                              114                                          NSp 1141 1744      853  1638                            5376       100
+                                                  222                                               804    1.576   OST                           6h    5481 11105 3535   8924                           29045       100
+
+WEST
+                                         1.577   1.276                                              658                                   Q DTVw: 2,5 20123 47698 18880 43135
+                                                   79                                              1.931   3.507                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                          Bemerkungen :
+                                                                                                                                          - Pförtnerampeln seit 17.04.2012 in Betrieb
+                                                                                                                                          - Wetter: früh 18ºC sonnig; nachmittag 30ºC sonnig
+
+
+
+
+                                                          978      73    174      432
+                                                                                                                                                Sph-Beginn:    7.30 Uhr und 15.30 Uhr
+                                                         1.657                                                                            SUMME Zufahrten: [FSp] : 4488 KFZ/h 8:00
+                                                                         679                                                                                (NSp): 4794 KFZ/h 16:00
+                                                                         SÜD                                                                                  6h : 25967 KFZ
+                                                                 Berliner Str.                                            max. Sph /Zufahrt: NORD :                                985 KFZ/h        16:30
+                                                                                                                                              OST :                               2008 KFZ/h        8:00
+                                                                                                                           DATUM :            SÜD :                                679 KFZ/h        16:00
+                                                                                                              4.794 KFZ/h 15.09.2016         WEST :                               1577 KFZ/h        16:00
+
+                                                                                         Kfz-Stromverteilung in der NSp 180                                    Berliner Str. / Behlertstr.
+
+
+            StromPlan (NSp)180kp9-16.xls                                                  Seite3
+

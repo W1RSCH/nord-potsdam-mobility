@@ -1,0 +1,143 @@
+Landeshauptstadt Potsdam                                                                                                                                                02.06.2023
+Bereich Verkehrsentwicklung
+
+
+                                                      (7:00 bis 10:00 u. 15:00 bis 18:00)                        FAHRZEUG-VERTEILUNG
+                                                                                                         Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                    RAD         FSp           5           14     14                  33       5,0
+                                                                                                                NSp          23           14     11                  48       5,8
+                                                                                                                6h           82           46     79                 207       5,6
+
+     Ketziner Str.                                                              Ketziner Str. NFZ               FSp        65         44         60                169       27,0
+                                                                                                                NSp        82         43         33                158       20,4
+                                                                                                                6h        376        207        226                809       23,2
+                              WEST                                        OST                       SV          FSp        13          9         11                 33        5,3
+                                                                                                                NSp        12          2          6                 20        2,6
+                                                                                                                6h         74         27         45                146        4,2
+                                                                                                    KFZ         FSp       289        174        162                625        100
+      1.698        820                                                              708                         NSp       422        191        160                773        100
+                                                                                            1.735
+                                                                                   1.027                        6h       1735         867       878               3480        100
+                   746                                                                              FZ          FSp        294        188       176                 658      100
+       878
+                   132                                                             1.501    3.236          NSp            445        205        171                 821      100
+                                                                                                           6h            1817        913        957                3687      100
+                                                                                                    Q DTVw: 2,2          7119       4457       3736
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+
+                                        1.159    112     755                                        - keine Corona-Einschränkungen
+                                                                                                    - Ukraine-Krieg
+                                       2.026                                                        - Woche zw. Himmelfahrt und Pfingsten
+                                                      867                                           - Wetter früh 9°C sonnig, trocken;
+
+                                     Marquardter Str.                                                nachm. 18°C sonnig bis bewölkt, trocken
+                                                                                                         Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+                                                SÜD                                                 SUMME Zufahrten: [FSp]:                     625 KFZ/h    7:30
+                                                                                                                       (NSp):                   773 KFZ/h    16:00
+                                                                                                                          6h :                 3480 KFZ
+                                                                                                    max. Sph /Zufahrt:   OST                    422 KFZ/h    16:00
+                                                                                                                         SÜD                    191 KFZ/h    16:00
+                                                                                                     DATUM :            WEST                    167 KFZ/h    15:30
+                                                                                6h Werte 25.05.2023
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2870 Ketziner Str./Marquardter Str. - OT Fahrland -
+
+
+StromPlan2870kp5-23                                                          Seite 1
+Landeshauptstadt Potsdam                                                                                                                                             02.06.2023
+Bereich Verkehrsentwicklung
+
+
+                                                    (7:00 bis 10:00 u. 15:00 bis 18:00)                       FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           5           14     14                  33       5,0
+                                                                                                             NSp          23           14     11                  48       5,8
+                                                                                                             6h           82           46     79                 207       5,6
+
+     Ketziner Str.                                                            Ketziner Str. NFZ              FSp        65         44         60                169       27,0
+                                                                                                             NSp        82         43         33                158       20,4
+                                                                                                             6h        376        207        226                809       23,2
+                              WEST                                      OST                      SV          FSp        13          9         11                 33        5,3
+                                                                                                             NSp        12          2          6                 20        2,6
+                                                                                                             6h         74         27         45                146        4,2
+                                                                                                 KFZ         FSp       289        174        162                625        100
+       314         152                                                               113                     NSp       422        191        160                773        100
+                                                                                           289
+                                                                                     176                     6h       1735         867       878               3480        100
+                   115                                                                           FZ          FSp        294        188       176                 658      100
+       162
+                    47                                                               250   539          NSp            445        205        171                 821      100
+                                                                                                        6h            1817        913        957                3687      100
+                                                                                                 Q DTVw: 2,2          7119       4457       3736
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                        223    39      135                                       - keine Corona-Einschränkungen
+                                                                                                 - Ukraine-Krieg
+                                        397                                                      - Woche zw. Himmelfahrt und Pfingsten
+                                                    174                                          - Wetter früh 9°C sonnig, trocken;
+
+                                     Marquardter Str.                                             nachm. 18°C sonnig bis bewölkt, trocken
+                                                                                                      Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+                                              SÜD                                                SUMME Zufahrten: [FSp]:                     625 KFZ/h    7:30
+                                                                                                                    (NSp):                   773 KFZ/h    16:00
+                                                                                                                       6h :                 3480 KFZ
+                                                                                                 max. Sph /Zufahrt:   OST                    422 KFZ/h    16:00
+                                                                                                                      SÜD                    191 KFZ/h    16:00
+                                                                                                  DATUM :            WEST                    167 KFZ/h    15:30
+                                                                                 625 KFZ/h 25.05.2023
+                                                             Kfz-Stromverteilung in der FSp 2870 Ketziner Str./Marquardter Str. - OT Fahrland -
+
+
+StromPlan (FSp)2870kp5-23                                                  Seite 2
+Landeshauptstadt Potsdam                                                                                                                                             02.06.2023
+Bereich Verkehrsentwicklung
+
+
+                                                    (7:00 bis 10:00 u. 15:00 bis 18:00)                       FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp           5           14     14                  33       5,0
+                                                                                                             NSp          23           14     11                  48       5,8
+                                                                                                             6h           82           46     79                 207       5,6
+
+     Ketziner Str.                                                            Ketziner Str. NFZ              FSp        65         44         60                169       27,0
+                                                                                                             NSp        82         43         33                158       20,4
+                                                                                                             6h        376        207        226                809       23,2
+                              WEST                                      OST                      SV          FSp        13          9         11                 33        5,3
+                                                                                                             NSp        12          2          6                 20        2,6
+                                                                                                             6h         74         27         45                146        4,2
+                                                                                                 KFZ         FSp       289        174        162                625        100
+       343         183                                                               167                     NSp       422        191        160                773        100
+                                                                                           422
+                                                                                     255                     6h       1735         867       878               3480        100
+                   140                                                                           FZ          FSp        294        188       176                 658      100
+       160
+                    20                                                               315   737          NSp            445        205        171                 821      100
+                                                                                                        6h            1817        913        957                3687      100
+                                                                                                 Q DTVw: 2,2          7119       4457       3736
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                        275    16      175                                       - keine Corona-Einschränkungen
+                                                                                                 - Ukraine-Krieg
+                                        466                                                      - Woche zw. Himmelfahrt und Pfingsten
+                                                    191                                          - Wetter früh 9°C sonnig, trocken;
+
+                                     Marquardter Str.                                             nachm. 18°C sonnig bis bewölkt, trocken
+                                                                                                      Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+                                              SÜD                                                SUMME Zufahrten: [FSp]:                     625 KFZ/h    7:30
+                                                                                                                    (NSp):                   773 KFZ/h    16:00
+                                                                                                                       6h :                 3480 KFZ
+                                                                                                 max. Sph /Zufahrt:   OST                    422 KFZ/h    16:00
+                                                                                                                      SÜD                    191 KFZ/h    16:00
+                                                                                                  DATUM :            WEST                    167 KFZ/h    15:30
+                                                                                 773 KFZ/h 25.05.2023
+                                                             Kfz-Stromverteilung in der NSp 2870 Ketziner Str./Marquardter Str. - OT Fahrland -
+
+
+StromPlan (NSp)2870kp5-23                                                  Seite 3
+

@@ -1,0 +1,135 @@
+SVP, 461                                                                                                                              10.11.2014
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                WEST NORD OST     SUMME %
+                                                                               RAD       FSp         9         8        35            52  9,7
+                                                                                         NSp        11        66        38           115 16,1
+                                                                                         6h         58       221       272           551 16,7
+                                                                               NFZ       FSp        11         7        32            50 10,4
+                                   NORD                                                  NSp          7        9        37             53   8,8
+                                                                                         6h          47       55       144            246   8,9
+                         K.-Liebknecht-Str.                                    SV        FSp          8        5         9             22   4,6
+                                                                                         NSp          0        4         9             13   2,2
+                                 720         1.494                                       6h         25       36          52          113    4,1
+
+                            26         694    774
+                                                                               KFZ       FSp       192       95         196          483    100
+                                                                                         NSp       126      182         293          601    100
+                                                                                         6h        737      720        1297         2754    100
+                                                                               FZ        FSp       201      103         231          535    100
+                                                                                         NSp       137      248         331          716    100
+
+                                                                                         6h        795       941       1569         3305    100
+                                                                               Bemerkungen :
+    1.314         577                                            746           - Wetter früh 12ºC, bewölkt, trocken;
+                                                                       1.297
+                   28                                            551            nachmittags 20ºC stark bewölkt, trocken
+       737
+                  709                                          1.403   2.700
+
+                                                                                         Sph-Beginn:      7.00 Uhr und 15.30 Uhr
+                                                                               SUMME Zufahrten:           [FSp] :      483 KFZ/h   7:30
+               WEST      Reiherbergstraße                      OST                                        [NSp] :      601 KFZ/h   16:00
+                                                                                                   6h : 2754 KFZ
+                                                                               max. Sph /Zufahrt: WEST    192 KFZ/h 7:30
+                                                                                                  NORD    182 KFZ/h 16:00
+                                                                                DATUM :            OST    293 KFZ/h 16:00
+                                                                               26.04.2012
+                                                                                261           Reiherbergstr./K.-Liebknecht-Str.
+
+
+
+StromPlan261kp4-12.xls                               Seite 1
+SVP, 461                                                                                                                                         10.11.2014
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                           WEST NORD OST     SUMME %
+                                                                                          RAD       FSp         9         8        35            52  9,7
+                                                                                                    NSp        11        66        38           115 16,1
+                                                                                                    6h         58       221       272           551 16,7
+                                                                                          NFZ       FSp        11         7        32            50 10,4
+                                       NORD                                                         NSp          7        9        37             53   8,8
+                                                                                                    6h          47       55       144            246   8,9
+                               K.-Liebknecht-Str.                                         SV        FSp          8        5         9             22   4,6
+                                                                                                    NSp          0        4         9             13   2,2
+                                      95           254                                              6h         25       36          52          113    4,1
+                                  1        94       159
+                                                                                          KFZ       FSp       192       95         196          483    100
+                                                                                                    NSp       126      182         293          601    100
+                                                                                                    6h        737      720        1297         2754    100
+                                                                                          FZ        FSp       201      103         231          535    100
+                                                                                                    NSp       137      248         331          716    100
+
+                                                                                                    6h        795       941       1569         3305    100
+                                                                                          Bemerkungen :
+     236           44                                                         153         - Wetter früh 12ºC, bewölkt, trocken;
+                                                                                    196
+                    6                                                          43          nachmittags 20ºC stark bewölkt, trocken
+       192
+                  186                                                         280   476
+
+                                                                                                    Sph-Beginn:      7.00 Uhr und 15.30 Uhr
+                                                                                          SUMME Zufahrten:           [FSp] :      483 KFZ/h   7:30
+               WEST            Reiherbergstraße                             OST                                      [NSp] :      601 KFZ/h   16:00
+                                                                                                              6h : 2754 KFZ
+                                                                                          max. Sph /Zufahrt: WEST    192 KFZ/h 7:30
+                                                                                                             NORD    182 KFZ/h 16:00
+                                                                                           DATUM :            OST    293 KFZ/h 16:00
+                                                                  483       KFZ/h         26.04.2012
+                                                Kfz-Stromverteilung in der FSp             261           Reiherbergstr./K.-Liebknecht-Str.
+
+
+
+StromPlan (FSp)261kp4-12.xls                                      Seite 2
+SVP, 461                                                                                                                                       10.11.2014
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                         WEST NORD OST     SUMME %
+                                                                                        RAD       FSp         9         8        35            52  9,7
+                                                                                                  NSp        11        66        38           115 16,1
+                                                                                                  6h         58       221       272           551 16,7
+                                                                                        NFZ       FSp        11         7        32            50 10,4
+                                        NORD                                                      NSp          7        9        37             53   8,8
+                                                                                                  6h          47       55       144            246   8,9
+                               K.-Liebknecht-Str.                                       SV        FSp          8        5         9             22   4,6
+                                                                                                  NSp          0        4         9             13   2,2
+                                      182         313                                             6h         25       36          52          113    4,1
+                                  6
+                                            176   131
+                                                                                        KFZ       FSp       192       95         196          483    100
+                                                                                                  NSp       126      182         293          601    100
+                                                                                                  6h        737      720        1297         2754    100
+                                                                                        FZ        FSp       201      103         231          535    100
+                                                                                                  NSp       137      248         331          716    100
+
+                                                                                                  6h        795       941       1569         3305    100
+                                                                                        Bemerkungen :
+     299          173                                                       126         - Wetter früh 12ºC, bewölkt, trocken;
+                                                                                  293
+                    5                                                       167          nachmittags 20ºC stark bewölkt, trocken
+       126
+                  121                                                       297   590
+
+                                                                                                  Sph-Beginn:      7.00 Uhr und 15.30 Uhr
+                                                                                        SUMME Zufahrten:           [FSp] :      483 KFZ/h   7:30
+               WEST            Reiherbergstraße                           OST                                      [NSp] :      601 KFZ/h   16:00
+                                                                                                            6h : 2754 KFZ
+                                                                                        max. Sph /Zufahrt: WEST    192 KFZ/h 7:30
+                                                                                                           NORD    182 KFZ/h 16:00
+                                                                                         DATUM :            OST    293 KFZ/h 16:00
+                                                                601       KFZ/h         26.04.2012
+                                              Kfz-Stromverteilung in der NSp             261           Reiherbergstr./K.-Liebknecht-Str.
+
+
+
+StromPlan (NSp)261kp4-12.xls                                    Seite 3
+

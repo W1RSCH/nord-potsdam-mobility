@@ -1,0 +1,154 @@
+       SVP, 461                                                                                                                                                                       09.12.2013
+
+
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                   NORD                                                                                    NORD          OST       SÜD WEST            SUMME %
+                                                                                                                            RAD        FSp   11            13         9   16            49            3,2
+                                        M.-Bartholdy-Str.                                                                              NSp   18            48       16    43           125            7,6
+                                                                                                                                       6h     85          197        94  161           537            6,4
+                                                   1.164            2.085                                                   NFZ        FSp       18        47        65          33    163           11,1
+                                                                                                                                       NSp        7        26        50          29    112            7,4
+                                                                                                                                       6h        62       172       287         156     677           8,6
+                                         170        972      22      921                                                    SV         FSp        9        20        26          10      65           4,4
+                                                                                                                                       NSp        1        11        14           4      30           2,0
+                                                                                                                                       6h        23        75        97          42     237           3,0
+                                                                                                                            KFZ        FSp      253       284       642         289   1468           100
+                                                                                                                                       NSp      221       359       554         381   1515           100
+
+
+
+
+       Großbeerenstr.                                                                                      Großbeerenstr.
+                                                                                                                                       6h      1164      1730      3135        1853   7882           100
+                                                                                                                            FZ         FSp      264       297       651         305   1517           100
+                        3.741   1.888                                                     22                                           NSp      239       407       570         424   1640           100
+                                 164                                                     533 1.730   OST                               6h      1249      1927      3229        2014    8419          100
+
+WEST
+                        1.853    580                                                   1.175                                Bemerkungen :
+                                1.109                                                  1.817 3.547                          - Zuf Süd enthält durch Umbaumaßnahme Güterfelder Eck Umleitunsverkehr
+                                                                                                                            - Wetter früh 20ºC bewölkt, teils heftiger Regen
+                                                                                                                             nachmittags 25ºC bewölkt, trocken
+
+
+
+                                                                                                                                 Sph-Beginn:             7.30 Uhr und 16.00 Uhr
+                                                                                                                            SUMME Zufahrten: FSp : 1468 KFZ/h 8:00
+                                         3.256      1.185    735     1.215                                                                      NSp : 1515 KFZ/h 16:30
+                                                                                                                                                 6h : 7882 KFZ
+                                        6.391                                                                               max. Sph /Zufahrt: NORD :  267 KFZ/h 7:30
+                                                            3.135                                                                               OST :  406 KFZ/h 15:30
+                                                            SÜD                                                              DATUM :            SÜD :  642 KFZ/h 8:00
+                                                                                                                            08.08.2013         WEST :  381 KFZ/h 16:30
+
+                                                 Neuendorfer Str.                                                            700                Großbeerenstr. / Neuendorfer Str.
+
+
+
+
+       StromPlan700kp8-13.xls                                                Seite 1
+       SVP, 461                                                                                                                                                                09.12.2013
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                            NORD                                                                                    NORD          OST       SÜD WEST            SUMME %
+                                                                                                                     RAD        FSp   11            13         9   16            49            3,2
+                                    M.-Bartholdy-Str.                                                                           NSp   18            48       16    43           125            7,6
+                                                                                                                                6h     85          197        94  161           537            6,4
+                                            253          436                                                         NFZ        FSp       18        47        65          33    163           11,1
+                                                                                                                                NSp        7        26        50          29    112            7,4
+                                                                                                                                6h        62       172       287         156     677           8,6
+                                     50      198   5     183                                                         SV         FSp        9        20        26          10      65           4,4
+                                                                                                                                NSp        1        11        14           4      30           2,0
+                                                                                                                                6h        23        75        97          42     237           3,0
+                                                                                                                     KFZ        FSp      253       284       642         289   1468           100
+                                                                                                                                NSp      221       359       554         381   1515           100
+
+
+
+
+       Großbeerenstr.                                                                               Großbeerenstr.
+                                                                                                                                6h      1164      1730      3135        1853   7882           100
+                                                                                                                     FZ         FSp      264       297       651         305   1517           100
+                        619   330                                                 5                                             NSp      239       407       570         424   1640           100
+                              18                                                 85     284   OST                               6h      1249      1927      3229        2014    8419          100
+
+WEST
+                        289   123                                               194                                  Bemerkungen :
+                              148                                               415    699                           - Zuf Süd enthält durch Umbaumaßnahme Güterfelder Eck Umleitunsverkehr
+                                                                                                                     - Wetter früh 20ºC bewölkt, teils heftiger Regen
+                                                                                                                      nachmittags 25ºC bewölkt, trocken
+
+
+
+                                                                                                                          Sph-Beginn:             7.30 Uhr und 16.00 Uhr
+                                                                                                                     SUMME Zufahrten: FSp : 1468 KFZ/h 8:00
+                                     540     195   160   287                                                                             NSp : 1515 KFZ/h 16:30
+                                                                                                                                          6h : 7882 KFZ
+                                    1.182                                                                            max. Sph /Zufahrt: NORD :  267 KFZ/h 7:30
+                                                   642                                                                                   OST :  406 KFZ/h 15:30
+                                                   SÜD                                                                DATUM :            SÜD :  642 KFZ/h 8:00
+                                                                                      1.468 KFZ/h                    08.08.2013         WEST :  381 KFZ/h 16:30
+
+                                      Neuendorfer Str.         Kfz-Stromverteilung in der FSp                         700                Großbeerenstr. / Neuendorfer Str.
+
+
+
+
+       StromPlan FSP700kp8-13.xls                                     Seite 2
+       SVP, 461                                                                                                                                                                09.12.2013
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                            NORD                                                                                    NORD          OST       SÜD WEST            SUMME %
+                                                                                                                     RAD        FSp   11            13         9   16            49            3,2
+                                    M.-Bartholdy-Str.                                                                           NSp   18            48       16    43           125            7,6
+                                                                                                                                6h     85          197        94  161           537            6,4
+                                            221          422                                                         NFZ        FSp       18        47        65          33    163           11,1
+                                                                                                                                NSp        7        26        50          29    112            7,4
+                                                                                                                                6h        62       172       287         156     677           8,6
+                                     37      182   2     201                                                         SV         FSp        9        20        26          10      65           4,4
+                                                                                                                                NSp        1        11        14           4      30           2,0
+                                                                                                                                6h        23        75        97          42     237           3,0
+                                                                                                                     KFZ        FSp      253       284       642         289   1468           100
+                                                                                                                                NSp      221       359       554         381   1515           100
+
+
+
+
+       Großbeerenstr.                                                                               Großbeerenstr.
+                                                                                                                                6h      1164      1730      3135        1853   7882           100
+                                                                                                                     FZ         FSp      264       297       651         305   1517           100
+                        784   403                                                 3                                             NSp      239       407       570         424   1640           100
+                              36                                                110     359   OST                               6h      1249      1927      3229        2014    8419          100
+
+WEST
+                        381   109                                               246                                  Bemerkungen :
+                              236                                               247    606                           - Zuf Süd enthält durch Umbaumaßnahme Güterfelder Eck Umleitunsverkehr
+                                                                                                                     - Wetter früh 20ºC bewölkt, teils heftiger Regen
+                                                                                                                      nachmittags 25ºC bewölkt, trocken
+
+
+
+                                                                                                                          Sph-Beginn:             7.30 Uhr und 16.00 Uhr
+                                                                                                                     SUMME Zufahrten: FSp : 1468 KFZ/h 8:00
+                                     664     256   162   136                                                                             NSp : 1515 KFZ/h 16:30
+                                                                                                                                          6h : 7882 KFZ
+                                    1.218                                                                            max. Sph /Zufahrt: NORD :  267 KFZ/h 7:30
+                                                   554                                                                                   OST :  406 KFZ/h 15:30
+                                                   SÜD                                                                DATUM :            SÜD :  642 KFZ/h 8:00
+                                                                                      1.515 KFZ/h                    08.08.2013         WEST :  381 KFZ/h 16:30
+
+                                      Neuendorfer Str.         Kfz-Stromverteilung in der NSp                         700                Großbeerenstr. / Neuendorfer Str.
+
+
+
+
+       StromPlan NSP700kp8-13.xls                                     Seite 3
+

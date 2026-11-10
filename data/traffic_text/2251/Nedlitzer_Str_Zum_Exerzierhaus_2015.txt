@@ -1,0 +1,162 @@
+SVP, 461                                                                                                                                                                        14.09.2015
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                                   NORD OST SÜD      SUMME %
+                                  NORD                         Räder                                           RAD         FSp           36          0         19                        55     4,2
+
+                          Nedlitzer Str.                                                                                   NSp   21                  2        53                         76     4,9
+                              3.588                 7.456    113                                                           6h   118                  3       166                        287     3,7
+                                                                                                               NFZ         FSp   93                  5      111                        209     16,5
+
+
+                          3.576
+                                   12
+                                                     3.868
+                                                                                                                           NSp   64                  3      118                        185     12,5
+                                                                                                                           6h   501                20       608                       1129     15,0
+                                                                                                               SV          FSp   39                  2       57                          98     7,8
+                                                                                                                           NSp   21                  0       47                          68     4,6
+
+
+
+
+                                                                                            Zum Exerzierhaus
+                                                                                                                           6h   238                  3      304                         545     7,2
+                                                                   161                                         KFZ         FSp 767                 10       487                       1264     100
+                                                                                                                           NSp 621                 13       844                       1478     100
+                                                                                                                           6h  3588                50      3881                       7519     100
+                                                                       11                                      FZ          FSp  803                10       506                       1319     100
+                                                                              50
+                                                                       39             OST                                  NSp  642                15       897                       1554     100
+                                                                                                                           6h  3706                 53     4047                        7806    100
+                                                                       36     86                               NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Zuf. NG + SG wurden durch KP225 errechnet
+                                                                                                               - Wetter früh: 9ºC bewölkt, trocken; nachmittag: 19ºC bewölkt, trocken
+
+
+
+                          3.615          3.857
+                                                     24                                                                    Sph-Beginn:             7.00 Uhr und       16.00     Uhr
+                                                                                                               SUMME Zufahrten: [FSp] : 1264 KFZ/h 7:30
+                                                                                                                                  (NSp) : 1478 KFZ/h 16:30
+                    7.496                        3.881                                                                              6h : 7519 KFZ
+                                                                                                               max. Sph /Zufahrt: NORD     767 KFZ/h 7:30
+                                  SÜD                                                                                               OST     13 KFZ/h 16:30
+                          Nedlitzer Str.                                                                         DATUM :                         SÜD         851 KFZ/h 17:00
+                                                                                       6h Werte 10.09.2015
+                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2251                                      Nedlitzer Str. / Zum Exerzierhaus
+
+
+StromPlan2251kp9-15.xls                                                     Seite 1
+SVP, 461                                                                                                                                                                        14.09.2015
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                                                                   NORD OST SÜD      SUMME %
+                                NORD                            Räder                                          RAD         FSp           36          0         19                        55     4,2
+
+                       Nedlitzer Str.                                                                                      NSp   21                  2        53                         76     4,9
+                              767               1.250      20                                                              6h   118                  3       166                        287     3,7
+                                                                                                               NFZ         FSp   93                  5      111                        209     16,5
+
+                        765
+                                    2
+                                                    483
+                                                                                                                           NSp   64                  3      118                        185     12,5
+                                                                                                                           6h   501                20       608                       1129     15,0
+                                                                                                               SV          FSp   39                  2       57                          98     7,8
+                                                                                                                           NSp   21                  0       47                          68     4,6
+
+
+
+
+                                                                                            Zum Exerzierhaus
+                                                                                                                           6h   238                  3      304                         545     7,2
+                                                                  11                                           KFZ         FSp 767                 10       487                       1264     100
+                                                                                                                           NSp 621                 13       844                       1478     100
+                                                                                                                           6h  3588                50      3881                       7519     100
+                                                                        2                                      FZ          FSp  803                10       506                       1319     100
+                                                                              10
+                                                                        8             OST                                  NSp  642                15       897                       1554     100
+                                                                                                                           6h  3706                 53     4047                        7806    100
+                                                                        8     18                               NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Zuf. NG + SG wurden durch KP225 errechnet
+                                                                                                               - Wetter früh: 9ºC bewölkt, trocken; nachmittag: 19ºC bewölkt, trocken
+
+
+                        773             481
+                                                    6                                                                      Sph-Beginn:             7.00 Uhr und       16.00     Uhr
+                                                                                                               SUMME Zufahrten: [FSp] : 1264 KFZ/h 7:30
+                                                                                                                                  (NSp) : 1478 KFZ/h 16:30
+                     1.260                    487                                                                                   6h : 7519 KFZ
+                                                                                                               max. Sph /Zufahrt: NORD     767 KFZ/h 7:30
+                                SÜD                                                                                                 OST     13 KFZ/h 16:30
+                       Nedlitzer Str.                                                                            DATUM :                         SÜD         851 KFZ/h 17:00
+                                                                                   1.264 KFZ/h 10.09.2015
+                                                          Kfz-Stromverteilung in der FSp 2251                                        Nedlitzer Str. / Zum Exerzierhaus
+
+
+StromPlan (FSp)2251kp9-15.xls                                               Seite 2
+SVP, 461                                                                                                                                                                         14.09.2015
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                                    NORD OST SÜD      SUMME %
+                                NORD                            Räder                                           RAD         FSp           36          0         19                        55     4,2
+
+                       Nedlitzer Str.                                                                                       NSp   21                  2        53                         76     4,9
+                             621               1.463       12                                                               6h   118                  3       166                        287     3,7
+                                                                                                                NFZ         FSp   93                  5      111                        209     16,5
+
+                       620
+                                   1
+                                                   842
+                                                                                                                            NSp   64                  3      118                        185     12,5
+                                                                                                                            6h   501                20       608                       1129     15,0
+                                                                                                                SV          FSp   39                  2       57                          98     7,8
+                                                                                                                            NSp   21                  0       47                          68     4,6
+
+
+
+
+                                                                                             Zum Exerzierhaus
+                                                                                                                            6h   238                  3      304                         545     7,2
+                                                                  26                                            KFZ         FSp 767                 10       487                       1264     100
+                                                                                                                            NSp 621                 13       844                       1478     100
+                                                                                                                            6h  3588                50      3881                       7519     100
+                                                                        1                                       FZ          FSp  803                10       506                       1319     100
+                                                                               13
+                                                                        12             OST                                  NSp  642                15       897                       1554     100
+                                                                                                                            6h  3706                 53     4047                        7806    100
+                                                                        4      17                               NFZ=Nutzfahrz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerlastv.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - Zuf. NG + SG wurden durch KP225 errechnet
+                                                                                                                - Wetter früh: 9ºC bewölkt, trocken; nachmittag: 19ºC bewölkt, trocken
+
+
+                       632             841
+                                                   3                                                                        Sph-Beginn:             7.00 Uhr und       16.00     Uhr
+                                                                                                                SUMME Zufahrten: [FSp] : 1264 KFZ/h 7:30
+                                                                                                                                   (NSp) : 1478 KFZ/h 16:30
+                     1.476                   844                                                                                     6h : 7519 KFZ
+                                                                                                                max. Sph /Zufahrt: NORD     767 KFZ/h 7:30
+                                SÜD                                                                                                  OST     13 KFZ/h 16:30
+                       Nedlitzer Str.                                                                             DATUM :                         SÜD         851 KFZ/h 17:00
+                                                                                    1.478 KFZ/h 10.09.2015
+                                                         Kfz-Stromverteilung in der NSp 2251                                          Nedlitzer Str. / Zum Exerzierhaus
+
+
+StromPlan (NSp)2251kp9-15.xls                                                Seite 3
+

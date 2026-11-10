@@ -1,0 +1,144 @@
+Landeshauptstadt Potsdam                                                                                                                                                             06.05.2020
+Bereich Verkehrsentwicklung
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD   WG SUMME %
+                                                                                                                 RAD         FSp          36           9      20         7         72           5,5
+                                          NORD                                                                          NSp     51                   24    26            17       104           6,4
+                              Neuendorfer Str.                                                                          6h     235                  120   189            32       576        6,9
+                                                                                                                 NFZ    FSp     85                  33    86                     204        16,6
+                                       3.239                                                                            NSp     87                  23    71                     181        11,9
+                                                      6.375                                                             6h     493                 163   428                    1084        14,0
+                                                                                                                 SV     FSp     26                  11    21                       58           4,7
+
+                               2.872       367         3.136                                                            NSp     15                  12    11                       38           2,5
+                                                                                                                        6h     118                   79    90                     287           3,7
+                                                                                                                 KFZ FSp 490                       176   561                    1227        100
+                                                                                                                        NSp 634                    199   685                    1518        100
+                                                                                                                        6h    3239                1039 3479                     7757        100
+                                                                                                                 FZ     FSp    526                 185   581              7     1299        100
+
+
+
+
+                                                                                                   Galileistr.
+                                                                                                                        NSp    685                 223   711             17     1622        100
+                                                                           411                                          6h    3474                1159 3668              32      8333       100
+                                                                                  1039
+                                                                           628               OST                 Q DTVw: 2,4 14981                5076 16401
+                                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                           1121   2160                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Ferienanfang
+                                                                                                                 - Wetter früh 19ºC zw. 7:00 u. 7:30 Uhr vereinzelt Regen, sonst trocken;
+                                                                                                                   nachmitttag 34ºC sonnig
+
+                               3.500       2.725       754
+                                                                                                                     Sph-Beginn:       8:30    Uhr und     16:00   Uhr
+                              6.979                                                                              SUMME Zufahrten: FSp :                    1227 KFZ/h 9:00
+                                                   3.479                                                                          NSp :                    1518 KFZ/h 16:30
+                                           SÜD                                                                                                     6h :    7757 KFZ
+                              Neuendorfer Str.                                                                   max. Sph /Zufahrt: NORD                    672 KFZ/h 15:30
+                                                                                                                                                  OST       199 KFZ/h 16:30
+
+                                                                                                                   DATUM :                        SÜD       685 KFZ/h 16:30
+                                                                                              6h Werte 20.06.2019
+                                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 720                             Galileistr./Neuendorfer Str.
+StromPlan720kp6-19.xlsx                                                            Seite 1
+Landeshauptstadt Potsdam                                                                                                                                                     06.05.2020
+Bereich Verkehrsentwicklung
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD   WG SUMME %
+                                                                                                         RAD         FSp          36           9      20         7         72           5,5
+                                       NORD                                                                     NSp     51                   24    26            17       104           6,4
+                              Neuendorfer Str.                                                                  6h     235                  120   189            32       576        6,9
+                                                                                                         NFZ    FSp     85                  33    86                     204        16,6
+                                     490                                                                        NSp     87                  23    71                     181        11,9
+                                                   1.015                                                        6h     493                 163   428                    1084        14,0
+                                                                                                         SV     FSp     26                  11    21                       58           4,7
+                               432         58          525                                                      NSp     15                  12    11                       38           2,5
+                                                                                                                6h     118                   79    90                     287           3,7
+                                                                                                         KFZ FSp 490                       176   561                    1227        100
+                                                                                                                NSp 634                    199   685                    1518        100
+                                                                                                                6h    3239                1039 3479                     7757        100
+                                                                                                         FZ     FSp    526                 185   581              7     1299        100
+
+
+
+
+                                                                                           Galileistr.
+                                                                                                                NSp    685                 223   711             17     1622        100
+                                                                    76                                          6h    3474                1159 3668              32      8333       100
+                                                                           176
+                                                                    100              OST                 Q DTVw: 2,4 14981                5076 16401
+                                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                    170    346                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                         Bemerkungen :
+                                                                                                         - Ferienanfang
+                                                                                                         - Wetter früh 19ºC zw. 7:00 u. 7:30 Uhr vereinzelt Regen, sonst trocken;
+                                                                                                           nachmitttag 34ºC sonnig
+                               532         449         112
+                                                                                                             Sph-Beginn:       8:30    Uhr und     16:00   Uhr
+                              1.093                                                                      SUMME Zufahrten: FSp :                    1227 KFZ/h 9:00
+                                                 561                                                                      NSp :                    1518 KFZ/h 16:30
+                                       SÜD                                                                                                 6h :    7757 KFZ
+                              Neuendorfer Str.                                                           max. Sph /Zufahrt: NORD                    672 KFZ/h 15:30
+                                                                                                                                          OST       199 KFZ/h 16:30
+
+                                                                                                           DATUM :                        SÜD       685 KFZ/h 16:30
+                                                                                 1.227 KFZ/h 20.06.2019
+                                                             Kfz-Stromverteilung in der FSp 720                              Galileistr./Neuendorfer Str.
+StromPlan (FSp)720kp6-19.xlsx                                              Seite 2
+Landeshauptstadt Potsdam                                                                                                                                                     06.05.2020
+Bereich Verkehrsentwicklung
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD   WG SUMME %
+                                                                                                         RAD         FSp          36           9      20         7         72           5,5
+                                       NORD                                                                     NSp     51                   24    26            17       104           6,4
+                              Neuendorfer Str.                                                                  6h     235                  120   189            32       576        6,9
+                                                                                                         NFZ    FSp     85                  33    86                     204        16,6
+                                     634                                                                        NSp     87                  23    71                     181        11,9
+                                                   1.243                                                        6h     493                 163   428                    1084        14,0
+                                                                                                         SV     FSp     26                  11    21                       58           4,7
+                               555         79          609                                                      NSp     15                  12    11                       38           2,5
+                                                                                                                6h     118                   79    90                     287           3,7
+                                                                                                         KFZ FSp 490                       176   561                    1227        100
+                                                                                                                NSp 634                    199   685                    1518        100
+                                                                                                                6h    3239                1039 3479                     7757        100
+                                                                                                         FZ     FSp    526                 185   581              7     1299        100
+
+
+
+
+                                                                                           Galileistr.
+                                                                                                                NSp    685                 223   711             17     1622        100
+                                                                    79                                          6h    3474                1159 3668              32      8333       100
+                                                                           199
+                                                                    120              OST                 Q DTVw: 2,4 14981                5076 16401
+                                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                    234    433                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                         Bemerkungen :
+                                                                                                         - Ferienanfang
+                                                                                                         - Wetter früh 19ºC zw. 7:00 u. 7:30 Uhr vereinzelt Regen, sonst trocken;
+                                                                                                           nachmitttag 34ºC sonnig
+                               675         530         155
+                                                                                                             Sph-Beginn:       8:30    Uhr und     16:00   Uhr
+                              1.360                                                                      SUMME Zufahrten: FSp :                    1227 KFZ/h 9:00
+                                                 685                                                                      NSp :                    1518 KFZ/h 16:30
+                                       SÜD                                                                                                 6h :    7757 KFZ
+                              Neuendorfer Str.                                                           max. Sph /Zufahrt: NORD                    672 KFZ/h 15:30
+                                                                                                                                          OST       199 KFZ/h 16:30
+
+                                                                                                           DATUM :                        SÜD       685 KFZ/h 16:30
+                                                                                 1.518 KFZ/h 20.06.2019
+                                                             Kfz-Stromverteilung in der NSp 720                              Galileistr./Neuendorfer Str.
+StromPlan (NSp)720kp6-19.xlsx                                              Seite 3
+

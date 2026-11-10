@@ -1,0 +1,131 @@
+SVP, 461                                                                                                                                            17.07.2013
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                             NORD             OST WEST                             SUMME %
+                                                                             RAD         FSp   12               25   27                                64         5,3
+                                                                                         NSp   12               43   31                                86         7,0
+                                                                                         6h     55             206  157                               418         6,3
+                                                                             NFZ         FSp    5               69  62                               136         12,0
+                                  NORD                                                   NSp    7               96  31                               134         11,7
+                                                                                         6h    46              474 257                               777         12,5
+                         E.-Mendelsohn-Allee                                 SV          FSp    2               33  25                                60          5,3
+                                                                                         NSp    1               30  15                                46          4,0
+                                717         1.882                                        6h             8      171        120                         299         4,8
+
+                           38         679
+                                             1.165
+                                                                             KFZ         FSp        160       427        548                        1135         100
+                                                                                         NSp        100       689        359                        1148         100
+                                                                                         6h         717      3111       2406                        6234         100
+                                                                             FZ          FSp        172       452        575                        1199         100
+                                                                                         NSp        112       732        390                        1234         100
+                                                                                         6h          772     3317       2563                         6652        100
+                                                                             Bemerkungen:
+
+4.736      2.330                                               819           - Wetter früh 12ºC bewölkt, trocken; nachmittags 20ºC stark bewölkt, trocken
+                                                                     3.111
+             346                                          2.292
+2.406
+           2.060                                          2.739      5.850
+
+                                                                                  Sph-Beginn:     7.30 Uhr und 15.30 Uhr
+                                                                             SUMME Zufahrten: [FSp]: 1135 KFZ/h 8:00
+           WEST                 Pappelallee              OST                                    (NSp): 1148 KFZ/h                           16:00
+                                                                                                  6h : 6234 KFZ
+                                                                             max. Sph /Zufahrt: NORD    182 KFZ/h                           7:30
+                                                                                                  OST   689 KFZ/h                           16:00
+                                                                              DATUM :           WEST    548 KFZ/h                           8:00
+                                                                              26.04.2012
+                                                                               167              Pappelallee/E.-Mendelsohn-Allee
+
+
+StromPlan167kp4-12.xls                               Seite 1
+SVP, 461                                                                                                                                                       17.07.2013
+
+
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                        NORD             OST WEST                             SUMME %
+                                                                                        RAD         FSp   12               25   27                                64         5,3
+                                                                                                    NSp   12               43   31                                86         7,0
+                                                                                                    6h     55             206  157                               418         6,3
+                                                                                        NFZ         FSp    5               69  62                               136         12,0
+                                       NORD                                                         NSp    7               96  31                               134         11,7
+                                                                                                    6h    46              474 257                               777         12,5
+                               E.-Mendelsohn-Allee                                      SV          FSp    2               33  25                                60          5,3
+                                                                                                    NSp    1               30  15                                46          4,0
+                                     160         302                                                6h             8      171        120                         299         4,8
+                                 3
+                                           157   142                                    KFZ         FSp        160       427        548                        1135         100
+                                                                                                    NSp        100       689        359                        1148         100
+                                                                                                    6h         717      3111       2406                        6234         100
+                                                                                        FZ          FSp        172       452        575                        1199         100
+                                                                                                    NSp        112       732        390                        1234         100
+                                                                                                    6h          772     3317       2563                         6652        100
+                                                                                        Bemerkungen:
+
+ 882        334                                                           96            - Wetter früh 12ºC bewölkt, trocken; nachmittags 20ºC stark bewölkt, trocken
+                                                                                 427
+             46                                                           331
+ 548
+            502                                                           659   1.086
+
+                                                                                             Sph-Beginn:     7.30 Uhr und 15.30 Uhr
+                                                                                        SUMME Zufahrten: [FSp]: 1135 KFZ/h 8:00
+           WEST                      Pappelallee                    OST                                    (NSp): 1148 KFZ/h                           16:00
+                                                                                                             6h : 6234 KFZ
+                                                                                        max. Sph /Zufahrt: NORD    182 KFZ/h                           7:30
+                                                                                                             OST   689 KFZ/h                           16:00
+                                                                                         DATUM :           WEST    548 KFZ/h                           8:00
+                                                                   1.135 KFZ/h          26.04.2012
+                                                 Kfz-Stromverteilung in der FSp           167              Pappelallee/E.-Mendelsohn-Allee
+
+
+StromPlan (FSp)167kp4-12.xls                                    Seite 2
+SVP, 461                                                                                                                                                      17.07.2013
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                       NORD             OST WEST                             SUMME %
+                                                                                       RAD         FSp   12               25   27                                64         5,3
+                                                                                                   NSp   12               43   31                                86         7,0
+                                                                                                   6h     55             206  157                               418         6,3
+                                                                                       NFZ         FSp    5               69  62                               136         12,0
+                                       NORD                                                        NSp    7               96  31                               134         11,7
+                                                                                                   6h    46              474 257                               777         12,5
+                               E.-Mendelsohn-Allee                                     SV          FSp    2               33  25                                60          5,3
+                                                                                                   NSp    1               30  15                                46          4,0
+                                     100        354                                                6h             8      171        120                         299         4,8
+                                 3         97   254                                    KFZ         FSp        160       427        548                        1135         100
+                                                                                                   NSp        100       689        359                        1148         100
+                                                                                                   6h         717      3111       2406                        6234         100
+                                                                                       FZ          FSp        172       452        575                        1199         100
+                                                                                                   NSp        112       732        390                        1234         100
+                                                                                                   6h          772     3317       2563                         6652        100
+                                                                                       Bemerkungen:
+
+ 865        506                                                          186           - Wetter früh 12ºC bewölkt, trocken; nachmittags 20ºC stark bewölkt, trocken
+                                                                                689
+             68                                                          503
+ 359
+            291                                                          388   1.077
+
+                                                                                            Sph-Beginn:     7.30 Uhr und 15.30 Uhr
+                                                                                       SUMME Zufahrten: [FSp]: 1135 KFZ/h 8:00
+           WEST                      Pappelallee                   OST                                    (NSp): 1148 KFZ/h                           16:00
+                                                                                                            6h : 6234 KFZ
+                                                                                       max. Sph /Zufahrt: NORD    182 KFZ/h                           7:30
+                                                                                                            OST   689 KFZ/h                           16:00
+                                                                                        DATUM :           WEST    548 KFZ/h                           8:00
+                                                                  1.148 KFZ/h          26.04.2012
+                                                Kfz-Stromverteilung in der NSp           167              Pappelallee/E.-Mendelsohn-Allee
+
+
+StromPlan (NSp)167kp4-12.xls                                   Seite 3
+

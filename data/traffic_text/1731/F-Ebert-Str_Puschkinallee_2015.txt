@@ -1,0 +1,142 @@
+SVP, 461                                                                                                                                                                03.07.2015
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                 NORD                                                                                      NORD OST SÜD      SUMME %
+                    F.-Ebert-Str.                                                                      RAD          FSp        162         19                              210        52,0
+
+                                                                                                                    NSp         59        21                               247        58,0
+                                98                                                                                  6h         465         90                               555       56,5
+                                              198                                                      NFZ          FSp         19          4                               42        21,6
+                                                                                                                    NSp          4          8                               27        15,1
+                          94         4        100                                                                   6h          39        35                                 74       17,3
+                                                                                                       SV           FSp         17          0                               24        12,4
+                                                                                                                    NSp          2          3                                 9        5,0
+                                                                                                                    6h          34          7                                41        9,6
+                                                                                                       KFZ          FSp         33        51                               194        100
+                                                                                                                    NSp         18        60                               179        100
+
+
+
+
+                                                                                       Puschkinallee
+                                                                                                                    6h          98       329                               427        100
+                                                                11                                     FZ           FSp        195        70                               404        100
+                                                                       329
+                                                               318               OST                                NSp         77        81                               426        100
+                                                                                                                    6h         563       419                                982       100
+                                                               481     810                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                       Bemerkungen :
+                                                                                                       - Teilzählung - Zuf. NG+SG durch KP173 errchnet
+                                                                                                       - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+                                                                                                             Sph-Beginn:     7.00 Uhr und 16.00 Uhr
+                          412        89       477
+                                                                                                       SUMME Zufahrten:              [FSp] :       194 KFZ/h        7:30
+                                                                                                                                     (NSp):        179 KFZ/h        16:30
+                          978                                                                                                          6h :        427 KFZ
+                                        566                                                            max. Sph /Zufahrt:            NORD           33 KFZ/h        7:30
+                                     SÜD                                                                                              OST           61 KFZ/h        8:00
+                     F.-Ebert-Str.                                                                        DATUM :                       SÜD               KFZ/h 8:00
+                                                                                 6h Werte 21.05.2015
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1731                             F.-Ebert-Str. / Puschkinallee
+
+StromPlan1731kp5-15.xls                                                Seite 1
+SVP, 461                                                                                                                                                          03.07.2015
+
+
+                                                                                                                     FAHRZEUG-VERTEILUNG
+                                 NORD                                                                                NORD OST SÜD      SUMME %
+                     F.-Ebert-Str.                                                               RAD          FSp        162         19                              210        52,0
+
+                                                                                                              NSp         59        21                               247        58,0
+                                33                                                                            6h         465         90                               555       56,5
+                                              64                                                 NFZ          FSp         19          4                               42        21,6
+                                                                                                              NSp          4          8                               27        15,1
+                        33           0        31                                                              6h          39        35                                 74       17,3
+                                                                                                 SV           FSp         17          0                               24        12,4
+                                                                                                              NSp          2          3                                 9        5,0
+                                                                                                              6h          34          7                                41        9,6
+                                                                                                 KFZ          FSp         33        51                               194        100
+                                                                                                              NSp         18        60                               179        100
+
+
+
+
+                                                                                 Puschkinallee
+                                                                                                              6h          98       329                               427        100
+                                                           2                                     FZ           FSp        195        70                               404        100
+                                                                  51
+                                                           49              OST                                NSp         77        81                               426        100
+                                                                                                              6h         563       419                                982       100
+                                                           81    132                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                                                                                 - Teilzählung - Zuf. NG+SG durch KP173 errchnet
+                                                                                                 - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+                                                                                                       Sph-Beginn:     7.00 Uhr und 16.00 Uhr
+                        82           29       81
+                                                                                                 SUMME Zufahrten:              [FSp] :       194 KFZ/h        7:30
+                                                                                                                               (NSp):        179 KFZ/h        16:30
+                        192                                                                                                      6h :        427 KFZ
+                                        110                                                      max. Sph /Zufahrt:            NORD           33 KFZ/h        7:30
+                                     SÜD                                                                                        OST           61 KFZ/h        8:00
+                     F.-Ebert-Str.                                                                  DATUM :                       SÜD               KFZ/h 8:00
+                                                                       194 KFZ/h 21.05.2015
+                                                   Kfz-Stromverteilung in der FSp 1731                              F.-Ebert-Str. / Puschkinallee
+
+StromPlan (FSp)1731kp5-15.xls                                    Seite 2
+SVP, 461                                                                                                                                                           03.07.2015
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                 NORD                                                                                 NORD OST SÜD      SUMME %
+                     F.-Ebert-Str.                                                                RAD          FSp        162         19                              210        52,0
+
+                                                                                                               NSp         59        21                               247        58,0
+                                18                                                                             6h         465         90                               555       56,5
+                                              41                                                  NFZ          FSp         19          4                               42        21,6
+                                                                                                               NSp          4          8                               27        15,1
+                        17           1        23                                                               6h          39        35                                 74       17,3
+                                                                                                  SV           FSp         17          0                               24        12,4
+                                                                                                               NSp          2          3                                 9        5,0
+                                                                                                               6h          34          7                                41        9,6
+                                                                                                  KFZ          FSp         33        51                               194        100
+                                                                                                               NSp         18        60                               179        100
+
+
+
+
+                                                                                  Puschkinallee
+                                                                                                               6h          98       329                               427        100
+                                                           0                                      FZ           FSp        195        70                               404        100
+                                                                  60
+                                                           60               OST                                NSp         77        81                               426        100
+                                                                                                               6h         563       419                                982       100
+                                                           79    139                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - Teilzählung - Zuf. NG+SG durch KP173 errchnet
+                                                                                                  - Wetter früh 17ºC sonnig; nachmittag 19ºC bewölkt, trocken
+
+
+
+                                                                                                        Sph-Beginn:     7.00 Uhr und 16.00 Uhr
+                        77           23       78
+                                                                                                  SUMME Zufahrten:              [FSp] :       194 KFZ/h        7:30
+                                                                                                                                (NSp):        179 KFZ/h        16:30
+                        178                                                                                                       6h :        427 KFZ
+                                        101                                                       max. Sph /Zufahrt:            NORD           33 KFZ/h        7:30
+                                     SÜD                                                                                         OST           61 KFZ/h        8:00
+                     F.-Ebert-Str.                                                                   DATUM :                       SÜD               KFZ/h 8:00
+                                                                        179 KFZ/h 21.05.2015
+                                                   Kfz-Stromverteilung in der NSp 1731                               F.-Ebert-Str. / Puschkinallee
+
+StromPlan (NSp)1731kp5-15.xls                                     Seite 3
+

@@ -1,0 +1,183 @@
+       Landeshauptstadt Potsdam                                                                                                                                                                           15.11.2023
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                   NORD                                                                          RAD    FSp    168   206    91   109                             574       14,9
+                                                                                                                                                        NSp    216   195   227   158                             796       17,8
+                                                                  Berliner Str.                                                                         6h    1218 1307    822    818                           4165       17,3
+                                                                    3.697            7.094                                                       NFZ    FSp     86   295    45   124                            550        16,7
+                                                                                                                                                        NSp     74   187   134   110                            505        13,7
+                                                                                                                                                        6h     447 1363    343   615                           2768        13,9
+                                                          1.765      1.226            3.397
+
+
+
+
+        Gutenbergstraße / Behlertstraße
+                                                                              706                                                                SV     FSp     13    47     8    29                              97        3,0
+                                                                                                                                                        NSp      7    20    91    22                            140         3,8
+                                                                                                                                                        6h      48   189   130   145                             512        2,6
+                                                                                                                                                 KFZ FSp 550 1370          317 1047                            3284        100
+
+
+
+
+                                                                                                                                Humboldtbrücke
+                                                                                                                                                        NSp 768 1322       528 1065                            3683        100
+                                                                                                                                                        6h    3697 7719 2298 6144                             19858        100
+                                                                                                                                                 FZ     FSp    718 1576    408  1156                           3858        100
+                                          12.490 6.346                                                    831                                           NSp    984 1517    755  1223                           4479        100
+                                                 1.698                                                   4.416   7.719    OST                           6h    4915 9026 3120    6962                          24023        100
+
+WEST                                      6.144 4.239                                                    2.472                                   Q DTVw: 2,5 17735 34823 15508 31225
+                                                  207                                                    6.210   13.929                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                                 Bemerkungen :
+                                                                                                                                                 - Baustelle Leipziger Dreieck
+                                                                                                                                                 - keine Corona-Einschränkungen
+                                                                                                                                                 - Ukraine-Krieg
+                                                                                                                                                 - seit 01.05.2023 D-Ticket im Umlauf
+
+                                                          3.905      165      868     1.265
+                                                                                                                                                 - hohe Kraftstoffpreise (Benzin 1,95€, Diesel 1,88€)
+
+                                                                                                                                                 - Wetter: früh 16ºC sonnig, trocken; nachmittag 16ºC sonnig, trocken
+                                                         6.203                                                                                                Sph-Beginn:            Uhr
+                                                                                                                                                                                   8.00 Uhr und   15.00
+                                                                             2.298                                                               SUMME Zufahrten: [FSp] : 3284 KFZ/h 8:30
+                                                                             SÜD                                                                                  (NSp): 3683 KFZ/h 15:30
+                                                                  Berliner Str.                                                                                       6h : 19858 KFZ
+                                                                                                                                                 max. Sph /Zufahrt: NORD :   768 KFZ/h 15:30
+                                                                                                                                                                     OST : 1385 KFZ/h 17:30
+                                                                                                                                                   DATUM :                     SÜD :       528 KFZ/h 15:30
+                                                                                                                          6h Werte 21.09.2023                                WEST :      1115 KFZ/h 7:30
+                                                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1800                                    Berliner Str. / Behlertstr.
+
+
+       StromPlan1800kp9-23                                                                      Seite1
+       Landeshauptstadt Potsdam                                                                                                                                                                  15.11.2023
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                 NORD                                                                   RAD    FSp    168   206    91   109                             574       14,9
+                                                                                                                                               NSp    216   195   227   158                             796       17,8
+                                                                Berliner Str.                                                                  6h    1218 1307    822    818                           4165       17,3
+                                                                  550           1.177                                                   NFZ    FSp     86   295    45   124                            550        16,7
+                                                                                                                                               NSp     74   187   134   110                            505        13,7
+                                                                                                                                               6h     447 1363    343   615                           2768        13,9
+
+
+
+
+        Gutenbergstraße / Behlertstraße
+                                                          258      180   112     627                                                    SV     FSp     13    47     8    29                              97        3,0
+                                                                                                                                               NSp      7    20    91    22                            140         3,8
+                                                                                                                                               6h      48   189   130   145                             512        2,6
+                                                                                                                                        KFZ FSp 550 1370          317 1047                            3284        100
+
+
+
+
+                                                                                                                       Humboldtbrücke
+                                                                                                                                               NSp 768 1322       528 1065                            3683        100
+                                                                                                                                               6h    3697 7719 2298 6144                             19858        100
+                                                                                                                                        FZ     FSp    718 1576    408  1156                           3858        100
+                                          2.158   1.111                                            177                                         NSp    984 1517    755  1223                           4479        100
+                                                   305                                             830   1.370   OST                           6h    4915 9026 3120    6962                          24023        100
+
+WEST                                      1.047    703                                             363                                  Q DTVw: 2,5 17735 34823 15508 31225
+                                                   39                                              964   2.334                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                        Bemerkungen :
+                                                                                                                                        - Baustelle Leipziger Dreieck
+                                                                                                                                        - keine Corona-Einschränkungen
+                                                                                                                                        - Ukraine-Krieg
+                                                                                                                                        - seit 01.05.2023 D-Ticket im Umlauf
+
+                                                          582      23    145     149                                                    - hohe Kraftstoffpreise (Benzin 1,95€, Diesel 1,88€)
+
+                                                                                                                                        - Wetter: früh 16ºC sonnig, trocken; nachmittag 16ºC sonnig, trocken
+                                                          899                                                                                        Sph-Beginn:            Uhr
+                                                                                                                                                                          8.00 Uhr und   15.00
+                                                                         317                                                            SUMME Zufahrten: [FSp] : 3284 KFZ/h 8:30
+                                                                         SÜD                                                                             (NSp): 3683 KFZ/h 15:30
+                                                                Berliner Str.                                                                                6h : 19858 KFZ
+                                                                                                                                        max. Sph /Zufahrt: NORD :   768 KFZ/h 15:30
+                                                                                                                                                            OST : 1385 KFZ/h 17:30
+                                                                                                                                          DATUM :                     SÜD :       528 KFZ/h 15:30
+                                                                                                            3.284 KFZ/h 21.09.2023                                  WEST :      1115 KFZ/h 7:30
+                                                                                        Kfz-Stromverteilung in der FSp 1800                                   Berliner Str. / Behlertstr.
+
+
+       StromPlan (FSp)1800kp9-23                                                          Seite2
+       Landeshauptstadt Potsdam                                                                                                                                                                      15.11.2023
+       Bereich Verkehrsentwicklung
+
+
+
+                                                                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                                                                 Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                   NORD                                                                     RAD    FSp    168   206    91   109                             574       14,9
+                                                                                                                                                   NSp    216   195   227   158                             796       17,8
+                                                                  Berliner Str.                                                                    6h    1218 1307    822    818                           4165       17,3
+                                                                    768           1.384                                                     NFZ    FSp     86   295    45   124                            550        16,7
+                                                                                                                                                   NSp     74   187   134   110                            505        13,7
+                                                                                                                                                   6h     447 1363    343   615                           2768        13,9
+
+
+
+
+        Gutenbergstraße / Behlertstraße
+                                                           393       233   142     616                                                      SV     FSp     13    47     8    29                              97        3,0
+                                                                                                                                                   NSp      7    20    91    22                            140         3,8
+                                                                                                                                                   6h      48   189   130   145                             512        2,6
+                                                                                                                                            KFZ FSp 550 1370          317 1047                            3284        100
+
+
+
+
+                                                                                                                           Humboldtbrücke
+                                                                                                                                                   NSp 768 1322       528 1065                            3683        100
+                                                                                                                                                   6h    3697 7719 2298 6144                             19858        100
+                                                                                                                                            FZ     FSp    718 1576    408  1156                           3858        100
+                                          2.185   1.120                                               125                                          NSp    984 1517    755  1223                           4479        100
+                                                   311                                                680    1.322   OST                           6h    4915 9026 3120    6962                          24023        100
+
+WEST                                      1.065    720                                                517                                   Q DTVw: 2,5 17735 34823 15508 31225
+                                                   34                                                1.163   2.485                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                                            Bemerkungen :
+                                                                                                                                            - Baustelle Leipziger Dreieck
+                                                                                                                                            - keine Corona-Einschränkungen
+                                                                                                                                            - Ukraine-Krieg
+                                                                                                                                            - seit 01.05.2023 D-Ticket im Umlauf
+
+                                                           784       47    180     301                                                      - hohe Kraftstoffpreise (Benzin 1,95€, Diesel 1,88€)
+
+                                                                                                                                            - Wetter: früh 16ºC sonnig, trocken; nachmittag 16ºC sonnig, trocken
+                                                          1.312                                                                                          Sph-Beginn:            Uhr
+                                                                                                                                                                              8.00 Uhr und   15.00
+                                                                           528                                                              SUMME Zufahrten: [FSp] : 3284 KFZ/h 8:30
+                                                                           SÜD                                                                               (NSp): 3683 KFZ/h 15:30
+                                                                  Berliner Str.                                                                                  6h : 19858 KFZ
+                                                                                                                                            max. Sph /Zufahrt: NORD :   768 KFZ/h 15:30
+                                                                                                                                                                OST : 1385 KFZ/h 17:30
+                                                                                                                                              DATUM :                     SÜD :       528 KFZ/h 15:30
+                                                                                                                3.683 KFZ/h 21.09.2023                                  WEST :      1115 KFZ/h 7:30
+                                                                                          Kfz-Stromverteilung in der NSp 1800                                     Berliner Str. / Behlertstr.
+
+
+       StromPlan (NSp)1800kp9-23                                                            Seite3
+

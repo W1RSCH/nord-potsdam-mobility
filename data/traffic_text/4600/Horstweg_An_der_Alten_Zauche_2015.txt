@@ -1,0 +1,170 @@
+       SVP, 461                                                                                                                                                                     24.04.2015
+
+
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                               NORD OST SÜD WEST SUMME %
+                                           NORD                                                                               RAD        FSp   116             25        28          7       176  8,6
+                                                                                                                                         NSp    95             18        43         23       179  7,6
+                                           Horstweg                                                                                      6h    410            136       204         62        812 6,7
+                                           4.479             10.135                                                           NFZ        FSp 100              85        83         22        290 15,5
+                                                                                                                                         NSp    79            46        47         17        189  8,7
+                                                                                                                                         6h    574           442       401        107       1524 13,5
+                                   339      2.117    2.023    5.656                                                           SV         FSp    35            13        29           7        84  4,5
+                                                                                                                                         NSp    15              4         8          5        32  1,5
+                                                                                                                                         6h    149             63      108          26       346 3,1
+                                                                                                                              KFZ
+
+
+
+
+                                                                                                        An der Alten Zauche
+                                                                                                                                         FSp 589             700       507         72       1868 100
+                                                                                                                                         NSp 1023            513       477        168       2181 100
+                                                                                                                                         6h  4479           3397      2812        642      11330 100
+                                                                                                                              FZ         FSp   705           725       535          79      2044 100
+
+
+
+
+       Horstweg
+                  1.301     659                                                     2.942                                                NSp 1118            531       520        191       2360 100
+                            312                                                       144 3.397   OST                                    6h   4889          3533      3016         704     12142 100
+WEST
+                  642       144                                                       311                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                            186                                                     2.401 5.798                               Bemerkungen :
+                                                                                                                              - Baustelle L40/Humboldtbrücke einwärts
+                                                                                                                              - Baustelle L40 an Ab- und Auffahrt A115
+                                                                                                                              - Wetter früh 10ºC bewölkt, zw. 7.00 und 7.30 Uhr leichter Nieselregen,
+                                                                                                                                danach leicht bewölkt, trocken; nachmittag 16ºC sonnig, trocken
+
+
+                                                                                                                                Sph-Beginn: 7.30 Uhr und 16.30 Uhr
+
+                                   2.614    176      2.402    234                                                             SUMME Zufahrten: [FSp] : 1868 KFZ/h 8:00
+                                                                                                                                                 (NSp):   2181 KFZ/h 17:00
+                                  5.426                                                                                                             6h : 11330 KFZ
+                                                    2.812                                                                     max. Sph /Zufahrt: NORD : 1062 KFZ/h 16:30
+                                                    SÜD                                                                                           OST :    713 KFZ/h 7:30
+                                           Horstweg                                                                             DATUM :                  SÜD :          507 KFZ/h 8:00
+                                                                                                   6h Werte 16.04.2015                                  WEST :          168 KFZ/h 17:00
+                                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 460                               Horstweg/An der Alten Zauche
+
+
+
+       StromPlan460kp4-15.xls                                             Seite 1
+       SVP, 461                                                                                                                                                            24.04.2015
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                      NORD OST SÜD WEST SUMME %
+                                            NORD                                                                     RAD        FSp   116             25        28          7       176  8,6
+                                                                                                                                NSp    95             18        43         23       179  7,6
+                                            Horstweg                                                                            6h    410            136       204         62        812 6,7
+                                            589          1.712                                                       NFZ        FSp 100              85        83         22        290 15,5
+                                                                                                                                NSp    79            46        47         17        189  8,7
+                                                                                                                                6h    574           442       401        107       1524 13,5
+                                      37     326   226    1.123                                                      SV         FSp    35            13        29           7        84  4,5
+                                                                                                                                NSp    15              4         8          5        32  1,5
+                                                                                                                                6h    149             63      108          26       346 3,1
+                                                                                                                     KFZ
+
+
+
+
+                                                                                               An der Alten Zauche
+                                                                                                                                FSp 589             700       507         72       1868 100
+                                                                                                                                NSp 1023            513       477        168       2181 100
+                                                                                                                                6h  4479           3397      2812        642      11330 100
+                                                                                                                     FZ         FSp   705           725       535          79      2044 100
+
+
+
+
+       Horstweg
+                  158         86                                             620                                                NSp 1118            531       520        191       2360 100
+                              40                                              25   700   OST                                    6h   4889          3533      3016         704     12142 100
+WEST
+                  72          11                                              55                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                              21                                             257   957                               Bemerkungen :
+                                                                                                                     - Baustelle L40/Humboldtbrücke einwärts
+                                                                                                                     - Baustelle L40 an Ab- und Auffahrt A115
+                                                                                                                     - Wetter früh 10ºC bewölkt, zw. 7.00 und 7.30 Uhr leichter Nieselregen,
+                                                                                                                       danach leicht bewölkt, trocken; nachmittag 16ºC sonnig, trocken
+
+
+                                                                                                                       Sph-Beginn: 7.30 Uhr und 16.30 Uhr
+                                      402    24    463    20                                                         SUMME Zufahrten: [FSp] : 1868 KFZ/h 8:00
+                                                                                                                                        (NSp):   2181 KFZ/h 17:00
+                                      909                                                                                                  6h : 11330 KFZ
+                                                   507                                                               max. Sph /Zufahrt: NORD : 1062 KFZ/h 16:30
+                                                   SÜD                                                                                   OST :    713 KFZ/h 7:30
+                                            Horstweg                                                                   DATUM :                  SÜD :          507 KFZ/h 8:00
+                                                                                     1.868 KFZ/h 16.04.2015                                    WEST :          168 KFZ/h 17:00
+                                                                  Kfz-Stromverteilung in der FSp 460                               Horstweg/An der Alten Zauche
+
+
+
+       StromPlan (FSp)460kp4-15.xls                                Seite 2
+       SVP, 461                                                                                                                                                              24.04.2015
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                        NORD OST SÜD WEST SUMME %
+                                              NORD                                                                     RAD        FSp   116             25        28          7       176  8,6
+                                                                                                                                  NSp    95             18        43         23       179  7,6
+                                              Horstweg                                                                            6h    410            136       204         62        812 6,7
+                                              1.023         1.925                                                      NFZ        FSp 100              85        83         22        290 15,5
+                                                                                                                                  NSp    79            46        47         17        189  8,7
+                                                                                                                                  6h    574           442       401        107       1524 13,5
+                                       93      457    473    902                                                       SV         FSp    35            13        29           7        84  4,5
+                                                                                                                                  NSp    15              4         8          5        32  1,5
+                                                                                                                                  6h    149             63      108          26       346 3,1
+                                                                                                                       KFZ
+
+
+
+
+                                                                                                 An der Alten Zauche
+                                                                                                                                  FSp 589             700       507         72       1868 100
+                                                                                                                                  NSp 1023            513       477        168       2181 100
+                                                                                                                                  6h  4479           3397      2812        642      11330 100
+                                                                                                                       FZ         FSp   705           725       535          79      2044 100
+
+
+
+
+       Horstweg
+                  334       166                                                438                                                NSp 1118            531       520        191       2360 100
+                             80                                                 33 513     OST                                    6h   4889          3533      3016         704     12142 100
+WEST
+                  168        36                                                 42                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                             52                                                562 1.075                               Bemerkungen :
+                                                                                                                       - Baustelle L40/Humboldtbrücke einwärts
+                                                                                                                       - Baustelle L40 an Ab- und Auffahrt A115
+                                                                                                                       - Wetter früh 10ºC bewölkt, zw. 7.00 und 7.30 Uhr leichter Nieselregen,
+                                                                                                                         danach leicht bewölkt, trocken; nachmittag 16ºC sonnig, trocken
+
+
+                                                                                                                         Sph-Beginn: 7.30 Uhr und 16.30 Uhr
+                                       551     40     384    53                                                        SUMME Zufahrten: [FSp] : 1868 KFZ/h 8:00
+                                                                                                                                          (NSp):   2181 KFZ/h 17:00
+                                      1.028                                                                                                  6h : 11330 KFZ
+                                                      477                                                              max. Sph /Zufahrt: NORD : 1062 KFZ/h 16:30
+                                                      SÜD                                                                                  OST :    713 KFZ/h 7:30
+                                              Horstweg                                                                   DATUM :                  SÜD :          507 KFZ/h 8:00
+                                                                                      2.181 KFZ/h 16.04.2015                                     WEST :          168 KFZ/h 17:00
+                                                                    Kfz-Stromverteilung in der NSp 460                               Horstweg/An der Alten Zauche
+
+
+
+       StromPlan (NSp)460kp4-15.xls                                  Seite 3
+

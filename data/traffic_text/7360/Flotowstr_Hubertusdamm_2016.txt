@@ -1,0 +1,134 @@
+SVP, 461                                                                                                                                      11.01.2017
+
+
+
+
+                                                                                                   FAHRZEUG-VERTEILUNG
+                                                                                           Zufahrt: OST SÜD WEST     SUMME %
+                                                                                      RAD         FSp           6           12     21                   39     20,3
+                         Hubertusdamm                                                             NSp          13            6      8                   27     18,4
+                                                                                                  6h           38           37     64                  139     20,7
+                                                                                      NFZ         FSp           6            1      5                  12       7,8
+                                                                                                  NSp           4            4      2                  10       8,3
+                                                                                                  6h           14           10      8                   32      6,0
+                                                                                      SV          FSp           1            1      0                    2      1,3
+                                                                                                  NSp           0            0      0                    0      0,0
+           358    187                                            132                              6h            1            2      0                    3      0,6
+                                                                       208
+                                                                  76         OST      KFZ    FSp              51         42        60                  153     100
+
+  WEST     171
+                  113                                                                        NSp              48         41        31                  120     100
+                  58                                             210   418                   6h              208        152       171                  531     100
+                                                                                      FZ     FSp              57         54        81                  192     100
+                                                                                             NSp              61         47        39                  147     100
+                                                                                             6h              246        189       235                   670    100
+                                                                                      Q DTVw: 2,4            982        672       841
+                                                                                      Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                           134   55          97                                       Bemerkungen :
+                                                                                      - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                           286                                                        - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                       152                                                Sph-Beginn:       7.30    Uhr und      15.30 Uhr
+                                 SÜD                                                  SUMME Zufahrten: FSp :                      153 KFZ/h 8:00
+                            Flotowstr.                                                                   NSp :                    120 KFZ/h     16:00
+                                                                                                          6h :                    531 KFZ
+                                                                                      max. Sph /Zufahrt:  OST                      51 KFZ/h     8:00
+                                                                                                          SÜD                      42 KFZ/h     8:00
+                                                                                       DATUM :           WEST                      60 KFZ/h     8:00
+                                                                              6h Werte 22.09.2016
+                                              von 6.00 - 9.00 Uhr u. 15.00 - 18.00 Uhr 736                    Flotowstr./Hubertusdamm
+
+
+
+StromPlan736kp9-16.xls                                      Seite 1
+SVP, 461                                                                                                                                    11.01.2017
+
+
+
+
+                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                         Zufahrt: OST SÜD WEST     SUMME %
+                                                                                    RAD         FSp           6           12     21                   39     20,3
+                               Hubertusdamm                                                     NSp          13            6      8                   27     18,4
+                                                                                                6h           38           37     64                  139     20,7
+                                                                                    NFZ         FSp           6            1      5                  12       7,8
+                                                                                                NSp           4            4      2                  10       8,3
+                                                                                                6h           14           10      8                   32      6,0
+                                                                                    SV          FSp           1            1      0                    2      1,3
+                                                                                                NSp           0            0      0                    0      0,0
+           103     43                                             27                            6h            1            2      0                    3      0,6
+                                                                       51
+                                                                  24         OST    KFZ    FSp              51         42        60                  153     100
+
+  WEST     60
+                   33                                                                      NSp              48         41        31                  120     100
+                   27                                             59   110                 6h              208        152       171                  531     100
+                                                                                    FZ     FSp              57         54        81                  192     100
+                                                                                           NSp              61         47        39                  147     100
+                                                                                           6h              246        189       235                   670    100
+                                                                                    Q DTVw: 2,4            982        672       841
+                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                 51   16         26                                 Bemerkungen :
+                                                                                    - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                 93                                                 - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                            42                                          Sph-Beginn:       7.30    Uhr und      15.30 Uhr
+                                      SÜD                                           SUMME Zufahrten: FSp :                      153 KFZ/h 8:00
+                                  Flotowstr.                                                           NSp :                    120 KFZ/h     16:00
+                                                                                                        6h :                    531 KFZ
+                                                                                    max. Sph /Zufahrt:  OST                      51 KFZ/h     8:00
+                                                                                                        SÜD                      42 KFZ/h     8:00
+                                                                                     DATUM :           WEST                      60 KFZ/h     8:00
+                                                                          153 KFZ/h 22.09.2016
+                                                      Kfz-Stromverteilung in der FSp 736                    Flotowstr./Hubertusdamm
+
+
+
+StromPlan (FSp)736kp9-16.xls                                Seite 2
+SVP, 461                                                                                                                                     11.01.2017
+
+
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                          Zufahrt: OST SÜD WEST     SUMME %
+                                                                                     RAD         FSp           6           12     21                   39     20,3
+                               Hubertusdamm                                                      NSp          13            6      8                   27     18,4
+                                                                                                 6h           38           37     64                  139     20,7
+                                                                                     NFZ         FSp           6            1      5                  12       7,8
+                                                                                                 NSp           4            4      2                  10       8,3
+                                                                                                 6h           14           10      8                   32      6,0
+                                                                                     SV          FSp           1            1      0                    2      1,3
+                                                                                                 NSp           0            0      0                    0      0,0
+           83     52                                              35                             6h            1            2      0                    3      0,6
+                                                                       48
+                                                                  13        OST      KFZ    FSp              51         42        60                  153     100
+
+  WEST     31
+                  19                                                                        NSp              48         41        31                  120     100
+                  12                                              43   91                   6h              208        152       171                  531     100
+                                                                                     FZ     FSp              57         54        81                  192     100
+                                                                                            NSp              61         47        39                  147     100
+                                                                                            6h              246        189       235                   670    100
+                                                                                     Q DTVw: 2,4            982        672       841
+                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                 25   17         24                                  Bemerkungen :
+                                                                                     - früh andere Zählzeiten: 06.00 - 09.00 Uhr
+                                 66                                                  - Wetter früh 9ºC trocken; nachmittag 21ºC sonnig
+                                            41                                           Sph-Beginn:       7.30    Uhr und      15.30 Uhr
+                                      SÜD                                            SUMME Zufahrten: FSp :                      153 KFZ/h 8:00
+                                  Flotowstr.                                                            NSp :                    120 KFZ/h     16:00
+                                                                                                         6h :                    531 KFZ
+                                                                                     max. Sph /Zufahrt:  OST                      51 KFZ/h     8:00
+                                                                                                         SÜD                      42 KFZ/h     8:00
+                                                                                      DATUM :           WEST                      60 KFZ/h     8:00
+                                                                           120 KFZ/h 22.09.2016
+                                                      Kfz-Stromverteilung in der NSp 736                     Flotowstr./Hubertusdamm
+
+
+
+StromPlan (NSp)736kp9-16.xls                                Seite 3
+

@@ -1,0 +1,130 @@
+SVP, 461                                                                                                                                         29.11.2012
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                           NORD                                                                           NORD SÜD          SUMME %
+             F.-Ebert-Str.                                                          RAD           FSp         215           66                        281     29,5
+
+                                                                                                  NSp         123          207                        330     36,2
+                        2.007                                                                     6h          808          780                       1588     34,0
+                                  2.795                                             NFZ           FSp          69           28                         97     14,5
+
+                                                      Eisenhartstr.                               NSp          45           25                         70     12,0
+                1.416       591    788                                                            6h          235          157                        392     12,7
+                                                                                    SV            FSp          24           16                         40      6,0
+                                                                                                  NSp          19           12                         31      5,3
+                                                143             885                               6h           93           77                        170      5,5
+                                                                                    KFZ           FSp        556         114                         670      100
+                                                                                                  NSp        327         255                         582      100
+
+
+
+
+                                                                      Behlertstr.
+                                                                                                  6h        2007        1082                        3089      100
+                                                                                    FZ            FSp        771         180                         951      100
+                                          OST                   742                               NSp        450         462                         912      100
+                                                                                                  6h        2815        1862                        4677      100
+                                                                                    Bemerkungen :
+                                                                                    - Wetter früh 14ºC und trocken; nachmittags 26ºC trocken
+
+
+
+
+                1.416       788    294
+                                                                                         Sph-Beginn:              7.00 Uhr und 15.30 Uhr
+               2.498                                                                SUMME Zufahrten: [FSp] :                          670 KFZ/h 7:30
+                              1.082                                                                                   (NSp):          582 KFZ/h 16:00
+                            SÜD                                                                                           6h :       3089 KFZ
+             F.-Ebert-Str.                                                          max. Sph /Zufahrt: NORD                            556 KFZ/h 7:30
+                                                                                                        SÜD                            255 KFZ/h 16:00
+                                                                                     DATUM :
+                                                                                    23.08.2012
+                                                                                      184                    F.-Ebert-Str. / Behlertstr.
+StromPlan184kp8-12.xls                                      1
+SVP, 461                                                                                                                                          29.11.2012
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                        NORD                                                                               NORD SÜD          SUMME %
+             F.-Ebert-Str.                                                           RAD           FSp         215           66                        281     29,5
+
+                                                                                                   NSp         123          207                        330     36,2
+                      556                                                                          6h          808          780                       1588     34,0
+                                  635                                                NFZ           FSp          69           28                         97     14,5
+
+                                                     Eisenhartstr.                                 NSp          45           25                         70     12,0
+                294         262   79                                                               6h          235          157                        392     12,7
+                                                                                     SV            FSp          24           16                         40      6,0
+                                                                                                   NSp          19           12                         31      5,3
+                                                28               297                               6h           93           77                        170      5,5
+                                                                                     KFZ           FSp        556         114                         670      100
+                                                                                                   NSp        327         255                         582      100
+
+
+
+
+                                                                       Behlertstr.
+                                                                                                   6h        2007        1082                        3089      100
+                                                                                     FZ            FSp        771         180                         951      100
+                                        OST                      269                               NSp        450         462                         912      100
+                                                                                                   6h        2815        1862                        4677      100
+                                                                                     Bemerkungen :
+                                                                                     - Wetter früh 14ºC und trocken; nachmittags 26ºC trocken
+
+
+
+
+                294         79    35
+                                                                                          Sph-Beginn:              7.00 Uhr und 15.30 Uhr
+                408                                                                  SUMME Zufahrten: [FSp] :                          670 KFZ/h 7:30
+                            114                                                                                        (NSp):          582 KFZ/h 16:00
+                         SÜD                                                                                               6h :       3089 KFZ
+             F.-Ebert-Str.                                                           max. Sph /Zufahrt: NORD                            556 KFZ/h 7:30
+                                                                                                         SÜD                            255 KFZ/h 16:00
+                                                                                      DATUM :
+                                                                   670 KFZ/h         23.08.2012
+                                              Kfz-Stromverteilung in der FSp           184                    F.-Ebert-Str. / Behlertstr.
+StromPlan (FSp)184kp8-12.xls                                 2
+SVP, 461                                                                                                                                         29.11.2012
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                        NORD                                                                              NORD SÜD          SUMME %
+             F.-Ebert-Str.                                                          RAD           FSp         215           66                        281     29,5
+
+                                                                                                  NSp         123          207                        330     36,2
+                      327                                                                         6h          808          780                       1588     34,0
+                                  531                                               NFZ           FSp          69           28                         97     14,5
+
+                                                     Eisenhartstr.                                NSp          45           25                         70     12,0
+                252         75    204                                                             6h          235          157                        392     12,7
+                                                                                    SV            FSp          24           16                         40      6,0
+                                                                                                  NSp          19           12                         31      5,3
+                                                14              126                               6h           93           77                        170      5,5
+                                                                                    KFZ           FSp        556         114                         670      100
+                                                                                                  NSp        327         255                         582      100
+
+
+
+
+                                                                      Behlertstr.
+                                                                                                  6h        2007        1082                        3089      100
+                                                                                    FZ            FSp        771         180                         951      100
+                                        OST                     112                               NSp        450         462                         912      100
+                                                                                                  6h        2815        1862                        4677      100
+                                                                                    Bemerkungen :
+                                                                                    - Wetter früh 14ºC und trocken; nachmittags 26ºC trocken
+
+
+
+
+                252         204   51
+                                                                                         Sph-Beginn:              7.00 Uhr und 15.30 Uhr
+                507                                                                 SUMME Zufahrten: [FSp] :                          670 KFZ/h 7:30
+                            255                                                                                       (NSp):          582 KFZ/h 16:00
+                         SÜD                                                                                              6h :       3089 KFZ
+             F.-Ebert-Str.                                                          max. Sph /Zufahrt: NORD                            556 KFZ/h 7:30
+                                                                                                        SÜD                            255 KFZ/h 16:00
+                                                                                     DATUM :
+                                                                  582 KFZ/h         23.08.2012
+                                              Kfz-Stromverteilung in der NSp          184                    F.-Ebert-Str. / Behlertstr.
+StromPlan (NSp)184kp8-12.xls                                3
+

@@ -1,0 +1,159 @@
+                                                                                                                                                                  07.10.2014
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD OST SÜD WEST SUMME %
+                                                NORD                                                           RAD        FSp     6           47       14          1       68    5,7
+                                                                                                                          NSp     9           38       25          4       76    6,1
+                                     An der Alten Zauche                                                                  6h     36          200      142         13      391    5,7
+                                                1.643            4.644                                         NFZ        FSp   41          118       86           5     250    22,0
+                                                                                                                          NSp   37           68       64           1     170    14,5
+                                                                                                                          6h   208          460      421         16     1105    17,2
+                                      59         666     918      3.001                                        SV         FSp   13           36       21           1       71    6,3
+                                                                                                                          NSp   10           17       22           0       49    4,2
+                                                                                                                          6h    56          116      134           4      310    4,8
+                                                                                                               KFZ        FSp 231           451      414         39     1135    100
+                                                                                                                          NSp 344           376      424         25     1169    100
+
+
+
+
+        Drewitzer Str.                                                                        Drewitzer Str.
+                                                                                                                          6h  1643         2167     2404        209     6423    100
+                                                                                                               FZ         FSp  237          498      428         40     1203    100
+                         385   176                                        1.303                                           NSp  353          414      449         29     1245    100
+                               77                                            65 2.167   OST                               6h  1679         2367     2546        222      6814   100
+
+WEST                     209   60                                           799                                Bemerkungen :
+                               72                                         1.709 3.876
+
+
+
+
+                                      1.537      52      1.621    731                                               Sph-Beginn:    7:00   Uhr und   15:30 Uhr
+                                                                                                               SUMME Zufahrten: [FSp] :  1135 KFZ/h 7:30
+                                     3.941                                                                                               1169 KFZ/h 16:00
+                                                                                                                                          (NSp):
+                                                        2.404                                                                       6h : 6423 KFZ
+                                                        SÜD                                                    max. Sph /Zufahrt: NORD :  344 KFZ/h 16:00
+                                              H.-Mann-Allee                                                                               OST :      451 KFZ/h 7:30
+                                                                                                                 DATUM :                  SÜD :      440 KFZ/h 8:30
+                                                                                                               23.05.2013
+                                                                                                                440            Drewitzer Str./A.d.A. Zauche
+
+
+
+       SVP, 461                                                                                                                                      StromPlan440kp5-13.xls
+       SVP, 461                                                                                                                                                        07.10.2014
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                               NORD                                                                                   NORD OST SÜD WEST SUMME %
+                                                                                                                   RAD        FSp     6            47       14          1        68    5,7
+                                    An der Alten Zauche                                                                       NSp     9            38       25          4        76    6,1
+                                                                                                                              6h     36           200      142         13       391    5,7
+                                                231         815                                                    NFZ        FSp   41           118       86           5      250    22,0
+                                                                                                                              NSp   37            68       64           1      170    14,5
+                                                                                                                              6h   208           460      421         16      1105    17,2
+                                       9        81    141    584                                                   SV         FSp   13            36       21           1        71    6,3
+                                                                                                                              NSp   10            17       22           0        49    4,2
+                                                                                                                              6h    56           116      134           4       310    4,8
+                                                                                                                   KFZ        FSp 231            451      414         39      1135    100
+                                                                                                                              NSp 344            376      424         25      1169    100
+                                                                                                                              6h  1643          2167     2404        209      6423
+
+
+
+
+       Drewitzer Str.
+                                                                                                                                                                                      100
+
+
+
+
+                                                                                                  Drewitzer Str.
+                                                                                                                   FZ         FSp  237           498      428         40      1203    100
+                        67   28                                                270                                            NSp  353           414      449         29      1245    100
+                             14                                                 14    451   OST                               6h  1679          2367     2546        222       6814   100
+
+WEST                    39   12                                                167                                 Bemerkungen :
+                             13                                                262   713
+
+
+
+
+                                                                                                                        Sph-Beginn:    7:00    Uhr und   15:30 Uhr
+                                                                                                                   SUMME Zufahrten: [FSp] :              1135 KFZ/h         7:30
+                                       261      5     300    109                                                                              (NSp):     1169 KFZ/h         16:00
+                                                                                                                                        6h :             6423 KFZ
+                                      675                                                                          max. Sph /Zufahrt: NORD :              344 KFZ/h         16:00
+                                                      414                                                                              OST :              451 KFZ/h         7:30
+                                                      SÜD                                                           DATUM :            SÜD :              440 KFZ/h         8:30
+                                                                             1.135 KFZ/h                            23.05.2013                WEST :       48 KFZ/h 8:00
+
+                                             H.-Mann-Allee         Kfz-Stromverteilung in der NSp 440                                   Drewitzer Str./A.d.A. Zauche
+
+
+
+
+       StromPlan FSp440kp5-13.xls                                   Seite2
+       SVP, 461                                                                                                                                                         07.10.2014
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                               NORD                                                                                    NORD OST SÜD WEST SUMME %
+                                                                                                                    RAD        FSp     6            47       14          1        68    5,7
+                                    An der Alten Zauche                                                                        NSp     9            38       25          4        76    6,1
+                                                                                                                               6h     36           200      142         13       391    5,7
+                                                344         866                                                     NFZ        FSp   41           118       86           5      250    22,0
+                                                                                                                               NSp   37            68       64           1      170    14,5
+                                                                                                                               6h   208           460      421         16      1105    17,2
+                                       13       144   187    522                                                    SV         FSp   13            36       21           1        71    6,3
+                                                                                                                               NSp   10            17       22           0        49    4,2
+                                                                                                                               6h    56           116      134           4       310    4,8
+                                                                                                                    KFZ        FSp 231            451      414         39      1135    100
+                                                                                                                               NSp 344            376      424         25      1169    100
+                                                                                                                               6h  1643          2167     2404        209      6423
+
+
+
+
+       Drewitzer Str.
+                                                                                                                                                                                       100
+
+
+
+
+                                                                                                   Drewitzer Str.
+                                                                                                                    FZ         FSp  237           498      428         40      1203    100
+                        53   28                                                 218                                            NSp  353           414      449         29      1245    100
+                             10                                                   8    376   OST                               6h  1679          2367     2546        222       6814   100
+
+WEST                    25    7                                                 150                                 Bemerkungen :
+                              8                                                 317   693
+
+
+
+
+                                                                                                                         Sph-Beginn:    7:00    Uhr und   15:30 Uhr
+                                                                                                                    SUMME Zufahrten: [FSp] :              1135 KFZ/h         7:30
+                                       302      7     294    123                                                                               (NSp):     1169 KFZ/h         16:00
+                                                                                                                                         6h :             6423 KFZ
+                                      726                                                                           max. Sph /Zufahrt: NORD :              344 KFZ/h         16:00
+                                                      424                                                                               OST :              451 KFZ/h         7:30
+                                                      SÜD                                                            DATUM :            SÜD :              440 KFZ/h         8:30
+                                                                              1.169 KFZ/h                            23.05.2013                WEST :       48 KFZ/h 8:00
+
+                                             H.-Mann-Allee         Kfz-Stromverteilung in der NSp 440                                    Drewitzer Str./A.d.A. Zauche
+
+
+
+
+       StromPlan NSp440kp5-13.xls                                    Seite3
+

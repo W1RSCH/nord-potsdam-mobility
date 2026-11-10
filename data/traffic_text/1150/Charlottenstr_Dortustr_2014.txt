@@ -1,0 +1,247 @@
+       SVP, 461                                                                                                                                                     06.09.2016
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME
+                                               NORD                                                                RAD    FSp              14         42      11      101         168
+                                                                                                                          NSp              25       199       44      176         444
+                                               Dortustr.                                                                  6h              125        681     156       761       1723
+                                               196          359                                                    NFZ    FSp               4        20      25        27          76
+                                                                                                                          NSp               3        16      12        23          54
+                                                                                                                          6h               23       121       84      200         428
+                                        43      143   10    163                                                    SV     FSp               4        21      14        32          71
+                                                                                                                          NSp               0        20        3       32          55
+                                                                                                                          6h                8         90      29      145         272
+                                                                                                                   KFZ FSp                 18        87     140        82         327
+                                                                                                                          NSp              44       166     155       103         468
+
+
+
+
+        Charlottenstr.                                                                            Charlottenstr.
+                                                                                                                          6h              196       684     682       614        2176
+                                                                                                                   FZ     FSp              53       198     209       284         495
+                         1.398   784                                           8                                          NSp             101       519     272       397         912
+                                  3                                           533    684    OST                           6h              321      1365      838     1375        3899
+
+WEST
+                         614     279                                          143                                  Q DTVw: ###            898      3238    3250      3495
+                                 332                                          611   1.295                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ
+
+                                                                                                                   Bemerkungen :
+                                                                                                                   - Wetter früh 10°C nebelig, trocken;
+                                                                                                                     nachmittag 23°C leicht bewölkt, sonst sonnig
+
+                                                                                                                   - BAUSTELLE F.- Ebert-Str. (Nord)
+                                                                                                                       Sph-Beginn:      9.00     Uhr und   16.30 Uhr
+                                        618     208   152   322                                                    SUMME Zufahrten: FSp :                   327 KFZ/h        9:30
+                                                                                                                                       NSp :                468 KFZ/h        17:00
+                                       1.300                                                                                            6h :               2176 KFZ
+                                                      682                                                          max. Sph /Zufahrt: NORD :                 46 KFZ/h        17:30
+                                                      SÜD                                                                              OST :                175 KFZ/h        16:30
+                                               Dortustr.                                                             DATUM :                     SÜD :      160 KFZ/h 17:30
+                                                                                            6h Werte 26.06.2014                                 WEST:       139 KFZ/h 15:30
+                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 115                                Charlottenstr./Dortustr.
+
+
+       StromPlan115kp6-14.xls                                       Seite 1
+SVP, 461                               06.09.2016
+
+
+
+
+                         SUMME %
+                                33,9
+                                48,7
+                                44,2
+                                23,2
+                                11,5
+                                19,7
+                                21,7
+                                11,8
+                                12,5
+                                 100
+                                 100
+                                 100
+                                100
+                                100
+                                100
+
+
+
+
+                            FZ=alle
+
+
+
+
+StromPlan115kp6-14.xls       Seite 2
+       SVP, 461                                                                                                                                             06.09.2016
+
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME
+                                            NORD                                                           RAD    FSp              14         42      11      101         168
+                                                                                                                  NSp              25       199       44      176         444
+                                            Dortustr.                                                             6h              125        681     156       761       1723
+                                             18          59                                                NFZ    FSp               4        20      25        27          76
+                                                                                                                  NSp               3        16      12        23          54
+                                                                                                                  6h               23       121       84      200         428
+                                      4      12    2     41                                                SV     FSp               4        21      14        32          71
+                                                                                                                  NSp               0        20        3       32          55
+                                                                                                                  6h                8         90      29      145         272
+                                                                                                           KFZ FSp                 18        87     140        82         327
+                                                                                                                  NSp              44       166     155       103         468
+
+
+
+
+        Charlottenstr.                                                                    Charlottenstr.
+                                                                                                                  6h              196       684     682       614        2176
+                                                                                                           FZ     FSp              53       198     209       284         495
+                         185   103                                       0                                        NSp             101       519     272       397         912
+                                0                                       66    87    OST                           6h              321      1365      838     1375        3899
+
+WEST
+                         82    40                                       21                                 Q DTVw: ###            898      3238    3250      3495
+                               42                                       108   195                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Wetter früh 10°C nebelig, trocken;
+                                                                                                             nachmittag 23°C leicht bewölkt, sonst sonnig
+
+                                                                                                           - BAUSTELLE F.- Ebert-Str. (Nord)
+                                                                                                               Sph-Beginn:      9.00     Uhr und   16.30 Uhr
+                                      75     33    41    66                                                SUMME Zufahrten: FSp :                   327 KFZ/h        9:30
+                                                                                                                               NSp :                468 KFZ/h        17:00
+                                      215                                                                                       6h :               2176 KFZ
+                                                   140                                                     max. Sph /Zufahrt: NORD :                 46 KFZ/h        17:30
+                                                   SÜD                                                                         OST :                175 KFZ/h        16:30
+                                            Dortustr.                                                        DATUM :                     SÜD :      160 KFZ/h 17:30
+                                                                                    327 KFZ/h 26.06.2014                                WEST:       139 KFZ/h 15:30
+                                                               Kfz-Stromverteilung in der FSp 115                                 Charlottenstr./Dortustr.
+
+
+       StromPlan (FSp)115kp6-14.xls                           Seite 3
+SVP, 461                                     06.09.2016
+
+
+
+
+                               SUMME %
+                                      33,9
+                                      48,7
+                                      44,2
+                                      23,2
+                                      11,5
+                                      19,7
+                                      21,7
+                                      11,8
+                                      12,5
+                                       100
+                                       100
+                                       100
+                                      100
+                                      100
+                                      100
+
+
+
+
+                                  FZ=alle
+
+
+
+
+StromPlan (FSp)115kp6-14.xls       Seite 4
+       SVP, 461                                                                                                                                             06.09.2016
+
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD OST SÜD WEST SUMME
+                                            NORD                                                           RAD    FSp              14         42      11      101         168
+                                                                                                                  NSp              25       199       44      176         444
+                                            Dortustr.                                                             6h              125        681     156       761       1723
+                                             44          84                                                NFZ    FSp               4        20      25        27          76
+                                                                                                                  NSp               3        16      12        23          54
+                                                                                                                  6h               23       121       84      200         428
+                                      9      35    0     40                                                SV     FSp               4        21      14        32          71
+                                                                                                                  NSp               0        20        3       32          55
+                                                                                                                  6h                8         90      29      145         272
+                                                                                                           KFZ FSp                 18        87     140        82         327
+                                                                                                                  NSp              44       166     155       103         468
+
+
+
+
+        Charlottenstr.                                                                    Charlottenstr.
+                                                                                                                  6h              196       684     682       614        2176
+                                                                                                           FZ     FSp              53       198     209       284         495
+                         299   196                                       1                                        NSp             101       519     272       397         912
+                                1                                       137   166   OST                           6h              321      1365      838     1375        3899
+
+WEST
+                         103   44                                       28                                 Q DTVw: ###            898      3238    3250      3495
+                               58                                       111   277                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Wetter früh 10°C nebelig, trocken;
+                                                                                                             nachmittag 23°C leicht bewölkt, sonst sonnig
+
+                                                                                                           - BAUSTELLE F.- Ebert-Str. (Nord)
+                                                                                                               Sph-Beginn:      9.00     Uhr und   16.30 Uhr
+                                      121    50    38    67                                                SUMME Zufahrten: FSp :                   327 KFZ/h        9:30
+                                                                                                                               NSp :                468 KFZ/h        17:00
+                                      276                                                                                       6h :               2176 KFZ
+                                                   155                                                     max. Sph /Zufahrt: NORD :                 46 KFZ/h        17:30
+                                                   SÜD                                                                         OST :                175 KFZ/h        16:30
+                                            Dortustr.                                                        DATUM :                     SÜD :      160 KFZ/h 17:30
+                                                                                    468 KFZ/h 26.06.2014                                WEST:       139 KFZ/h 15:30
+                                                              Kfz-Stromverteilung in der NSp 115                                  Charlottenstr./Dortustr.
+
+
+       StromPlan (NSp)115kp6-14.xls                           Seite 5
+SVP, 461                                     06.09.2016
+
+
+
+
+                               SUMME %
+                                      33,9
+                                      48,7
+                                      44,2
+                                      23,2
+                                      11,5
+                                      19,7
+                                      21,7
+                                      11,8
+                                      12,5
+                                       100
+                                       100
+                                       100
+                                      100
+                                      100
+                                      100
+
+
+
+
+                                  FZ=alle
+
+
+
+
+StromPlan (NSp)115kp6-14.xls       Seite 6
+

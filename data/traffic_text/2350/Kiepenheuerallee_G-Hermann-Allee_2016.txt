@@ -1,0 +1,215 @@
+       SVP, 461                                                                                                                                                              11.03.2024
+
+
+
+
+                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                           Zufahrt: NORD OST SÜD WEST SUMME %
+                                               NORD                                                                   RAD    FSp     20     23     14                      54        111       21,6
+                                                                                                                             NSp     44     47     19                      26        136       32,5
+                                       G.-Herrmann-Allee                                                                     6h     178    270    103                     295         846      33,0
+                                               831                                                                    NFZ    FSp     35     17     23                       4         79       19,7
+                                                            1.263                                                            NSp     28      9     10                       5         52       18,4
+                                                                                                                             6h     151     89     93                      27        360       21,0
+                                        23      698   110    432                                                      SV     FSp     21     11     10                       1         43       10,7
+                                                                                                                             NSp       9     6      4                       0         19        6,7
+                                                                                                                             6h      79     52     45                      12        188       11,0
+                                                                                                                      KFZ FSp 230           58   104                       10        402       100
+
+
+
+
+        Kiepenheuerallee                                                                           Kiepenheuerallee
+                                                                                                                             NSp 109        36   118                       19        282       100
+                                                                                                                             6h     831    231    543                     109       1714       100
+                                                                                                                      FZ     FSp    250     81    118                      64        513        100
+                           266   157                                             70                                          NSp    153     83    137                      45        418        100
+                                                                                       231
+                                  8                                              70          OST                             6h    1009    501    646                     404       2560        100
+
+WEST                       109   30                                               91                                  Q      2,35  296824h1166
+                                                                                                                        DTVw=Querschnitt        3297
+                                                                                                                                           KFZ werktags                   625
+                                 71                                              265   496                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                          Sph-Beginn:      8.00     Uhr und   15.00 Uhr
+                                        860     64    354    125                                                      SUMME Zufahrten:               [FSp]:    402 KFZ/h 8:30
+                                                                                                                                                   (NSp):      282 KFZ/h 15:30
+                                       1.403                                                                                                           6h :   1714 KFZ
+                                                      543                                                             max. Sph /Zufahrt: NORD                  230 KFZ/h 8:30
+                                                      SÜD                                                                                 OST                   58 KFZ/h 8:30
+                                       G.-Herrmann-Allee                                                                DATUM :                       SÜD      122 KFZ/h 16:00
+                                                                                             6h Werte 23.06.2016                                   WEST         24 KFZ/h 7:30
+                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 235                           Kiepenheuerallee/G.-Hermann-A.
+
+
+
+
+       StromPlan235kp6-16                                              Seite 1
+       SVP, 461                                                                                                                                                       11.03.2024
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                                RAD    FSp    20                  23       14        54        111       21,6
+                                                                                                                      NSp    44                  47       19        26        136       32,5
+                                     G.-Herrmann-Allee                                                                6h    178                 270      103       295         846      33,0
+                                           230                                                                 NFZ    FSp    35                  17      23          4         79       19,7
+                                                        299                                                           NSp    28                   9      10          5         52       18,4
+                                                                                                                      6h    151                  89       93        27        360       21,0
+                                     3      197   30    69                                                     SV     FSp    21                  11      10          1         43       10,7
+                                                                                                                      NSp     9                   6        4         0         19        6,7
+                                                                                                                      6h     79                  52       45        12        188       11,0
+                                                                                                               KFZ FSp 230                       58     104         10        402       100
+
+
+
+
+        Kiepenheuerallee                                                                    Kiepenheuerallee
+                                                                                                                      NSp 109                    36     118         19        282       100
+                                                                                                                      6h    831                 231     543        109       1714       100
+                                                                                                               FZ     FSp   250                  81     118         64        513        100
+                           43   33                                        15                                          NSp   153                  83     137         45        418        100
+                                                                               58
+                                1                                         13          OST                             6h   1009                 501      646       404       2560        100
+
+WEST                       10   4                                         30                                   Q DTVw:2,35 2968                1166    3297        625
+                                5                                         68   126                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                               Bemerkungen :
+                                                                                                               - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                   Sph-Beginn:      8.00     Uhr und   15.00 Uhr
+                                     232    17    53    34                                                     SUMME Zufahrten:               [FSp]:    402 KFZ/h 8:30
+                                                                                                                                            (NSp):      282 KFZ/h 15:30
+                                     336                                                                                                        6h :   1714 KFZ
+                                                  104                                                          max. Sph /Zufahrt: NORD                  230 KFZ/h 8:30
+                                                  SÜD                                                                              OST                   58 KFZ/h 8:30
+                                     G.-Herrmann-Allee                                                           DATUM :                       SÜD      122 KFZ/h 16:00
+                                                                                     402 KFZ/h 23.06.2016                                   WEST         24 KFZ/h 7:30
+                                                              Kfz-Stromverteilung in der FSp 235                              Kiepenheuerallee/G.-Hermann-A.
+
+
+
+
+       StromPlan (FSp)235kp6-16                                 Seite 2
+       SVP, 461                                                                                                                                                      11.03.2024
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                           NORD                                                               RAD    FSp    20                  23       14        54        111       21,6
+                                                                                                                     NSp    44                  47       19        26        136       32,5
+                                     G.-Herrmann-Allee                                                               6h    178                 270      103       295         846      33,0
+                                           109                                                                NFZ    FSp    35                  17      23          4         79       19,7
+                                                        203                                                          NSp    28                   9      10          5         52       18,4
+                                                                                                                     6h    151                  89       93        27        360       21,0
+                                     6      81    22    94                                                    SV     FSp    21                  11      10          1         43       10,7
+                                                                                                                     NSp     9                   6        4         0         19        6,7
+                                                                                                                     6h     79                  52       45        12        188       11,0
+                                                                                                              KFZ FSp 230                       58     104         10        402       100
+
+
+
+
+        Kiepenheuerallee                                                                   Kiepenheuerallee
+                                                                                                                     NSp 109                    36     118         19        282       100
+                                                                                                                     6h    831                 231     543        109       1714       100
+                                                                                                              FZ     FSp   250                  81     118         64        513        100
+                           43   24                                        9                                          NSp   153                  83     137         45        418        100
+                                                                               36
+                                0                                         8          OST                             6h   1009                 501      646       404       2560        100
+
+WEST                       19   9                                         19                                  Q DTVw:2,35 2968                1166    3297        625
+                                10                                        54   90                             Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                  Sph-Beginn:      8.00     Uhr und   15.00 Uhr
+                                     110    10    85    23                                                    SUMME Zufahrten:               [FSp]:    402 KFZ/h 8:30
+                                                                                                                                           (NSp):      282 KFZ/h 15:30
+                                     228                                                                                                       6h :   1714 KFZ
+                                                  118                                                         max. Sph /Zufahrt: NORD                  230 KFZ/h 8:30
+                                                  SÜD                                                                             OST                   58 KFZ/h 8:30
+                                     G.-Herrmann-Allee                                                          DATUM :                       SÜD      122 KFZ/h 16:00
+                                                                                    282 KFZ/h 23.06.2016                                   WEST         24 KFZ/h 7:30
+                                                              Kfz-Stromverteilung in der NSp 235                             Kiepenheuerallee/G.-Hermann-A.
+
+
+
+
+       StromPlan (NSp)235kp6-16                                 Seite 3
+       SVP, 461                                                                                                                                                            11.03.2024
+
+
+
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                         Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                                   RAD    FSp              20        23       14       54         111       21,6
+                                                                                                                           NSp              44        47       19       26         136       32,5
+                                       G.-Herrmann-Allee                                                                   6h              178       270      103      295          846      33,0
+                                             178                                                                    NFZ    FSp              35        17      23         4          79       19,7
+                                                          310                                                              NSp              28         9      10         5          52       18,4
+                                                                                                                           6h              151        89       93       27         360       21,0
+                                       15     96    67    132                                                       SV     FSp              21        11      10         1          43       10,7
+                                                                                                                           NSp               9         6        4        0          19        6,7
+                                                                                                                           6h               79        52       45       12         188       11,0
+                                                                                                                    KFZ FSp               230         58     104        10         402       100
+
+
+
+
+        Kiepenheuerallee                                                                         Kiepenheuerallee
+                                                                                                                           NSp            109         36     118        19         282       100
+                                                                                                                           6h              831       231     543       109        1714       100
+                                                                                                                    FZ     FSp             250        81     118        64         513        100
+                           503   208                                           56                                          NSp             153        83     137        45         418        100
+                                                                                     270
+                                  4                                            180         OST                             6h             1009       501      646      404        2560        100
+
+WEST                       295   264                                            34                                  Q DTVw:2,10            651      1300     546      1056
+                                 27                                            349   619                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                    Bemerkungen :
+                                                                                                                    - Wetter früh 19ºC sonnig; nachmittag 35ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                        Sph-Beginn:      8.00     Uhr und   15.00 Uhr
+                                       157    13    72    18                                                        SUMME Zufahrten:               [FSp]:    402 KFZ/h 8:30
+                                                                                                                                                 (NSp):      282 KFZ/h 15:30
+                                       260                                                                                                           6h :   1714 KFZ
+                                                    103                                                             max. Sph /Zufahrt: NORD                  230 KFZ/h 8:30
+                                                    SÜD                                                                                 OST                   58 KFZ/h 8:30
+                                       G.-Herrmann-Allee                                                              DATUM :                       SÜD      122 KFZ/h 16:00
+                                                                              RADFAHRER 6h Werte 23.06.2016                                      WEST         24 KFZ/h 7:30
+                                                          von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 235                            Kiepenheuerallee/G.-Hermann-A.
+
+
+
+
+       StromPlanRad235kp6-16                                        Seite 4
+

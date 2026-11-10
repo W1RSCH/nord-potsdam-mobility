@@ -1,0 +1,136 @@
+Landeshauptstadt Potsdam                                                                                                                                        12.05.2020
+Bereich Verkehrsentwicklung
+
+                                                (7:00 bis 10:00 u. 15:00 bis 18:00)                            FAHRZEUG-VERTEILUNG
+                                                                                                       Zufahrt: OST SÜD WEST     SUMME %
+                                                                                                  RAD         FSp           5            0       2                   7       2,0
+                                                                                                              NSp          19            3      13                  35       6,6
+                                                                                                              6h           82           10      44                 136       5,7
+
+Fr.-Engels-Str.                                                       Fr.-Engels-Str. NFZ                     FSp         11         23        14                  48       14,1
+                                                                                                              NSp         20         22         6                  48        9,8
+                                                                                                              6h          70        110        49                 229       10,2
+                          WEST                                       OST                          SV          FSp          4          6         4                  14        4,1
+                                                                                                              NSp          0          4         1                   5        1,0
+                                                                                                              6h           9         40        14                  63        2,8
+                                                                                                  KFZ         FSp        117        116       107                 340        100
+
+ 1.404        724                                                                229                          NSp        142        214       136                 492        100
+                                                                                          678
+                                                                                 449                          6h         678        888       680                2246        100
+
+              237                                                                                 FZ          FSp         122       116       109                  347       100
+  680
+              443                                                                630      1.308          NSp             161        217       149                  527       100
+                                                                                                         6h              760        898       724                 2382       100
+                                                                                                  Q DTVw: 2,4           3074       4183      3299
+                                                                                                  Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                   892     495     393                                            - Ferienanfang
+                                                                                                  - Wetter früh 19ºC zw. 7:00 u. 7:30 Uhr vereinzelt Regen, sonst trocken;
+                                  1.780                                                             nachmitttag 34ºC sonnig
+                                                888                                                    Sph-Beginn:        8.30 Uhr und       16.00   Uhr
+
+                                 Max-Born-Str.                                                    SUMME Zufahrten: [FSp]:                     340 KFZ/h     9:00
+                                                                                                                     (NSp):                   492 KFZ/h     16:30
+                                          SÜD                                                                           6h :                 2246 KFZ
+                                                                                                  max. Sph /Zufahrt:   OST                    142 KFZ/h     16:30
+                                                                                                                       SÜD                    214 KFZ/h     16:30
+                                                                                                   DATUM :            WEST                    141 KFZ/h     16:00
+                                                                                       6h Werte 20.06.2019
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 722                                   Galileistr./M.-Born-Str.
+
+StromPlan722kp6-19.xlsx                                                Seite 1
+Landeshauptstadt Potsdam                                                                                                                                 12.05.2020
+Bereich Verkehrsentwicklung
+
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                       FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt: OST SÜD WEST     SUMME %
+                                                                                           RAD         FSp           5            0       2                   7       2,0
+                                                                                                       NSp          19            3      13                  35       6,6
+                                                                                                       6h           82           10      44                 136       5,7
+
+Fr.-Engels-Str.                                                     Fr.-Engels-Str. NFZ                FSp         11         23        14                  48       14,1
+                                                                                                       NSp         20         22         6                  48        9,8
+                                                                                                       6h          70        110        49                 229       10,2
+                        WEST                                       OST                     SV          FSp          4          6         4                  14        4,1
+                                                                                                       NSp          0          4         1                   5        1,0
+                                                                                                       6h           9         40        14                  63        2,8
+                                                                                           KFZ         FSp        117        116       107                 340        100
+
+  217         110                                                              43                      NSp        142        214       136                 492        100
+                                                                                     117
+                                                                               74                      6h         678        888       680                2246        100
+
+               36                                                                          FZ          FSp         122       116       109                  347       100
+  107
+               71                                                              85    202          NSp             161        217       149                  527       100
+                                                                                                  6h              760        898       724                 2382       100
+                                                                                           Q DTVw: 2,4           3074       4183      3299
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                  145    67      49                                        - Ferienanfang
+                                                                                           - Wetter früh 19ºC zw. 7:00 u. 7:30 Uhr vereinzelt Regen, sonst trocken;
+                                 261                                                         nachmitttag 34ºC sonnig
+                                              116                                               Sph-Beginn:        8.30 Uhr und       16.00   Uhr
+
+                                Max-Born-Str.                                              SUMME Zufahrten: [FSp]:                     340 KFZ/h     9:00
+                                                                                                              (NSp):                   492 KFZ/h     16:30
+                                        SÜD                                                                      6h :                 2246 KFZ
+                                                                                           max. Sph /Zufahrt:   OST                    142 KFZ/h     16:30
+                                                                                                                SÜD                    214 KFZ/h     16:30
+                                                                                            DATUM :            WEST                    141 KFZ/h     16:00
+                                                                                340 KFZ/h 20.06.2019
+                                                      Kfz-Stromverteilung in der FSp 722                            Galileistr./M.-Born-Str.
+
+StromPlan (FSp)722kp6-19.xlsx                                        Seite 2
+Landeshauptstadt Potsdam                                                                                                                                  12.05.2020
+Bereich Verkehrsentwicklung
+
+                                              (7:00 bis 10:00 u. 15:00 bis 18:00)                        FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD         FSp           5            0       2                   7       2,0
+                                                                                                        NSp          19            3      13                  35       6,6
+                                                                                                        6h           82           10      44                 136       5,7
+
+Fr.-Engels-Str.                                                     Fr.-Engels-Str. NFZ                 FSp         11         23        14                  48       14,1
+                                                                                                        NSp         20         22         6                  48        9,8
+                                                                                                        6h          70        110        49                 229       10,2
+                        WEST                                       OST                      SV          FSp          4          6         4                  14        4,1
+                                                                                                        NSp          0          4         1                   5        1,0
+                                                                                                        6h           9         40        14                  63        2,8
+                                                                                            KFZ         FSp        117        116       107                 340        100
+
+  302         166                                                              50                       NSp        142        214       136                 492        100
+                                                                                      142
+                                                                               92                       6h         678        888       680                2246        100
+
+               54                                                                           FZ          FSp         122       116       109                  347       100
+  136
+               82                                                              152    294          NSp             161        217       149                  527       100
+                                                                                                   6h              760        898       724                 2382       100
+                                                                                            Q DTVw: 2,4           3074       4183      3299
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                            Bemerkungen :
+                                  174    116     98                                         - Ferienanfang
+                                                                                            - Wetter früh 19ºC zw. 7:00 u. 7:30 Uhr vereinzelt Regen, sonst trocken;
+                                 388                                                          nachmitttag 34ºC sonnig
+                                              214                                                Sph-Beginn:        8.30 Uhr und       16.00   Uhr
+
+                                Max-Born-Str.                                               SUMME Zufahrten: [FSp]:                     340 KFZ/h     9:00
+                                                                                                               (NSp):                   492 KFZ/h     16:30
+                                        SÜD                                                                       6h :                 2246 KFZ
+                                                                                            max. Sph /Zufahrt:   OST                    142 KFZ/h     16:30
+                                                                                                                 SÜD                    214 KFZ/h     16:30
+                                                                                             DATUM :            WEST                    141 KFZ/h     16:00
+                                                                                 492 KFZ/h 20.06.2019
+                                                      Kfz-Stromverteilung in der NSp 722                             Galileistr./M.-Born-Str.
+
+StromPlan (NSp)722kp6-19.xlsx                                        Seite 3
+

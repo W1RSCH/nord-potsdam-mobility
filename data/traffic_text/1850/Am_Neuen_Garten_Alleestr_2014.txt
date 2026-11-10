@@ -1,0 +1,153 @@
+ SVP, 461                                                                                                                                        17.04.2015
+
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                                                 NORD                                                       NORD SÜD WEST     SUMME %
+                                   Am Neuen Garten                                       RAD        FSp         42        21        61                    124       7,1
+
+                                                                                                    NSp         13        40        58                    111       6,3
+                                               127                                                  6h           98      245       280                     623      6,1
+                                                             888                         NFZ        FSp           6     174        87                     267      16,4
+                                                                                                    NSp           3      86        41                     130       7,9
+                                       33            94         761                                 6h          45      762       503                    1310      13,6
+                                                                                         SV         FSp           2      31        39                      72       4,4
+                                                                                                    NSp           2        9       20                      31       1,9
+                                                                                                    6h          20      155       217                     392       4,1
+                                                                                         KFZ        FSp         28      845       753                   1626       100
+                                                                                                    NSp         12      959       679                   1650       100
+                                                                                                    6h         127     5420      4112                    9659      100
+
+
+
+
+       Alleestr.
+                   9.061   4.949                                                         FZ         FSp         70      866       814                    1750      100
+                            257                                                                     NSp         25      999       737                    1761      100
+
+WEST
+                   4.112
+                           3.855                                                                    6h         225     5665      4392                   10282      100
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                         Bemerkungen :
+
+                                                                                         Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                              Sph-Beginn:      7.00 Uhr und      17.00 Uhr
+
+                                       3.949         4.916      504                      SUMME Zufahrten: [FSp]: 1626 KFZ/h 7:30
+                                                                                                            (NSp): 1650 KFZ/h 17:30
+                                      9.369                                                                    6h : 9659 KFZ
+                                                        5.420                            max. Sph /Zufahrt: NORD      28 KFZ/h 7:30
+                                                     SÜD                                                      SÜD    959 KFZ/h 17:30
+                                   Am Neuen Garten                                         DATUM :                    WEST         753 KFZ/h 7:30
+                                                                                6h Werte 03.07.2014
+                                       von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 185                           Am Neuen Garten/Alleestr.
+
+
+ StromPlan185kp7-14.xls                                               Seite 1
+ SVP, 461                                                                                                                                      17.04.2015
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                           NORD                                                           NORD SÜD WEST     SUMME %
+                                Am Neuen Garten                                        RAD        FSp         42        21        61                    124       7,1
+
+                                                                                                  NSp         13        40        58                    111       6,3
+                                          28                                                      6h           98      245       280                     623      6,1
+                                                           163                         NFZ        FSp           6     174        87                     267      16,4
+                                                                                                  NSp           3      86        41                     130       7,9
+                                   4           24          135                                    6h          45      762       503                    1310      13,6
+                                                                                       SV         FSp           2      31        39                      72       4,4
+                                                                                                  NSp           2        9       20                      31       1,9
+                                                                                                  6h          20      155       217                     392       4,1
+                                                                                       KFZ        FSp         28      845       753                   1626       100
+                                                                                                  NSp         12      959       679                   1650       100
+                                                                                                  6h         127     5420      4112                    9659      100
+
+
+
+
+       Alleestr.
+                   1520   767                                                          FZ         FSp         70      866       814                    1750      100
+                           53                                                                     NSp         25      999       737                    1761      100
+
+WEST
+                   753    700                                                                     6h         225     5665      4392                   10282      100
+                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                       Bemerkungen :
+
+                                                                                       Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                            Sph-Beginn:      7.00 Uhr und      17.00 Uhr
+                                   724         763         82                          SUMME Zufahrten: [FSp]: 1626 KFZ/h 7:30
+                                                                                                          (NSp): 1650 KFZ/h 17:30
+                                   1569                                                                      6h : 9659 KFZ
+                                                     845                               max. Sph /Zufahrt: NORD      28 KFZ/h 7:30
+                                               SÜD                                                          SÜD    959 KFZ/h 17:30
+                                Am Neuen Garten                                          DATUM :                    WEST         753 KFZ/h 7:30
+                                                                           1.626 KFZ/h 03.07.2014
+                                                 Kfz-Stromverteilung in der FSp 185                          Am Neuen Garten/Alleestr.
+
+
+ StromPlan FSp185kp7-14.xls                                      Seite 2
+ SVP, 461                                                                                                                                      17.04.2015
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                           NORD                                                           NORD SÜD WEST     SUMME %
+                                Am Neuen Garten                                        RAD        FSp         42        21        61                    124       7,1
+
+                                                                                                  NSp         13        40        58                    111       6,3
+                                          12                                                      6h           98      245       280                     623      6,1
+                                                           139                         NFZ        FSp           6     174        87                     267      16,4
+                                                                                                  NSp           3      86        41                     130       7,9
+                                   3           9           127                                    6h          45      762       503                    1310      13,6
+                                                                                       SV         FSp           2      31        39                      72       4,4
+                                                                                                  NSp           2        9       20                      31       1,9
+                                                                                                  6h          20      155       217                     392       4,1
+                                                                                       KFZ        FSp         28      845       753                   1626       100
+                                                                                                  NSp         12      959       679                   1650       100
+                                                                                                  6h         127     5420      4112                    9659      100
+
+
+
+
+       Alleestr.
+                   1553   874                                                          FZ         FSp         70      866       814                    1750      100
+                           39                                                                     NSp         25      999       737                    1761      100
+
+WEST
+                   679    640                                                                     6h         225     5665      4392                   10282      100
+                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                       Bemerkungen :
+
+                                                                                       Wetter früh 15ºC sonnig, trocken; nachmittag 29ºC sonnig, trocken
+
+
+
+
+                                                                                            Sph-Beginn:      7.00 Uhr und      17.00 Uhr
+                                   649         871         88                          SUMME Zufahrten: [FSp]: 1626 KFZ/h 7:30
+                                                                                                          (NSp): 1650 KFZ/h 17:30
+                                   1608                                                                      6h : 9659 KFZ
+                                                     959                               max. Sph /Zufahrt: NORD      28 KFZ/h 7:30
+                                               SÜD                                                          SÜD    959 KFZ/h 17:30
+                                Am Neuen Garten                                          DATUM :                    WEST         753 KFZ/h 7:30
+                                                                           1.650 KFZ/h 03.07.2014
+                                                Kfz-Stromverteilung in der NSp 185                           Am Neuen Garten/Alleestr.
+
+
+ StromPlan NSp185kp7-14.xls                                      Seite 3
+

@@ -1,0 +1,163 @@
+        Landeshauptstadt Potsdam                                                                                                                                                        23.05.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                              Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                              NORD                                                                       RAD     FSp      14                        12     15    37             78       9,8
+                                                                                                                                 NSp      11                        23     26    20             80       8,6
+                                          E.-Weinert-Str.                                                                        6h        56                      126    121   150            453      10,0
+                                              140                                                                        NFZ     FSp        4                     113      12   70            199       27,8
+                                                           271                                                                   NSp        1                      78      12   68            159       18,7
+                                                                                                                                 6h       15                      498      82  333            928       22,7
+                                        84     14    42    131                                                           SV      FSp        1                      32       4   37             74       10,3
+                                                                                                                                 NSp        0                      10       3   55             68        8,0
+                                                                                                                                 6h         2                     122      25  214            363        8,9
+                                                                                                                         KFZ FSp          31                      266      84  335            716       100
+                                                                                                                                 NSp      19                      452      87  294            852       100
+                                                                                                                                 6h      140                     1927     491 1526           4084
+
+
+
+
+       Drewitzer Str.                                                                                   Drewitzer Str.
+                                                                                                                                                                                                        100
+                                                                                                                         FZ      FSp      45                      278      99  372            794       100
+                        3.440   1.914                                              44                                            NSp      30                      475     113  314            932       100
+                                 60                                               1.614   1.927   OST                            6h      196                     2053     612 1676           4537       100
+
+WEST
+                        1.526   1.267                                              269                                   Q DTVw:    2,35 637                     8187    2287 8084
+                                 199                                              1.557   3.484                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                         Bemerkungen :
+                                                                                                                         - Wetter früh 8ºC bewölkt und leicht windig, trocken;
+                                                                                                                           nachmittag 12ºC bewölkt, trocken
+
+
+                                                                                                                                  Sph-Beginn:      7.30        Uhr und   15.30 Uhr
+                                        482    216   27    248                                                           SUMME Zufahrten:                      [FSp] :    716 KFZ/h 8:00
+                                                                                                                                                               (NSp):     852 KFZ/h 16:00
+                                        973                                                                                                                       6h :   4084 KFZ
+                                                     491                                                                 max. Sph /Zufahrt:                NORD :          31 KFZ/h 8:00
+                                                     SÜD                                                                                                    OST :         452 KFZ/h 16:00
+                                          E.-Weinert-Str.                                                                     DATUM :                           SÜD :      93 KFZ/h 9:00
+                                                                                                  6h Werte                  02.05.2019                     WEST :         335 KFZ/h 8:00
+                                                            von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 446                                      Drewitzer Str./E.-Weinert-Str.
+
+
+
+        StromPlan446kp5-19.xls                                          Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                                23.05.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                             NORD                                                                RAD     FSp      14                        12     15    37             78       9,8
+                                                                                                                         NSp      11                        23     26    20             80       8,6
+                                         E.-Weinert-Str.                                                                 6h        56                      126    121   150            453      10,0
+                                              31                                                                 NFZ     FSp        4                     113      12   70            199       27,8
+                                                           46                                                            NSp        1                      78      12   68            159       18,7
+                                                                                                                         6h       15                      498      82  333            928       22,7
+                                       16     3     12    15                                                     SV      FSp        1                      32       4   37             74       10,3
+                                                                                                                         NSp        0                      10       3   55             68        8,0
+                                                                                                                         6h         2                     122      25  214            363        8,9
+                                                                                                                 KFZ FSp          31                      266      84  335            716       100
+                                                                                                                         NSp      19                      452      87  294            852       100
+                                                                                                                         6h      140                     1927     491 1526           4084
+
+
+
+
+       Drewitzer Str.                                                                           Drewitzer Str.
+                                                                                                                                                                                                100
+                                                                                                                 FZ      FSp      45                      278      99  372            794       100
+                        626   291                                              1                                         NSp      30                      475     113  314            932       100
+                               7                                              243   266   OST                            6h      196                     2053     612 1676           4537       100
+
+WEST
+                        335   288                                             22                                 Q DTVw:    2,35 637                     8187    2287 8084
+                              40                                              345   611                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Wetter früh 8ºC bewölkt und leicht windig, trocken;
+                                                                                                                   nachmittag 12ºC bewölkt, trocken
+
+
+                                                                                                                          Sph-Beginn:      7.30        Uhr und   15.30 Uhr
+                                       65     32    7     45                                                     SUMME Zufahrten:                      [FSp] :    716 KFZ/h 8:00
+                                                                                                                                                       (NSp):     852 KFZ/h 16:00
+                                       149                                                                                                                6h :   4084 KFZ
+                                                     84                                                          max. Sph /Zufahrt:                NORD :          31 KFZ/h 8:00
+                                                    SÜD                                                                                             OST :         452 KFZ/h 16:00
+                                         E.-Weinert-Str.                                                              DATUM :                           SÜD :      93 KFZ/h 9:00
+                                                                                          716 KFZ/h                 02.05.2019                     WEST :         335 KFZ/h 8:00
+                                                                Kfz-Stromverteilung in der FSp 446                                     Drewitzer Str./E.-Weinert-Str.
+
+
+
+        StromPlan (FSp)446kp5-19.xls                                Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                                23.05.2019
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD                      OST     SÜD WEST          SUMME %
+                                             NORD                                                                RAD     FSp      14                        12     15    37             78       9,8
+                                                                                                                         NSp      11                        23     26    20             80       8,6
+                                         E.-Weinert-Str.                                                                 6h        56                      126    121   150            453      10,0
+                                              19                                                                 NFZ     FSp        4                     113      12   70            199       27,8
+                                                           39                                                            NSp        1                      78      12   68            159       18,7
+                                                                                                                         6h       15                      498      82  333            928       22,7
+                                       10     3     6     20                                                     SV      FSp        1                      32       4   37             74       10,3
+                                                                                                                         NSp        0                      10       3   55             68        8,0
+                                                                                                                         6h         2                     122      25  214            363        8,9
+                                                                                                                 KFZ FSp          31                      266      84  335            716       100
+                                                                                                                         NSp      19                      452      87  294            852       100
+                                                                                                                         6h      140                     1927     491 1526           4084
+
+
+
+
+       Drewitzer Str.                                                                           Drewitzer Str.
+                                                                                                                                                                                                100
+                                                                                                                 FZ      FSp      45                      278      99  372            794       100
+                        703   409                                              5                                         NSp      30                      475     113  314            932       100
+                              14                                              364   452   OST                            6h      196                     2053     612 1676           4537       100
+
+WEST
+                        294   238                                             83                                 Q DTVw:    2,35 637                     8187    2287 8084
+                              42                                              295   747                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                 Bemerkungen :
+                                                                                                                 - Wetter früh 8ºC bewölkt und leicht windig, trocken;
+                                                                                                                   nachmittag 12ºC bewölkt, trocken
+
+
+                                                                                                                          Sph-Beginn:      7.30        Uhr und   15.30 Uhr
+                                       128    35    1     51                                                     SUMME Zufahrten:                      [FSp] :    716 KFZ/h 8:00
+                                                                                                                                                       (NSp):     852 KFZ/h 16:00
+                                       215                                                                                                                6h :   4084 KFZ
+                                                     87                                                          max. Sph /Zufahrt:                NORD :          31 KFZ/h 8:00
+                                                    SÜD                                                                                             OST :         452 KFZ/h 16:00
+                                         E.-Weinert-Str.                                                              DATUM :                           SÜD :      93 KFZ/h 9:00
+                                                                                          852 KFZ/h                 02.05.2019                     WEST :         335 KFZ/h 8:00
+                                                                Kfz-Stromverteilung in der NSp 446                                     Drewitzer Str./E.-Weinert-Str.
+
+
+
+        StromPlan (NSp)446kp5-19.xls                                Seite 3
+

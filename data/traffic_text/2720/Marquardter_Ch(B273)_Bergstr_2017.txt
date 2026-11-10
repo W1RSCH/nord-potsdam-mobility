@@ -1,0 +1,141 @@
+SVP, 461                                                                                                                                                         08.05.2018
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                        Zufahrt: NORD OST SÜD      SUMME %
+                                    NORD                                                           RAD         FSp               2         2      1                      5        0,5
+
+              Marquardter Ch. (B273)                                                                      NSp                -1             3     1                      3        0,2
+                                                                                                          6h                  2             7     9                     18        0,3
+                                 2.932                                                             NFZ    FSp              124             29    92                  245      22,6
+                                             6.581                                                        NSp               76             25   169                  270      19,8
+                                                                                                          6h               557            153   708                 1418      20,5
+
+                         2.610       322      3.649                                                SV     FSp               43             19    40                  102          9,4
+                                                                                                          NSp               35             15    36                    86         6,3
+                                                                                                          6h               232            104   248                   584         8,4
+                                                                                                   KFZ FSp                 470             86   528                 1084      100
+                                                                                                          NSp              494             91   776                 1361      100
+                                                                                                          6h              2932            453 3527                  6912      100
+
+
+
+
+                                                                                        Bergstr.
+                                                                                                   FZ     FSp              472             88   529                 1089      100
+                                                                 306                                      NSp              493             94   777                 1364      100
+                                                                        453
+                                                                 147              OST                     6h              2934            460 3536                   6930     100
+                                                                                                   Q DTVw: 2,2           14478           2110 13825
+                                                                 506    959                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Nedlitzer Str. stadteinw.gesperrt - Umleitung über Amundsenstr.,
+                                                                                                    Potsdamer Str. und Pappelallee
+
+                         2.757       3.343    184                                                  - Wetter früh 8°C stark bewölkt, vereinzelt Regen; nachmittag 11ºC stark
+                                                                                                    bewölkt, immer wieder Regen
+                     6.284                                                                             Sph-Beginn:        7.00       Uhr und   16.00 Uhr
+                                       3.527                                                       SUMME Zufahrten:                  [FSp]:    1084 KFZ/h 7:30
+                                     SÜD                                                                                             (NSp):    1361 KFZ/h 16:30
+              Marquardter Ch. (B273)                                                                                                   6h :    6912 KFZ
+                                                                                                   max. Sph /Zufahrt:                NORD       519 KFZ/h 9:00
+                                                                                                                                      OST        92 KFZ/h 16:00
+                                                                                                     DATUM :                          SÜD       776 KFZ/h 16:30
+                                                                                  6h Werte 04.05.2017
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 272                        Marquardter Ch. (B273) / Bergstr.
+StromPlan272kp5-17.xls                                                  Seite 1
+SVP, 461                                                                                                                                                08.05.2018
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                       RAD         FSp               2         2      1                      5        0,5
+
+              Marquardter Ch. (B273)                                                             NSp                -1             3     1                      3        0,2
+                                                                                                 6h                  2             7     9                     18        0,3
+                            470                                                           NFZ    FSp              124             29    92                  245      22,6
+                                        1.026                                                    NSp               76             25   169                  270      19,8
+                                                                                                 6h               557            153   708                 1418      20,5
+                      411         59     556                                              SV     FSp               43             19    40                  102          9,4
+                                                                                                 NSp               35             15    36                    86         6,3
+                                                                                                 6h               232            104   248                   584         8,4
+                                                                                          KFZ FSp                 470             86   528                 1084      100
+                                                                                                 NSp              494             91   776                 1361      100
+                                                                                                 6h              2932            453 3527                  6912      100
+
+
+
+
+                                                                               Bergstr.
+                                                                                          FZ     FSp              472             88   529                 1089      100
+                                                        62                                       NSp              493             94   777                 1364      100
+                                                               86
+                                                        24               OST                     6h              2934            460 3536                   6930     100
+                                                                                          Q DTVw: 2,2           14478           2110 13825
+                                                        93    179                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                          Bemerkungen :
+                                                                                          - Nedlitzer Str. stadteinw.gesperrt - Umleitung über Amundsenstr.,
+                                                                                           Potsdamer Str. und Pappelallee
+                      435         494    34                                               - Wetter früh 8°C stark bewölkt, vereinzelt Regen; nachmittag 11ºC stark
+                                                                                           bewölkt, immer wieder Regen
+                      963                                                                     Sph-Beginn:        7.00       Uhr und   16.00 Uhr
+                                  528                                                     SUMME Zufahrten:                  [FSp]:    1084 KFZ/h 7:30
+                               SÜD                                                                                          (NSp):    1361 KFZ/h 16:30
+              Marquardter Ch. (B273)                                                                                          6h :    6912 KFZ
+                                                                                          max. Sph /Zufahrt:                NORD       519 KFZ/h 9:00
+                                                                                                                             OST        92 KFZ/h 16:00
+                                                                                            DATUM :                          SÜD       776 KFZ/h 16:30
+                                                                    1.084 KFZ/h 04.05.2017
+                                                Kfz-Stromverteilung in der FSp 272                          Marquardter Ch. (B273) / Bergstr.
+StromPlan (FSp)272kp5-17.xls                                   Seite 2
+SVP, 461                                                                                                                                                08.05.2018
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                       RAD         FSp               2         2      1                      5        0,5
+
+              Marquardter Ch. (B273)                                                             NSp                -1             3     1                      3        0,2
+                                                                                                 6h                  2             7     9                     18        0,3
+                            494                                                           NFZ    FSp              124             29    92                  245      22,6
+                                        1.296                                                    NSp               76             25   169                  270      19,8
+                                                                                                 6h               557            153   708                 1418      20,5
+                      432         62     802                                              SV     FSp               43             19    40                  102          9,4
+                                                                                                 NSp               35             15    36                    86         6,3
+                                                                                                 6h               232            104   248                   584         8,4
+                                                                                          KFZ FSp                 470             86   528                 1084      100
+                                                                                                 NSp              494             91   776                 1361      100
+                                                                                                 6h              2932            453 3527                  6912      100
+
+
+
+
+                                                                               Bergstr.
+                                                                                          FZ     FSp              472             88   529                 1089      100
+                                                        67                                       NSp              493             94   777                 1364      100
+                                                               91
+                                                        24               OST                     6h              2934            460 3536                   6930     100
+                                                                                          Q DTVw: 2,2           14478           2110 13825
+                                                        103   194                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                          Bemerkungen :
+                                                                                          - Nedlitzer Str. stadteinw.gesperrt - Umleitung über Amundsenstr.,
+                                                                                           Potsdamer Str. und Pappelallee
+                      456         735    41                                               - Wetter früh 8°C stark bewölkt, vereinzelt Regen; nachmittag 11ºC stark
+                                                                                           bewölkt, immer wieder Regen
+                     1.232                                                                    Sph-Beginn:        7.00       Uhr und   16.00 Uhr
+                                  776                                                     SUMME Zufahrten:                  [FSp]:    1084 KFZ/h 7:30
+                               SÜD                                                                                          (NSp):    1361 KFZ/h 16:30
+              Marquardter Ch. (B273)                                                                                          6h :    6912 KFZ
+                                                                                          max. Sph /Zufahrt:                NORD       519 KFZ/h 9:00
+                                                                                                                             OST        92 KFZ/h 16:00
+                                                                                            DATUM :                          SÜD       776 KFZ/h 16:30
+                                                                    1.361 KFZ/h 04.05.2017
+                                                Kfz-Stromverteilung in der NSp 272                          Marquardter Ch. (B273) / Bergstr.
+StromPlan (NSp)272kp5-17.xls                                   Seite 3
+

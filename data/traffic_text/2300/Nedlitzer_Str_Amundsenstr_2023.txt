@@ -1,0 +1,152 @@
+Landeshauptstadt Potsdam                                                                                                                                             11.05.2023
+Bereich Verkehrsentwicklung
+
+
+                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                           NORD                                          Zufahrt: NORD SÜD WEST     SUMME %
+                                              Nedlitzer Str.                                        RAD    FSp    113     33                    5                   151      9,7
+                                                                                                           NSp     62     71                    7                   140      8,3
+                                                        4.055                                              6h     390    298                   31                   719      8,1
+                                                                        7.819                       NFZ    FSp 125       54                   30                   209      14,8
+                                                                                                           NSp     79    60                   17                   156      10,1
+                                                1.093           2.962    3.764                             6h     594   379                  114                  1087      13,4
+                                                                                                    SV     FSp     28    25                     8                    61      4,3
+                                                                                                           NSp     13    17                     3                    33      2,1
+                                                                                                           6h     150   135                   24                    309      3,8
+                                                                                                    KFZ FSp 865 366                          182                  1413       100
+
+
+
+
+               Amundsenstr.
+                                                                                                           NSp 647      688                  212                  1547       100
+                                                                                                           6h    4055 2983                  1090                  8128       100
+                              2.366   1.276                                                         FZ     FSp    978   399                  187                  1564       100
+                                       964                                                                 NSp    709   759                  219                  1687       100
+
+        WEST                  1.090                                                                        6h    4445 3281                  1121                   8847      100
+                                      126
+                                                                                                    Q DTVw:2,35 18375 14267                 5560
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - in der Alleestraße Vollsperrung wegen Rohrbruch, dadurch Stau
+                                                                                                     in der Innenstadt
+
+                                                3.088           183      2.800                      - seit 01.05.2023 das D-Ticket im Umlauf
+                                                                                                    - Wetter früh 3°C sonnig, trocken;
+                                               6.071                                                  nachmittag 18ºC sonnig, trocken
+                                                               2.983                                    Sph-Beginn:      7.00     Uhr und   16.00 Uhr
+                                                            SÜD                                     SUMME Zufahrten: [FSp]: 1413 KFZ/h 7:30
+                                              Nedlitzer Str.                                                           (NSp): 1547 KFZ/h 16:30
+                                                                                                                         6h : 8128 KFZ
+                                                                                                    max. Sph /Zufahrt: NORD    865 KFZ/h 7:30
+                                                                                                                                    SÜD      688 KFZ/h 16:30
+
+                                                                                                      DATUM :                     WEST       223 KFZ/h 16:00
+                                                                                           6h Werte 04.05.2023
+                                                von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2300                        Nedlitzer Str./Amundsenstr.
+
+StromPlan2300kp5-23                                                              Seite 1
+Landeshauptstadt Potsdam                                                                                                                                         11.05.2023
+Bereich Verkehrsentwicklung
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                    NORD                                             Zufahrt: NORD SÜD WEST     SUMME %
+                                          Nedlitzer Str.                                        RAD    FSp    113     33                    5                   151      9,7
+                                                                                                       NSp     62     71                    7                   140      8,3
+                                                  865                                                  6h     390    298                   31                   719      8,1
+                                                                1.364                           NFZ    FSp 125       54                   30                   209      14,8
+                                                                                                       NSp     79    60                   17                   156      10,1
+                                            219         646         499                                6h     594   379                  114                  1087      13,4
+                                                                                                SV     FSp     28    25                     8                    61      4,3
+                                                                                                       NSp     13    17                     3                    33      2,1
+                                                                                                       6h     150   135                   24                    309      3,8
+                                                                                                KFZ FSp 865 366                          182                  1413       100
+
+
+
+
+               Amundsenstr.
+                                                                                                       NSp 647      688                  212                  1547       100
+                                                                                                       6h    4055 2983                  1090                  8128       100
+                              429   247                                                         FZ     FSp    978   399                  187                  1564       100
+                                    161                                                                NSp    709   759                  219                  1687       100
+
+        WEST                  182                                                                      6h    4445 3281                  1121                   8847      100
+                                    21
+                                                                                                Q DTVw:2,35 18375 14267                 5560
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - in der Alleestraße Vollsperrung wegen Rohrbruch, dadurch Stau
+                                                                                                 in der Innenstadt
+                                            667         28          338                         - seit 01.05.2023 das D-Ticket im Umlauf
+                                                                                                - Wetter früh 3°C sonnig, trocken;
+                                           1.033                                                  nachmittag 18ºC sonnig, trocken
+                                                              366                                   Sph-Beginn:      7.00     Uhr und   16.00 Uhr
+                                                        SÜD                                     SUMME Zufahrten: [FSp]: 1413 KFZ/h 7:30
+                                          Nedlitzer Str.                                                           (NSp): 1547 KFZ/h 16:30
+                                                                                                                     6h : 8128 KFZ
+                                                                                                max. Sph /Zufahrt: NORD    865 KFZ/h 7:30
+                                                                                                                                SÜD      688 KFZ/h 16:30
+
+                                                                                                  DATUM :                     WEST       223 KFZ/h 16:00
+                                                                                    1.413 KFZ/h 04.05.2023
+                                                          Kfz-Stromverteilung in der FSp 2300                     Nedlitzer Str./Amundsenstr.
+
+StromPlan (FSp)2300kp5-23                                                 Seite 2
+Landeshauptstadt Potsdam                                                                                                                                         11.05.2023
+Bereich Verkehrsentwicklung
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                    NORD                                             Zufahrt: NORD SÜD WEST     SUMME %
+                                          Nedlitzer Str.                                        RAD    FSp    113     33                    5                   151      9,7
+                                                                                                       NSp     62     71                    7                   140      8,3
+                                                  647                                                  6h     390    298                   31                   719      8,1
+                                                                1.499                           NFZ    FSp 125       54                   30                   209      14,8
+                                                                                                       NSp     79    60                   17                   156      10,1
+                                            211         436         852                                6h     594   379                  114                  1087      13,4
+                                                                                                SV     FSp     28    25                     8                    61      4,3
+                                                                                                       NSp     13    17                     3                    33      2,1
+                                                                                                       6h     150   135                   24                    309      3,8
+                                                                                                KFZ FSp 865 366                          182                  1413       100
+
+
+
+
+               Amundsenstr.
+                                                                                                       NSp 647      688                  212                  1547       100
+                                                                                                       6h    4055 2983                  1090                  8128       100
+                              453   241                                                         FZ     FSp    978   399                  187                  1564       100
+                                    194                                                                NSp    709   759                  219                  1687       100
+
+        WEST                  212                                                                      6h    4445 3281                  1121                   8847      100
+                                    18
+                                                                                                Q DTVw:2,35 18375 14267                 5560
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - in der Alleestraße Vollsperrung wegen Rohrbruch, dadurch Stau
+                                                                                                 in der Innenstadt
+                                            454         30          658                         - seit 01.05.2023 das D-Ticket im Umlauf
+                                                                                                - Wetter früh 3°C sonnig, trocken;
+                                           1.142                                                  nachmittag 18ºC sonnig, trocken
+                                                              688                                   Sph-Beginn:      7.00     Uhr und   16.00 Uhr
+                                                        SÜD                                     SUMME Zufahrten: [FSp]: 1413 KFZ/h 7:30
+                                          Nedlitzer Str.                                                           (NSp): 1547 KFZ/h 16:30
+                                                                                                                     6h : 8128 KFZ
+                                                                                                max. Sph /Zufahrt: NORD    865 KFZ/h 7:30
+                                                                                                                                SÜD      688 KFZ/h 16:30
+
+                                                                                                  DATUM :                     WEST       223 KFZ/h 16:00
+                                                                                    1.547 KFZ/h 04.05.2023
+                                                          Kfz-Stromverteilung in der NSp 2300                     Nedlitzer Str./Amundsenstr.
+
+StromPlan (NSp)2300kp5-23                                                 Seite 3
+

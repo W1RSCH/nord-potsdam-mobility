@@ -1,0 +1,315 @@
+       SVP, 461                                                                                                                                                              05.06.2018
+
+
+
+
+                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                            Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                     RAD    FSp   351                    83    215        10         659     57,9
+                                                                                                                              NSp   249                    90    206        39         584     56,4
+                                             F.-Ebert-Str.                                                                    6h   1618                   423   1129       164        3334     56,9
+                                               307                                                                     NFZ    FSp    11                   11      14       47           83     17,3
+                                                             469                                                              NSp    11                   19       9       42           81     18,0
+                                                                                                                              6h     85                    85     50      192          412     16,3
+                                       58      115   134     162                                                       SV     FSp     7                     2      8         8          25      5,2
+                                                                                                                              NSp     6                     2      5         2          15      3,3
+                                                                                                                              6h     50                    15     31        24         120      4,7
+                                                                                                                       KFZ FSp       39                   61      25      354          479      100
+                                                                                                                              NSp    59                  136      30      226          451      100
+
+
+
+
+       Gutenbergstr.                                                                                   Gutenbergstr.
+                                                                                                                              6h    307                  669     143     1411         2530      100
+                                                                                                                       FZ     FSp   390                  144     240      364         1138      100
+                       1.953    542                                               70                                          NSp   308                  226     236      265         1035      100
+                                48                                                437    669     OST                          6h   1925                 1092    1272     1575         5864      100
+
+WEST
+                       1.411   1.187                                              162                                  Q DTVw: 2,5 1173                 5105    1490     4883
+                                176                                              1.373   2.042                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                       NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                       Bemerkungen :
+                                                                                                                       - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                           Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                       453     47    44      52                                                        SUMME Zufahrten: [FSp] :                  479 KFZ/h 8:00
+                                                                                                                                                    (NSp):       451 KFZ/h 15:30
+                                       596                                                                                                  6h :                2530 KFZ
+                                                     143                                                               max. Sph /Zufahrt: NORD :                  63 KFZ/h 16:00
+                                                     SÜD                                                                                   OST :                 157 KFZ/h 17:30
+                                             F.-Ebert-Str.                                                               DATUM :                      SÜD :       33 KFZ/h 7:30
+                                                                                                 6h Werte 12.05.2016                                WEST :       354 KFZ/h 8:00
+                                                             von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 143                               Gutenbergstr. / F.-Ebert-Str.
+
+
+
+       StromPlan143kp5-16.xls                                          Seite 1
+       SVP, 461                                                                                                                                                    05.06.2018
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                            NORD                                                             RAD    FSp   351                    83    215        10         659     57,9
+                                                                                                                    NSp   249                    90    206        39         584     56,4
+                                           F.-Ebert-Str.                                                            6h   1618                   423   1129       164        3334     56,9
+                                              39                                                             NFZ    FSp    11                   11      14       47           83     17,3
+                                                           72                                                       NSp    11                   19       9       42           81     18,0
+                                                                                                                    6h     85                    85     50      192          412     16,3
+                                      6      19    14      33                                                SV     FSp     7                     2      8         8          25      5,2
+                                                                                                                    NSp     6                     2      5         2          15      3,3
+                                                                                                                    6h     50                    15     31        24         120      4,7
+                                                                                                             KFZ FSp       39                   61      25      354          479      100
+                                                                                                                    NSp    59                  136      30      226          451      100
+
+
+
+
+       Gutenbergstr.                                                                         Gutenbergstr.
+                                                                                                                    6h    307                  669     143     1411         2530      100
+                                                                                                             FZ     FSp   390                  144     240      364         1138      100
+                       402   48                                            12                                       NSp   308                  226     236      265         1035      100
+                             10                                            35    61    OST                          6h   1925                 1092    1272     1575         5864      100
+
+WEST
+                       354   319                                            14                               Q DTVw: 2,5 1173                 5105    1490     4883
+                             25                                            340   401                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                             Bemerkungen :
+                                                                                                             - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                 Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                      58     7     11      7                                                 SUMME Zufahrten: [FSp] :                  479 KFZ/h 8:00
+                                                                                                                                          (NSp):       451 KFZ/h 15:30
+                                      83                                                                                          6h :                2530 KFZ
+                                                    25                                                       max. Sph /Zufahrt: NORD :                  63 KFZ/h 16:00
+                                                   SÜD                                                                           OST :                 157 KFZ/h 17:30
+                                           F.-Ebert-Str.                                                       DATUM :                      SÜD :       33 KFZ/h 7:30
+                                                                                       479 KFZ/h 12.05.2016                               WEST :       354 KFZ/h 8:00
+                                                                Kfz-Stromverteilung in der FSp 143                             Gutenbergstr. / F.-Ebert-Str.
+
+
+
+       StromPlan (FSp)143kp5-16.xls                              Seite 2
+       SVP, 461                                                                                                                                                     05.06.2018
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                   Zufahrt: NORD OST SÜD WEST SUMME %
+                                            NORD                                                              RAD    FSp   351                    83    215        10         659     57,9
+                                                                                                                     NSp   249                    90    206        39         584     56,4
+                                           F.-Ebert-Str.                                                             6h   1618                   423   1129       164        3334     56,9
+                                              59                                                              NFZ    FSp    11                   11      14       47           83     17,3
+                                                           96                                                        NSp    11                   19       9       42           81     18,0
+                                                                                                                     6h     85                    85     50      192          412     16,3
+                                      15     22    22      37                                                 SV     FSp     7                     2      8         8          25      5,2
+                                                                                                                     NSp     6                     2      5         2          15      3,3
+                                                                                                                     6h     50                    15     31        24         120      4,7
+                                                                                                              KFZ FSp       39                   61      25      354          479      100
+                                                                                                                     NSp    59                  136      30      226          451      100
+
+
+
+
+       Gutenbergstr.                                                                          Gutenbergstr.
+                                                                                                                     6h    307                  669     143     1411         2530      100
+                                                                                                              FZ     FSp   390                  144     240      364         1138      100
+                       349   123                                            20                                       NSp   308                  226     236      265         1035      100
+                             10                                             100   136   OST                          6h   1925                 1092    1272     1575         5864      100
+
+WEST
+                       226   192                                             16                               Q DTVw: 2,5 1173                 5105    1490     4883
+                             24                                             229   365                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                              Bemerkungen :
+                                                                                                              - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                  Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                      62     8     7       15                                                 SUMME Zufahrten: [FSp] :                  479 KFZ/h 8:00
+                                                                                                                                           (NSp):       451 KFZ/h 15:30
+                                      92                                                                                           6h :                2530 KFZ
+                                                    30                                                        max. Sph /Zufahrt: NORD :                  63 KFZ/h 16:00
+                                                   SÜD                                                                            OST :                 157 KFZ/h 17:30
+                                           F.-Ebert-Str.                                                        DATUM :                      SÜD :       33 KFZ/h 7:30
+                                                                                        451 KFZ/h 12.05.2016                               WEST :       354 KFZ/h 8:00
+                                                                Kfz-Stromverteilung in der NSp 143                              Gutenbergstr. / F.-Ebert-Str.
+
+
+
+       StromPlan (NSp)143kp5-16.xls                               Seite 3
+       SVP, 461                                                                                                                                                               05.06.2018
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                             Zufahrt: NORD OST SÜD WEST SUMME %
+                                              NORD                                                                      RAD    FSp   351                    83    215        10         659     57,9
+                                                                                                                               NSp   249                    90    206        39         584     56,4
+                                             F.-Ebert-Str.                                                                     6h   1618                   423   1129       164        3334     56,9
+                                               1.618                                                                    NFZ    FSp    11                   11      14       47           83     17,3
+                                                                 2.999                                                         NSp    11                   19       9       42           81     18,0
+                                                                                                                               6h     85                    85     50      192          412     16,3
+                                     18         1.299    301      1.381                                                 SV     FSp     7                     2      8         8          25      5,2
+                                                                                                                               NSp     6                     2      5         2          15      3,3
+                                                                                                                               6h     50                    15     31        24         120      4,7
+                                                                                                                        KFZ FSp       39                   61      25      354          479      100
+                                                                                                                               NSp    59                  136      30      226          451      100
+
+
+
+
+       Gutenbergstr.                                                                                    Gutenbergstr.
+                                                                                                                               6h    307                  669     143     1411         2530      100
+                                                                                                                        FZ     FSp   390                  144     240      364         1138      100
+                       228   64                                                       297                                      NSp   308                  226     236      265         1035      100
+                             10                                                       37    423   OST                          6h   1925                 1092    1272     1575         5864      100
+
+WEST
+                       164   104                                                       89                               Q DTVw: 2,5 7498                 2185    6418      570
+                             50                                                       451   874                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                        Bemerkungen :
+                                                                                                                        - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                            Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+
+                                     1.438               1.074    46                                                    SUMME Zufahrten: [FSp] :                  479 KFZ/h 8:00
+                                                9
+                                                                                                                                                     (NSp):       451 KFZ/h 15:30
+                                    2.567                                                                                                    6h :                2530 KFZ
+                                                        1.129                                                           max. Sph /Zufahrt: NORD :                  63 KFZ/h 16:00
+                                                        SÜD                                                                                 OST :                 157 KFZ/h 17:30
+                                             F.-Ebert-Str.                                                                DATUM :                      SÜD :       33 KFZ/h 7:30
+                                                                                            Rad-6h Werte 12.05.2016                                  WEST :       354 KFZ/h 8:00
+                                                                  von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 143                           Gutenbergstr. / F.-Ebert-Str.
+
+
+
+       StromPlan_Rad143kp5-16.xls                                           Seite 4
+       SVP, 461                                                                                                                                                         05.06.2018
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                                 NORD                                                             RAD    FSp   351                    83    215        10         659     57,9
+                                                                                                                         NSp   249                    90    206        39         584     56,4
+                                                F.-Ebert-Str.                                                            6h   1618                   423   1129       164        3334     56,9
+                                                  351                                                             NFZ    FSp    11                   11      14       47           83     17,3
+                                                                616                                                      NSp    11                   19       9       42           81     18,0
+                                                                                                                         6h     85                    85     50      192          412     16,3
+                                          1       282   68      265                                               SV     FSp     7                     2      8         8          25      5,2
+                                                                                                                         NSp     6                     2      5         2          15      3,3
+                                                                                                                         6h     50                    15     31        24         120      4,7
+                                                                                                                  KFZ FSp       39                   61      25      354          479      100
+                                                                                                                         NSp    59                  136      30      226          451      100
+
+
+
+
+       Gutenbergstr.                                                                              Gutenbergstr.
+                                                                                                                         6h    307                  669     143     1411         2530      100
+                                                                                                                  FZ     FSp   390                  144     240      364         1138      100
+                       20   10                                                   67                                      NSp   308                  226     236      265         1035      100
+                            0                                                    7    83    OST                          6h   1925                 1092    1272     1575         5864      100
+
+WEST
+                       10   8                                                     9                               Q DTVw: 2,5 1173                 5105    1490     4883
+                            2                                                    91   174                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                  Bemerkungen :
+                                                                                                                  - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                      Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                          293     2     198     15                                                SUMME Zufahrten: [FSp] :                  479 KFZ/h 8:00
+                                                                                                                                               (NSp):       451 KFZ/h 15:30
+                                          508                                                                                          6h :                2530 KFZ
+                                                        215                                                       max. Sph /Zufahrt: NORD :                  63 KFZ/h 16:00
+                                                        SÜD                                                                           OST :                 157 KFZ/h 17:30
+                                                F.-Ebert-Str.                                                       DATUM :                      SÜD :       33 KFZ/h 7:30
+                                                                                            659 Rad/h 12.05.2016                               WEST :       354 KFZ/h 8:00
+                                                                      Kfz-Stromverteilung in der FSp 143                            Gutenbergstr. / F.-Ebert-Str.
+
+
+
+       StromPlan (FSp_Rad)143kp5-16.xls                                Seite 5
+       SVP, 461                                                                                                                                                          05.06.2018
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD OST SÜD WEST SUMME %
+                                                 NORD                                                              RAD    FSp   351                    83    215        10         659     57,9
+                                                                                                                          NSp   249                    90    206        39         584     56,4
+                                                F.-Ebert-Str.                                                             6h   1618                   423   1129       164        3334     56,9
+                                                  249                                                              NFZ    FSp    11                   11      14       47           83     17,3
+                                                                514                                                       NSp    11                   19       9       42           81     18,0
+                                                                                                                          6h     85                    85     50      192          412     16,3
+                                          9       184   56      265                                                SV     FSp     7                     2      8         8          25      5,2
+                                                                                                                          NSp     6                     2      5         2          15      3,3
+                                                                                                                          6h     50                    15     31        24         120      4,7
+                                                                                                                   KFZ FSp       39                   61      25      354          479      100
+                                                                                                                          NSp    59                  136      30      226          451      100
+
+
+
+
+       Gutenbergstr.                                                                               Gutenbergstr.
+                                                                                                                          6h    307                  669     143     1411         2530      100
+                                                                                                                   FZ     FSp   390                  144     240      364         1138      100
+                       56   17                                                    66                                      NSp   308                  226     236      265         1035      100
+                            0                                                     8    90    OST                          6h   1925                 1092    1272     1575         5864      100
+
+WEST
+                       39   24                                                    16                               Q DTVw: 2,5 1173                 5105    1490     4883
+                            15                                                    87   177                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                   Bemerkungen :
+                                                                                                                   - Wetter früh 16ºC sonnig; nachmittag 24ºC leicht bewölkt bis sonnig
+
+
+
+                                                                                                                       Sph-Beginn:      7.30     Uhr und    15.00 Uhr
+                                          215     0     199     7                                                  SUMME Zufahrten: [FSp] :                  479 KFZ/h 8:00
+                                                                                                                                                (NSp):       451 KFZ/h 15:30
+                                          421                                                                                           6h :                2530 KFZ
+                                                        206                                                        max. Sph /Zufahrt: NORD :                  63 KFZ/h 16:00
+                                                        SÜD                                                                            OST :                 157 KFZ/h 17:30
+                                                F.-Ebert-Str.                                                        DATUM :                      SÜD :       33 KFZ/h 7:30
+                                                                                             584 Rad/h 12.05.2016                               WEST :       354 KFZ/h 8:00
+                                                                      Kfz-Stromverteilung in der NSp 143                             Gutenbergstr. / F.-Ebert-Str.
+
+
+
+       StromPlan (NSp_Rad)143kp5-16.xls                                 Seite 6
+

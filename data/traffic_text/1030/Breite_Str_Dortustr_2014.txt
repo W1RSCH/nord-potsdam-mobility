@@ -1,0 +1,152 @@
+                                                                                                                                                                           10.04.2015
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                                      NORD OST SÜD WEST SUMME %
+                                             NORD                                                                  RAD        FSp          27   91              18   164              300          6,7
+                                                                                                                              NSp           9 130               38   122              299          6,6
+                                         Dortustr.                                                                            6h          106  608             140    829            1683          6,8
+                                             2.589           6.029                                                 NFZ        FSp         72  286              25    229             612       14,6
+                                                                                                                              NSp         29  206                7   243             485       11,5
+                                                                                                                              6h         264 1354               75 1189             2882       12,5
+
+                                     1.341    102    1.146    3.440                                                SV         FSp         26   84                3    63             176           4,2
+                                                                                                                              NSp           5  62                1    60             128           3,0
+                                                                                                                              6h           76 453               15   347              891          3,9
+                                                                                                                   KFZ        FSp        377 1613             105 2107              4202       100
+                                                                                                                              NSp        496 1631             211 1883              4221       100
+                                                                                                                              6h        2589 9267             830 10305            22991       100
+                                                                                                                   FZ         FSp        404 1704             123   2271            4502       100
+
+
+
+
+       Breite Str.                                                                                   Breite Str.
+                     19.001 8.696                                               1.911                                         NSp        505 1761             249   2005            4520       100
+                            1.402                                               7.146 9.267    OST                            6h        2695 9875              970 11134           24674       100
+
+WEST
+                     10.305 8.791                                                 210                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                             112                                               10.431 19.698                       Bemerkungen :
+                                                                                                                   - Wetter früh 7ºC bewölkt, anfänglich mit Regen; nachm. 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                        Sph-Beginn:     7.30    Uhr und     15.00 Uhr           08:00
+                                                                                                                   SUMME Zufahrten: [FSp] :    4202 KFZ/h                       8:00
+                                     424      209    127      494                                                                      (NSp) : 4221 KFZ/h                       15:30
+                                                                                                                                         6h : 22991 KFZ
+                                    1.254                                                                          max. Sph /Zufahrt: NORD :    545 KFZ/h                       16:30
+                                                     830                                                                                OST : 1662 KFZ/h                        16:00
+                                                     SÜD                                                            DATUM :             SÜD :   222 KFZ/h                       16:00
+                                               Dortustr.                                       6h Werte 10.04.2014                             WEST :       2107 KFZ/h 8:00
+                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 103                                 Breite Str./ Dortustr.
+
+
+
+          SVP, 461                                                                                                                                     StromPlan103kp4-14entw.xls
+                                                                                                                                                                   10.04.2015
+
+
+
+
+                                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                                              NORD OST SÜD WEST SUMME %
+                                           NORD                                                            RAD        FSp          27   91              18   164              300          6,7
+                                                                                                                      NSp           9 130               38   122              299          6,6
+                                       Dortustr.                                                                      6h          106  608             140    829            1683          6,8
+                                           377           1.051                                             NFZ        FSp         72  286              25    229             612       14,6
+                                                                                                                      NSp         29  206                7   243             485       11,5
+                                                                                                                      6h         264 1354               75 1189             2882       12,5
+                                     177    19     181    674                                              SV         FSp         26   84                3    63             176           4,2
+                                                                                                                      NSp           5  62                1    60             128           3,0
+                                                                                                                      6h           76 453               15   347              891          3,9
+                                                                                                           KFZ        FSp        377 1613             105 2107              4202       100
+                                                                                                                      NSp        496 1631             211 1883              4221       100
+                                                                                                                      6h        2589 9267             830 10305            22991       100
+                                                                                                           FZ         FSp        404 1704             123   2271            4502       100
+
+
+
+
+       Breite Str.                                                                           Breite Str.
+                     3.532   1.425                                         351                                        NSp        505 1761             249   2005            4520       100
+                              301                                        1.214 1.613   OST                            6h        2695 9875              970 11134           24674       100
+
+WEST
+                     2.107   1.769                                          48                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                               37                                        1.999 3.612                       Bemerkungen :
+                                                                                                           - Wetter früh 7ºC bewölkt, anfänglich mit Regen; nachm. 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                                Sph-Beginn:     7.30    Uhr und     15.00 Uhr           08:00
+                                                                                                           SUMME Zufahrten: [FSp] :    4202 KFZ/h                       8:00
+                                     104    34     22     49                                                                   (NSp) : 4221 KFZ/h                       15:30
+                                                                                                                                 6h : 22991 KFZ
+                                     209                                                                   max. Sph /Zufahrt: NORD :    545 KFZ/h                       16:30
+                                                  105                                                                           OST : 1662 KFZ/h                        16:00
+                                                  SÜD                                                       DATUM :             SÜD :   222 KFZ/h                       16:00
+                                            Dortustr.                             4.202 KFZ/h 10.04.2014                               WEST :       2107 KFZ/h 8:00
+                                                                 Kfz-Stromverteilung in der FSp 103                                 Breite Str./ Dortustr.
+
+
+
+          SVP, 461                                                                                                                        StromPlanFSP103kp4-14entw.xls
+                                                                                                                                                                  10.04.2015
+
+
+
+
+                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                             NORD OST SÜD WEST SUMME %
+                                           NORD                                                           RAD        FSp          27   91              18   164              300          6,7
+                                                                                                                     NSp           9 130               38   122              299          6,6
+                                       Dortustr.                                                                     6h          106  608             140    829            1683          6,8
+                                           496           996                                              NFZ        FSp         72  286              25    229             612       14,6
+                                                                                                                     NSp         29  206                7   243             485       11,5
+                                                                                                                     6h         264 1354               75 1189             2882       12,5
+                                     257    15     224   500                                              SV         FSp         26   84                3    63             176           4,2
+                                                                                                                     NSp           5  62                1    60             128           3,0
+                                                                                                                     6h           76 453               15   347              891          3,9
+                                                                                                          KFZ        FSp        377 1613             105 2107              4202       100
+                                                                                                                     NSp        496 1631             211 1883              4221       100
+                                                                                                                     6h        2589 9267             830 10305            22991       100
+                                                                                                          FZ         FSp        404 1704             123   2271            4502       100
+
+
+
+
+       Breite Str.                                                                          Breite Str.
+                     3.504   1.621                                        288                                        NSp        505 1761             249   2005            4520       100
+                              186                                       1.307 1.631   OST                            6h        2695 9875              970 11134           24674       100
+
+WEST
+                     1.883   1.689                                         36                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                               8                                        2.041 3.672                       Bemerkungen :
+                                                                                                          - Wetter früh 7ºC bewölkt, anfänglich mit Regen; nachm. 13ºC bewölkt, trocken
+
+
+
+
+                                                                                                               Sph-Beginn:     7.30    Uhr und     15.00 Uhr           08:00
+                                                                                                          SUMME Zufahrten: [FSp] :    4202 KFZ/h                       8:00
+                                     59     57     26    128                                                                  (NSp) : 4221 KFZ/h                       15:30
+                                                                                                                                6h : 22991 KFZ
+                                     270                                                                  max. Sph /Zufahrt: NORD :    545 KFZ/h                       16:30
+                                                  211                                                                          OST : 1662 KFZ/h                        16:00
+                                                  SÜD                                                      DATUM :             SÜD :   222 KFZ/h                       16:00
+                                            Dortustr.                            4.221 KFZ/h 10.04.2014                               WEST :       2107 KFZ/h 8:00
+                                                               Kfz-Stromverteilung in der NSp 103                                  Breite Str./ Dortustr.
+
+
+
+          SVP, 461                                                                                                                       StromPlanNSP103kp4-14entw.xls
+

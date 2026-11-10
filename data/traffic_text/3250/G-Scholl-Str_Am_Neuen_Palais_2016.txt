@@ -1,0 +1,140 @@
+SVP, 461                                                                                                                                                                06.07.2016
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD      SUMME %
+                                    NORD                                                                     RAD         FSp          73           50     52                  175     16,6
+
+                   Am Neuen Palais                                                                                       NSp          84           37     62                  183     14,3
+
+                                                                                                                    6h    325                  239        304                868      14,2
+                                 1.809                                                                       NFZ    FSp    41                  39         34                114       13,0
+                                           3.802                                                                    NSp    54                  61         17                132       12,0
+                                                                                                                    6h    371                 271        161                 803      15,3
+                         964         845    1.993                                                            SV     FSp    19                  11           7                 37       4,2
+                                                                                                                    NSp    14                  14         10                  38       3,5
+                                                                                                                    6h    158                   75         54                287       5,5
+
+
+
+
+                                                                                       Geschw.-Scholl-Str.
+                                                                                                             KFZ FSp 302                      295        280                877       100
+                                                                                                                    NSp 409                   409        279               1097       100
+                                                                                                                    6h   1809                1949       1475               5233       100
+                                                                                                             FZ     FSp   375                 345        332               1052       100
+                                                               1150                                                 NSp   493                 446        341               1280       100
+                                                                       1949
+                                                               799               OST                                6h   2134                2188       1779                6101      100
+                                                                                                             Q DTVw: 2,4 8935                8051       7609
+                                                               1477    3426                                  Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                             Bemerkungen :
+                                                                                                             - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                              Verkehr
+
+                         1.763       843    632                                                              - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                                                 Sph-Beginn:      7.30     Uhr und      15.30 Uhr
+                    3.238                                                                                    SUMME Zufahrten: [FSp]:   877 KFZ/h 8:00
+                                       1.475                                                                                  (NSp): 1097 KFZ/h 16:00
+                                     SÜD                                                                                         6h : 5233 KFZ
+                   Am Neuen Palais                                                                           max. Sph /Zufahrt: NORD                     409 KFZ/h 16:00
+                                                                                                                                 OST                     451 KFZ/h 16:30
+                                                                                                              DATUM :            SÜD                     288 KFZ/h 7:30
+                                                                                6h Werte 21.04.2016
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 325        G.-Scholl-Str./Am Neuen Palais
+StromPlan325kp4-16.xls                                                 Seite 1
+SVP, 461                                                                                                                                                     06.07.2016
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                       Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                               RAD         FSp          73           50     52                  175     16,6
+
+                    Am Neuen Palais                                                                           NSp          84           37     62                  183     14,3
+
+                                                                                                         6h    325                  239        304                868      14,2
+                            302                                                                   NFZ    FSp    41                  39         34                114       13,0
+                                        618                                                              NSp    54                  61         17                132       12,0
+                                                                                                         6h    371                 271        161                 803      15,3
+                      143         159   316                                                       SV     FSp    19                  11           7                 37       4,2
+                                                                                                         NSp    14                  14         10                  38       3,5
+                                                                                                         6h    158                   75         54                287       5,5
+
+
+
+
+                                                                            Geschw.-Scholl-Str.
+                                                                                                  KFZ FSp 302                      295        280                877       100
+                                                                                                         NSp 409                   409        279               1097       100
+                                                                                                         6h   1809                1949       1475               5233       100
+                                                                                                  FZ     FSp   375                 345        332               1052       100
+                                                      181                                                NSp   493                 446        341               1280       100
+                                                             295
+                                                      114             OST                                6h   2134                2188       1779                6101      100
+                                                                                                  Q DTVw: 2,4 8935                8051       7609
+                                                      304    599                                  Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                   Verkehr
+                      257         135   145                                                       - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                                      Sph-Beginn:      7.30     Uhr und      15.30 Uhr
+                     537                                                                          SUMME Zufahrten: [FSp]:   877 KFZ/h 8:00
+                                  280                                                                              (NSp): 1097 KFZ/h 16:00
+                               SÜD                                                                                    6h : 5233 KFZ
+                    Am Neuen Palais                                                               max. Sph /Zufahrt: NORD                     409 KFZ/h 16:00
+                                                                                                                      OST                     451 KFZ/h 16:30
+                                                                                                   DATUM :            SÜD                     288 KFZ/h 7:30
+                                                                 877 KFZ/h 21.04.2016
+                                              Kfz-Stromverteilung in der FSp 325      G.-Scholl-Str./Am Neuen Palais
+StromPlan (FSp)325kp4-16.xls                                Seite 2
+SVP, 461                                                                                                                                                      06.07.2016
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                        Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                                RAD         FSp          73           50     52                  175     16,6
+
+                    Am Neuen Palais                                                                            NSp          84           37     62                  183     14,3
+
+                                                                                                          6h    325                  239        304                868      14,2
+                            409                                                                    NFZ    FSp    41                  39         34                114       13,0
+                                        830                                                               NSp    54                  61         17                132       12,0
+                                                                                                          6h    371                 271        161                 803      15,3
+                      203         206   421                                                        SV     FSp    19                  11           7                 37       4,2
+                                                                                                          NSp    14                  14         10                  38       3,5
+                                                                                                          6h    158                   75         54                287       5,5
+
+
+
+
+                                                                             Geschw.-Scholl-Str.
+                                                                                                   KFZ FSp 302                      295        280                877       100
+                                                                                                          NSp 409                   409        279               1097       100
+                                                                                                          6h   1809                1949       1475               5233       100
+                                                                                                   FZ     FSp   375                 345        332               1052       100
+                                                      249                                                 NSp   493                 446        341               1280       100
+                                                             409
+                                                      160              OST                                6h   2134                2188       1779                6101      100
+                                                                                                   Q DTVw: 2,4 8935                8051       7609
+                                                      313    722                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                    Verkehr
+                      363         172   107                                                        - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                                                                                                       Sph-Beginn:      7.30     Uhr und      15.30 Uhr
+                     642                                                                           SUMME Zufahrten: [FSp]:   877 KFZ/h 8:00
+                                  279                                                                               (NSp): 1097 KFZ/h 16:00
+                               SÜD                                                                                     6h : 5233 KFZ
+                    Am Neuen Palais                                                                max. Sph /Zufahrt: NORD                     409 KFZ/h 16:00
+                                                                                                                       OST                     451 KFZ/h 16:30
+                                                                                                    DATUM :            SÜD                     288 KFZ/h 7:30
+                                                                1.097 KFZ/h 21.04.2016
+                                              Kfz-Stromverteilung in der NSp 325       G.-Scholl-Str./Am Neuen Palais
+StromPlan (NSp)325kp4-16.xls                                 Seite 3
+

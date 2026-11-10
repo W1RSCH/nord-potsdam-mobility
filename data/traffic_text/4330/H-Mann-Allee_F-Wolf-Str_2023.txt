@@ -1,0 +1,164 @@
+       Landeshauptstadt Potsdam                                                                                                                                                     03.08.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                                  NORD                                                                      RAD         FSp          29           39     29        26       123       10,2
+
+                                             F.-Wolf-Str.                                                                          NSp              14     38             24    25          101        7,0
+                                                                                                                                   6h              119    205            168   133          625        8,6
+                                                   297           618                                                        NFZ    FSp               3    38             13    82          136        12,5
+                                                                                                                                   NSp               7    34             22    92          155        11,5
+                                                                                                                                   6h               28   237              82  379           726       10,9
+                                         66        163    68     321                                                        SV     FSp               0    12               0   11            23        2,1
+                                                                                                                                   NSp               0      6              0     7           13        1,0
+                                                                                                                                   6h                0     44              4    31           79        1,2
+                                                                                                                            KFZ FSp                 47   510            108   420         1085         100
+                                                                                                                                   NSp              68   466            245   572         1351         100
+
+
+
+
+        H.-Mann-Allee                                                                                       H.-Mann-Allee
+                                                                                                                                   6h              297 2715            1028 2602          6642         100
+                                                                                                                            FZ     FSp              76   549            137   446         1208         100
+                        5.120   2.518                                                  78                                          NSp              82   504            269   597         1452         100
+                                 93                                                   2.090   2.715   OST                          6h              416 2920            1196  2735          7267        100
+
+WEST                    2.602   2.042                                                  547                                  Q DTVw: 2,35          1452 12551           5182 12032
+                                 467                                                  2.626   5.341                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                            Bemerkungen :
+                                                                                                                            - keine Corona-Einschränkungen
+                                                                                                                            - Ukraine-Krieg
+                                                                                                                            - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                                             nachmittag 23ºC sonnig bis bewölkt, trocken
+
+                                         1.177     362    150    516                                                             Sph-Beginn:      7.30     Uhr und     15.00 Uhr
+                                                                                                                            SUMME Zufahrten: [FSp] :  1085 KFZ/h 8:00
+                                        2.205                                                                                                         1351 KFZ/h 15:30
+                                                                                                                                                          (NSp):
+                                                         1.028                                                                                   6h : 6642 KFZ
+                                                         SÜD                                                                max. Sph /Zufahrt: NORD :   68 KFZ/h 15:30
+                                                 Zum Jagenstein                                                                                            OST :        510 KFZ/h 8:00
+
+                                                                                                                               DATUM :                     SÜD :        245 KFZ/h 15:30
+                                                                                                      6h Werte 29.06.2023                                WEST :         587 KFZ/h 16:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 4330                                  H.-Mann-Allee/F.-Wolf-Str.
+
+
+       StromPlan4330kp6-23                                                  Seite 1
+       Landeshauptstadt Potsdam                                                                                                                                     03.08.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                           FAHRZEUG-VERTEILUNG
+                                                                                                                  Zufahrt: NORD OST SÜD WEST SUMME %
+                                            NORD                                                            RAD         FSp          29           39     29        26       123       10,2
+
+                                       F.-Wolf-Str.                                                                NSp              14     38             24    25          101        7,0
+                                                                                                                   6h              119    205            168   133          625        8,6
+                                             47          85                                                 NFZ    FSp               3    38             13    82          136        12,5
+                                                                                                                   NSp               7    34             22    92          155        11,5
+                                                                                                                   6h               28   237              82  379           726       10,9
+                                     9       22    16    38                                                 SV     FSp               0    12               0   11            23        2,1
+                                                                                                                   NSp               0      6              0     7           13        1,0
+                                                                                                                   6h                0     44              4    31           79        1,2
+                                                                                                            KFZ FSp                 47   510            108   420         1085         100
+                                                                                                                   NSp              68   466            245   572         1351         100
+
+
+
+
+        H.-Mann-Allee                                                                       H.-Mann-Allee
+                                                                                                                   6h              297 2715            1028 2602          6642         100
+                                                                                                            FZ     FSp              76   549            137   446         1208         100
+                        869   449                                         14                                       NSp              82   504            269   597         1452         100
+                              16                                          401   510   OST                          6h              416 2920            1196  2735          7267        100
+
+WEST                    420   332                                          95                               Q DTVw: 2,35          1452 12551           5182 12032
+                              72                                          409   919                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                            Bemerkungen :
+                                                                                                            - keine Corona-Einschränkungen
+                                                                                                            - Ukraine-Krieg
+                                                                                                            - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                             nachmittag 23ºC sonnig bis bewölkt, trocken
+                                     189     39    8     61                                                      Sph-Beginn:      7.30     Uhr und     15.00 Uhr
+                                                                                                            SUMME Zufahrten: [FSp] :  1085 KFZ/h 8:00
+                                     297                                                                                              1351 KFZ/h 15:30
+                                                                                                                                          (NSp):
+                                                   108                                                                           6h : 6642 KFZ
+                                                   SÜD                                                      max. Sph /Zufahrt: NORD :   68 KFZ/h 15:30
+                                           Zum Jagenstein                                                                                  OST :        510 KFZ/h 8:00
+
+                                                                                                               DATUM :                     SÜD :        245 KFZ/h 15:30
+                                                                                  1.085 KFZ/h 29.06.2023                                 WEST :         587 KFZ/h 16:00
+                                                              Kfz-Stromverteilung in der FSp 4330                                H.-Mann-Allee/F.-Wolf-Str.
+
+
+       StromPlan (FSp)4330kp6-23                                Seite 2
+       Landeshauptstadt Potsdam                                                                                                                                         03.08.2023
+       Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                             NORD                                                               RAD         FSp          29           39     29        26       123       10,2
+
+                                        F.-Wolf-Str.                                                                   NSp              14     38             24    25          101        7,0
+                                                                                                                       6h              119    205            168   133          625        8,6
+                                              68          143                                                   NFZ    FSp               3    38             13    82          136        12,5
+                                                                                                                       NSp               7    34             22    92          155        11,5
+                                                                                                                       6h               28   237              82  379           726       10,9
+                                      15      32    21    75                                                    SV     FSp               0    12               0   11            23        2,1
+                                                                                                                       NSp               0      6              0     7           13        1,0
+                                                                                                                       6h                0     44              4    31           79        1,2
+                                                                                                                KFZ FSp                 47   510            108   420         1085         100
+                                                                                                                       NSp              68   466            245   572         1351         100
+
+
+
+
+        H.-Mann-Allee                                                                           H.-Mann-Allee
+                                                                                                                       6h              297 2715            1028 2602          6642         100
+                                                                                                                FZ     FSp              76   549            137   446         1208         100
+                        1.027   455                                         16                                         NSp              82   504            269   597         1452         100
+                                24                                          355   466     OST                          6h              416 2920            1196  2735          7267        100
+
+WEST                    572     467                                          95                                 Q DTVw: 2,35          1452 12551           5182 12032
+                                81                                          613   1.079                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                Bemerkungen :
+                                                                                                                - keine Corona-Einschränkungen
+                                                                                                                - Ukraine-Krieg
+                                                                                                                - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                                 nachmittag 23ºC sonnig bis bewölkt, trocken
+                                      208     85    35    125                                                        Sph-Beginn:      7.30     Uhr und     15.00 Uhr
+                                                                                                                SUMME Zufahrten: [FSp] :  1085 KFZ/h 8:00
+                                      453                                                                                                 1351 KFZ/h 15:30
+                                                                                                                                              (NSp):
+                                                    245                                                                              6h : 6642 KFZ
+                                                    SÜD                                                         max. Sph /Zufahrt: NORD :   68 KFZ/h 15:30
+                                            Zum Jagenstein                                                                                     OST :        510 KFZ/h 8:00
+
+                                                                                                                   DATUM :                     SÜD :        245 KFZ/h 15:30
+                                                                                     1.351 KFZ/h 29.06.2023                                  WEST :         587 KFZ/h 16:00
+                                                                Kfz-Stromverteilung in der NSp 4330                                  H.-Mann-Allee/F.-Wolf-Str.
+
+
+       StromPlan (NSp)4330kp6-23                                  Seite 3
+

@@ -1,0 +1,173 @@
+        SVP, 461                                                                                                                                                                                               11.04.2016
+
+
+
+
+                                                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                            NORD                                                                                       Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                                                                                                  RAD    FSp    355   170   247                        127          899          20,4
+                                                    Lange Brücke                                                                                         NSp    274   106   231                        191          802          15,9
+                                                            9.776               17.196                                                                   6h    1420    682 1239                         720        4061          15,8
+                                                                                                                                                  NFZ    FSp 194      126   122                        104         546           15,6
+                                                                                                                                                         NSp 229      132    90                         54         505           11,9
+                                               76   5.254    2.417   2.029           7.420                                                               6h    1113   685   567                        427        2792           12,9
+                                                                                                                                                  SV     FSp     54    67    39                         38         198            5,7
+                                                                                                                                                         NSp     46    58    19                         23         146            3,4
+                                                                                                                                                         6h     335   353   150                        166        1004            4,6
+                                                                                                                                                  KFZ FSp 1546 589 654                                 710        3499           100
+
+
+
+
+       Leipziger Str.                                                                                                            F.-Engels-Str.
+                                                                                                                                                         NSp 2048     990   658                        541        4237           100
+                                                                                                                                                         6h    9776 4687 3661                         3581       21705           100
+                        3.694    113                                                                       1.974                                  FZ     FSp 1901     759   901                        837        4398           100
+                                2.339                                                                        37            OST                           NSp 2322 1096      889                        732        5039           100
+
+WEST
+                                                                                                                   4.687
+                                 972                                                                       2.508                                         6h   11196 5369 4900                         4301       25766           100
+                        3.581
+                                 184                                                                        168                                   Q DTVw: 2,5 42990 20095 16075                       9235
+                                 86                                                                        3.351   8.038                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                                                  Bemerkungen :
+                                                                                                                                                  - Zählung beinhaltet Busse zum Bahnhofsvorplatz (NL und WG)
+                                                                                                                                                  (nicht in Abf.OST enth., da nur bis Bhf.Vorpl. fahren!)
+                                                                                                                                                  - gez. Busse SR (zum Bhf.Vorpl.) nicht in Abfahrt NORD enth.,
+                                                                                                                                                    sind in SG enth. (berechn.), werden von dieser Richtung subtrahiert.
+
+                                          8         2.769            3.122           539                                                           -> SUMME Zufahrten u. SUMME Abfahrten mit Differenz von 63 Bussen
+                                        78                                                                                                        - Baustelle L40 (hohe Ströme zum Brauhausberg)
+                                           4
+                                               6.430                                                                                              - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                             3.661                                                                            Sph-Beginn:        7:30   Uhr und     15:30     Uhr
+                                                                     SÜD                                                                          SUMME Zufahrten: [FSp]:                3499 KFZ/h           8:00
+                                                    H.-Mann-Allee                                                                                       (NSp): 4237 KFZ/h                                     16:00
+                                                                                                                                                          6h : 21705 KFZ
+                                                                                                                                    max. Sph /Zufahrt: NORD : 2057 KFZ/h                                      15:30
+                                                                                                                                                         OST : 1001 KFZ/h                                     17:00
+                                                                                                                                     DATUM :             SÜD :   696 KFZ/h                                    7:30
+                                                                                                                           6h Werte 04.06.2015         WEST :    710 KFZ/h                                    8:00
+                                                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 410                                               Leipziger Dreieck
+
+
+
+        StromPlan410kp6-15.xls                                                                   Seite 1
+        SVP, 461                                                                                                                                                                                 11.04.2016
+
+
+
+
+                                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                      NORD                                                                               Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                                                                                    RAD    FSp    355   170   247                        127          899          20,4
+                                                Lange Brücke                                                                               NSp    274   106   231                        191          802          15,9
+                                                      1.546           2.852                                                                6h    1420    682 1239                         720        4061          15,8
+                                                                                                                                    NFZ    FSp 194      126   122                        104         546           15,6
+                                                                                                                                           NSp 229      132    90                         54         505           11,9
+                                           12   733    444    357         1.306                                                            6h    1113   685   567                        427        2792           12,9
+                                                                                                                                    SV     FSp     54    67    39                         38         198            5,7
+                                                                                                                                           NSp     46    58    19                         23         146            3,4
+                                                                                                                                           6h     335   353   150                        166        1004            4,6
+                                                                                                                                    KFZ FSp 1546 589 654                                 710        3499           100
+
+
+
+
+       Leipziger Str.                                                                                              F.-Engels-Str.
+                                                                                                                                           NSp 2048     990   658                        541        4237           100
+                                                                                                                                           6h    9776 4687 3661                         3581       21705           100
+                        723   13                                                               293                                  FZ     FSp 1901     759   901                        837        4398           100
+                              480                                                               1            OST                           NSp 2322 1096      889                        732        5039           100
+
+WEST
+                                                                                                     589
+                              186                                                              277                                         6h   11196 5369 4900                         4301       25766           100
+                        710
+                              26                                                               18                                   Q DTVw: 2,5 42990 20095 16075                       9235
+                              18                                                               634   1.223                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                                    Bemerkungen :
+                                                                                                                                    - Zählung beinhaltet Busse zum Bahnhofsvorplatz (NL und WG)
+                                                                                                                                    (nicht in Abf.OST enth., da nur bis Bhf.Vorpl. fahren!)
+                                                                                                                                    - gez. Busse SR (zum Bhf.Vorpl.) nicht in Abfahrt NORD enth.,
+                                                                                                                                      sind in SG enth. (berechn.), werden von dieser Richtung subtrahiert.
+                                                488           536         118                                                        -> SUMME Zufahrten u. SUMME Abfahrten mit Differenz von 63 Bussen
+                                      8                                                                                             - Baustelle L40 (hohe Ströme zum Brauhausberg)
+                                    10 2
+                                           1.142                                                                                    - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                    654                                                                         Sph-Beginn:        7:30   Uhr und     15:30     Uhr
+                                                              SÜD                                                                   SUMME Zufahrten: [FSp]:                3499 KFZ/h           8:00
+                                                H.-Mann-Allee                                                                           (NSp): 4237 KFZ/h                                       16:00
+                                                                                                                                          6h : 21705 KFZ
+                                                                                                                    max. Sph /Zufahrt: NORD : 2057 KFZ/h                                        15:30
+                                                                                                                                         OST : 1001 KFZ/h                                       17:00
+                                                                                                                     DATUM :             SÜD :   696 KFZ/h                                      7:30
+                                                                                                        3.499 KFZ/h 04.06.2015         WEST :    710 KFZ/h                                      8:00
+                                                                                  Kfz-Stromverteilung in der FSp 410                                               Leipziger Dreieck
+
+
+
+        StromPlanFSP410kp6-15.xls                                                    Seite 2
+        SVP, 461                                                                                                                                                                                   11.04.2016
+
+
+
+
+                                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                        NORD                                                                               Zufahrt: NORD OST SÜD WEST SUMME %
+                                                                                                                                      RAD    FSp    355   170   247                        127          899          20,4
+                                                Lange Brücke                                                                                 NSp    274   106   231                        191          802          15,9
+                                                        2.048           3.330                                                                6h    1420    682 1239                         720        4061          15,8
+                                                                                                                                      NFZ    FSp 194      126   122                        104         546           15,6
+                                                                                                                                             NSp 229      132    90                         54         505           11,9
+                                           10   1.212    470    356         1.282                                                            6h    1113   685   567                        427        2792           12,9
+                                                                                                                                      SV     FSp     54    67    39                         38         198            5,7
+                                                                                                                                             NSp     46    58    19                         23         146            3,4
+                                                                                                                                             6h     335   353   150                        166        1004            4,6
+                                                                                                                                      KFZ FSp 1546 589 654                                 710        3499           100
+
+
+
+
+       Leipziger Str.                                                                                                F.-Engels-Str.
+                                                                                                                                             NSp 2048     990   658                        541        4237           100
+                                                                                                                                             6h    9776 4687 3661                         3581       21705           100
+                        556   15                                                                 358                                  FZ     FSp 1901     759   901                        837        4398           100
+                              349                                                                 5            OST                           NSp 2322 1096      889                        732        5039           100
+
+WEST
+                                                                                                       990
+                              147                                                                595                                         6h   11196 5369 4900                         4301       25766           100
+                        541
+                              33                                                                 32                                   Q DTVw: 2,5 42990 20095 16075                       9235
+                              12                                                                 550   1.540                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                                                                      Bemerkungen :
+                                                                                                                                      - Zählung beinhaltet Busse zum Bahnhofsvorplatz (NL und WG)
+                                                                                                                                      (nicht in Abf.OST enth., da nur bis Bhf.Vorpl. fahren!)
+                                                                                                                                      - gez. Busse SR (zum Bhf.Vorpl.) nicht in Abfahrt NORD enth.,
+                                                                                                                                        sind in SG enth. (berechn.), werden von dieser Richtung subtrahiert.
+                                                535             577         81                                                         -> SUMME Zufahrten u. SUMME Abfahrten mit Differenz von 63 Bussen
+                                      9                                                                                               - Baustelle L40 (hohe Ströme zum Brauhausberg)
+                                    18 1
+                                           1.193                                                                                      - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                      658                                                                         Sph-Beginn:        7:30   Uhr und     15:30     Uhr
+                                                                SÜD                                                                   SUMME Zufahrten: [FSp]:                3499 KFZ/h           8:00
+                                                H.-Mann-Allee                                                                             (NSp): 4237 KFZ/h                                       16:00
+                                                                                                                                            6h : 21705 KFZ
+                                                                                                                      max. Sph /Zufahrt: NORD : 2057 KFZ/h                                        15:30
+                                                                                                                                           OST : 1001 KFZ/h                                       17:00
+                                                                                                                       DATUM :             SÜD :   696 KFZ/h                                      7:30
+                                                                                                          4.237 KFZ/h 04.06.2015         WEST :    710 KFZ/h                                      8:00
+                                                                                    Kfz-Stromverteilung in der NSp 410                                               Leipziger Dreieck
+
+
+
+        StromPlanNSP410kp6-15.xls                                                      Seite 3
+

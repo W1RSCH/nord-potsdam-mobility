@@ -1,0 +1,141 @@
+SVP, 461                                                                                                                                                                   13.10.2016
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                Zufahrt: NORD OST SÜD   WG SUMME %
+                                                                                                           RAD         FSp          60           60    103         7        261      14,4
+                                     NORD                                                                         NSp     79                  56    61             17       238      12,0
+                         Neuendorfer Str.                                                                         6h     399                 303   387            200      1289      12,0
+                                                                                                           NFZ    FSp     77                 53    85                       215      13,9
+                                  4.100                                                                           NSp     77                 44    66                       187      10,7
+                                                 7.609                                                            6h     432                247   393                      1072      11,3
+                                                                                                           SV     FSp     29                 27    26                        82       5,3
+
+                          3.616       484         3.509                                                           NSp     25                 20    15                        60       3,4
+                                                                                                                  6h     140                119   125                       384       4,1
+                                                                                                           KFZ FSp 591                      320   639                     1550       100
+                                                                                                                  NSp 785                   377   589                     1751       100
+                                                                                                                  6h    4100               2019 3331                       9450      100
+                                                                                                           FZ     FSp    651                380   742               7      1811      100
+
+
+
+
+                                                                                             Galileistr.
+                                                                                                                  NSp    864                433   650              17      1989      100
+                                                                      910                                         6h    4499               2322 3718              200     10739      100
+                                                                             2019
+                                                                      1109             OST                 Q DTVw: 2,4 17881               7602 18932
+                                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                      1216   3235                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                           Bemerkungen :
+                                                                                                           - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuendorf. Str.,
+                                                                                                            beide Richtungen je eine Fahrspur
+                                                                                                           - zwischen 16.00 und 17.00 Uhr Unfall auf der L40
+
+                          4.725       2.599       732                                                      - Wetter früh 19ºC sonnig; nachmittag 34ºC sonnig
+                                                                                                               Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+                         8.056                                                                             SUMME Zufahrten: FSp :                     1550 KFZ/h 7:30
+                                              3.331                                                                         NSp :                     1751 KFZ/h 16:00
+                                      SÜD                                                                                                   6h :      9450 KFZ
+                         Neuendorfer Str.                                                                  max. Sph /Zufahrt: NORD                     801 KFZ/h 16:30
+                                                                                                                                           OST         414 KFZ/h 17:00
+
+                                                                                                             DATUM :                       SÜD         639 KFZ/h 7:30
+                                                                                        6h Werte 02.07.2015
+                                                      von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 720                           Galileistr./Neuendorfer Str.
+StromPlan720kp7-15.xls                                                       Seite 1
+SVP, 461                                                                                                                                                           13.10.2016
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                        Zufahrt: NORD OST SÜD   WG SUMME %
+                                                                                                   RAD         FSp          60           60    103         7        261      14,4
+                                 NORD                                                                     NSp              79         56         61        17       238      12,0
+                        Neuendorfer Str.                                                                  6h              399        303        387       200      1289      12,0
+                                                                                                   NFZ    FSp             77         53         85                  215      13,9
+                               591                                                                        NSp             77         44         66                  187      10,7
+                                             1.262                                                        6h             432        247        393                 1072      11,3
+                                                                                                   SV     FSp             29         27         26                   82       5,3
+                         512         79          671                                                      NSp             25         20         15                   60       3,4
+                                                                                                          6h             140        119        125                  384       4,1
+                                                                                                   KFZ FSp               591        320        639                1550       100
+                                                                                                          NSp            785        377        589                1751       100
+                                                                                                          6h            4100       2019       3331                 9450      100
+                                                                                                   FZ     FSp            651        380        742          7      1811      100
+
+
+
+
+                                                                                     Galileistr.
+                                                                                                          NSp            864        433        650         17      1989      100
+                                                              132                                         6h            4499       2322       3718        200     10739      100
+                                                                     320
+                                                              188              OST                 Q DTVw: 2,4          2966       1173       3147
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                              179    499                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuendorf. Str.,
+                                                                                                    beide Richtungen je eine Fahrspur
+                                                                                                   - zwischen 16.00 und 17.00 Uhr Unfall auf der L40
+                         700         539         100                                               - Wetter früh 19ºC sonnig; nachmittag 34ºC sonnig
+                                                                                                       Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+                        1.339                                                                      SUMME Zufahrten: FSp :                     1550 KFZ/h 7:30
+                                           639                                                                      NSp :                     1751 KFZ/h 16:00
+                                 SÜD                                                                                                6h :      9450 KFZ
+                        Neuendorfer Str.                                                           max. Sph /Zufahrt: NORD                     801 KFZ/h 16:30
+                                                                                                                                   OST         414 KFZ/h 17:00
+
+                                                                                                     DATUM :                       SÜD         639 KFZ/h 7:30
+                                                                          1.550 KFZ/h 02.07.2015
+                                                       Kfz-Stromverteilung in der FSp 720                             Galileistr./Neuendorfer Str.
+StromPlan (FSp)720kp7-15.xls                                         Seite 2
+SVP, 461                                                                                                                                                           13.10.2016
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                        Zufahrt: NORD OST SÜD   WG SUMME %
+                                                                                                   RAD         FSp          60           60    103         7        261      14,4
+                                 NORD                                                                     NSp              79         56         61        17       238      12,0
+                        Neuendorfer Str.                                                                  6h              399        303        387       200      1289      12,0
+                                                                                                   NFZ    FSp             77         53         85                  215      13,9
+                               785                                                                        NSp             77         44         66                  187      10,7
+                                             1.399                                                        6h             432        247        393                 1072      11,3
+                                                                                                   SV     FSp             29         27         26                   82       5,3
+                         672         113         614                                                      NSp             25         20         15                   60       3,4
+                                                                                                          6h             140        119        125                  384       4,1
+                                                                                                   KFZ FSp               591        320        639                1550       100
+                                                                                                          NSp            785        377        589                1751       100
+                                                                                                          6h            4100       2019       3331                 9450      100
+                                                                                                   FZ     FSp            651        380        742          7      1811      100
+
+
+
+
+                                                                                     Galileistr.
+                                                                                                          NSp            864        433        650         17      1989      100
+                                                               176                                        6h            4499       2322       3718        200     10739      100
+                                                                     377
+                                                               201             OST                 Q DTVw: 2,4          3288       1506       3436
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                               264   641                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuendorf. Str.,
+                                                                                                    beide Richtungen je eine Fahrspur
+                                                                                                   - zwischen 16.00 und 17.00 Uhr Unfall auf der L40
+                         873         438         151                                               - Wetter früh 19ºC sonnig; nachmittag 34ºC sonnig
+                                                                                                       Sph-Beginn:      7:00     Uhr und      15:30 Uhr
+                        1.462                                                                      SUMME Zufahrten: FSp :                     1550 KFZ/h 7:30
+                                           589                                                                      NSp :                     1751 KFZ/h 16:00
+                                 SÜD                                                                                                6h :      9450 KFZ
+                        Neuendorfer Str.                                                           max. Sph /Zufahrt: NORD                     801 KFZ/h 16:30
+                                                                                                                                   OST         414 KFZ/h 17:00
+
+                                                                                                     DATUM :                       SÜD         639 KFZ/h 7:30
+                                                                          1.751 KFZ/h 02.07.2015
+                                                       Kfz-Stromverteilung in der NSp 720                             Galileistr./Neuendorfer Str.
+StromPlan (NSp)720kp7-15.xls                                         Seite 3
+

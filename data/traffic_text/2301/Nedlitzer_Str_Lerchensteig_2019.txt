@@ -1,0 +1,159 @@
+Landeshauptstadt Potsdam                                                                                                                                          15.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                      NORD                                            Zufahrt: NORD SÜD WEST     SUMME %
+                                         Nedlitzer Str.                                          RAD    FSp     67     23                    6                    96      5,5
+                                                                                                        NSp     32     34                    1                    67      3,5
+                                                   4.636                                                6h     211    153                   14                   378      3,8
+                                                                   9.307                         NFZ    FSp 151      103                   10                   264      16,0
+                                                                                                        NSp 108      124                     8                  240      13,0
+                                           100             4.536    4.671                               6h     711   640                   48                  1399      14,7
+                                                                                                 SV     FSp     47    31                     7                    85      5,1
+                                                                                                        NSp     30    31                     2                    63      3,4
+                                                                                                        6h     219   234                   20                    473      5,0
+                                                                                                 KFZ FSp 1003 602                          50                  1655       100
+                                                                                                        NSp 713 1091                       48                  1852       100
+
+
+
+
+              Lerchensteig
+                                                                                                        6h    4636 4636                   224                  9496       100
+                             402   178                                                           FZ     FSp 1070     625                   56                  1751       100
+                                   113                                                                  NSp    745 1125                    49                  1919       100
+
+       WEST
+                             224                                                                        6h    4847 4789                   238                   9874      100
+                                   111
+                                                                                                 Q DTVw:2,35 21871 21815                  945
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                                                                                 - Teilzählung - Zuf. NG + Zuf. SG durch KP230 errechnet
+                                                                                                 - Wetter früh 3°C leicht bewölkt, sonnig; nachm. 7ºC bewölkt, trocken
+
+                                           4.647           78       4.558                            Sph-Beginn:      7.00     Uhr und   16.00 Uhr
+                                                                                                 SUMME Zufahrten: [FSp]: 1655 KFZ/h 7:30
+                                          9.283                                                                     (NSp): 1852 KFZ/h 16:30
+                                                          4.636                                                       6h : 9496 KFZ
+                                                       SÜD                                       max. Sph /Zufahrt: NORD 1003 KFZ/h 7:30
+
+                                         Nedlitzer Str.                                                                         SÜD      1091 KFZ/h 16:30
+                                                                                                   DATUM :                     WEST        50 KFZ/h 7:30
+                                                                                      6h Werte    11.04.2019
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 2301                           Nedlitzer Str./Lerchensteig
+
+
+
+StromPlan2301kp4-19.xls                                                     Seite 1
+Landeshauptstadt Potsdam                                                                                                                                            15.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                    NORD                                                Zufahrt: NORD SÜD WEST     SUMME %
+                                       Nedlitzer Str.                                              RAD    FSp     67     23                    6                    96      5,5
+                                                                                                          NSp     32     34                    1                    67      3,5
+                                                 1.003                                                    6h     211    153                   14                   378      3,8
+                                                                 1.614                             NFZ    FSp 151      103                   10                   264      16,0
+                                                                                                          NSp 108      124                     8                  240      13,0
+                                         14              989         611                                  6h     711   640                   48                  1399      14,7
+                                                                                                   SV     FSp     47    31                     7                    85      5,1
+                                                                                                          NSp     30    31                     2                    63      3,4
+                                                                                                          6h     219   234                   20                    473      5,0
+                                                                                                   KFZ FSp 1003 602                          50                  1655       100
+                                                                                                          NSp 713 1091                       48                  1852       100
+
+
+
+
+              Lerchensteig
+                                                                                                          6h    4636 4636                   224                  9496       100
+                             74   24                                                               FZ     FSp 1070     625                   56                  1751       100
+                                  19                                                                      NSp    745 1125                    49                  1919       100
+
+       WEST
+                             50                                                                           6h    4847 4789                   238                   9874      100
+                                  31
+                                                                                                   Q DTVw:2,35 21871 21815                  945
+                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Teilzählung - Zuf. NG + Zuf. SG durch KP230 errechnet
+                                                                                                   - Wetter früh 3°C leicht bewölkt, sonnig; nachm. 7ºC bewölkt, trocken
+
+                                         1.020           10          592                               Sph-Beginn:      7.00     Uhr und   16.00 Uhr
+                                                                                                   SUMME Zufahrten: [FSp]: 1655 KFZ/h 7:30
+                                        1.622                                                                         (NSp): 1852 KFZ/h 16:30
+                                                               602                                                      6h : 9496 KFZ
+                                                     SÜD                                           max. Sph /Zufahrt: NORD 1003 KFZ/h 7:30
+
+                                       Nedlitzer Str.                                                                             SÜD      1091 KFZ/h 16:30
+                                                                                                     DATUM :                     WEST        50 KFZ/h 7:30
+                                                                                     1.655 KFZ/h    11.04.2019
+                                                           Kfz-Stromverteilung in der FSp 2301                        Nedlitzer Str./Lerchensteig
+
+
+
+StromPlan (FSp)2301kp4-19.xls                                              Seite 2
+Landeshauptstadt Potsdam                                                                                                                                         15.01.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                 NORD                                                Zufahrt: NORD SÜD WEST     SUMME %
+                                       Nedlitzer Str.                                           RAD    FSp     67     23                    6                    96      5,5
+                                                                                                       NSp     32     34                    1                    67      3,5
+                                               713                                                     6h     211    153                   14                   378      3,8
+                                                            1.813                               NFZ    FSp 151      103                   10                   264      16,0
+                                                                                                       NSp 108      124                     8                  240      13,0
+                                         18          695        1.100                                  6h     711   640                   48                  1399      14,7
+                                                                                                SV     FSp     47    31                     7                    85      5,1
+                                                                                                       NSp     30    31                     2                    63      3,4
+                                                                                                       6h     219   234                   20                    473      5,0
+                                                                                                KFZ FSp 1003 602                          50                  1655       100
+                                                                                                       NSp 713 1091                       48                  1852       100
+
+
+
+
+              Lerchensteig
+                                                                                                       6h    4636 4636                   224                  9496       100
+                             82   34                                                            FZ     FSp 1070     625                   56                  1751       100
+                                  25                                                                   NSp    745 1125                    49                  1919       100
+
+       WEST
+                             48                                                                        6h    4847 4789                   238                   9874      100
+                                  23
+                                                                                                Q DTVw:2,35 21871 21815                  945
+                                                                                                Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                Bemerkungen :
+                                                                                                - Teilzählung - Zuf. NG + Zuf. SG durch KP230 errechnet
+                                                                                                - Wetter früh 3°C leicht bewölkt, sonnig; nachm. 7ºC bewölkt, trocken
+                                         718         16         1.075                               Sph-Beginn:      7.00     Uhr und   16.00 Uhr
+                                                                                                SUMME Zufahrten: [FSp]: 1655 KFZ/h 7:30
+                                        1.809                                                                      (NSp): 1852 KFZ/h 16:30
+                                                        1.091                                                        6h : 9496 KFZ
+                                                     SÜD                                        max. Sph /Zufahrt: NORD 1003 KFZ/h 7:30
+
+                                       Nedlitzer Str.                                                                          SÜD      1091 KFZ/h 16:30
+                                                                                                  DATUM :                     WEST        50 KFZ/h 7:30
+                                                                                  1.852 KFZ/h    11.04.2019
+                                                       Kfz-Stromverteilung in der NSp 2301                         Nedlitzer Str./Lerchensteig
+
+
+
+StromPlan (NSp)2301kp4-19.xls                                           Seite 3
+

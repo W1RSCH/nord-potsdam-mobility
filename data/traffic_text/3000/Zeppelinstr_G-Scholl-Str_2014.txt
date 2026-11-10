@@ -1,0 +1,179 @@
+       SVP, 461                                                                                                                                                                              11.08.2015
+
+
+
+
+                                                                                                                                                    FAHRZEUG-VERTEILUNG
+                                                                                                                                                    NORD OST SÜD      SUMME %
+                                               NORD                                                                             RAD          FSp        143          14        278                       435        14,6
+
+                                         Zeppelinstr.                                                                                        NSp        373          23        149                       545        14,5
+
+                                                                        15.173                                                               6h        1276           86      1146                      2508        13,7
+                                                        8.263                                                                   NFZ          FSp 209                10  118                             337         13,3
+                                                                                                                                             NSp 231                14  128                             373         11,6
+                                                                                                                                             6h  1157                64  783                           2004         12,7
+
+                                                2.116           6.147    6.910
+                           Sellostr.                                                                                            SV           FSp    75                4   47                            126          5,0
+                                                                                                                                             NSp    67                0   26                             93          2,9
+                                 187                                                                                                         6h    357               13  218                            588          3,7
+                                                                                                                                KFZ          FSp 1132               89 1314                            2535         100
+                                                                                                                                             NSp 1853              112 1239                            3204         100
+
+
+
+
+                                                                                                              Auf dem Kiewitt
+                                                                                                                                             6h  8271              612 6861                           15744         100
+
+
+
+
+       G.-Scholl-Str.
+                                                                                                                                FZ           FSp 1275              103 1592                            2970         100
+                                                                                           405                                               NSp 2226              135 1388                            3749         100
+                                                                                            68    612   OST                                  6h   9547              698 8007                          18252         100
+
+West
+                                                                                           139                                  Bemerkungen :
+                                       2.184                                               364   976                            - Zähler kann für Korrektheit von NG und NR nicht garantieren !
+
+                                                                                                                                - im Stromplan sind 8 unzulässige Nordlinks-Abb. NICHT enthalten
+                                                                                                                                - Wetter früh 14ºC bewölkt, trocken; nachmittag 22ºC leicht bewölkt, sonst sonnig
+
+
+
+
+                                                                                                                                     Sph-Beginn:       7.30     Uhr und     16.00 Uhr
+                         2.371                                                                                                  SUMME Zufahrten: FSp : 2535 KFZ/h                                  8:00
+                                                6.286           6.505    356                                                                       NSp : 3204 KFZ/h                                16:30
+                                                                                                                                                     6h : 15744 KFZ
+                                               13.147                                                                           max. Sph /Zufahrt: NORD 1853 KFZ/h                                 16:30
+                                                               6.861                                                                                OST     121 KFZ/h                              16:00
+                                                            SÜD                                                                  DATUM :            SÜD 1340 KFZ/h                                 7:30
+                                               Zeppelinstr.                                                                     08.05.2014
+                                                                                                                                  300                Zeppelinstr./G.-Scholl-Str.
+
+
+
+       StromPlan300kp5-14.xls                                                    Seite 1
+       SVP, 461                                                                                                                                                                               11.08.2015
+
+
+
+
+                                                                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                                                                     NORD OST SÜD      SUMME %
+                                                 NORD                                                                            RAD          FSp        143          14        278                       435        14,6
+
+                                            Zeppelinstr.                                                                                      NSp        373          23        149                       545        14,5
+
+                                                                        2.475                                                                 6h        1276           86      1146                      2508        13,7
+                                                        1.132                                                                    NFZ          FSp 209                10  118                             337         13,3
+                                                                                                                                              NSp 231                14  128                             373         11,6
+                                                                                                                                              6h  1157                64  783                           2004         12,7
+                                                  330           802      1.343
+                            Sellostr.                                                                                            SV           FSp    75                4   47                            126          5,0
+                                                                                                                                              NSp    67                0   26                             93          2,9
+                                      38                                                                                                      6h    357               13  218                            588          3,7
+                                                                                                                                 KFZ          FSp 1132               89 1314                            2535         100
+                                                                                                                                              NSp 1853              112 1239                            3204         100
+
+
+
+
+                                                                                                               Auf dem Kiewitt
+                                                                                                                                              6h  8271              612 6861                           15744         100
+
+
+
+
+       G.-Scholl-Str.
+                                                                                                                                 FZ           FSp 1275              103 1592                            2970         100
+                                                                                             64                                               NSp 2226              135 1388                            3749         100
+                                                                                              7     89   OST                                  6h   9547              698 8007                          18252         100
+
+West
+                                                                                             18                                  Bemerkungen :
+                                           337                                               35   124                            - Zähler kann für Korrektheit von NG und NR nicht garantieren !
+
+                                                                                                                                 - im Stromplan sind 8 unzulässige Nordlinks-Abb. NICHT enthalten
+                                                                                                                                 - Wetter früh 14ºC bewölkt, trocken; nachmittag 22ºC leicht bewölkt, sonst sonnig
+
+
+
+
+                                                                                                                                      Sph-Beginn:       7.30     Uhr und     16.00 Uhr
+                          375                                                                                                    SUMME Zufahrten: FSp : 2535 KFZ/h                                  8:00
+                                                  820           1.279    35                                                                         NSp : 3204 KFZ/h                                16:30
+                                                                                                                                                      6h : 15744 KFZ
+                                                 2.134                                                                           max. Sph /Zufahrt: NORD 1853 KFZ/h                                 16:30
+                                                               1.314                                                                                 OST     121 KFZ/h                              16:00
+                                                            SÜD                                                                   DATUM :            SÜD 1340 KFZ/h                                 7:30
+                                                 Zeppelinstr.                                       2.535 KFZ/h 08.05.2014
+                                                                                 Kfz-Stromverteilung in der FSp 300                                   Zeppelinstr./G.-Scholl-Str.
+
+
+
+       StromPlan (FSp)300kp5-14.xls                                                Seite 2
+       SVP, 461                                                                                                                                                                                 11.08.2015
+
+
+
+
+                                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                                                                       NORD OST SÜD      SUMME %
+                                                 NORD                                                                              RAD          FSp        143          14        278                       435        14,6
+
+                                            Zeppelinstr.                                                                                        NSp        373          23        149                       545        14,5
+
+                                                                          3.077                                                                 6h        1276           86      1146                      2508        13,7
+                                                          1.853                                                                    NFZ          FSp 209                10  118                             337         13,3
+                                                                                                                                                NSp 231                14  128                             373         11,6
+                                                                                                                                                6h  1157                64  783                           2004         12,7
+                                                  501             1.352    1.224
+                           Sellostr.                                                                                               SV           FSp    75                4   47                            126          5,0
+                                                                                                                                                NSp    67                0   26                             93          2,9
+                                      31                                                                                                        6h    357               13  218                            588          3,7
+                                                                                                                                   KFZ          FSp 1132               89 1314                            2535         100
+                                                                                                                                                NSp 1853              112 1239                            3204         100
+
+
+
+
+                                                                                                                 Auf dem Kiewitt
+                                                                                                                                                6h  8271              612 6861                           15744         100
+
+
+
+
+       G.-Scholl-Str.
+                                                                                                                                   FZ           FSp 1275              103 1592                            2970         100
+                                                                                               71                                               NSp 2226              135 1388                            3749         100
+                                                                                               16    112   OST                                  6h   9547              698 8007                          18252         100
+
+West
+                                                                                               25                                  Bemerkungen :
+                                           517                                                 86   198                            - Zähler kann für Korrektheit von NG und NR nicht garantieren !
+
+                                                                                                                                   - im Stromplan sind 8 unzulässige Nordlinks-Abb. NICHT enthalten
+                                                                                                                                   - Wetter früh 14ºC bewölkt, trocken; nachmittag 22ºC leicht bewölkt, sonst sonnig
+
+
+
+
+                                                                                                                                        Sph-Beginn:       7.30     Uhr und     16.00 Uhr
+                          548                                                                                                      SUMME Zufahrten: FSp : 2535 KFZ/h                                  8:00
+                                                  1.377           1.153    86                                                                         NSp : 3204 KFZ/h                                16:30
+                                                                                                                                                        6h : 15744 KFZ
+                                                 2.616                                                                             max. Sph /Zufahrt: NORD 1853 KFZ/h                                 16:30
+                                                                 1.239                                                                                 OST     121 KFZ/h                              16:00
+                                                              SÜD                                                                   DATUM :            SÜD 1340 KFZ/h                                 7:30
+                                                 Zeppelinstr.                                         3.204 KFZ/h 08.05.2014
+                                                                                   Kfz-Stromverteilung in der NSp 300                                   Zeppelinstr./G.-Scholl-Str.
+
+
+
+       StromPlan (NSp)300kp5-14.xls                                                  Seite 3
+

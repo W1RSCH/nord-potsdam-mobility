@@ -1,0 +1,150 @@
+SVP, 461                                                                                                                                                                          06.07.2016
+
+                                                                                                                                  FAHRZEUG-VERTEILUNG
+                                                                                                                                  NORD OST SÜD      SUMME %
+                                                                                                               RAD         FSp          10            0      16                  26      1,9
+                                                                                                                           NSp          37            0      25                  62      3,3
+                                     NORD                                                                                  6h          153           10     158                 321      3,6
+
+                          Zeppelinstr.                                                                         NFZ    FSp     95                   9    90                     194      14,1
+                                                                                                                      NSp 143                      2    57                     202      11,0
+                                  3.987                                                                               6h     640                  14   422                    1076      12,4
+                                              8.441                                                            SV     FSp     29                   4    35                       68      4,9
+                                                                                                                      NSp     63                   1    23                       87      4,7
+
+                          3.665       322      4.454
+                                                                                                                      6h     274                   6   141                      421      4,9
+                                                                                                               KFZ FSp 547                        43   789                    1379       100
+                                                                                                                      NSp 1091                    81   661                    1833       100
+
+
+
+
+                                                                                          An der Pirschheide
+                                                                                                                      6h    3987                 346 4331                     8664       100
+                                                                                                               FZ     FSp    557                  43   805                    1405       100
+                                                                                                                      NSp 1128                    81   686                    1895       100
+                                                                                                                      6h    4140                 356 4489                      8985      100
+                                                                   267                                         Q DTVw: 2,4 19836                1908 18976
+                                                                          346
+                                                                   79               OST                        Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                   466    812                                  Bemerkungen :
+
+                                                                                                               - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                                Verkehr
+                                                                                                               - Teilz. - Zuf. NG+SG durch KP314 errechnet
+                                                                                                               - Baustelle auf Ostseite - beide Fahrspuren eingeengt -
+
+                          3.744       4.187    144                                                              falschfahrende Räder nur auf Westseite
+                                                                                                               - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                         8.075                                                                                 Sph-Beginn:           9:00    Uhr und      15:00   Uhr
+                                        4.331                                                                  SUMME Zufahrten: FSp :                     1379 KFZ/h 9:30
+                                      SÜD                                                                                       NSp :                     1833 KFZ/h 15:30
+                          Zeppelinstr.                                                                                              6h :                  8664 KFZ
+                                                                                                               max. Sph /Zufahrt: NORD                    1091 KFZ/h 15:30
+                                                                                                                                   OST                     120 KFZ/h 17:00
+                                                                                                                DATUM :            SÜD                     830 KFZ/h 9:00
+                                                                                     6h Werte 21.04.2016
+                                                   von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 315                                 Zeppelinstr.(B1)/An der Pirschheide
+StromPlan315kp4-16.xls                                                    Seite 1
+SVP, 461                                                                                                                                                                        06.07.2016
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                NORD OST SÜD      SUMME %
+                                                                                                             RAD         FSp          10            0      16                  26      1,9
+                                                                                                                         NSp          37            0      25                  62      3,3
+                                        NORD                                                                             6h          153           10     158                 321      3,6
+
+                                Zeppelinstr.                                                                 NFZ    FSp     95                   9    90                     194      14,1
+                                                                                                                    NSp 143                      2    57                     202      11,0
+                                      547                                                                           6h     640                  14   422                    1076      12,4
+                                                  1.320                                                      SV     FSp     29                   4    35                       68      4,9
+                                                                                                                    NSp     63                   1    23                       87      4,7
+                                433         114    773                                                              6h     274                   6   141                      421      4,9
+                                                                                                             KFZ FSp 547                        43   789                    1379       100
+                                                                                                                    NSp 1091                    81   661                    1833       100
+
+
+
+
+                                                                                        An der Pirschheide
+                                                                                                                    6h    3987                 346 4331                     8664       100
+                                                                                                             FZ     FSp    557                  43   805                    1405       100
+                                                                                                                    NSp 1128                    81   686                    1895       100
+                                                                                                                    6h    4140                 356 4489                      8985      100
+                                                                  39                                         Q DTVw: 2,4 19836                1908 18976
+                                                                         43
+                                                                   4              OST                        Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                 169    212                                  Bemerkungen :
+
+                                                                                                             - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                              Verkehr
+                                                                                                             - Teilz. - Zuf. NG+SG durch KP314 errechnet
+                                                                                                             - Baustelle auf Ostseite - beide Fahrspuren eingeengt -
+                                437         734    55                                                         falschfahrende Räder nur auf Westseite
+                                                                                                             - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                               1.226                                                                         Sph-Beginn:           9:00    Uhr und      15:00   Uhr
+                                           789                                                               SUMME Zufahrten: FSp :                     1379 KFZ/h 9:30
+                                        SÜD                                                                                   NSp :                     1833 KFZ/h 15:30
+                                Zeppelinstr.                                                                                      6h :                  8664 KFZ
+                                                                                                             max. Sph /Zufahrt: NORD                    1091 KFZ/h 15:30
+                                                                                                                                 OST                     120 KFZ/h 17:00
+                                                                                                              DATUM :            SÜD                     830 KFZ/h 9:00
+                                                                              1.379 KFZ/h 21.04.2016
+                                                          Kfz-Stromverteilung in der FSp 315                                   Zeppelinstr.(B1)/An der Pirschheide
+StromPlan (FSp)315kp4-16.xls                                            Seite 2
+SVP, 461                                                                                                                                                                        06.07.2016
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                NORD OST SÜD      SUMME %
+                                                                                                             RAD         FSp          10            0      16                  26      1,9
+                                                                                                                         NSp          37            0      25                  62      3,3
+                                          NORD                                                                           6h          153           10     158                 321      3,6
+
+                               Zeppelinstr.                                                                  NFZ    FSp     95                   9    90                     194      14,1
+                                                                                                                    NSp 143                      2    57                     202      11,0
+                                       1.091                                                                        6h     640                  14   422                    1076      12,4
+                                                 1.797                                                       SV     FSp     29                   4    35                       68      4,9
+                                                                                                                    NSp     63                   1    23                       87      4,7
+
+                               1.066       25       706                                                             6h     274                   6   141                      421      4,9
+                                                                                                             KFZ FSp 547                        43   789                    1379       100
+                                                                                                                    NSp 1091                    81   661                    1833       100
+
+
+
+
+                                                                                        An der Pirschheide
+                                                                                                                    6h    3987                 346 4331                     8664       100
+                                                                                                             FZ     FSp    557                  43   805                    1405       100
+                                                                                                                    NSp 1128                    81   686                    1895       100
+                                                                                                                    6h    4140                 356 4489                      8985      100
+                                                                  57                                         Q DTVw: 2,4 19836                1908 18976
+                                                                         81
+                                                                  24              OST                        Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                  37    118                                  Bemerkungen :
+
+                                                                                                             - durch Baustelle auf A10 im ganzen Stadtgebiet sehr zähfließender
+                                                                                                              Verkehr
+                                                                                                             - Teilz. - Zuf. NG+SG durch KP314 errechnet
+                                                                                                             - Baustelle auf Ostseite - beide Fahrspuren eingeengt -
+
+                               1.090       649      12                                                        falschfahrende Räder nur auf Westseite
+                                                                                                             - Wetter früh 2ºC sonnig; nachmittag 12ºC leicht bewölkt, sonnig
+                           1.751                                                                             Sph-Beginn:           9:00    Uhr und      15:00   Uhr
+                                              661                                                            SUMME Zufahrten: FSp :                     1379 KFZ/h 9:30
+                                           SÜD                                                                                NSp :                     1833 KFZ/h 15:30
+                               Zeppelinstr.                                                                                       6h :                  8664 KFZ
+                                                                                                             max. Sph /Zufahrt: NORD                    1091 KFZ/h 15:30
+                                                                                                                                 OST                     120 KFZ/h 17:00
+                                                                                                              DATUM :            SÜD                     830 KFZ/h 9:00
+                                                                              1.833 KFZ/h 21.04.2016
+                                                          Kfz-Stromverteilung in der NSp 315                                   Zeppelinstr.(B1)/An der Pirschheide
+StromPlan (NSp)315kp4-16.xls                                            Seite 3
+

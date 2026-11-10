@@ -1,0 +1,160 @@
+             SVP, 461                                                                                                                                                        11.04.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                         NORD OST SÜD WEST SUMME %
+                                                 NORD                                                                 RAD    FSp                8    32          39   12                91      6,3
+                                                                                                                             NSp                4    31           3     9               47      2,8
+                                       J.-R.-Becher-Str.                                                                     6h                35   187          86    93              401      4,7
+                                                 191          295                                                     NFZ    FSp                6   86            9   53              154      11,5
+                                                                                                                             NSp                0   60            4   81              145       8,9
+                                                                                                                             6h               12   368           51  348               779      9,7
+                                         122      56    13    104                                                     SV     FSp                1   17            2   11                31      2,3
+                                                                                                                             NSp                0   11            0     7               18      1,1
+                                                                                                                             6h                 2    62           5   57               126      1,6
+                                                                                                                      KFZ FSp                 44   583         112   605             1344       100
+                                                                                                                             NSp              37   563         129   905             1634       100
+
+
+
+
+       H.-Mann-Allee                                                                                  H.-Mann-Allee
+                                                                                                                             6h              191 3292          693 3879              8055       100
+                                                                                                                      FZ     FSp              52   615         151   617             1435       100
+                       7.659   3.780                                                 16                                      NSp              41   594         132   914             1681       100
+                                 54                                               3.117 3.292   OST                          6h              226 3479           779 3972              8456      100
+
+WEST
+                       3.879   3.228                                                159                               Q DTVw: 2,4            693 15630        3537 17999
+                                597                                               3.359 6.651                         Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+
+
+                                         812      541   34    118                                                         Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :  1344 KFZ/h 8:00
+                                        1.505                                                                                                   1634 KFZ/h 16:00
+                                                                                                                                                   (NSp):
+                                                        693                                                                                6h : 8055 KFZ
+                                                        SÜD                                                           max. Sph /Zufahrt: NORD :   46 KFZ/h 7:30
+                                                Zum Kahleberg                                                                                       OST :       583 KFZ/h 8:00
+                                                                                                                        DATUM :                     SÜD :       143 KFZ/h 15:30
+                                                                                               6h Werte 03.09.2015    WEST :  905 KFZ/h 16:00
+                                                              von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 432      H.-Mann-Allee/Zum Kahleberg
+
+
+             StromPlan432kp9-15.xls                                     Seite 1
+             SVP, 461                                                                                                                                                        11.04.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                         NORD OST SÜD WEST SUMME %
+                                                     NORD                                                             RAD    FSp                8    32          39   12                91      6,3
+                                                                                                                             NSp                4    31           3     9               47      2,8
+                                            J.-R.-Becher-Str.                                                                6h                35   187          86    93              401      4,7
+                                                      44          64                                                  NFZ    FSp                6   86            9   53              154      11,5
+                                                                                                                             NSp                0   60            4   81              145       8,9
+                                                                                                                             6h               12   368           51  348               779      9,7
+                                              34      9     1     20                                                  SV     FSp                1   17            2   11                31      2,3
+                                                                                                                             NSp                0   11            0     7               18      1,1
+                                                                                                                             6h                 2    62           5   57               126      1,6
+                                                                                                                      KFZ FSp                 44   583         112   605             1344       100
+                                                                                                                             NSp              37   563         129   905             1634       100
+
+
+
+
+       H.-Mann-Allee                                                                                  H.-Mann-Allee
+                                                                                                                             6h              191 3292          693 3879              8055       100
+                                                                                                                      FZ     FSp              52   615         151   617             1435       100
+                       1.270   665                                                   2                                       NSp              41   594         132   914             1681       100
+                                7                                                  554    583   OST                          6h              226 3479           779 3972              8456      100
+
+WEST
+                       605     492                                                  27                                Q DTVw: 2,4            693 15630        3537 17999
+                               106                                                 517 1.100                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+
+
+                                              142     77    11    24                                                      Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :  1344 KFZ/h 8:00
+                                              254                                                                                               1634 KFZ/h 16:00
+                                                                                                                                                   (NSp):
+                                                            112                                                                            6h : 8055 KFZ
+                                                            SÜD                                                       max. Sph /Zufahrt: NORD :   46 KFZ/h 7:30
+                                                    Zum Kahleberg                                                                                   OST :       583 KFZ/h 8:00
+                                                                                                                        DATUM :                     SÜD :       143 KFZ/h 15:30
+                                                                                         1.344 KFZ/h 03.09.2015    WEST :  905 KFZ/h 16:00
+                                                                       Kfz-Stromverteilung in der FSp 432     H.-Mann-Allee/Zum Kahleberg
+
+
+             StromPlan (FSp)432kp9-15.xls                                Seite 2
+             SVP, 461                                                                                                                                                        11.04.2016
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                         NORD OST SÜD WEST SUMME %
+                                                     NORD                                                             RAD    FSp                8    32          39   12                91      6,3
+                                                                                                                             NSp                4    31           3     9               47      2,8
+                                            J.-R.-Becher-Str.                                                                6h                35   187          86    93              401      4,7
+                                                      37          57                                                  NFZ    FSp                6   86            9   53              154      11,5
+                                                                                                                             NSp                0   60            4   81              145       8,9
+                                                                                                                             6h               12   368           51  348               779      9,7
+                                              20      14    3     20                                                  SV     FSp                1   17            2   11                31      2,3
+                                                                                                                             NSp                0   11            0     7               18      1,1
+                                                                                                                             6h                 2    62           5   57               126      1,6
+                                                                                                                      KFZ FSp                 44   583         112   605             1344       100
+                                                                                                                             NSp              37   563         129   905             1634       100
+
+
+
+
+       H.-Mann-Allee                                                                                  H.-Mann-Allee
+                                                                                                                             6h              191 3292          693 3879              8055       100
+                                                                                                                      FZ     FSp              52   615         151   617             1435       100
+                       1.554   649                                                   6                                       NSp              41   594         132   914             1681       100
+                                9                                                  525    563   OST                          6h              226 3479           779 3972              8456      100
+
+WEST
+                       905     779                                                  32                                Q DTVw: 2,4            693 15630        3537 17999
+                               117                                                 802 1.365                          Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                                      NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                      Bemerkungen :
+                                                                                                                      - Wetter früh 12ºC bewölkt, trocken; nachmittag 21ºC bewölkt, trocken
+
+
+
+
+                                              163     104   5     20                                                      Sph-Beginn:      7:30    Uhr und   15:30 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :  1344 KFZ/h 8:00
+                                              292                                                                                               1634 KFZ/h 16:00
+                                                                                                                                                   (NSp):
+                                                            129                                                                            6h : 8055 KFZ
+                                                            SÜD                                                       max. Sph /Zufahrt: NORD :   46 KFZ/h 7:30
+                                                    Zum Kahleberg                                                                                   OST :       583 KFZ/h 8:00
+                                                                                                                        DATUM :                     SÜD :       143 KFZ/h 15:30
+                                                                                         1.634 KFZ/h 03.09.2015    WEST :  905 KFZ/h 16:00
+                                                                       Kfz-Stromverteilung in der NSp 432     H.-Mann-Allee/Zum Kahleberg
+
+
+             StromPlan (NSp)432kp9-15.xls                                Seite 3
+

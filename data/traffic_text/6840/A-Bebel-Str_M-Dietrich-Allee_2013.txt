@@ -1,0 +1,140 @@
+   SVP, 461                                                                                                                                                07.10.2015
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                   NORD                                                               NORD WEST SÜD     SUMME %
+                                        A.-Bebel-Str.                                              RAD        FSp          43         1        17                     61  8,5
+                                                                                                              NSp          47         3        46                     96 12,4
+                                                                                                              6h          236        30       171                    437 10,6
+                                                1.686
+                                                                    3.205                          NFZ        FSp         31          9       44                     84 12,9
+                                                                                                              NSp         47          3       23                     73 10,8
+                                        165             1.521           1.519                                 6h         226         44      180                    450 12,3
+                                                                                                   SV         FSp           6         1       12                     19   2,9
+                                                                                                              NSp           8         0         8                    16   2,4
+                                                                                                              6h           41         4        58                   103 2,8
+
+
+
+
+       M.-Dietrich-Allee
+                                                                                                   KFZ        FSp        308        51       294                    653 100
+                                                                                                              NSp        334       106       236                    676 100
+                                                                                                              6h        1686       412      1569                   3667 100
+                           793   381                                                               FZ         FSp        351         52      311                    714 100
+                                 166                                                                          NSp        381       109       282                    772 100
+WEST
+                           412
+                                 246                                                                          6h        1922        442     1740                   4104 100
+                                                                                                   NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                   Bemerkungen :
+                                                                                                   - Wetter früh 20ºC bewölkt, teils heftiger Regen
+                                                                                                     nachmittags 25ºC bewölkt, trocken
+
+
+                                                                                                        Sph-Beginn:       7.30 Uhr und      15.30 Uhr
+
+                                        1.767           216             1.353                      SUMME Zufahrten:             FSp :        653 KFZ/h        8:00
+                                                                                                                                NSp :        676 KFZ/h        16:00
+                                       3.336                    1.569                                                             6h :      3667 KFZ
+                                                                                                   max. Sph /Zufahrt:           NORD         352 KFZ/h        16:30
+                                                    SÜD                                                                         WEST         106 KFZ/h        16:00
+                                        A.-Bebel-Str.                                                DATUM :                      SÜD        294 KFZ/h 8:00
+                                                                                          6h Werte 08.08.2013
+                                         von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 684                            A.-Bebel-Str./M.-Dietrich-Allee
+
+   StromPlan684kp8-13_1.xls                                                     Seite 1
+   SVP, 461                                                                                                                                     07.10.2015
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                              NORD                                                         NORD WEST SÜD     SUMME %
+                                      A.-Bebel-Str.                                     RAD        FSp          43         1        17                     61  8,5
+                                                                                                   NSp          47         3        46                     96 12,4
+                                                                                                   6h          236        30       171                    437 10,6
+                                            308
+                                                              592                       NFZ        FSp         31          9       44                     84 12,9
+                                                                                                   NSp         47          3       23                     73 10,8
+                                      36          272         284                                  6h         226         44      180                    450 12,3
+                                                                                        SV         FSp           6         1       12                     19   2,9
+                                                                                                   NSp           8         0         8                    16   2,4
+                                                                                                   6h           41         4        58                   103 2,8
+
+
+
+
+       M.-Dietrich-Allee
+                                                                                        KFZ        FSp        308        51       294                    653 100
+                                                                                                   NSp        334       106       236                    676 100
+                                                                                                   6h        1686       412      1569                   3667 100
+                           129   78                                                     FZ         FSp        351         52      311                    714 100
+                                 32                                                                NSp        381       109       282                    772 100
+WEST
+                           51
+                                 19                                                                6h        1922        442     1740                   4104 100
+                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh 20ºC bewölkt, teils heftiger Regen
+                                                                                          nachmittags 25ºC bewölkt, trocken
+
+
+                                                                                             Sph-Beginn:       7.30 Uhr und      15.30 Uhr
+                                      291         42          252                       SUMME Zufahrten:             FSp :        653 KFZ/h        8:00
+                                                                                                                     NSp :        676 KFZ/h        16:00
+                                      585               294                                                            6h :      3667 KFZ
+                                                                                        max. Sph /Zufahrt:           NORD         352 KFZ/h        16:30
+                                                  SÜD                                                                WEST         106 KFZ/h        16:00
+                                      A.-Bebel-Str.                                       DATUM :                      SÜD        294 KFZ/h 8:00
+                                                                              653 KFZ/h 08.08.2013
+                                                    Kfz-Stromverteilung in der FSp 684                 A.-Bebel-Str./M.-Dietrich-Allee
+
+   StromPlan (FSp)684kp8-13_1.xls                                   Seite 2
+   SVP, 461                                                                                                                                     07.10.2015
+
+
+                                                                                                           FAHRZEUG-VERTEILUNG
+                                              NORD                                                         NORD WEST SÜD     SUMME %
+                                      A.-Bebel-Str.                                     RAD        FSp          43         1        17                     61  8,5
+                                                                                                   NSp          47         3        46                     96 12,4
+                                                                                                   6h          236        30       171                    437 10,6
+                                            334
+                                                              580                       NFZ        FSp         31          9       44                     84 12,9
+                                                                                                   NSp         47          3       23                     73 10,8
+                                      27          307         246                                  6h         226         44      180                    450 12,3
+                                                                                        SV         FSp           6         1       12                     19   2,9
+                                                                                                   NSp           8         0         8                    16   2,4
+                                                                                                   6h           41         4        58                   103 2,8
+
+
+
+
+       M.-Dietrich-Allee
+                                                                                        KFZ        FSp        308        51       294                    653 100
+                                                                                                   NSp        334       106       236                    676 100
+                                                                                                   6h        1686       412      1569                   3667 100
+                           156   50                                                     FZ         FSp        351         52      311                    714 100
+                                 33                                                                NSp        381       109       282                    772 100
+WEST
+                           106
+                                 73                                                                6h        1922        442     1740                   4104 100
+                                                                                        NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                        Bemerkungen :
+                                                                                        - Wetter früh 20ºC bewölkt, teils heftiger Regen
+                                                                                          nachmittags 25ºC bewölkt, trocken
+
+
+                                                                                             Sph-Beginn:       7.30 Uhr und      15.30 Uhr
+                                      380         23          213                       SUMME Zufahrten:             FSp :        653 KFZ/h        8:00
+                                                                                                                     NSp :        676 KFZ/h        16:00
+                                      616               236                                                            6h :      3667 KFZ
+                                                                                        max. Sph /Zufahrt:           NORD         352 KFZ/h        16:30
+                                                  SÜD                                                                WEST         106 KFZ/h        16:00
+                                      A.-Bebel-Str.                                       DATUM :                      SÜD        294 KFZ/h 8:00
+                                                                              676 KFZ/h 08.08.2013
+                                                    Kfz-Stromverteilung in der NSp 684                 A.-Bebel-Str./M.-Dietrich-Allee
+
+   StromPlan (NSp)684kp8-13_1.xls                                   Seite 3
+

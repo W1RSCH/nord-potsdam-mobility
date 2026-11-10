@@ -1,0 +1,130 @@
+  SVP, 461                                                                                                                                             11.04.2016
+
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                              Zufahrt: NORD SÜD WEST     SUMME %
+                                                                                         RAD         FSp        241        226       33                    500      18,1
+                                                                                                     NSp        163        175       65                    403      11,4
+                                                                                                     6h         914       1002      293                   2209      13,0
+
+                            H.-Mann-Allee                                                NFZ         FSp 185               68       72                     325      14,4
+                                                                                                     NSp 227               62       44                     333      10,6
+                                                                                                     6h  1050             366      289                    1705      11,5
+                     NORD                                      SÜD                       SV          FSp   56              24       16                      96          4,3
+                                                                                                     NSp   39              14        7                      60          1,9
+                                                                                                     6h   311              98       75                     484          3,3
+                                                                                         KFZ         FSp 1516             362      380                    2258          100
+
+14.278 3.661                                                            2.422                        NSp 2354             460      319                  3133            100
+                                                                                                     6h 10617            2422     1775                 14814            100
+                                                                                 5.727
+          2.769                                                                          FZ          FSp 1757             588      413                  2758            100
+10.617
+          7.848                                                         3.305                   NSp 2517     635   384                                     3536         100
+                                                                                                6h    11531 3424 2068                                     17023         100
+                                                                                         Q DTVw: 2,5 35695 14318 24058
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                         Bemerkungen :
+
+                             7.848     1.239   536                                       - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                                                     Sph-Beginn:         7:30    Uhr und   15:30    Uhr
+                            9.623                                                        SUMME Zufahrten: [FSp] : 2258 KFZ/h 8:00
+                                         1.775
+                                                                                                                      (NSp) : 3133 KFZ/h 16:00
+                            Brauhausberg                                                                      6h : 14814 KFZ
+                                     WEST                                                max. Sph /Zufahrt: NORD 2354 KFZ/h 16:00
+                                                                                                             SÜD     460 KFZ/h 16:00
+                                                                                          DATUM :           WEST     407 KFZ/h 7:30
+                                                                            6h Werte 04.06.2015
+                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 411                         H.-Mann-Allee/Brauhausberg
+
+  StromPlan411kp6-15.xls                                          Seite 1
+  SVP, 461                                                                                                                                             11.04.2016
+
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                              Zufahrt: NORD SÜD WEST     SUMME %
+                                                                                         RAD         FSp        241        226       33                    500      18,1
+                                                                                                     NSp        163        175       65                    403      11,4
+                                                                                                     6h         914       1002      293                   2209      13,0
+
+                               H.-Mann-Allee                                             NFZ         FSp 185               68       72                     325      14,4
+                                                                                                     NSp 227               62       44                     333      10,6
+                                                                                                     6h  1050             366      289                    1705      11,5
+                    NORD                                       SÜD                       SV          FSp   56              24       16                      96          4,3
+                                                                                                     NSp   39              14        7                      60          1,9
+                                                                                                     6h   311              98       75                     484          3,3
+                                                                                         KFZ         FSp 1516             362      380                    2258          100
+
+2.170        654                                                            362                      NSp 2354             460      319                  3133            100
+                                                                                                     6h 10617            2422     1775                 14814            100
+                                                                                   938
+           488                                                                           FZ          FSp 1757             588      413                  2758            100
+1.516
+          1.028                                                             576                 NSp 2517     635   384                                     3536         100
+                                                                                                6h    11531 3424 2068                                     17023         100
+                                                                                         Q DTVw: 2,5 35695 14318 24058
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                         Bemerkungen :
+
+                                1.028    292   88                                        - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                                                     Sph-Beginn:         7:30    Uhr und   15:30    Uhr
+                               1.408                                                     SUMME Zufahrten: [FSp] : 2258 KFZ/h 8:00
+                                           380
+                                                                                                                      (NSp) : 3133 KFZ/h 16:00
+                               Brauhausberg                                                                   6h : 14814 KFZ
+                                        WEST                                             max. Sph /Zufahrt: NORD 2354 KFZ/h 16:00
+                                                                                                             SÜD     460 KFZ/h 16:00
+                                                                                          DATUM :           WEST     407 KFZ/h 7:30
+                                                                            2.258 KFZ/h 04.06.2015
+                                                 Kfz-Stromverteilung in der FSp 411                        H.-Mann-Allee/Brauhausberg
+
+  StromPlan FSP411kp6-15.xls                                      Seite 2
+  SVP, 461                                                                                                                                              11.04.2016
+
+
+
+                                           (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                               Zufahrt: NORD SÜD WEST     SUMME %
+                                                                                          RAD         FSp        241        226       33                    500      18,1
+                                                                                                      NSp        163        175       65                    403      11,4
+                                                                                                      6h         914       1002      293                   2209      13,0
+
+                               H.-Mann-Allee                                              NFZ         FSp 185               68       72                     325      14,4
+                                                                                                      NSp 227               62       44                     333      10,6
+                                                                                                      6h  1050             366      289                    1705      11,5
+                    NORD                                       SÜD                        SV          FSp   56              24       16                      96          4,3
+                                                                                                      NSp   39              14        7                      60          1,9
+                                                                                                      6h   311              98       75                     484          3,3
+                                                                                          KFZ         FSp 1516             362      380                    2258          100
+
+3.012        658                                                            460                       NSp 2354             460      319                  3133            100
+                                                                                                      6h 10617            2422     1775                 14814            100
+                                                                                  1.116
+          535                                                                             FZ          FSp 1757             588      413                  2758            100
+2.354
+         1.819                                                              656                  NSp 2517     635   384                                     3536         100
+                                                                                                 6h    11531 3424 2068                                     17023         100
+                                                                                          Q DTVw: 2,5 35695 14318 24058
+                                                                                          Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                          Bemerkungen :
+
+                                1.819    198   121                                        - Wetter früh 12ºC sonnig; nachmittag 24ºC sonnig
+                                                                                                      Sph-Beginn:         7:30    Uhr und   15:30    Uhr
+                               2.138                                                      SUMME Zufahrten: [FSp] : 2258 KFZ/h 8:00
+                                           319
+                                                                                                                       (NSp) : 3133 KFZ/h 16:00
+                               Brauhausberg                                                                    6h : 14814 KFZ
+                                        WEST                                              max. Sph /Zufahrt: NORD 2354 KFZ/h 16:00
+                                                                                                              SÜD     460 KFZ/h 16:00
+                                                                                           DATUM :           WEST     407 KFZ/h 7:30
+                                                                            3.133 KFZ/h 04.06.2015
+                                                 Kfz-Stromverteilung in der NSp 411                         H.-Mann-Allee/Brauhausberg
+
+  StromPlan NSP411kp6-15.xls                                      Seite 3
+

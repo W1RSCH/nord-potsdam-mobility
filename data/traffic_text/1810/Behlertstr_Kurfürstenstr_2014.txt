@@ -1,0 +1,160 @@
+       SVP, 461                                                                                                                                                                         22.01.2015
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                             NORD OST SÜD WEST SUMME %
+                                               NORD                                                                       RAD         FSp        163         41        23          77         304    11,1
+
+                                             Mangerstr.                                                                               NSp        115         72        41          76         304    10,7
+
+                                                                                                                                      6h         600   267            184         332         1383    9,1
+                                              58                 656                                                      NFZ         FSp          0  184               7         94          285    11,7
+                                                                                                                                      NSp          0  124               1         74          199     7,8
+                                                                                                                                      6h           5 1009              28        635         1677    12,1
+                                     19             39           598                                                      SV          FSp          0   36               0         35            71    2,9
+                                                                                                                                      NSp          0   12               0         10            22    0,9
+                                                                                                                                      6h           0  218               4        144           366    2,6
+                                                                                                                          KFZ         FSp          5 1524              67        835         2431    100
+                                                                                                                                      NSp          6 1689              46        797         2538    100
+                                                                                                                                      6h          58 8829             345       4602        13834    100
+
+
+
+
+       Behlertstr.                                                                                          Behlertstr.
+                                                                                                                          FZ          FSp        168 1565              90        912         2735    100
+                     9.829   5.227                                                      193                                           NSp        121 1761              87        873         2842    100
+                              60                                                      5.208   8.829   OST                             6h         658 9096             529       4934        15217    100
+
+WEST
+                     4.602                                                            3.428                               Bemerkungen :
+                             4.542                                                                                        - Humboldtbrücke Baustelle; stadtausw. nur 2 Spuren
+                                                                                                                          - beide Spuren auf Humboldtbrücke stadteinw. auf eine eingeengt
+                                                                                                                          - Zuf. NORD nach Ausbau Mangerstr. ist Ausf. vom Grundstück möglich
+                                                                                                                          - Wetter: früh 14ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+                                                                                                                               Sph-Beginn:     7.30    Uhr und     17.00 Uhr
+                                                                                                                          SUMME Zufahrten: [FSp] :   2431 KFZ/h 8:00
+                                     8.009                 345                                                                                       2538 KFZ/h 17:30
+                                                                                                                                                       (NSp):
+                                                                                                                                               6h : 13834 KFZ
+                                                   8.354                                                                  max. Sph /Zufahrt: NORD      23 KFZ/h
+                                                                                                                                              OST 1689 KFZ/h 17:30
+                                                           SÜD                                                             DATUM :            SÜD      79 KFZ/h 9:00
+                                              Kurfürstenstr.                                          6h Werte 11.09.2014                             WEST :          839 KFZ/h 17:00
+                                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 181                                  Behlertstr./Kurfürstenstr.
+
+
+
+
+       StromPlan181kp9-14.xls                                               Seite 1
+       SVP, 461                                                                                                                                                                    22.01.2015
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                                        NORD OST SÜD WEST SUMME %
+                                                   NORD                                                              RAD         FSp        163         41        23          77         304    11,1
+
+                                              Mangerstr.                                                                         NSp        115         72        41          76         304    10,7
+
+                                                                                                                                 6h         600   267            184         332         1383    9,1
+                                               5                 140                                                 NFZ         FSp          0  184               7         94          285    11,7
+                                                                                                                                 NSp          0  124               1         74          199     7,8
+                                                                                                                                 6h           5 1009              28        635         1677    12,1
+                                      2             3            135                                                 SV          FSp          0   36               0         35            71    2,9
+                                                                                                                                 NSp          0   12               0         10            22    0,9
+                                                                                                                                 6h           0  218               4        144           366    2,6
+                                                                                                                     KFZ         FSp          5 1524              67        835         2431    100
+                                                                                                                                 NSp          6 1689              46        797         2538    100
+                                                                                                                                 6h          58 8829             345       4602        13834    100
+
+
+
+
+       Behlertstr.                                                                                     Behlertstr.
+                                                                                                                     FZ          FSp        168 1565              90        912         2735    100
+                     1.711   876                                                    39                                           NSp        121 1761              87        873         2842    100
+                             29                                                    874   1.524   OST                             6h         658 9096             529       4934        15217    100
+
+WEST
+                     835                                                           611                               Bemerkungen :
+                             806                                                                                     - Humboldtbrücke Baustelle; stadtausw. nur 2 Spuren
+                                                                                                                     - beide Spuren auf Humboldtbrücke stadteinw. auf eine eingeengt
+                                                                                                                     - Zuf. NORD nach Ausbau Mangerstr. ist Ausf. vom Grundstück möglich
+                                                                                                                     - Wetter: früh 14ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+                                                                                                                          Sph-Beginn:     7.30    Uhr und     17.00 Uhr
+                                                                                                                     SUMME Zufahrten: [FSp] :   2431 KFZ/h 8:00
+                                      1.420                67                                                                                   2538 KFZ/h 17:30
+                                                                                                                                                  (NSp):
+                                                                                                                                          6h : 13834 KFZ
+                                                   1.487                                                             max. Sph /Zufahrt: NORD      23 KFZ/h
+                                                                                                                                         OST 1689 KFZ/h 17:30
+                                                           SÜD                                                        DATUM :            SÜD      79 KFZ/h 9:00
+                                               Kurfürstenstr.                              2.431 KFZ/h 11.09.2014                                WEST :          839 KFZ/h 17:00
+                                                                       Kfz-Stromverteilung in der FSp 181                                  Behlertstr./Kurfürstenstr.
+
+
+
+
+       StromPlan (FSp)181kp9-14.xls                                      Seite 2
+       SVP, 461                                                                                                                                                                     22.01.2015
+
+
+
+
+                                                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                                                         NORD OST SÜD WEST SUMME %
+                                                   NORD                                                               RAD         FSp        163         41        23          77         304    11,1
+
+                                              Mangerstr.                                                                          NSp        115         72        41          76         304    10,7
+
+                                                                                                                                  6h         600   267            184         332         1383    9,1
+                                               6                 91                                                   NFZ         FSp          0  184               7         94          285    11,7
+                                                                                                                                  NSp          0  124               1         74          199     7,8
+                                                                                                                                  6h           5 1009              28        635         1677    12,1
+                                      2             4            85                                                   SV          FSp          0   36               0         35            71    2,9
+                                                                                                                                  NSp          0   12               0         10            22    0,9
+                                                                                                                                  6h           0  218               4        144           366    2,6
+                                                                                                                      KFZ         FSp          5 1524              67        835         2431    100
+                                                                                                                                  NSp          6 1689              46        797         2538    100
+                                                                                                                                  6h          58 8829             345       4602        13834    100
+
+
+
+
+       Behlertstr.                                                                                      Behlertstr.
+                                                                                                                      FZ          FSp        168 1565              90        912         2735    100
+                     1.849   1.052                                                   33                                           NSp        121 1761              87        873         2842    100
+                               6                                                  1.050   1.689   OST                             6h         658 9096             529       4934        15217    100
+
+WEST
+                     797                                                            606                               Bemerkungen :
+                             791                                                                                      - Humboldtbrücke Baustelle; stadtausw. nur 2 Spuren
+                                                                                                                      - beide Spuren auf Humboldtbrücke stadteinw. auf eine eingeengt
+                                                                                                                      - Zuf. NORD nach Ausbau Mangerstr. ist Ausf. vom Grundstück möglich
+                                                                                                                      - Wetter: früh 14ºC bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+
+
+                                                                                                                           Sph-Beginn:     7.30    Uhr und     17.00 Uhr
+                                                                                                                      SUMME Zufahrten: [FSp] :   2431 KFZ/h 8:00
+                                      1.401                46                                                                                    2538 KFZ/h 17:30
+                                                                                                                                                   (NSp):
+                                                                                                                                           6h : 13834 KFZ
+                                                   1.447                                                              max. Sph /Zufahrt: NORD      23 KFZ/h
+                                                                                                                                          OST 1689 KFZ/h 17:30
+                                                           SÜD                                                         DATUM :            SÜD      79 KFZ/h 9:00
+                                               Kurfürstenstr.                               2.538 KFZ/h 11.09.2014                                WEST :          839 KFZ/h 17:00
+                                                                      Kfz-Stromverteilung in der NSp 181                                    Behlertstr./Kurfürstenstr.
+
+
+
+
+       StromPlan (NSp)181kp9-14.xls                                     Seite 3
+

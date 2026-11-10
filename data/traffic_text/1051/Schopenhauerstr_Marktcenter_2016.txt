@@ -1,0 +1,170 @@
+SVP, 461                                                                                                                                                          06.07.2016
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                  NORD                                         Zufahrt: NORD SÜD WEST     SUMME %
+                                        Schopenhauerstr.                                 RAD    FSp                 1         2           3                          6   3,0
+                                                                                                NSp                 4         3           4                        11    5,0
+                                                                                                6h                  9        22          18                         49   4,7
+                                                 64
+                                                                      105                NFZ    FSp                 0         8           9                        17    8,8
+
+                                                       nicht
+                                                                                                NSp                 0         2           4                          6   2,8
+                                           64                         41                        6h                  5        26          35                        66    6,6
+                                                      gezählt                            SV     FSp                 0         4           2                          6   3,1
+                                                                                                NSp                 0         0           0                          0   0,0
+                                                                                                6h                  1         8           7                        16    1,6
+                                                                                         KFZ FSp                  12       106          75                       193     100
+                                                                                                NSp               12        93         106                       211     100
+
+
+
+
+              Marktcenter
+                                                                                                6h                64       460         471                        995    100
+                            995   524                                                    FZ     FSp               13       108           78                       199    100
+                                  41                                                            NSp               16         96        110                        222    100
+
+       WEST
+                            471
+                                  430                                                           6h                 73       482         489                      1044    100
+                                                                                         Q DTVw: 2,5             263      2225        2488
+                                                                                         Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                         NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                         Bemerkungen :
+                                                                                         - Teilzählung - Zuf. NG + SG nicht gezählt
+
+                                                                   nicht
+                                                                                         - Wetter: früh 14°C sonnig, trocken; nachmittag 25°C bewölkt, trocken
+
+                                           430         460                                    Sph-Beginn:         9.00 Uhr und        16.00 Uhr
+                                                                  gezählt                SUMME Zufahrten: FSp :                        193 KFZ/h 9:30
+                                           890                                                              NSp :                      211 KFZ/h 16:30
+                                                                460
+                                                                                                              6h :                     995 KFZ
+                                                      SÜD                                max. Sph /Zufahrt: NORD                        18 KFZ/h 17:30
+                                        Schopenhauerstr.                                                                 SÜD           106 KFZ/h 9:30
+                                                                                            DATUM :                     WEST           115 KFZ/h 17:30
+                                                                                6h Werte 16.06.2016
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1051                   Schopenhauerstr. / Marktcenter
+
+
+
+
+StromPlan1051kp6-16.xls                                                     1
+SVP, 461                                                                                                                                                            06.07.2016
+
+
+
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                   NORD                                          Zufahrt: NORD SÜD WEST     SUMME %
+                                         Schopenhauerstr.                                  RAD    FSp                 1         2           3                          6   3,0
+                                                                                                  NSp                 4         3           4                        11    5,0
+                                                                                                  6h                  9        22          18                         49   4,7
+                                                  12
+                                                                       19                  NFZ    FSp                 0         8           9                        17    8,8
+
+                                                        nicht
+                                                                                                  NSp                 0         2           4                          6   2,8
+                                            12                         7                          6h                  5        26          35                        66    6,6
+                                                       gezählt                             SV     FSp                 0         4           2                          6   3,1
+                                                                                                  NSp                 0         0           0                          0   0,0
+                                                                                                  6h                  1         8           7                        16    1,6
+                                                                                           KFZ FSp                  12       106          75                       193     100
+                                                                                                  NSp               12        93         106                       211     100
+
+
+
+
+               Marktcenter
+                                                                                                  6h                64       460         471                        995    100
+                             193   118                                                     FZ     FSp               13       108           78                       199    100
+                                    7                                                             NSp               16         96        110                        222    100
+
+        WEST
+                             75
+                                   68                                                             6h                 73       482         489                      1044    100
+                                                                                           Q DTVw: 2,5             263      2225        2488
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                           Bemerkungen :
+                                                                                           - Teilzählung - Zuf. NG + SG nicht gezählt
+
+                                                                    nicht
+                                                                                           - Wetter: früh 14°C sonnig, trocken; nachmittag 25°C bewölkt, trocken
+                                            68          106                                     Sph-Beginn:         9.00 Uhr und        16.00 Uhr
+                                                                   gezählt                 SUMME Zufahrten: FSp :                        193 KFZ/h 9:30
+                                            174                                                               NSp :                      211 KFZ/h 16:30
+                                                                 106
+                                                                                                                6h :                     995 KFZ
+                                                       SÜD                                 max. Sph /Zufahrt: NORD                        18 KFZ/h 17:30
+                                         Schopenhauerstr.                                                                  SÜD           106 KFZ/h 9:30
+                                                                                              DATUM :                     WEST           115 KFZ/h 17:30
+                                                                                 193 KFZ/h 16.06.2016
+                                                           Kfz-Stromverteilung in der FSp 1051                Schopenhauerstr. / Marktcenter
+
+
+
+
+StromPlan (FSp)1051kp6-16.xls                                                2
+SVP, 461                                                                                                                                                               06.07.2016
+
+
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                                                   NORD                                             Zufahrt: NORD SÜD WEST     SUMME %
+                                         Schopenhauerstr.                                     RAD    FSp                 1         2           3                          6   3,0
+                                                                                                     NSp                 4         3           4                        11    5,0
+                                                                                                     6h                  9        22          18                         49   4,7
+                                                  12
+                                                                        20                    NFZ    FSp                 0         8           9                        17    8,8
+
+                                                        nicht
+                                                                                                     NSp                 0         2           4                          6   2,8
+                                            12                         8                             6h                  5        26          35                        66    6,6
+                                                       gezählt                                SV     FSp                 0         4           2                          6   3,1
+                                                                                                     NSp                 0         0           0                          0   0,0
+                                                                                                     6h                  1         8           7                        16    1,6
+                                                                                              KFZ FSp                  12       106          75                       193     100
+                                                                                                     NSp               12        93         106                       211     100
+
+
+
+
+               Marktcenter
+                                                                                                     6h                64       460         471                        995    100
+                             211   105                                                        FZ     FSp               13       108           78                       199    100
+                                    8                                                                NSp               16         96        110                        222    100
+
+        WEST
+                             106
+                                   98                                                                6h                 73       482         489                      1044    100
+                                                                                              Q DTVw: 2,5             263      2225        2488
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+                                                                                              Bemerkungen :
+                                                                                              - Teilzählung - Zuf. NG + SG nicht gezählt
+
+                                                                       nicht
+                                                                                              - Wetter: früh 14°C sonnig, trocken; nachmittag 25°C bewölkt, trocken
+                                            98          93                                         Sph-Beginn:         9.00 Uhr und        16.00 Uhr
+                                                                      gezählt                 SUMME Zufahrten: FSp :                        193 KFZ/h 9:30
+                                            191                                                                  NSp :                      211 KFZ/h 16:30
+                                                                 93
+                                                                                                                   6h :                     995 KFZ
+                                                       SÜD                                    max. Sph /Zufahrt: NORD                        18 KFZ/h 17:30
+                                         Schopenhauerstr.                                                                     SÜD           106 KFZ/h 9:30
+                                                                                                 DATUM :                     WEST           115 KFZ/h 17:30
+                                                                                    211 KFZ/h 16.06.2016
+                                                          Kfz-Stromverteilung in der NSp 1051                    Schopenhauerstr. / Marktcenter
+
+
+
+
+StromPlan (NSp)1051kp6-16.xls                                                   3
+

@@ -1,0 +1,133 @@
+  Landeshauptstadt Potsdam                                                                                                                                 12.02.2019
+  Bereich Verkehrsentwicklung
+
+                                                (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                         Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                    RAD         FSp        111            0      33                 144     12,1
+                                                                                                                NSp         79            1      75                 155     11,5
+                                                                                                                6h         413            4     317                 734     10,7
+
+H.-Mann-Allee                                                          H.-Mann-Allee NFZ                        FSp         58        22        51                 131      12,5
+                                                                                                                NSp         46        12        65                 123      10,3
+                                                                                                                6h         266        90       351                 707      11,5
+                    WEST                                            OST                             SV          FSp         16         6        17                  39       3,7
+                                                                                                                NSp          5         0        10                  15       1,3
+                                                                                                                6h          55        12        77                 144       2,3
+                                                                                                    KFZ         FSp        496       214       338                1048       100
+
+5.046    2.488                                                                   1.997                          NSp        487       150       553                1190       100
+                                                                                            2.558
+                                                                                  561                           6h       2558       1033      2558                6149       100
+
+         2.192                                                                                      FZ          FSp        607        214      371                 1192      100
+2.558
+          366                                                                    2.734      5.292          NSp    566                151   628                     1345      100
+                                                                                                           6h    2971               1037 2875                      6883      100
+                                                                                                    Q DTVw: 2,4 12436               4606 11858
+                                                                                                    Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                   927     491     542                                              - Baustelle L40 stadtauswärts
+                                                                                                    - Auf- Abfahrt L40 Horstweg Südknoten gesperrt
+                                  1.960                                                             - Wetter früh 10ºC bewölkt, trocken; nachm. 19ºC leicht bewölkt, sonnig
+                                            1.033                                                        Sph-Beginn:       7.00 Uhr und       16.00 Uhr
+
+                                Zum Teufelssee                                                      SUMME Zufahrten: [FSp]: 1048 KFZ/h 7:30
+                                                                                                                       (NSp): 1190 KFZ/h 16:30
+                                          SÜD                                                                            6h : 6149 KFZ
+                                                                                                    max. Sph /Zufahrt:   OST   496 KFZ/h 7:30
+                                                                                                                         SÜD   214 KFZ/h 7:30
+                                                                                                     DATUM :            WEST   553 KFZ/h 16:30
+                                                                                         6h Werte 03.05.2018
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 435                           H.-Mann-Allee/Zum Teufelssee
+  StromPlan435kp5-18.xlsx                                              Seite 1
+  Landeshauptstadt Potsdam                                                                                                                           12.02.2019
+  Bereich Verkehrsentwicklung
+
+                                                (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                   Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                              RAD         FSp        111            0      33                 144     12,1
+                                                                                                          NSp         79            1      75                 155     11,5
+                                                                                                          6h         413            4     317                 734     10,7
+
+H.-Mann-Allee                                                          H.-Mann-Allee NFZ                  FSp         58        22        51                 131      12,5
+                                                                                                          NSp         46        12        65                 123      10,3
+                                                                                                          6h         266        90       351                 707      11,5
+                    WEST                                            OST                       SV          FSp         16         6        17                  39       3,7
+                                                                                                          NSp          5         0        10                  15       1,3
+                                                                                                          6h          55        12        77                 144       2,3
+                                                                                              KFZ         FSp        496       214       338                1048       100
+
+ 826      488                                                                    397                      NSp        487       150       553                1190       100
+                                                                                        496
+                                                                                  99                      6h       2558       1033      2558                6149       100
+
+          279                                                                                 FZ          FSp        607        214      371                 1192      100
+ 338
+           59                                                                    402    898          NSp    566                151   628                     1345      100
+                                                                                                     6h    2971               1037 2875                      6883      100
+                                                                                              Q DTVw: 2,4 12436               4606 11858
+                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                              NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                              Bemerkungen :
+                                    158    91      123                                        - Baustelle L40 stadtauswärts
+                                                                                              - Auf- Abfahrt L40 Horstweg Südknoten gesperrt
+                                    372                                                       - Wetter früh 10ºC bewölkt, trocken; nachm. 19ºC leicht bewölkt, sonnig
+                                                214                                                Sph-Beginn:       7.00 Uhr und       16.00 Uhr
+
+                                  Zum Teufelssee                                              SUMME Zufahrten: [FSp]: 1048 KFZ/h 7:30
+                                                                                                                 (NSp): 1190 KFZ/h 16:30
+                                          SÜD                                                                      6h : 6149 KFZ
+                                                                                              max. Sph /Zufahrt:   OST   496 KFZ/h 7:30
+                                                                                                                   SÜD   214 KFZ/h 7:30
+                                                                                               DATUM :            WEST   553 KFZ/h 16:30
+                                                                                 1.048 KFZ/h 03.05.2018
+                                                         Kfz-Stromverteilung in der FSp 435                  H.-Mann-Allee/Zum Teufelssee
+  StromPlan (FSp)435kp5-18.xlsx                                        Seite 2
+  Landeshauptstadt Potsdam                                                                                                                            12.02.2019
+  Bereich Verkehrsentwicklung
+
+                                                (7:00 bis 10:00 u. 15:00 bis 18:00)                          FAHRZEUG-VERTEILUNG
+                                                                                                    Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                               RAD         FSp        111            0      33                 144     12,1
+                                                                                                           NSp         79            1      75                 155     11,5
+                                                                                                           6h         413            4     317                 734     10,7
+
+H.-Mann-Allee                                                          H.-Mann-Allee NFZ                   FSp         58        22        51                 131      12,5
+                                                                                                           NSp         46        12        65                 123      10,3
+                                                                                                           6h         266        90       351                 707      11,5
+                    WEST                                            OST                        SV          FSp         16         6        17                  39       3,7
+                                                                                                           NSp          5         0        10                  15       1,3
+                                                                                                           6h          55        12        77                 144       2,3
+                                                                                               KFZ         FSp        496       214       338                1048       100
+
+ 983      430                                                                    363                       NSp        487       150       553                1190       100
+                                                                                        487
+                                                                                 124                       6h       2558       1033      2558                6149       100
+
+          491                                                                                  FZ          FSp        607        214      371                 1192      100
+ 553
+           62                                                                    574   1.061          NSp    566                151   628                     1345      100
+                                                                                                      6h    2971               1037 2875                      6883      100
+                                                                                               Q DTVw: 2,4 12436               4606 11858
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Bemerkungen :
+                                    186    67      83                                          - Baustelle L40 stadtauswärts
+                                                                                               - Auf- Abfahrt L40 Horstweg Südknoten gesperrt
+                                    336                                                        - Wetter früh 10ºC bewölkt, trocken; nachm. 19ºC leicht bewölkt, sonnig
+                                                150                                                 Sph-Beginn:       7.00 Uhr und       16.00 Uhr
+
+                                  Zum Teufelssee                                               SUMME Zufahrten: [FSp]: 1048 KFZ/h 7:30
+                                                                                                                  (NSp): 1190 KFZ/h 16:30
+                                          SÜD                                                                       6h : 6149 KFZ
+                                                                                               max. Sph /Zufahrt:   OST   496 KFZ/h 7:30
+                                                                                                                    SÜD   214 KFZ/h 7:30
+                                                                                                DATUM :            WEST   553 KFZ/h 16:30
+                                                                                 1.190 KFZ/h 03.05.2018
+                                                        Kfz-Stromverteilung in der NSp 435                    H.-Mann-Allee/Zum Teufelssee
+  StromPlan (NSp)435kp5-18.xlsx                                        Seite 3
+

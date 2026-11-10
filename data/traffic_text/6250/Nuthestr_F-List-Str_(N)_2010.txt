@@ -1,0 +1,136 @@
+SVP, 461                                                                                                                             13.02.2013
+
+
+                                                                                                  FAHRZEUG-VERTEILUNG
+                             NORD                                                                 NORD OST SÜD      SUMME %
+             R.-Breitscheid-Str.                                               RAD        FSp       45        0       38                    83      6,3
+
+                                                                                          NSp        29      0        84                   113  9,3
+                                                                                          6h        241      0       307                   548 7,6
+                             2.781                                             NFZ        FSp        22     93       22                   137 11,1
+                                                                                          NSp        10     86       15                   111 10,1
+                     780             2.001                                                6h         98    461      112                    671 10,1
+                                                                               SV         FSp        12     27       11                     50  4,0
+                                                                                          NSp         5     27         7                    39  3,6
+                                                                                          6h         48    120        53                   221 3,3
+                                                                               KFZ        FSp      105     968      164                  1237 100
+                                                                                          NSp      154     712      232                  1098 100
+
+
+
+
+                                                                   Nuthestr.
+                                                                                          6h        780   4758     1088                  6626 100
+                                             913                               FZ         FSp       150    968      202                  1320 100
+                                                    4758
+                                             3845            OST                          NSp       183    712      316                  1211 100
+                                                                                          6h       1021   4758     1395                   7174 100
+                                                                               Bemerkungen :
+                                                                               Wetter: früh 14°C,leicht bewölkt, trocken; nachmittag: 26°C sonnig
+
+
+
+
+                     4.625           1.088
+                                                                                    Sph-Beginn:      7.00 Uhr und 15.30 Uhr
+                             5.713                                             SUMME Zufahrten:[FSp] : 1237 KFZ/h 7:30
+                                                                                               (NSp) : 1098 KFZ/h 16:00
+                             SÜD                                                                  6h : 6626 KFZ
+                    F.-List-Str.                                               max. Sph /Zufahrt: NORD               163 KFZ/h 15:30
+                                                                                                   OST               968 KFZ/h 7:30
+                                                                                DATUM :            SÜD               255 KFZ/h 16:30
+                                                                               03.06.2010
+                                                                                625                  Nuthestr./F.-List-Str. (N)
+
+StromPlan625kp6-10.xls                              Seite1
+SVP, 461                                                                                                                                        13.02.2013
+
+
+                                                                                                             FAHRZEUG-VERTEILUNG
+                               NORD                                                                          NORD OST SÜD      SUMME %
+             R.-Breitscheid-Str.                                                          RAD        FSp       45        0       38                    83      6,3
+
+                                                                                                     NSp        29      0        84                   113  9,3
+                                                                                                     6h        241      0       307                   548 7,6
+                               447                                                        NFZ        FSp        22     93       22                   137 11,1
+                                                                                                     NSp        10     86       15                   111 10,1
+                     105               342                                                           6h         98    461      112                    671 10,1
+                                                                                          SV         FSp        12     27       11                     50  4,0
+                                                                                                     NSp         5     27         7                    39  3,6
+                                                                                                     6h         48    120        53                   221 3,3
+                                                                                          KFZ        FSp      105     968      164                  1237 100
+                                                                                                     NSp      154     712      232                  1098 100
+
+
+
+
+                                                                              Nuthestr.
+                                                                                                     6h        780   4758     1088                  6626 100
+                                                        178                               FZ         FSp       150    968      202                  1320 100
+                                                               968
+                                                        790             OST                          NSp       183    712      316                  1211 100
+                                                                                                     6h       1021   4758     1395                   7174 100
+                                                                                          Bemerkungen :
+                                                                                          Wetter: früh 14°C,leicht bewölkt, trocken; nachmittag: 26°C sonnig
+
+
+
+
+                     895               164
+                                                                                               Sph-Beginn:      7.00 Uhr und 15.30 Uhr
+                               1.059                                                      SUMME Zufahrten:[FSp] : 1237 KFZ/h 7:30
+                                                                                                          (NSp) : 1098 KFZ/h 16:00
+                               SÜD                                                                           6h : 6626 KFZ
+                    F.-List-Str.                                                          max. Sph /Zufahrt: NORD               163 KFZ/h 15:30
+                                                                                                              OST               968 KFZ/h 7:30
+                                                                                           DATUM :            SÜD               255 KFZ/h 16:30
+                                                              1.237 KFZ/h                 03.06.2010
+                                             Kfz-Stromverteilung in der FSp                625                  Nuthestr./F.-List-Str. (N)
+
+StromPlan (FSp)625kp6-10.xls                                   Seite2
+SVP, 461                                                                                                                                       13.02.2013
+
+
+                                                                                                            FAHRZEUG-VERTEILUNG
+                               NORD                                                                         NORD OST SÜD      SUMME %
+             R.-Breitscheid-Str.                                                         RAD        FSp       45        0       38                    83      6,3
+
+                                                                                                    NSp        29      0        84                   113  9,3
+                                                                                                    6h        241      0       307                   548 7,6
+                               567                                                       NFZ        FSp        22     93       22                   137 11,1
+                                                                                                    NSp        10     86       15                   111 10,1
+                     154              413                                                           6h         98    461      112                    671 10,1
+                                                                                         SV         FSp        12     27       11                     50  4,0
+                                                                                                    NSp         5     27         7                    39  3,6
+                                                                                                    6h         48    120        53                   221 3,3
+                                                                                         KFZ        FSp      105     968      164                  1237 100
+                                                                                                    NSp      154     712      232                  1098 100
+
+
+
+
+                                                                             Nuthestr.
+                                                                                                    6h        780   4758     1088                  6626 100
+                                                        181                              FZ         FSp       150    968      202                  1320 100
+                                                               712
+                                                        531            OST                          NSp       183    712      316                  1211 100
+                                                                                                    6h       1021   4758     1395                   7174 100
+                                                                                         Bemerkungen :
+                                                                                         Wetter: früh 14°C,leicht bewölkt, trocken; nachmittag: 26°C sonnig
+
+
+
+
+                     685              232
+                                                                                              Sph-Beginn:      7.00 Uhr und 15.30 Uhr
+                               917                                                       SUMME Zufahrten:[FSp] : 1237 KFZ/h 7:30
+                                                                                                         (NSp) : 1098 KFZ/h 16:00
+                               SÜD                                                                          6h : 6626 KFZ
+                    F.-List-Str.                                                         max. Sph /Zufahrt: NORD               163 KFZ/h 15:30
+                                                                                                             OST               968 KFZ/h 7:30
+                                                                                          DATUM :            SÜD               255 KFZ/h 16:30
+                                                              1.098 KFZ/h                03.06.2010
+                                            Kfz-Stromverteilung in der NSp                625                  Nuthestr./F.-List-Str. (N)
+
+StromPlan (NSp)625kp6-10.xls                                  Seite3
+

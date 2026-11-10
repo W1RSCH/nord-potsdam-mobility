@@ -1,0 +1,151 @@
+                                                                                                                                                                    29.09.2014
+
+
+
+
+                                                                                                                                   FAHRZEUG-VERTEILUNG
+                                                  Hebbelstr.                                                                       NORD OST SÜD WEST SUMME %
+                                                                                                                RAD       FSp                   46      67          90     203 11,8
+                                                    NORD                                                                  NSp                   58      60        153      271 13,6
+                                                                                                                          6h                   307     359         591    1257 11,7
+                                                                                                                NFZ       FSp                  48      22          73      143  9,4
+                                                     582                                                                  NSp                  52      46          48      146  8,5
+                                                                                                                          6h                  267     194         361      822 8,7
+                                                                                                                SV        FSp                    6     13          25       44  2,9
+                                                                                                                          NSp                  10      17          14       41  2,4
+                                                                                                                          6h                    36      82        131      249 2,6
+                                                                                                                KFZ       FSp                 498     257         765    1520 100
+                                                                                                                          NSp                 525     416         783    1724 100
+
+
+
+
+        Kurfürstenstr.                                                                         Kurfürstenstr.
+                                                                                                                          6h                 2914    2053        4478     9445 100
+                                                                                                                FZ        FSp                 544     324         855     1723 100
+                         8.007   3.529                                       211                                          NSp                 583     476         936     1995 100
+                                   9                                       2.190 2.914   OST
+                                                                                                                          6h                 3221    2412        5069    10702 100
+
+WEST
+                         4.478   3.457                                       513                                Bemerkungen :
+                                 1.012                                     3.809 6.723                          - Wetter früh 15°C trocken;
+                                                                                                                  nachmittag 23°Csonnig, trocken
+                                                                                                                - Baustelle in F.-Ebert-Str. zw. Nauener Tor und Reiterweg
+                                                                                                                - Umleitungsverkehr Bus über Kurfürstenstr.
+                                                                                                                - Einbahnstraße in Behlertstr. entgegengesetzt
+                                                                                                                     Sph-Beginn:    7.30   Uhr und   15.30 Uhr
+                                                                                                                SUMME Zufahrten: [FSp] :             1520 KFZ/h 8:00
+                                          1.525      1.339    362    352                                                                   (NSp):    1724 KFZ/h 16:00
+                                                                                                                                     6h :            9445 KFZ
+                                         3.578                                                                  max. Sph /Zufahrt: NORD :                 KFZ/h
+                                                             2.053                                                                  OST :             525 KFZ/h 16:00
+                                                             SÜD                                                 DATUM :            SÜD :             490 KFZ/h 17:30
+                                                     Hebbelstr.                                                 12.06.2014                 WEST :     797 KFZ/h 15:30
+                                                                                                                 157               Kurfürstenstr./Hebbelstr.
+
+
+
+
+       SVP, 461                                                                                                                                       StromPlan157kp6-14.xls
+                                                                                                                                                                        29.09.2014
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                             Hebbelstr.                                                                                NORD OST SÜD WEST SUMME %
+                                                                                                                    RAD       FSp                   46       67         90     203 11,8
+                                               NORD                                                                           NSp                   58       60       153      271 13,6
+                                                                                                                              6h                   307      359        591    1257 11,7
+                                                                                                                    NFZ       FSp                  48       22         73      143  9,4
+                                                90                                                                            NSp                  52       46         48      146  8,5
+                                                                                                                              6h                  267      194        361      822 8,7
+                                                                                                                    SV        FSp                    6      13         25       44  2,9
+                                                                                                                              NSp                  10       17         14       41  2,4
+                                                                                                                              6h                    36       82       131      249 2,6
+                                                                                                                    KFZ       FSp                 498      257        765    1520 100
+                                                                                                                              NSp                 525      416        783    1724 100
+
+
+
+
+        Kurfürstenstr.                                                                             Kurfürstenstr.
+                                                                                                                              6h                 2914     2053       4478     9445 100
+                                                                                                                    FZ        FSp                 544      324        855     1723 100
+                         1.276   511                                             29                                           NSp                 583      476        936     1995 100
+                                  1                                             373    498   OST
+                                                                                                                              6h                 3221     2412       5069    10702 100
+
+WEST
+                         765     620                                             96                                 Bemerkungen :
+                                 144                                            679 1.177                           - Wetter früh 15°C trocken;
+                                                                                                                      nachmittag 23°Csonnig, trocken
+                                                                                                                    - Baustelle in F.-Ebert-Str. zw. Nauener Tor und Reiterweg
+                                                                                                                    - Umleitungsverkehr Bus über Kurfürstenstr.
+                                                                                                                    - Einbahnstraße in Behlertstr. entgegengesetzt
+                                                                                                                         Sph-Beginn:    7.30    Uhr und   15.30 Uhr
+                                                                                                                    SUMME Zufahrten: [FSp] :              1520 KFZ/h 8:00
+                                       240      138   60     59                                                                                (NSp):     1724 KFZ/h 16:00
+                                                                                                                                         6h :             9445 KFZ
+                                       497                                                                          max. Sph /Zufahrt: NORD :                  KFZ/h
+                                                      257                                                                               OST :              525 KFZ/h 16:00
+                                                      SÜD                                                            DATUM :            SÜD :              490 KFZ/h 17:30
+                                                Hebbelstr.                          1.520 KFZ/h                     12.06.2014                 WEST :       797 KFZ/h 15:30
+                                                                  Kfz-Stromverteilung in der FSp                     157               Kurfürstenstr./Hebbelstr.
+
+
+
+
+       SVP, 461                                                                                                                                         StromPlanFSP157kp6-14.xls
+                                                                                                                                                                        29.09.2014
+
+
+
+
+                                                                                                                                       FAHRZEUG-VERTEILUNG
+                                             Hebbelstr.                                                                                NORD OST SÜD WEST SUMME %
+                                                                                                                    RAD       FSp                   46        67        90     203 11,8
+                                               NORD                                                                           NSp                   58        60      153      271 13,6
+                                                                                                                              6h                   307       359       591    1257 11,7
+                                                                                                                    NFZ       FSp                  48        22        73      143  9,4
+                                                94                                                                            NSp                  52        46        48      146  8,5
+                                                                                                                              6h                  267       194       361      822 8,7
+                                                                                                                    SV        FSp                    6       13        25       44  2,9
+                                                                                                                              NSp                  10        17        14       41  2,4
+                                                                                                                              6h                    36        82      131      249 2,6
+                                                                                                                    KFZ       FSp                 498       257       765    1520 100
+                                                                                                                              NSp                 525       416       783    1724 100
+
+
+
+
+        Kurfürstenstr.                                                                             Kurfürstenstr.
+                                                                                                                              6h                 2914      2053      4478     9445 100
+                                                                                                                    FZ        FSp                 544       324       855     1723 100
+                         1.464   681                                             29                                           NSp                 583       476       936     1995 100
+                                  2                                             395    525   OST
+                                                                                                                              6h                 3221      2412      5069    10702 100
+
+WEST
+                         783     606                                            101                                 Bemerkungen :
+                                 175                                            673 1.198                           - Wetter früh 15°C trocken;
+                                                                                                                      nachmittag 23°Csonnig, trocken
+                                                                                                                    - Baustelle in F.-Ebert-Str. zw. Nauener Tor und Reiterweg
+                                                                                                                    - Umleitungsverkehr Bus über Kurfürstenstr.
+                                                                                                                    - Einbahnstraße in Behlertstr. entgegengesetzt
+                                                                                                                         Sph-Beginn:    7.30    Uhr und   15.30 Uhr
+                                                                                                                    SUMME Zufahrten: [FSp] :              1520 KFZ/h 8:00
+                                       276      286   63     67                                                                                (NSp):     1724 KFZ/h 16:00
+                                                                                                                                         6h :             9445 KFZ
+                                       692                                                                          max. Sph /Zufahrt: NORD :                  KFZ/h
+                                                      416                                                                               OST :              525 KFZ/h 16:00
+                                                      SÜD                                                            DATUM :            SÜD :              490 KFZ/h 17:30
+                                                Hebbelstr.                          1.724 KFZ/h                     12.06.2014                 WEST :       797 KFZ/h 15:30
+                                                                  Kfz-Stromverteilung in der NSp                     157               Kurfürstenstr./Hebbelstr.
+
+
+
+
+       SVP, 461                                                                                                                                         StromPlanNSP157kp6-14.xls
+

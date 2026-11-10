@@ -1,0 +1,154 @@
+SVP, 461                                                                                                                                                      08.03.2013
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                  NORD                                                                  NORD         OST     SÜD                    SUMME %
+                    Geiselbergstr.                                                     RAD       FSp           2        5        1                        6            1,5
+
+                                                                                                 NSp          9         3        2                     14              3,4
+                                954                                                              6h          40        24       13                      77             3,7
+                                            1.776                                      NFZ       FSp        34         8       12                      54             13,4
+                                                                                                 NSp        14        24       15                      53             13,4
+                          513         441    822                                                 6h        128        80       90                     298             14,9
+                                                                                       SV        FSp        11         6        5                      22              5,4
+                                                                                                 NSp         5         6        5                      16              4,0
+                                                                                                 6h         46        41       42                     129              6,4
+                                                                                       KFZ       FSp       262        71       71                     404              100
+
+
+
+
+                                                                       Am Mühlenberg
+                                                                                                 NSp       128       157      111                     396              100
+                                                                                                 6h        954       545      502                    2001              100
+
+                                                    435                                FZ        FSp       264        76       72                      410             100
+                                                          545
+                                                    110          OST                             NSp       137       160      113                      410             100
+                                                                                                 6h        994       569      515                     2078             100
+                                                    556   1101
+
+                                                                                       Bemerkungen:
+
+                                                                                       - Wetter früh 12ºC bewölkt, trocken; nachmittags 20ºC stark bewölkt, trocken
+
+
+
+
+                          623         387    115
+                                                                                                 Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                         1.125                                                                                      [FSp]: 404 KFZ/h 7:30
+                                     502                                               SUMME Zufahrten:            (NSp):    396 KFZ/h 16:30
+                                  SÜD                                                                                6h :   2001 KFZ
+                    Geiselbergstr.                                                     max. Sph /Zufahrt: NORD                262 KFZ/h 7:30
+                                                                                                           OST                157 KFZ/h 16:30
+                                                                                        DATUM :            SÜD                116 KFZ/h 16:00
+                                                                                       26.04.2012
+                                                                                        268            Geiselbergstr./Am Mühlenberg - OT Golm -
+
+
+StromPlan268kp4-12.xls                                       Seite1
+SVP, 461                                                                                                                                                                       08.03.2013
+
+
+
+                                                                                                                         FAHRZEUG-VERTEILUNG
+                                 NORD                                                                                    NORD         OST     SÜD                    SUMME %
+                    Geiselbergstr.                                                                      RAD       FSp           2        5        1                        6            1,5
+
+                                                                                                                  NSp          9         3        2                     14              3,4
+                               262                                                                                6h          40        24       13                      77             3,7
+                                                351                                                     NFZ       FSp        34         8       12                      54             13,4
+                                                                                                                  NSp        14        24       15                      53             13,4
+                         138         124        89                                                                6h        128        80       90                     298             14,9
+                                                                                                        SV        FSp        11         6        5                      22              5,4
+                                                                                                                  NSp         5         6        5                      16              4,0
+                                                                                                                  6h         46        41       42                     129              6,4
+                                                                                                        KFZ       FSp       262        71       71                     404              100
+
+
+
+
+                                                                                        Am Mühlenberg
+                                                                                                                  NSp       128       157      111                     396              100
+                                                                                                                  6h        954       545      502                    2001              100
+
+                                                                  50                                    FZ        FSp       264        76       72                      410             100
+                                                                         71
+                                                                  21              OST                             NSp       137       160      113                      410             100
+                                                                                                                  6h        994       569      515                     2078             100
+                                                                  156   227
+
+                                                                                                        Bemerkungen:
+
+                                                                                                        - Wetter früh 12ºC bewölkt, trocken; nachmittags 20ºC stark bewölkt, trocken
+
+
+
+
+                         159         39         32
+                                                                                                                  Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                        230                                                                                                          [FSp]: 404 KFZ/h 7:30
+                                           71                                                           SUMME Zufahrten:            (NSp):    396 KFZ/h 16:30
+                                 SÜD                                                                                                  6h :   2001 KFZ
+                    Geiselbergstr.                                                                      max. Sph /Zufahrt: NORD                262 KFZ/h 7:30
+                                                                                                                            OST                157 KFZ/h 16:30
+                                                                                                         DATUM :            SÜD                116 KFZ/h 16:00
+                                                                          404 KFZ/h                     26.04.2012
+                                                      Kfz-Stromverteilung in der FSp                     268            Geiselbergstr./Am Mühlenberg - OT Golm -
+
+
+StromPlan (FSp)268kp4-12.xls                                                  Seite2
+SVP, 461                                                                                                                                                              08.03.2013
+
+
+
+                                                                                                                FAHRZEUG-VERTEILUNG
+                                 NORD                                                                           NORD         OST     SÜD                    SUMME %
+                    Geiselbergstr.                                                             RAD       FSp           2        5        1                        6            1,5
+
+                                                                                                         NSp          9         3        2                     14              3,4
+                               128                                                                       6h          40        24       13                      77             3,7
+                                          363                                                  NFZ       FSp        34         8       12                      54             13,4
+                                                                                                         NSp        14        24       15                      53             13,4
+                         85          43   235                                                            6h        128        80       90                     298             14,9
+                                                                                               SV        FSp        11         6        5                      22              5,4
+                                                                                                         NSp         5         6        5                      16              4,0
+                                                                                                         6h         46        41       42                     129              6,4
+                                                                                               KFZ       FSp       262        71       71                     404              100
+
+
+
+
+                                                                               Am Mühlenberg
+                                                                                                         NSp       128       157      111                     396              100
+                                                                                                         6h        954       545      502                    2001              100
+
+                                                           141                                 FZ        FSp       264        76       72                      410             100
+                                                                  157
+                                                           16            OST                             NSp       137       160      113                      410             100
+                                                                                                         6h        994       569      515                     2078             100
+                                                            60    217
+
+                                                                                               Bemerkungen:
+
+                                                                                               - Wetter früh 12ºC bewölkt, trocken; nachmittags 20ºC stark bewölkt, trocken
+
+
+
+
+                         101         94   17
+                                                                                                         Sph-Beginn:       7.00 Uhr und 16.00 Uhr
+                        212                                                                                                 [FSp]: 404 KFZ/h 7:30
+                                    111                                                        SUMME Zufahrten:            (NSp):    396 KFZ/h 16:30
+                                 SÜD                                                                                         6h :   2001 KFZ
+                    Geiselbergstr.                                                             max. Sph /Zufahrt: NORD                262 KFZ/h 7:30
+                                                                                                                   OST                157 KFZ/h 16:30
+                                                                                                DATUM :            SÜD                116 KFZ/h 16:00
+                                                                   396 KFZ/h                   26.04.2012
+                                                Kfz-Stromverteilung in der NSp                  268            Geiselbergstr./Am Mühlenberg - OT Golm -
+
+
+StromPlan (NSp)268kp4-12.xls                                         Seite3
+

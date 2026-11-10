@@ -1,0 +1,137 @@
+SVP, 461                                                                                                                                                      18.12.2017
+
+                                                                                                              FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                              RAD         FSp           176         19      91                   286     15,1
+
+                     Horstweg                                                                           NSp                73    17    99                           189  9,4
+                                                                                                        6h                465   114   414                            993 9,3
+                            1.848                                                                NFZ    FSp               49    79   132                            260 16,2
+                                        4.876                                                           NSp               43    90    94                            227 12,5
+                                                                                                        6h               225   432   682                           1339 13,9
+                    1.448       400      3.028                                                   SV     FSp               11    26    29                             66  4,1
+                                                                                                        NSp               11      9   17                             37  2,0
+                                                                                                        6h                 50  104   134                            288 3,0
+                                                                                                 KFZ FSp                 285   474   844                          1603 100
+                                                                                                        NSp              400   665   755                          1820 100
+
+
+
+
+                                                                                   Nuthestraße
+                                                                                                        6h              1848 3176 4605                             9629 100
+                                                                                                 FZ     FSp              461   493   935                           1889 100
+                                                           1120                                         NSp              473   682   854                           2009 100
+                                                                  3176
+                                                           2056              OST                        6h              2313 3290 5019                            10622 100
+                                                                                                 Q DTVw: 2,4           11459 14742 19056
+                                                           3097   6273                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+                                                                                                 - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuend. Str.
+                                                                                                 - Wetter früh 9°C bewölkt, trocken;
+
+                    3.504       1.908    2.697                                                     nachmittag 19ºC bewölkt, trocken (ab 18.00 Uhr) Regen
+                                                                                                     Sph-Beginn:        7.30      Uhr und   15.30 Uhr
+                   8.109                                                                         SUMME Zufahrten:                [FSp]: 1603 KFZ/h 8:00
+                                  4.605                                                                                          (NSp): 1820 KFZ/h 16:00
+                                SÜD                                                                                                 6h : 9629 KFZ
+                            Horstweg                                                             max. Sph /Zufahrt:              NORD        400 KFZ/h 16:00
+                                                                                                                                  OST        685 KFZ/h 16:30
+                                                                                                   DATUM :                        SÜD        846 KFZ/h 8:30
+                                                                            6h Werte 10.09.2015
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 465        Nuthestr./Horstweg(Nordknoten)
+StromPlan465kp9-15.xls                                             Seite 1
+SVP, 461                                                                                                                                                18.12.2017
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                        RAD         FSp           176         19      91                   286     15,1
+
+                      Horstweg                                                                    NSp                73    17    99                           189  9,4
+                                                                                                  6h                465   114   414                            993 9,3
+                           285                                                             NFZ    FSp               49    79   132                            260 16,2
+                                        803                                                       NSp               43    90    94                            227 12,5
+                                                                                                  6h               225   432   682                           1339 13,9
+                     218         67     518                                                SV     FSp               11    26    29                             66  4,1
+                                                                                                  NSp               11      9   17                             37  2,0
+                                                                                                  6h                 50  104   134                            288 3,0
+                                                                                           KFZ FSp                 285   474   844                          1603 100
+                                                                                                  NSp              400   665   755                          1820 100
+
+
+
+
+                                                                             Nuthestraße
+                                                                                                  6h              1848 3176 4605                             9629 100
+                                                                                           FZ     FSp              461   493   935                           1889 100
+                                                      177                                         NSp              473   682   854                           2009 100
+                                                            474
+                                                      297              OST                        6h              2313 3290 5019                            10622 100
+                                                                                           Q DTVw: 2,4           11459 14742 19056
+                                                      570   1044                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                                                                           - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuend. Str.
+                                                                                           - Wetter früh 9°C bewölkt, trocken;
+                     515         341    503                                                  nachmittag 19ºC bewölkt, trocken (ab 18.00 Uhr) Regen
+                                                                                               Sph-Beginn:        7.30      Uhr und   15.30 Uhr
+                   1.359                                                                   SUMME Zufahrten:                [FSp]: 1603 KFZ/h 8:00
+                                  844                                                                                      (NSp): 1820 KFZ/h 16:00
+                               SÜD                                                                                            6h : 9629 KFZ
+                           Horstweg                                                        max. Sph /Zufahrt:              NORD        400 KFZ/h 16:00
+                                                                                                                            OST        685 KFZ/h 16:30
+                                                                                             DATUM :                        SÜD        846 KFZ/h 8:30
+                                                                1.603 KFZ/h 10.09.2015
+                                              Kfz-Stromverteilung in der FSp 465       Nuthestr./Horstweg(Nordknoten)
+StromPlan (FSp)465kp9-15.xls                                 Seite 2
+SVP, 461                                                                                                                                                18.12.2017
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                        RAD         FSp           176         19      91                   286     15,1
+
+                      Horstweg                                                                    NSp                73    17    99                           189  9,4
+                                                                                                  6h                465   114   414                            993 9,3
+                           400                                                             NFZ    FSp               49    79   132                            260 16,2
+                                        931                                                       NSp               43    90    94                            227 12,5
+                                                                                                  6h               225   432   682                           1339 13,9
+                     322         78     531                                                SV     FSp               11    26    29                             66  4,1
+                                                                                                  NSp               11      9   17                             37  2,0
+                                                                                                  6h                 50  104   134                            288 3,0
+                                                                                           KFZ FSp                 285   474   844                          1603 100
+                                                                                                  NSp              400   665   755                          1820 100
+
+
+
+
+                                                                             Nuthestraße
+                                                                                                  6h              1848 3176 4605                             9629 100
+                                                                                           FZ     FSp              461   493   935                           1889 100
+                                                      203                                         NSp              473   682   854                           2009 100
+                                                             665
+                                                      462              OST                        6h              2313 3290 5019                            10622 100
+                                                                                           Q DTVw: 2,4           11459 14742 19056
+                                                      505   1170                           Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                                                                           - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuend. Str.
+                                                                                           - Wetter früh 9°C bewölkt, trocken;
+                     784         328    427                                                  nachmittag 19ºC bewölkt, trocken (ab 18.00 Uhr) Regen
+                                                                                               Sph-Beginn:        7.30      Uhr und   15.30 Uhr
+                   1.539                                                                   SUMME Zufahrten:                [FSp]: 1603 KFZ/h 8:00
+                                  755                                                                                      (NSp): 1820 KFZ/h 16:00
+                               SÜD                                                                                            6h : 9629 KFZ
+                           Horstweg                                                        max. Sph /Zufahrt:              NORD        400 KFZ/h 16:00
+                                                                                                                            OST        685 KFZ/h 16:30
+                                                                                             DATUM :                        SÜD        846 KFZ/h 8:30
+                                                                1.820 KFZ/h 10.09.2015
+                                              Kfz-Stromverteilung in der NSp 465       Nuthestr./Horstweg(Nordknoten)
+StromPlan (NSp)465kp9-15.xls                                 Seite 3
+

@@ -1,0 +1,193 @@
+        Landeshauptstadt Potsdam                                                                                                                                                              15.04.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                 Zufahrt: NORD                 OST    SÜD WEST                 SUMME %
+                                                                                                                              RAD    FSp    134                  13     11    46                  204        16,0
+                                                                                                                                     NSp     30                   2       2  115                  149        13,9
+                                                 NORD                                                                                6h     336                  24      46  289                  695        11,3
+                                                                                                                              NFZ    FSp      0                 16      47    53                 165         15,4
+                                               Leipziger Str.                                                                        NSp      0                 13      25    29                   97        10,5
+                                                   0               3.637                                                             6h       0                  85    394   206                  685        12,6
+                                                                                                                              SV     FSp      0                 12      23    19                   63         5,9
+                                                                                                                                     NSp      0                 12      10    11                   33         3,6
+
+                                                                    3.637
+                                         0        0        0                                                                         6h       0                  58    113    74                  245         4,5
+                                                                                                                              KFZ FSp         0                 45     381  431                 1071         100
+                                                                                                                                     NSp      0                 44     530  348                  922         100
+                                                                                                                                     6h       0                261    3201 1973                 5435         100
+                                                                                                                              FZ     FSp    134                  58    392   477                1275         100
+
+
+
+
+                                                                                                             Templiner Str.
+                                                                                                                                     NSp     30                  46    266   463                1071         100
+
+
+
+
+       Templiner Str.
+                                                                                                                                     6h     336                 285   3247  2262                 6130        100
+                        3.547   1.574                                                      71                                 Q DTVw: 2,4 8547                 613    8049 8335
+
+                                                                                                       OST
+                                1.772                                                      167   261
+WEST
+                                                                                                                              Q DTVw=Querschnitt 24h KFZ werktags
+                        1.973    0                                                         23                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                201                                                         0    261                          Bemerkungen :
+                                                                                                                              - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+
+                                                                                                                              - Wetter früh 7ºC, bewölkt, vereinzelt Regen;
+                                                                                                                                nachmittag 11ºC bewölkt, vereinzelt Regen
+
+
+
+
+                                         224      1.407    1.794
+                                                                    0                                                             Sph-Beginn:         7.00 Uhr und    15.00   Uhr
+                                                                                                                              SUMME Zufahrten: [FSp]: 1071 KFZ/h 7:30
+                                        3.425                                                                                                    (NSp):  922 KFZ/h 15:30
+                                                          3.201                                                                                    6h : 5435 KFZ
+                                                          SÜD                                                                 max. Sph /Zufahrt: NORD      0 KFZ/h 7:30
+                                         Michendorfer Ch.                                                                                                    OST         51 KFZ/h 9:30
+                                                                                                                 DATUM :                                      SG        381 KFZ/h 9:30
+                                                                                                       6h Werte 16.05.2019                                  WEST        437 KFZ/h 8:00
+                                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 472                                   Templiner Str. / Leipziger Str.
+
+
+
+         StromPlan472kp5-19.xls                                                  Seite 1
+        Landeshauptstadt Potsdam                                                                                                                                                     15.04.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                                        Zufahrt: NORD                 OST    SÜD WEST                 SUMME %
+                                                                                                                     RAD    FSp    134                  13     11    46                  204        16,0
+                                                                                                                            NSp     30                   2       2  115                  149        13,9
+                                               NORD                                                                         6h     336                  24      46  289                  695        11,3
+                                                                                                                     NFZ    FSp      0                 16      47    53                 165         15,4
+                                             Leipziger Str.                                                                 NSp      0                 13      25    29                   97        10,5
+                                                 0            784                                                           6h       0                  85    394   206                  685        12,6
+                                                                                                                     SV     FSp      0                 12      23    19                   63         5,9
+                                                                                                                            NSp      0                 12      10    11                   33         3,6
+                                        0       0     0       784                                                           6h       0                  58    113    74                  245         4,5
+                                                                                                                     KFZ FSp         0                 45     381  431                 1071         100
+                                                                                                                            NSp      0                 44     530  348                  922         100
+                                                                                                                            6h       0                261    3201 1973                 5435         100
+                                                                                                                     FZ     FSp    134                  58    392   477                1275         100
+
+
+
+
+                                                                                                    Templiner Str.
+                                                                                                                            NSp     30                  46    266   463                1071         100
+
+
+
+
+       Templiner Str.
+                                                                                                                            6h     336                 285   3247  2262                 6130        100
+                        677   246                                                 10                                 Q DTVw: 2,4 8547                 613    8049 8335
+
+                                                                                              OST
+                              393                                                 32   45
+WEST
+                                                                                                                     Q DTVw=Querschnitt 24h KFZ werktags
+                        431    0                                                  3                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                              38                                                  0    45                            Bemerkungen :
+                                                                                                                     - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+
+                                                                                                                     - Wetter früh 7ºC, bewölkt, vereinzelt Regen;
+                                                                                                                       nachmittag 11ºC bewölkt, vereinzelt Regen
+
+
+
+
+                                        41      214   381     0                                                          Sph-Beginn:         7.00 Uhr und    15.00   Uhr
+                                                                                                                     SUMME Zufahrten: [FSp]: 1071 KFZ/h 7:30
+                                        636                                                                                             (NSp):  922 KFZ/h 15:30
+                                                      595                                                                                 6h : 5435 KFZ
+                                                      SÜD                                                            max. Sph /Zufahrt: NORD      0 KFZ/h 7:30
+                                        Michendorfer Ch.                                                                                            OST         51 KFZ/h 9:30
+                                                                                                         DATUM :                                     SG        381 KFZ/h 9:30
+                                                                                            1.071 KFZ/h 16.05.2019                                 WEST        437 KFZ/h 8:00
+                                                                    Kfz-Stromverteilung in der FSp 472                                      Templiner Str. / Leipziger Str.
+
+
+
+         StromPlan (FSp)472kp5-19.xls                                   Seite 2
+        Landeshauptstadt Potsdam                                                                                                                                                   15.04.2020
+        Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                                      Zufahrt: NORD                 OST    SÜD WEST                 SUMME %
+                                                                                                                   RAD    FSp    134                  13     11    46                  204        16,0
+                                                                                                                          NSp     30                   2       2  115                  149        13,9
+                                               NORD                                                                       6h     336                  24      46  289                  695        11,3
+                                                                                                                   NFZ    FSp      0                 16      47    53                 165         15,4
+                                             Leipziger Str.                                                               NSp      0                 13      25    29                   97        10,5
+                                                 0            584                                                         6h       0                  85    394   206                  685        12,6
+                                                                                                                   SV     FSp      0                 12      23    19                   63         5,9
+                                                                                                                          NSp      0                 12      10    11                   33         3,6
+                                        0       0     0       584                                                         6h       0                  58    113    74                  245         4,5
+                                                                                                                   KFZ FSp         0                 45     381  431                 1071         100
+                                                                                                                          NSp      0                 44     530  348                  922         100
+                                                                                                                          6h       0                261    3201 1973                 5435         100
+                                                                                                                   FZ     FSp    134                  58    392   477                1275         100
+
+
+
+
+                                                                                                  Templiner Str.
+                                                                                                                          NSp     30                  46    266   463                1071         100
+
+
+
+
+       Templiner Str.
+                                                                                                                          6h     336                 285   3247  2262                 6130        100
+                        642   294                                                 12                               Q DTVw: 2,4 8547                 613    8049 8335
+
+                                                                                            OST
+                              308                                                 28   44
+WEST
+                                                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+                        348    0                                                  4                                NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                              40                                                  0    44                          Bemerkungen :
+                                                                                                                   - Leipziger Str. seit 09/08 in Richtung H.-Mann-Allee Einbahnstraße
+
+                                                                                                                   - Wetter früh 7ºC, bewölkt, vereinzelt Regen;
+                                                                                                                     nachmittag 11ºC bewölkt, vereinzelt Regen
+
+
+
+
+                                        44      266   264     0                                                        Sph-Beginn:         7.00 Uhr und    15.00   Uhr
+                                                                                                                   SUMME Zufahrten: [FSp]: 1071 KFZ/h 7:30
+                                        574                                                                                           (NSp):  922 KFZ/h 15:30
+                                                      530                                                                               6h : 5435 KFZ
+                                                      SÜD                                                          max. Sph /Zufahrt: NORD      0 KFZ/h 7:30
+                                        Michendorfer Ch.                                                                                          OST         51 KFZ/h 9:30
+                                                                                                       DATUM :                                     SG        381 KFZ/h 9:30
+                                                                                            922 KFZ/h 16.05.2019                                 WEST        437 KFZ/h 8:00
+                                                                    Kfz-Stromverteilung in der NSp 472                                    Templiner Str. / Leipziger Str.
+
+
+
+         StromPlan (NSp)472kp5-19.xls                                   Seite 3
+

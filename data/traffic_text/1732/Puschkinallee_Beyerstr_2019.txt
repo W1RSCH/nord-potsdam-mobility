@@ -1,0 +1,163 @@
+Landeshauptstadt Potsdam                                                                                                                                                           18.09.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                      FAHRZEUG-VERTEILUNG
+                                                                                                             Zufahrt: NORD OST SÜD       SUMME %
+                                      NORD                                                          RAD         FSp              29        21      18                    68          29,8
+
+                              Puschkinallee                                                                     NSp              22        25      19                    66          31,0
+
+                                                                                                            6h                  116        101      83                  300          28,8
+                                    112                                                             NFZ     FSp                   1          5       6                   12           7,5
+                                                349                                                         NSp                   2          4       3                    9           6,1
+                                                                                                            6h                    7         17     26                    50           6,8
+                              99          13    237                                                 SV      FSp                   0          0       0                    0           0,0
+                                                                                                            NSp                   0          2       0                    2           1,4
+                                                                                                            6h                    0          5       1                    6           0,8
+                                                                                                    KFZ FSp                      18         53     89                  160            100
+                                                                                                            NSp                  28         40     79                  147            100
+
+
+
+
+                                                                                      Beyerstraße
+                                                                                                            6h                  112        216    412                   740           100
+                                                                                                    FZ      FSp                  47         74    107                   228           100
+                                                                  33                                        NSp                  50         65     98                   213           100
+                                                                         216
+                                                                  183           OST
+                                                                                                            6h                  228        317    495                  1040           100
+                                                                                                    Q DTVw:    2,35             820       1027   1631
+                                                                  221    437                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                    NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                    Bemerkungen :
+                                                                                                    - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                      nachmittag 23ºC bewölkt, trocken
+                              282         204   208
+                                                                                                            Sph-Beginn:       7.30    Uhr und    15.00 Uhr
+                              694                                                                   SUMME Zufahrten:                  [FSp]:      160 KFZ/h 8:00
+                                         412                                                                                          (NSp):      147 KFZ/h 15:30
+                                      SÜD                                                                                                6h :     740 KFZ
+                              Puschkinallee                                                         max. Sph /Zufahrt:                NORD         28 KFZ/h 15:30
+                                                                                                                                       OST         53 KFZ/h 8:00
+                                                                                                         DATUM :                       SÜD         92 KFZ/h 7:30
+                                                                                 6h Werte 15.08.2019
+                                                 von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 1732                                  Puschkinallee / Beyerstr.
+
+
+
+StromPlan1732kp8-19.xlsx                                                   Seite 1
+Landeshauptstadt Potsdam                                                                                                                                                            18.09.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD       SUMME %
+                                        NORD                                                         RAD         FSp              29        21      18                    68          29,8
+
+                                 Puschkinallee                                                                   NSp              22        25      19                    66          31,0
+
+                                                                                                             6h                  116        101      83                  300          28,8
+                                       18                                                            NFZ     FSp                   1          5       6                   12           7,5
+                                                       62                                                    NSp                   2          4       3                    9           6,1
+                                                                                                             6h                    7         17     26                    50           6,8
+                                 15         3          44                                            SV      FSp                   0          0       0                    0           0,0
+                                                                                                             NSp                   0          2       0                    2           1,4
+                                                                                                             6h                    0          5       1                    6           0,8
+                                                                                                     KFZ FSp                      18         53     89                  160            100
+                                                                                                             NSp                  28         40     79                  147            100
+
+
+
+
+                                                                                       Beyerstraße
+                                                                                                             6h                  112        216    412                   740           100
+                                                                                                     FZ      FSp                  47         74    107                   228           100
+                                                                    9                                        NSp                  50         65     98                   213           100
+                                                                           53
+                                                                    44           OST
+                                                                                                             6h                  228        317    495                  1040           100
+                                                                                                     Q DTVw:    2,35             820       1027   1631
+                                                                    57    110                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Bemerkungen :
+                                                                                                     - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                       nachmittag 23ºC bewölkt, trocken
+                                 59         35         54
+                                                                                                             Sph-Beginn:       7.30    Uhr und    15.00 Uhr
+                                 148                                                                 SUMME Zufahrten:                  [FSp]:      160 KFZ/h 8:00
+                                                  89                                                                                   (NSp):      147 KFZ/h 15:30
+                                            SÜD                                                                                           6h :     740 KFZ
+                                 Puschkinallee                                                       max. Sph /Zufahrt:                NORD         28 KFZ/h 15:30
+                                                                                                                                        OST         53 KFZ/h 8:00
+                                                                                                          DATUM :                       SÜD         92 KFZ/h 7:30
+                                                                                160 KFZ/h 15.08.2019
+                                                            Kfz-Stromverteilung in der FSp 1732                                   Puschkinallee / Beyerstr.
+
+
+
+StromPlan (FSp)1732kp8-19.xlsx                                              Seite 2
+Landeshauptstadt Potsdam                                                                                                                                                            18.09.2020
+Bereich Verkehrsentwicklung
+
+
+
+
+                                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                              Zufahrt: NORD OST SÜD       SUMME %
+                                        NORD                                                         RAD         FSp              29        21      18                    68          29,8
+
+                                 Puschkinallee                                                                   NSp              22        25      19                    66          31,0
+
+                                                                                                             6h                  116        101      83                  300          28,8
+                                       28                                                            NFZ     FSp                   1          5       6                   12           7,5
+                                                       77                                                    NSp                   2          4       3                    9           6,1
+                                                                                                             6h                    7         17     26                    50           6,8
+                                 24         4          49                                            SV      FSp                   0          0       0                    0           0,0
+                                                                                                             NSp                   0          2       0                    2           1,4
+                                                                                                             6h                    0          5       1                    6           0,8
+                                                                                                     KFZ FSp                      18         53     89                  160            100
+                                                                                                             NSp                  28         40     79                  147            100
+
+
+
+
+                                                                                       Beyerstraße
+                                                                                                             6h                  112        216    412                   740           100
+                                                                                                     FZ      FSp                  47         74    107                   228           100
+                                                                    4                                        NSp                  50         65     98                   213           100
+                                                                           40
+                                                                    36           OST
+                                                                                                             6h                  228        317    495                  1040           100
+                                                                                                     Q DTVw:    2,35             820       1027   1631
+                                                                    38     78                        Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                     NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                     Bemerkungen :
+                                                                                                     - Wetter früh 15ºC bewölkt, trocken;
+                                                                                                       nachmittag 23ºC bewölkt, trocken
+                                 60         45         34
+                                                                                                             Sph-Beginn:       7.30    Uhr und    15.00 Uhr
+                                 139                                                                 SUMME Zufahrten:                  [FSp]:      160 KFZ/h 8:00
+                                                  79                                                                                   (NSp):      147 KFZ/h 15:30
+                                            SÜD                                                                                           6h :     740 KFZ
+                                 Puschkinallee                                                       max. Sph /Zufahrt:                NORD         28 KFZ/h 15:30
+                                                                                                                                        OST         53 KFZ/h 8:00
+                                                                                                          DATUM :                       SÜD         92 KFZ/h 7:30
+                                                                                147 KFZ/h 15.08.2019
+                                                            Kfz-Stromverteilung in der NSp 1732                                   Puschkinallee / Beyerstr.
+
+
+
+StromPlan (NSp)1732kp8-19.xlsx                                              Seite 3
+

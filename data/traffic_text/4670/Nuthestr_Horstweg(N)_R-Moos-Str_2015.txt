@@ -1,0 +1,137 @@
+SVP, 461                                                                                                                                                       20.12.2017
+
+                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                       Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                               RAD         FSp               9          0     19                    28        2,3
+
+              Nordrampe Nuthestr.                                                                        NSp                 7             1     16                   24  1,7
+                                                                                                         6h                 25             2    112                  139 1,9
+                            3.097                                                                 NFZ    FSp               83             38    73                  194 16,3
+                                        6.273                                                            NSp               48             41    78                  167 12,0
+                                                                                                         6h               402            229   382                 1013 13,9
+                    2.186       911      3.176                                                    SV     FSp               17              8    25                    50  4,2
+                                                                                                         NSp                 6             5      9                   20  1,4
+                                                                                                         6h                78             35     98                  211 2,9
+                                                                                                  KFZ FSp                 570            148   474                 1192 100
+                                                                                                         NSp              505            306   577                 1388 100
+
+
+
+
+                                                                                   R.-Moos-Str.
+                                                                                                         6h              3097           1289 2915                  7301 100
+                                                                                                  FZ     FSp              579            148   493                 1220 100
+                                                            655                                          NSp              512            307   593                 1412 100
+                                                                  1289
+                                                            634              OST                         6h              3122           1291 3027                   7440 100
+                                                                                                  Q DTVw: 2,4           14742           6096 13477
+                                                           1305   2594                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                                  NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                  Bemerkungen :
+                                                                                                  - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuend. Str.
+                                                                                                  - Teilzählung - Zuf. NG & SG durch KP465 errechnet
+
+                    2.820       2.521    394                                                      - Wetter früh 9°C bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+                                                                                                      Sph-Beginn:        7.30       Uhr und    15.30 Uhr
+                   5.735                                                                          SUMME Zufahrten:                  [FSp]: 1192 KFZ/h 8:00
+                                  2.915                                                                                             (NSp): 1388 KFZ/h 16:00
+                                SÜD                                                                                                    6h : 7301 KFZ
+               Südrampe Nuthestr.                                                                 max. Sph /Zufahrt:                NORD        599 KFZ/h 8:30
+                                                                                                                                     OST        306 KFZ/h 16:00
+                                                                                                    DATUM :                          SÜD        619 KFZ/h 16:30
+                                                                            6h Werte 10.09.2015
+                                           von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 467      Nuthestr./Horstweg(N)/R.-Moos-Str.
+StromPlan467kp9-15.xls                                             Seite 1
+SVP, 461                                                                                                                                                  20.12.2017
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                          RAD         FSp               9          0     19                    28        2,3
+
+              Nordrampe Nuthestr.                                                                   NSp                 7             1     16                   24  1,7
+                                                                                                    6h                 25             2    112                  139 1,9
+                           570                                                               NFZ    FSp               83             38    73                  194 16,3
+                                       1.044                                                        NSp               48             41    78                  167 12,0
+                                                                                                    6h               402            229   382                 1013 13,9
+                     405         165    474                                                  SV     FSp               17              8    25                    50  4,2
+                                                                                                    NSp                 6             5      9                   20  1,4
+                                                                                                    6h                78             35     98                  211 2,9
+                                                                                             KFZ FSp                 570            148   474                 1192 100
+                                                                                                    NSp              505            306   577                 1388 100
+
+
+
+
+                                                                              R.-Moos-Str.
+                                                                                                    6h              3097           1289 2915                  7301 100
+                                                                                             FZ     FSp              579            148   493                 1220 100
+                                                       67                                           NSp              512            307   593                 1412 100
+                                                              148
+                                                       81               OST                         6h              3122           1291 3027                   7440 100
+                                                                                             Q DTVw: 2,4           14742           6096 13477
+                                                       232    380                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                                                                             - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuend. Str.
+                                                                                             - Teilzählung - Zuf. NG & SG durch KP465 errechnet
+                     486         407    67                                                   - Wetter früh 9°C bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+                                                                                                 Sph-Beginn:        7.30       Uhr und    15.30 Uhr
+                    960                                                                      SUMME Zufahrten:                  [FSp]: 1192 KFZ/h 8:00
+                                  474                                                                                          (NSp): 1388 KFZ/h 16:00
+                               SÜD                                                                                                6h : 7301 KFZ
+                Südrampe Nuthestr.                                                           max. Sph /Zufahrt:                NORD        599 KFZ/h 8:30
+                                                                                                                                OST        306 KFZ/h 16:00
+                                                                                               DATUM :                          SÜD        619 KFZ/h 16:30
+                                                                 1.192 KFZ/h 10.09.2015
+                                               Kfz-Stromverteilung in der FSp 467     Nuthestr./Horstweg(N)/R.-Moos-Str.
+StromPlan (FSp)467kp9-15.xls                                  Seite 2
+SVP, 461                                                                                                                                                  20.12.2017
+
+                                                                                                          FAHRZEUG-VERTEILUNG
+                                                                                                  Zufahrt: NORD OST SÜD      SUMME %
+                               NORD                                                          RAD         FSp               9          0     19                    28        2,3
+
+              Nordrampe Nuthestr.                                                                   NSp                 7             1     16                   24  1,7
+                                                                                                    6h                 25             2    112                  139 1,9
+                           505                                                               NFZ    FSp               83             38    73                  194 16,3
+                                       1.170                                                        NSp               48             41    78                  167 12,0
+                                                                                                    6h               402            229   382                 1013 13,9
+                     342         163    665                                                  SV     FSp               17              8    25                    50  4,2
+                                                                                                    NSp                 6             5      9                   20  1,4
+                                                                                                    6h                78             35     98                  211 2,9
+                                                                                             KFZ FSp                 570            148   474                 1192 100
+                                                                                                    NSp              505            306   577                 1388 100
+
+
+
+
+                                                                              R.-Moos-Str.
+                                                                                                    6h              3097           1289 2915                  7301 100
+                                                                                             FZ     FSp              579            148   493                 1220 100
+                                                       158                                          NSp              512            307   593                 1412 100
+                                                              306
+                                                       148              OST                         6h              3122           1291 3027                   7440 100
+                                                                                             Q DTVw: 2,4           14742           6096 13477
+                                                       233    539                            Q DTVw=Querschnitt 24h KFZ werktags
+
+                                                                                             NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                             Bemerkungen :
+                                                                                             - Baustelle L40 zw. Ab- und Auffahrt A115 und Neuend. Str.
+                                                                                             - Teilzählung - Zuf. NG & SG durch KP465 errechnet
+                     490         507    70                                                   - Wetter früh 9°C bewölkt, trocken; nachmittag 19ºC bewölkt, trocken
+                                                                                                 Sph-Beginn:        7.30       Uhr und    15.30 Uhr
+                   1.067                                                                     SUMME Zufahrten:                  [FSp]: 1192 KFZ/h 8:00
+                                  577                                                                                          (NSp): 1388 KFZ/h 16:00
+                               SÜD                                                                                                6h : 7301 KFZ
+                Südrampe Nuthestr.                                                           max. Sph /Zufahrt:                NORD        599 KFZ/h 8:30
+                                                                                                                                OST        306 KFZ/h 16:00
+                                                                                               DATUM :                          SÜD        619 KFZ/h 16:30
+                                                                 1.388 KFZ/h 10.09.2015
+                                               Kfz-Stromverteilung in der NSp 467     Nuthestr./Horstweg(N)/R.-Moos-Str.
+StromPlan (NSp)467kp9-15.xls                                  Seite 3
+

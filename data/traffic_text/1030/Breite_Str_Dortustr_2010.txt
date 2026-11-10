@@ -1,0 +1,150 @@
+                                                                                                                                                         22.06.2010
+
+
+
+
+                                                                                                                            FAHRZEUG-VERTEILUNG
+                                                                                                                            NORD OST SÜD WEST SUMME %
+                                             NORD                                                        RAD        FSp        41  196         33      293        563   12,7
+                                                                                                                    NSp        51  206         26      233        516   11,0
+                                         Dortustr.                                                                  6h        240 1011        140     1241       2632   10,3
+                                             4.023           6.889                                       NFZ        FSp       95  233         27       209       564    14,6
+                                                                                                                    NSp       62  180           6      147       395     9,5
+                                                                                                                    6h       466 1188          73     1041      2768    12,1
+
+                                     2.677    161    1.185    2.866                                      SV         FSp       24    78        12        71       185     4,8
+                                                                                                                    NSp       12    48          1       41       102     2,4
+                                                                                                                    6h       125   384         18      331        858    3,8
+                                                                                                         KFZ        FSp      471 1449        101     1838       3859    100
+                                                                                                                    NSp      855 1467        168     1681       4171    100
+                                                                                                                    6h      4023 8485        805      9549     22862    100
+                                                                                                         FZ         FSp      512 1645        134      2131      4422    100
+
+
+
+
+       Breite Str.                                                                         Breite Str.
+                     19.238 9.689                                     1.313                                         NSp      906 1673        194      1914      4687    100
+                            1.411                                     6.775 8.485    OST                            6h      4263 9496         945    10790     25494    100
+
+WEST
+                      9.549 7.979                                       397                              Bemerkungen :
+                             159                                      9.590 18.075                       Charlottenstraße zwischen Dortusstraße und Schopenhauerstr.
+                                                                                                         für PKW gesperrt
+                                                                                                         Wetter: früh: 14°C sonnig nachmittag: 25°C sonnig
+
+
+
+
+                                                                                                              Sph-Beginn:      7.30 Uhr und 16.30 Uhr        08:00
+                                                                                                         SUMME Zufahrten: [FSp] :    3859 KFZ/h              8:00
+                                     717      237    142      426                                                            (NSp) : 4171 KFZ/h              17:00
+                                                                                                                               6h : 22862 KFZ
+                                    1.522                                                                max. Sph /Zufahrt: NORD :    885 KFZ/h              17:30
+                                                     805                                                                      OST : 1549 KFZ/h               15:30
+                                                     SÜD                                                  DATUM :             SÜD :   210 KFZ/h              15:30
+                                               Dortustr.                                                 29.04.2010             WEST :      1855 KFZ/h 7:30
+                                                                                                          103                  Breite Str./ Dortustr.
+
+
+
+          SVP, 461                                                                                                             StromPlan103kp4-10_ohneAbfNord.xls
+                                                                                                                                                              23.07.2010
+
+
+
+
+                                                                                                                                 FAHRZEUG-VERTEILUNG
+                                                                                                                                 NORD OST SÜD WEST SUMME %
+                                           NORD                                                               RAD        FSp   41  196              33      293        563   12,7
+                                                                                                                         NSp   51  206              26      233        516   11,0
+                                       Dortustr.                                                                         6h   240 1011             140     1241       2632   10,3
+                                           471           1.059                                                NFZ        FSp   95  233             27       209       564    14,6
+                                                                                                                         NSp   62  180               6      147       395     9,5
+                                                                                                                         6h   466 1188              73     1041      2768    12,1
+                                     284    36     151    588                                                 SV         FSp   24   78             12        71       185     4,8
+                                                                                                                         NSp   12   48               1       41       102     2,4
+                                                                                                                         6h   125  384              18      331        858    3,8
+                                                                                                              KFZ        FSp 471 1449             101     1838       3859    100
+                                                                                                                         NSp 855 1467             168     1681       4171    100
+                                                                                                                         6h  4023 8485            805      9549     22862    100
+                                                                                                              FZ         FSp  512 1645            134      2131      4422    100
+
+
+
+
+       Breite Str.                                                                              Breite Str.
+                     3.256   1.418                                            242                                        NSp  906 1673            194      1914      4687    100
+                              325                                           1.100 1.449   OST                            6h  4263 9496             945    10790     25494    100
+
+WEST                 1.838   1.471                                            107                             Bemerkungen :
+                               42                                           1.668 3.117                       Charlottenstraße zwischen Dortusstraße und Schopenhauerstr.
+                                                                                                              für PKW gesperrt
+                                                                                                              Wetter: früh: 14°C sonnig nachmittag: 25°C sonnig
+
+
+
+
+                                                                                                                   Sph-Beginn:      7.30 Uhr und 16.30 Uhr        08:00
+                                                                                                              SUMME Zufahrten: [FSp] :    3859 KFZ/h              8:00
+                                     185    34     21     46                                                                      (NSp) : 4171 KFZ/h              17:00
+                                                                                                                                    6h : 22862 KFZ
+                                     286                                                                      max. Sph /Zufahrt: NORD :    885 KFZ/h              17:30
+                                                  101                                                                              OST : 1549 KFZ/h               15:30
+                                                  SÜD                                                          DATUM :             SÜD :   210 KFZ/h              15:30
+                                            Dortustr.                            3.859 KFZ/h                  29.04.2010             WEST :      1855 KFZ/h 7:30
+                                                           Kfz-Stromverteilung in der FSp                      103                  Breite Str./ Dortustr.
+
+
+
+        SVP, 461                                                                                                                             StromPlanFSP103kp4-10.xls
+                                                                                                                                                             23.07.2010
+
+
+
+
+                                                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                                                NORD OST SÜD WEST SUMME %
+                                           NORD                                                              RAD        FSp   41  196              33      293        563   12,7
+                                                                                                                        NSp   51  206              26      233        516   11,0
+                                       Dortustr.                                                                        6h   240 1011             140     1241       2632   10,3
+                                           855           1.274                                               NFZ        FSp   95  233             27       209       564    14,6
+                                                                                                                        NSp   62  180               6      147       395     9,5
+                                                                                                                        6h   466 1188              73     1041      2768    12,1
+                                     592    29     234    419                                                SV         FSp   24   78             12        71       185     4,8
+                                                                                                                        NSp   12   48               1       41       102     2,4
+                                                                                                                        6h   125  384              18      331        858    3,8
+                                                                                                             KFZ        FSp 471 1449             101     1838       3859    100
+                                                                                                                        NSp 855 1467             168     1681       4171    100
+                                                                                                                        6h  4023 8485            805      9549     22862    100
+                                                                                                             FZ         FSp  512 1645            134      2131      4422    100
+
+
+
+
+       Breite Str.                                                                             Breite Str.
+                     3.546   1.865                                           201                                        NSp  906 1673            194      1914      4687    100
+                              195                                          1.221 1.467   OST                            6h  4263 9496             945    10790     25494    100
+
+WEST                 1.681   1.456                                            45                             Bemerkungen :
+                               30                                          1.783 3.250                       Charlottenstraße zwischen Dortusstraße und Schopenhauerstr.
+                                                                                                             für PKW gesperrt
+                                                                                                             Wetter: früh: 14°C sonnig nachmittag: 25°C sonnig
+
+
+
+
+                                                                                                                  Sph-Beginn:      7.30 Uhr und 16.30 Uhr        08:00
+                                                                                                             SUMME Zufahrten: [FSp] :    3859 KFZ/h              8:00
+                                     104    52     23     93                                                                     (NSp) : 4171 KFZ/h              17:00
+                                                                                                                                   6h : 22862 KFZ
+                                     272                                                                     max. Sph /Zufahrt: NORD :    885 KFZ/h              17:30
+                                                  168                                                                             OST : 1549 KFZ/h               15:30
+                                                  SÜD                                                         DATUM :             SÜD :   210 KFZ/h              15:30
+                                            Dortustr.                            4.171 KFZ/h                 29.04.2010             WEST :      1855 KFZ/h 7:30
+                                                           Kfz-Stromverteilung in der NSp                     103                  Breite Str./ Dortustr.
+
+
+
+        SVP, 461                                                                                                                            StromPlanNSP103kp4-10.xls
+

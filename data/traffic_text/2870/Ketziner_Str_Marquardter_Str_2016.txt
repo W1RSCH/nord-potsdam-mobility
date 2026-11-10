@@ -1,0 +1,131 @@
+   SVP, 461                                                                                                                                             13.02.2017
+
+
+                                             (7:00 bis 10:00 u. 15:00 bis 18:00)                               FAHRZEUG-VERTEILUNG
+                                                                                                      Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                                 RAD         FSp          10            7       3                  20     3,5
+                                                                                                             NSp          16            6       7                  29     3,8
+                                                                                                             6h           57           23      33                 113     3,3
+
+Ketziner Str.                                                          Ketziner Str. NFZ                     FSp         37        43         25                 105     18,8
+                                                                                                             NSp         84        11         21                 116     15,9
+                                                                                                             6h         296       130        121                 547     16,7
+                     WEST                                        OST                             SV          FSp         16        22          8                  46      8,2
+                                                                                                             NSp         15         0          7                  22      3,0
+                                                                                                             6h         120        56         53                 229      7,0
+                                                                                                 KFZ         FSp        219       186        153                 558      100
+
+1.562      741                                                                644                            NSp        355       188        185                 728      100
+                                                                                         1.561
+                                                                              917                            6h       1561         903       821               3285       100
+
+           724                                                                                   FZ          FSp        229        193       156                 578      100
+ 821
+            97                                                                1.530      3.091          NSp            371        194        192                 757      100
+                                                                                                        6h            1618        926        854                3398      100
+                                                                                                 Q DTVw: 2,2          6800       4217       3436
+                                                                                                 Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                                 NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                 Bemerkungen :
+
+                               1.014    97      806                                              - Wetter früh 13°C bewölkt, trocken; nachmittag 17°C bewölkt, trocken
+                                                                                                      Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+                              1.917                                                              SUMME Zufahrten: [FSp]:                     558 KFZ/h 7:30
+                                             903                                                                  (NSp):                     728 KFZ/h 16:00
+                            Marquardter Str.                                                                                    6h :        3285 KFZ
+                                                                                                 max. Sph /Zufahrt:             OST          355 KFZ/h 16:00
+                                       SÜD                                                                                      SÜD          188 KFZ/h 16:00
+                                                                                                   DATUM :                     WEST          185 KFZ/h 16:00
+                                                                                      6h Werte 25.06.2016
+                                        von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 287                         Ketziner Str./Marquardter Str. - OT Fahrland -
+
+
+   StromPlan287kp5-16.xls                                           Seite 1
+   SVP, 461                                                                                                                                           13.02.2017
+
+
+                                                 (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                    Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                               RAD         FSp          10            7       3                  20     3,5
+                                                                                                           NSp          16            6       7                  29     3,8
+                                                                                                           6h           57           23      33                 113     3,3
+
+Ketziner Str.                                                              Ketziner Str. NFZ               FSp         37        43         25                 105     18,8
+                                                                                                           NSp         84        11         21                 116     15,9
+                                                                                                           6h         296       130        121                 547     16,7
+                     WEST                                            OST                       SV          FSp         16        22          8                  46      8,2
+                                                                                                           NSp         15         0          7                  22      3,0
+                                                                                                           6h         120        56         53                 229      7,0
+                                                                                               KFZ         FSp        219       186        153                 558      100
+
+ 271       118                                                                     98                      NSp        355       188        185                 728      100
+                                                                                         219
+                                                                                  121                      6h       1561         903       821               3285       100
+
+           139                                                                                 FZ          FSp        229        193       156                 578      100
+ 153
+            14                                                                    305    524          NSp            371        194        192                 757      100
+                                                                                                      6h            1618        926        854                3398      100
+                                                                                               Q DTVw: 2,2          6800       4217       3436
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Bemerkungen :
+                                     135    20      166                                        - Wetter früh 13°C bewölkt, trocken; nachmittag 17°C bewölkt, trocken
+                                                                                                    Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+                                     321                                                       SUMME Zufahrten: [FSp]:                     558 KFZ/h 7:30
+                                                 186                                                            (NSp):                     728 KFZ/h 16:00
+                                  Marquardter Str.                                                                            6h :        3285 KFZ
+                                                                                               max. Sph /Zufahrt:             OST          355 KFZ/h 16:00
+                                           SÜD                                                                                SÜD          188 KFZ/h 16:00
+                                                                                                 DATUM :                     WEST          185 KFZ/h 16:00
+                                                                                    558 KFZ/h 25.06.2016
+                                                          Kfz-Stromverteilung in der FSp 287                Ketziner Str./Marquardter Str. - OT Fahrland -
+
+
+   StromPlan (FSp)287kp5-16.xls                                         Seite 2
+   SVP, 461                                                                                                                                           13.02.2017
+
+
+                                                 (7:00 bis 10:00 u. 15:00 bis 18:00)                         FAHRZEUG-VERTEILUNG
+                                                                                                    Zufahrt:  OST SÜD WEST     SUMME %
+                                                                                               RAD         FSp          10            7       3                  20     3,5
+                                                                                                           NSp          16            6       7                  29     3,8
+                                                                                                           6h           57           23      33                 113     3,3
+
+Ketziner Str.                                                              Ketziner Str. NFZ               FSp         37        43         25                 105     18,8
+                                                                                                           NSp         84        11         21                 116     15,9
+                                                                                                           6h         296       130        121                 547     16,7
+                     WEST                                            OST                       SV          FSp         16        22          8                  46      8,2
+                                                                                                           NSp         15         0          7                  22      3,0
+                                                                                                           6h         120        56         53                 229      7,0
+                                                                                               KFZ         FSp        219       186        153                 558      100
+
+ 353       168                                                                    141                      NSp        355       188        185                 728      100
+                                                                                         355
+                                                                                  214                      6h       1561         903       821               3285       100
+
+           157                                                                                 FZ          FSp        229        193       156                 578      100
+ 185
+            28                                                                    318    673          NSp            371        194        192                 757      100
+                                                                                                      6h            1618        926        854                3398      100
+                                                                                               Q DTVw: 2,2          6800       4217       3436
+                                                                                               Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                               NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                               Bemerkungen :
+                                     242    27      161                                        - Wetter früh 13°C bewölkt, trocken; nachmittag 17°C bewölkt, trocken
+                                                                                                    Sph-Beginn:       7.00 Uhr und        15.30 Uhr
+                                     430                                                       SUMME Zufahrten: [FSp]:                     558 KFZ/h 7:30
+                                                 188                                                            (NSp):                     728 KFZ/h 16:00
+                                  Marquardter Str.                                                                            6h :        3285 KFZ
+                                                                                               max. Sph /Zufahrt:             OST          355 KFZ/h 16:00
+                                           SÜD                                                                                SÜD          188 KFZ/h 16:00
+                                                                                                 DATUM :                     WEST          185 KFZ/h 16:00
+                                                                                    728 KFZ/h 25.06.2016
+                                                          Kfz-Stromverteilung in der NSp 287                Ketziner Str./Marquardter Str. - OT Fahrland -
+
+
+   StromPlan (NSp)287kp5-16.xls                                         Seite 3
+

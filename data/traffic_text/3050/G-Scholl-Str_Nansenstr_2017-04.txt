@@ -1,0 +1,182 @@
+SVP, 461                                                                                                                                                                                          04.08.2017
+
+
+
+
+                                                                                                                                               FAHRZEUG-VERTEILUNG
+                                                                                                                                      Zufahrt: NORD OST SÜD WEST SUMME %
+                                                           NORD                                                             RAD     FSp                 31           75     11     112        229          27,5
+                                                                                                                                    NSp                 14         113      20       70       217          22,3
+                                                Nansenstr.                                                                          6h                 119          515      99     524      1257          25,3
+                                                         375                                                                NFZ     FSp                  3          49        4     15         71          11,7
+                                                                           667                                                      NSp                  4          79        3     11         97          12,8
+                                                                                                                                    6h                  21         298      17       61       397          10,7
+                                                 96            279         292                                              SV      FSp                  0          13        0       3        16           2,6
+                                                                                                                                    NSp                  0          13        0       0        13           1,7
+                                                                                                                                    6h                   0           78       1       9        88           2,4
+                                                                                                                            KFZ FSp                     68         365      29     143        605          100
+                                                                                                                                    NSp                 84         497      50     126        757          100
+                                                                                                                                    6h                 375        2343     247     743       3708
+
+
+
+
+                                                                                                           G.-Scholl-Str.
+                                                                                                                                                                                                           100
+
+
+
+
+           G.-Scholl-Str.
+                                                                                                                            FZ      FSp                 99         440      40     255        834          100
+                            2.690   1.947                                                102                                        NSp                 98         610      70     196        974          100
+                                     93                                                1.701 2.343   OST                            6h                 494        2858     346    1267       4965          100
+
+  WEST
+                            743     nur Räder                                            540                                Q DTVw:    2,35           1567        5506    4033    6322
+                                      650                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                            Bemerkungen :
+                                                                                                                            - Wetter früh 3ºC sonnig, trocken; nachm. 15ºC leicht bewölkt, sonst sonnig
+
+
+
+                                                                                                                                     Sph-Beginn:        7.30 Uhr und      16.00 Uhr
+
+                                                 1.469         150         97                                               SUMME Zufahrten:                   [FSp]: 605 KFZ/h 8:00
+                                                                                                                                                              (NSp): 757 KFZ/h 16:30
+                                                1.716                                                                                                            6h : 3708 KFZ
+                                                                     247                                                    max. Sph /Zufahrt:                NORD      84 KFZ/h 16:30
+                                                               SÜD                                                                                              OST    497 KFZ/h 16:30
+                                                Nansenstr.                                                                      DATUM :                            SÜD      52 KFZ/h 17:00
+                                                                                                     6h Werte                  27.04.2017                         WEST     167 KFZ/h 7:30
+                                                                     von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 305                                     G.-Scholl-Str. / Nansenstr.
+
+
+
+
+StromPlan305kp4-17.xls                                                                Seite 1
+SVP, 461                                                                                                                                                                                        04.08.2017
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                                      NORD                                                                RAD     FSp                 31           75     11     112        229          27,5
+                                                                                                                                  NSp                 14         113      20       70       217          22,3
+                                              Nansenstr.                                                                          6h                 119          515      99     524      1257          25,3
+                                                     68                                                                   NFZ     FSp                  3          49        4     15         71          11,7
+                                                                     108                                                          NSp                  4          79        3     11         97          12,8
+                                                                                                                                  6h                  21         298      17       61       397          10,7
+                                               12         56         40                                                   SV      FSp                  0          13        0       3        16           2,6
+                                                                                                                                  NSp                  0          13        0       0        13           1,7
+                                                                                                                                  6h                   0           78       1       9        88           2,4
+                                                                                                                          KFZ FSp                     68         365      29     143        605          100
+                                                                                                                                  NSp                 84         497      50     126        757          100
+                                                                                                                                  6h                 375        2343     247     743       3708
+
+
+
+
+                                                                                                         G.-Scholl-Str.
+                                                                                                                                                                                                         100
+
+
+
+
+           G.-Scholl-Str.
+                                                                                                                          FZ      FSp                 99         440      40     255        834          100
+                            436     293                                                 10                                        NSp                 98         610      70     196        974          100
+                                    19                                                 263   365   OST                            6h                 494        2858     346    1267       4965          100
+
+  WEST
+                            143   nur Räder                                             92                                Q DTVw:    2,35           1567        5506    4033    6322
+                                    124                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                          Bemerkungen :
+                                                                                                                          - Wetter früh 3ºC sonnig, trocken; nachm. 15ºC leicht bewölkt, sonst sonnig
+
+
+
+                                                                                                                                   Sph-Beginn:        7.30 Uhr und      16.00 Uhr
+                                               272        18         11                                                   SUMME Zufahrten:                   [FSp]: 605 KFZ/h 8:00
+                                                                                                                                                            (NSp): 757 KFZ/h 16:30
+                                              301                                                                                                              6h : 3708 KFZ
+                                                                29                                                        max. Sph /Zufahrt:                NORD      84 KFZ/h 16:30
+                                                          SÜD                                                                                                 OST    497 KFZ/h 16:30
+                                              Nansenstr.                                                                      DATUM :                            SÜD      52 KFZ/h 17:00
+                                                                                                   605 KFZ/h                 27.04.2017                         WEST     167 KFZ/h 7:30
+                                                                           Kfz-Stromverteilung in der FSp 305                                        G.-Scholl-Str. / Nansenstr.
+
+
+
+
+StromPlan (FSp)305kp4-17.xls                                                       Seite 2
+SVP, 461                                                                                                                                                                                        04.08.2017
+
+
+
+
+                                                                                                                                             FAHRZEUG-VERTEILUNG
+                                                                                                                                    Zufahrt: NORD OST SÜD WEST SUMME %
+                                                      NORD                                                                RAD     FSp                 31           75     11     112        229          27,5
+                                                                                                                                  NSp                 14         113      20       70       217          22,3
+                                              Nansenstr.                                                                          6h                 119          515      99     524      1257          25,3
+                                                     84                                                                   NFZ     FSp                  3          49        4     15         71          11,7
+                                                                     160                                                          NSp                  4          79        3     11         97          12,8
+                                                                                                                                  6h                  21         298      17       61       397          10,7
+                                               22         62         76                                                   SV      FSp                  0          13        0       3        16           2,6
+                                                                                                                                  NSp                  0          13        0       0        13           1,7
+                                                                                                                                  6h                   0           78       1       9        88           2,4
+                                                                                                                          KFZ FSp                     68         365      29     143        605          100
+                                                                                                                                  NSp                 84         497      50     126        757          100
+                                                                                                                                  6h                 375        2343     247     743       3708
+
+
+
+
+                                                                                                         G.-Scholl-Str.
+                                                                                                                                                                                                         100
+
+
+
+
+           G.-Scholl-Str.
+                                                                                                                          FZ      FSp                 99         440      40     255        834          100
+                            541     415                                                 33                                        NSp                 98         610      70     196        974          100
+                                    19                                                 367   497   OST                            6h                 494        2858     346    1267       4965          100
+
+  WEST
+                            126   nur Räder                                             97                                Q DTVw:    2,35           1567        5506    4033    6322
+                                    107                                                                                   Q DTVw=Querschnitt 24h KFZ werktags
+
+
+                                                                                                                          NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                                                          Bemerkungen :
+                                                                                                                          - Wetter früh 3ºC sonnig, trocken; nachm. 15ºC leicht bewölkt, sonst sonnig
+
+
+
+                                                                                                                                   Sph-Beginn:        7.30 Uhr und      16.00 Uhr
+                                               266        26         24                                                   SUMME Zufahrten:                   [FSp]: 605 KFZ/h 8:00
+                                                                                                                                                            (NSp): 757 KFZ/h 16:30
+                                              316                                                                                                              6h : 3708 KFZ
+                                                                50                                                        max. Sph /Zufahrt:                NORD      84 KFZ/h 16:30
+                                                          SÜD                                                                                                 OST    497 KFZ/h 16:30
+                                              Nansenstr.                                                                      DATUM :                            SÜD      52 KFZ/h 17:00
+                                                                                                   757 KFZ/h                 27.04.2017                         WEST     167 KFZ/h 7:30
+                                                                           Kfz-Stromverteilung in der NSp 305                                        G.-Scholl-Str. / Nansenstr.
+
+
+
+
+StromPlan (NSp)305kp4-17.xls                                                       Seite 3
+

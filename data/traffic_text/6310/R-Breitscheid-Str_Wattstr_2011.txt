@@ -1,0 +1,152 @@
+                                                                                                                                06.10.2014
+
+
+
+
+                                                                                                FAHRZEUG-VERTEILUNG
+                                                                                                 OST  SÜD WEST    SUMME %
+                                                                             RAD        FSp      123         112       106               341 44,9
+                                                                                        NSp        64         88       162               314 39,4
+                                                                                        6h        470        556       676              1702 40,1
+                                                                             NFZ        FSp       12                     9                21  5,0
+
+                           R.-Breitscheid-Str.                                          NSp
+                                                                                        6h
+                                                                                                  17
+                                                                                                   83
+                                                                                                                         4
+                                                                                                                        34
+                                                                                                                                          21  4,4
+                                                                                                                                         117 4,6
+                                                                             SV         FSp         5                    3                 8  1,9
+                                                                                        NSp         7                    1                 8  1,7
+                                                                                        6h         34                   12                46 1,8
+                                                                             KFZ        FSp      307                  112                419 100
+                                                                                        NSp      338                  144                482 100
+                                                                                        6h      1719                   824              2543 100
+           2.036   1.212                                                     FZ         FSp      430         112       218               760 100
+                                                         1.212 1.719   OST              NSp      402          88       306               796 100
+WEST
+                   824                                     507                          6h      2189         556      1500              4245 100
+                                                             0 1.719         Bemerkungen :
+                                                                             - Baustelle in der R.-Breitscheid-Str. zwischen
+                                                                              Alt Nowawes und K.-Liebknecht-Str.
+                                                                             - Wetter früh 15ºC bewölkt, trocken; nachmittags 19ºC bewölkt, trocken
+
+
+
+                                                                                  Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+
+                                1.331   68          42                       SUMME Zufahrten: [FSp] :                 419 KFZ/h 8:00
+                                                                                                (NSp):                482 KFZ/h 16:30
+                               1.441                                                               6h :              2543 KFZ
+                                              110                            max. Sph /Zufahrt:  OST :                338 KFZ/h 16:30
+                                        SÜD                                                      SÜD :                    KFZ/h
+                                  Wattstraße                                   DATUM :                  WEST :         187 KFZ/h 17:30
+                                                                             22.09.2011
+                                                                              631            R.-Breitscheid-Str. / Wattstr.
+
+
+
+       SVP, 461                                                                                                      StromPlan631kp9-11.xls
+                                                                                                                                     06.10.2014
+
+
+
+
+                                                                                                     FAHRZEUG-VERTEILUNG
+                                                                                                      OST  SÜD WEST    SUMME %
+                                                                                  RAD        FSp      123         112       106               341 44,9
+                                                                                             NSp        64         88       162               314 39,4
+                                                                                             6h        470        556       676              1702 40,1
+                                                                                  NFZ        FSp       12                     9                21  5,0
+
+                        R.-Breitscheid-Str.                                                  NSp
+                                                                                             6h
+                                                                                                       17
+                                                                                                        83
+                                                                                                                              4
+                                                                                                                             34
+                                                                                                                                               21  4,4
+                                                                                                                                              117 4,6
+                                                                                  SV         FSp         5                    3                 8  1,9
+                                                                                             NSp         7                    1                 8  1,7
+                                                                                             6h         34                   12                46 1,8
+                                                                                  KFZ        FSp      307                  112                419 100
+                                                                                             NSp      338                  144                482 100
+                                                                                             6h      1719                   824              2543 100
+            327   215                                                             FZ         FSp      430         112       218               760 100
+                                                                215   307   OST              NSp      402          88       306               796 100
+WEST
+                  112                                            92                          6h      2189         556      1500              4245 100
+                                                                  0   307         Bemerkungen :
+                                                                                  - Baustelle in der R.-Breitscheid-Str. zwischen
+                                                                                   Alt Nowawes und K.-Liebknecht-Str.
+                                                                                  - Wetter früh 15ºC bewölkt, trocken; nachmittags 19ºC bewölkt, trocken
+
+
+
+                                                                                       Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+                            204   68          42                                  SUMME Zufahrten: [FSp] :                 419 KFZ/h 8:00
+                                                                                                     (NSp):                482 KFZ/h 16:30
+                            314                                                                         6h :              2543 KFZ
+                                        110                                       max. Sph /Zufahrt:  OST :                338 KFZ/h 16:30
+                                  SÜD                                                                 SÜD :                    KFZ/h
+                             Wattstraße                                             DATUM :                  WEST :         187 KFZ/h 17:30
+                                                                      419 KFZ/h 22.09.2011
+                                                   Kfz-Stromverteilung in der FSp 631             R.-Breitscheid-Str. / Wattstr.
+
+
+
+       SVP, 461                                                                                                      StromPlan FSp631kp9-11.xls
+                                                                                                                                       06.10.2014
+
+
+
+
+                                                                                                       FAHRZEUG-VERTEILUNG
+                                                                                                        OST  SÜD WEST    SUMME %
+                                                                                    RAD        FSp      123         112       106               341 44,9
+                                                                                               NSp        64         88       162               314 39,4
+                                                                                               6h        470        556       676              1702 40,1
+                                                                                    NFZ        FSp       12                     9                21  5,0
+
+                        R.-Breitscheid-Str.                                                    NSp
+                                                                                               6h
+                                                                                                         17
+                                                                                                          83
+                                                                                                                                4
+                                                                                                                               34
+                                                                                                                                                 21  4,4
+                                                                                                                                                117 4,6
+                                                                                    SV         FSp         5                    3                 8  1,9
+                                                                                               NSp         7                    1                 8  1,7
+                                                                                               6h         34                   12                46 1,8
+                                                                                    KFZ        FSp      307                  112                419 100
+                                                                                               NSp      338                  144                482 100
+                                                                                               6h      1719                   824              2543 100
+            368   224                                                               FZ         FSp      430         112       218               760 100
+                                                                 224   338   OST               NSp      402          88       306               796 100
+WEST
+                  144                                            114                           6h      2189         556      1500              4245 100
+                                                                   0   338          Bemerkungen :
+                                                                                    - Baustelle in der R.-Breitscheid-Str. zwischen
+                                                                                     Alt Nowawes und K.-Liebknecht-Str.
+                                                                                    - Wetter früh 15ºC bewölkt, trocken; nachmittags 19ºC bewölkt, trocken
+
+
+
+                                                                                         Sph-Beginn:         7.30 Uhr und 16.00 Uhr
+                            258   68          42                                    SUMME Zufahrten: [FSp] :                 419 KFZ/h 8:00
+                                                                                                       (NSp):                482 KFZ/h 16:30
+                            368                                                                           6h :              2543 KFZ
+                                        110                                         max. Sph /Zufahrt:  OST :                338 KFZ/h 16:30
+                                  SÜD                                                                   SÜD :                    KFZ/h
+                             Wattstraße                                               DATUM :                  WEST :         187 KFZ/h 17:30
+                                                                       482 KFZ/h 22.09.2011
+                                                   Kfz-Stromverteilung in der NSp    631            R.-Breitscheid-Str. / Wattstr.
+
+
+
+       SVP, 461                                                                                                        StromPlan NSp631kp9-11.xls
+

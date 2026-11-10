@@ -1,0 +1,181 @@
+SVP, 461                                                                                                                                          11.10.2017
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt: OST SÜD WEST     SUMME %
+                                                                                           RAD    FSp    112                   3    55                      170     11,7
+                                                                                                  NSp     88                   0    77                      165     10,8
+                                                                                                  6h     472                  14   390                      876     11,1
+                                                                                           NFZ    FSp     65                 14    56                      135      10,5
+
+                           H.-Mann-Allee                                                          NSp
+                                                                                                  6h
+                                                                                                          42
+                                                                                                         307
+                                                                                                                             27
+                                                                                                                            118
+                                                                                                                                   74
+                                                                                                                                  309
+                                                                                                                                                           143
+                                                                                                                                                            734
+                                                                                                                                                                    10,5
+                                                                                                                                                                    10,5
+                                                                                           SV     FSp     22                  6    19                        47       3,6
+                                                                                                  NSp      8                  1    16                        25       1,8
+                                                                                                  6h      84                 19     89                      192       2,7
+                                                                                           KFZ FSp 633                      227   429                     1289       100
+                                                                                                  NSp 493                   187   687                     1367       100
+                                                                                                  6h    2916               1163 2922                      7001       100
+           5.871   2.949                                                                   FZ     FSp    745                230   484                     1459       100
+                                                                  2.375           OST             NSp    581                187   764                     1532       100
+
+   WEST
+                                                                          2.916
+                   2.468                                           541                            6h    3388               1177 3312                       7877      100
+           2.922
+                    454                                           3.057   5.973            Q DTVw: 2,4 14037               5071 13797
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                                                                           - Wetter früh 12ºC sonnig, nachmittag 24ºC sonnig
+
+
+
+                             995    574       589                                              Sph-Beginn:       7:30    Uhr und   16:00   Uhr
+                                                                                           SUMME Zufahrten: FSp : 1289 KFZ/h 8:00
+                            2.158                                                                             NSp : 1367 KFZ/h 16:30
+                                          1.163                                                                6h : 7001 KFZ
+                                               SÜD                                         max. Sph /Zufahrt:  OST   633 KFZ/h 8:00
+                           Zum Teufelssee                                                                                   SÜD      247 KFZ/h 7:30
+
+                                                                                              DATUM :                    WEST        687 KFZ/h 16:30
+                                                                                  6h Werte 04.06.2015
+                                               von 7.00 - 10.00 Uhr u. 15.00 - 18.00 Uhr 435                   H.-Mann-Allee/Zum Teufelssee
+
+
+
+StromPlan435kp6-15.xls                                      Seite 1
+SVP, 461                                                                                                                                           11.10.2017
+
+
+
+
+                                                                                                         FAHRZEUG-VERTEILUNG
+                                                                                                 Zufahrt: OST SÜD WEST     SUMME %
+                                                                                            RAD    FSp    112                   3    55                      170     11,7
+                                                                                                   NSp     88                   0    77                      165     10,8
+                                                                                                   6h     472                  14   390                      876     11,1
+                                                                                            NFZ    FSp     65                 14    56                      135      10,5
+
+                               H.-Mann-Allee                                                       NSp
+                                                                                                   6h
+                                                                                                           42
+                                                                                                          307
+                                                                                                                              27
+                                                                                                                             118
+                                                                                                                                    74
+                                                                                                                                   309
+                                                                                                                                                            143
+                                                                                                                                                             734
+                                                                                                                                                                     10,5
+                                                                                                                                                                     10,5
+                                                                                            SV     FSp     22                  6    19                        47       3,6
+                                                                                                   NSp      8                  1    16                        25       1,8
+                                                                                                   6h      84                 19     89                      192       2,7
+                                                                                            KFZ FSp 633                      227   429                     1289       100
+                                                                                                   NSp 493                   187   687                     1367       100
+                                                                                                   6h    2916               1163 2922                      7001       100
+           1.075    646                                                                     FZ     FSp    745                230   484                     1459       100
+                                                                       532           OST           NSp    581                187   764                     1532       100
+
+   WEST
+                                                                             633
+                    360                                                101                         6h    3388               1177 3312                       7877      100
+           429
+                     69                                                473   1.106          Q DTVw: 2,4 14037               5071 13797
+                                                                                            Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                            NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                            Bemerkungen :
+                                                                                            - Wetter früh 12ºC sonnig, nachmittag 24ºC sonnig
+
+
+
+                                 170   114         113                                          Sph-Beginn:       7:30    Uhr und   16:00   Uhr
+                                                                                            SUMME Zufahrten: FSp : 1289 KFZ/h 8:00
+                                 397                                                                           NSp : 1367 KFZ/h 16:30
+                                             227                                                                6h : 7001 KFZ
+                                                   SÜD                                      max. Sph /Zufahrt:  OST   633 KFZ/h 8:00
+                               Zum Teufelssee                                                                                SÜD      247 KFZ/h 7:30
+
+                                                                                               DATUM :                    WEST        687 KFZ/h 16:30
+                                                                                1.289 KFZ/h 04.06.2015
+                                                         Kfz-Stromverteilung in der FSp 435                     H.-Mann-Allee/Zum Teufelssee
+
+
+
+StromPlan (FSp)435kp6-15.xls                                 Seite 2
+SVP, 461                                                                                                                                          11.10.2017
+
+
+
+
+                                                                                                        FAHRZEUG-VERTEILUNG
+                                                                                                Zufahrt: OST SÜD WEST     SUMME %
+                                                                                           RAD    FSp    112                   3    55                      170     11,7
+                                                                                                  NSp     88                   0    77                      165     10,8
+                                                                                                  6h     472                  14   390                      876     11,1
+                                                                                           NFZ    FSp     65                 14    56                      135      10,5
+
+                               H.-Mann-Allee                                                      NSp
+                                                                                                  6h
+                                                                                                          42
+                                                                                                         307
+                                                                                                                             27
+                                                                                                                            118
+                                                                                                                                   74
+                                                                                                                                  309
+                                                                                                                                                           143
+                                                                                                                                                            734
+                                                                                                                                                                    10,5
+                                                                                                                                                                    10,5
+                                                                                           SV     FSp     22                  6    19                        47       3,6
+                                                                                                  NSp      8                  1    16                        25       1,8
+                                                                                                  6h      84                 19     89                      192       2,7
+                                                                                           KFZ FSp 633                      227   429                     1289       100
+                                                                                                  NSp 493                   187   687                     1367       100
+                                                                                                  6h    2916               1163 2922                      7001       100
+           1.177   490                                                                     FZ     FSp    745                230   484                     1459       100
+                                                                      404           OST           NSp    581                187   764                     1532       100
+
+   WEST
+                                                                            493
+                   598                                                89                          6h    3388               1177 3312                       7877      100
+           687
+                    89                                                699   1.192          Q DTVw: 2,4 14037               5071 13797
+                                                                                           Q DTVw=Querschnitt 24h KFZ werktags
+                                                                                           NFZ=Nutzfz.=Bus+Lfw+LKW+LZ (Lastzüge); SV=Schwerverkehr.=Bus+LKW+LZ; FZ=alle
+
+                                                                                           Bemerkungen :
+                                                                                           - Wetter früh 12ºC sonnig, nachmittag 24ºC sonnig
+
+
+
+                                 178   86         101                                          Sph-Beginn:       7:30    Uhr und   16:00   Uhr
+                                                                                           SUMME Zufahrten: FSp : 1289 KFZ/h 8:00
+                                 365                                                                          NSp : 1367 KFZ/h 16:30
+                                            187                                                                6h : 7001 KFZ
+                                                  SÜD                                      max. Sph /Zufahrt:  OST   633 KFZ/h 8:00
+                               Zum Teufelssee                                                                               SÜD      247 KFZ/h 7:30
+
+                                                                                              DATUM :                    WEST        687 KFZ/h 16:30
+                                                                               1.367 KFZ/h 04.06.2015
+                                                        Kfz-Stromverteilung in der NSp 435                     H.-Mann-Allee/Zum Teufelssee
+
+
+
+StromPlan (NSp)435kp6-15.xls                                Seite 3
+
